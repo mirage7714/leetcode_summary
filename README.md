@@ -13,3 +13,6 @@
   * -[x] <a href="Easy/1046/Last_Stone_Weight.ipynb">1046. Last Stone Weight </a> 完成日期: 2020/10/08
   * -[x] <a href="Easy/941/Valid_Mountain_Array.ipynb">941. Valid Mountain Array </a> 完成日期: 2020/10/08
   * -[x] <a href="Easy/977/Squares_of_a_Sorted_Array.ipynb">977. Squares of a Sorted Array </a> 完成日期: 2020/10/08
+  * -[x] <a href="Easy/217/Contains_Duplicate.ipynb">217. Contains Duplicate </a> 完成日期: 2020/10/08
+  * -[x] <a href="Easy/258/Add_Digits.ipynb">258. Add Digits </a> 完成日期: 2020/10/08
+  * -[x] <a href="Easy/290/Word_Pattern.ipynb">290. Word Pattern </a> 完成日期: 2020/10/08
