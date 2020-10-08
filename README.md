@@ -9,3 +9,7 @@
   * -[x] <a href="Easy/1299/Replace_Elements_with_Greatest_Element_on_Right_Side.ipynb">1299. Replace Elements with Greatest Element on Right Side </a> 完成日期: 2020/10/06
   * -[x] <a href="Easy/1232/Check_If_It_Is_a_Straight_Line.ipynb">1232. Check If It Is a Straight Line </a> 完成日期: 2020/10/07
   * -[x] <a href="Easy/852/Peak_Index_in_a_Mountain_Array.ipynb">852. Peak Index in a Mountain Array </a> 完成日期: 2020/10/08 (2018/7/12 第一次做)
+  * -[x] <a href="Easy/876/Middle_of_the_Linked_List.ipynb">876. Middle of the Linked List </a> 完成日期: 2020/10/08
+  * -[x] <a href="Easy/1046/Last_Stone_Weight.ipynb">1046. Last Stone Weight </a> 完成日期: 2020/10/08
+  * -[x] <a href="Easy/941/Valid_Mountain_Array.ipynb">941. Valid Mountain Array </a> 完成日期: 2020/10/08
+  * -[x] <a href="Easy/977/Squares_of_a_Sorted_Array.ipynb">977. Squares of a Sorted Array </a> 完成日期: 2020/10/08
