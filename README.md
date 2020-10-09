@@ -6,9 +6,11 @@
   * -[x] <a href="Easy/1/Two_Sum.ipynb">1. Two Sum </a> 完成日期: 2020/10/09
   * -[x] <a href="Easy/171/Excel_Sheet_Column_Number.ipynb">171. Excel Sheet Column Number </a> 完成日期: 2020/10/07
   * -[x] <a href="Easy/217/Contains_Duplicate.ipynb">217. Contains Duplicate </a> 完成日期: 2020/10/08
+  * -[x] <a href="Easy/231/Power_of_Two.ipynb">231. Power of Two </a> 完成日期: 2020/10/09
   * -[x] <a href="Easy/258/Add_Digits.ipynb">258. Add Digits </a> 完成日期: 2020/10/08
   * -[x] <a href="Easy/290/Word_Pattern.ipynb">290. Word Pattern </a> 完成日期: 2020/10/08
   * -[x] <a href="Easy/326/Power_of_Three.ipynb">326. Power of Three / 342. Power of Four </a> 完成日期: 2020/10/01
+  * -[x] <a href="Easy/345/Reverse_Vowels_of_a_String.ipynb">345. Reverse Vowels of a String </a> 完成日期: 2020/10/09
   * -[x] <a href="Easy/852/Peak_Index_in_a_Mountain_Array.ipynb">852. Peak Index in a Mountain Array </a> 完成日期: 2020/10/08 (2018/7/12 第一次做)
   * -[x] <a href="Easy/876/Middle_of_the_Linked_List.ipynb">876. Middle of the Linked List </a> 完成日期: 2020/10/08
   * -[x] <a href="Easy/917/Reverse_Only_Letters.ipynb">917. Reverse Only Letters </a> 完成日期: 2020/10/04
