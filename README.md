@@ -1,6 +1,7 @@
 # leetcode_summary
-趁著這次要開始準備面試，整理了一下這些時間內寫過的leetcode與一些解題中的想法。雖然想要Java與Python都刷，不過還是先以Python的解法為主。
+趁著這次要開始準備面試，整理了一下這些時間內寫過的leetcode與一些解題中的想法。雖然想要Java與Python都刷，不過還是先以Python的解法為主。  
 
+演算法:  
 * Easy
   * -[x] <a href="Easy/171/Excel_Sheet_Column_Number.ipynb">171. Excel Sheet Column Number </a> 完成日期: 2020/10/07
   * -[x] <a href="Easy/917/Reverse_Only_Letters.ipynb">917. Reverse Only Letters </a> 完成日期: 2020/10/04
@@ -16,3 +17,4 @@
   * -[x] <a href="Easy/217/Contains_Duplicate.ipynb">217. Contains Duplicate </a> 完成日期: 2020/10/08
   * -[x] <a href="Easy/258/Add_Digits.ipynb">258. Add Digits </a> 完成日期: 2020/10/08
   * -[x] <a href="Easy/290/Word_Pattern.ipynb">290. Word Pattern </a> 完成日期: 2020/10/08
+  * -[x] <a href="Easy/326/Power_of_Three.ipynb">326. Power of Three / 342. Power of Four </a> 完成日期: 2020/10/01
