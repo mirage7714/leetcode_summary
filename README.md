@@ -10,12 +10,15 @@
   * -[x] <a href="Easy/217/Contains_Duplicate.ipynb">217. Contains Duplicate </a> 完成日期: 2020/10/08
   * -[x] <a href="Easy/219/Contains_Duplicate_II.ipynb">219. Contains Duplicate II </a> 完成日期: 2020/10/10
   * -[x] <a href="Easy/231/Power_of_Two.ipynb">231. Power of Two </a> 完成日期: 2020/10/09
+  * -[x] <a href="Easy/242/Valid_Anagram.ipynb">242. Valid Anagram </a> 完成日期: 2020/10/10
   * -[x] <a href="Easy/258/Add_Digits.ipynb">258. Add Digits </a> 完成日期: 2020/10/08
   * -[x] <a href="Easy/290/Word_Pattern.ipynb">290. Word Pattern </a> 完成日期: 2020/10/08
   * -[x] <a href="Easy/326/Power_of_Three.ipynb">326. Power of Three / 342. Power of Four </a> 完成日期: 2020/10/01
   * -[x] <a href="Easy/345/Reverse_Vowels_of_a_String.ipynb">345. Reverse Vowels of a String </a> 完成日期: 2020/10/09
   * -[x] <a href="Easy/349/Intersection_of_Two_Arrays.ipynb">349. Intersection of Two Arrays / 350. Intersection of Two Arrays II </a> 完成日期: 2020/10/10
   * -[x] <a href="Easy/367/Valid_Perfect_Square.ipynb">367. Valid Perfect Square </a> 完成日期: 2020/10/10
+  * -[x] <a href="Easy/383/Ransom_Note.ipynb">383. Ransom Note </a> 完成日期: 2020/10/10
+  * -[x] <a href="Easy/409/Longest_Palindrome.ipynb">409. Longest Palindrome </a> 完成日期: 2020/10/10
   * -[x] <a href="Easy/852/Peak_Index_in_a_Mountain_Array.ipynb">852. Peak Index in a Mountain Array </a> 完成日期: 2020/10/08 (2018/7/12 第一次做)
   * -[x] <a href="Easy/876/Middle_of_the_Linked_List.ipynb">876. Middle of the Linked List </a> 完成日期: 2020/10/08
   * -[x] <a href="Easy/917/Reverse_Only_Letters.ipynb">917. Reverse Only Letters </a> 完成日期: 2020/10/04
