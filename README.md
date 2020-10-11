@@ -19,6 +19,10 @@
   * -[x] (完成日期: 2020/10/10) <a href="Easy/367/Valid_Perfect_Square.ipynb">367. Valid Perfect Square </a> 
   * -[x] (完成日期: 2020/10/10) <a href="Easy/383/Ransom_Note.ipynb">383. Ransom Note </a> 
   * -[x] (完成日期: 2020/10/10) <a href="Easy/409/Longest_Palindrome.ipynb">409. Longest Palindrome </a> 
+  * -[x] (完成日期: 2020/10/11) <a href="Easy/441/Arranging_Coins.ipynb">441. Arranging Coins </a> 
+  * -[x] (完成日期: 2020/10/11) <a href="Easy/485/Max_Consecutive_Ones.ipynb">485. Max Consecutive Ones </a> 
+  * -[x] (完成日期: 2020/10/11) <a href="Easy/819/Most_Common_Word.ipynb">819. Most Common Word </a> 
+  * -[x] (完成日期: 2020/10/11) <a href="Easy/844/Backspace_String_Compare.ipynb">844. Backspace String Compare </a> 
   * -[x] (完成日期: 2020/10/08) <a href="Easy/852/Peak_Index_in_a_Mountain_Array.ipynb">852. Peak Index in a Mountain Array </a> 
   * -[x] (完成日期: 2020/10/08) <a href="Easy/876/Middle_of_the_Linked_List.ipynb">876. Middle of the Linked List </a> 
   * -[x] (完成日期: 2020/10/04) <a href="Easy/917/Reverse_Only_Letters.ipynb">917. Reverse Only Letters </a> 
