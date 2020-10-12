@@ -33,6 +33,7 @@
   * -[x] (完成日期: 2020/10/06) <a href="Easy/1299/Replace_Elements_with_Greatest_Element_on_Right_Side.ipynb">1299. Replace Elements with Greatest Element on Right Side </a> 
   * -[x] (完成日期: 2020/10/07) <a href="Easy/1323/Maximum_69_Number.ipynb">1323. Maximum 69 Number </a> 
   * -[x] (完成日期: 2020/10/06) <a href="Easy/1389/Create_Target_Array_in_the_Given_Order.ipynb">1389. Create Target Array in the Given Order </a> 
+  * -[x] (完成日期: 2020/10/12) <a href="Easy/1588/Sumof_All_Odd_Length_Subarrays.ipynb">1588. Sum of All Odd Length Subarrays </a> 
 
 
 
