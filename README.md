@@ -29,12 +29,15 @@
   * -[x] (完成日期: 2020/10/08) <a href="Easy/941/Valid_Mountain_Array.ipynb">941. Valid Mountain Array </a> 
   * -[x] (完成日期: 2020/10/08) <a href="Easy/977/Squares_of_a_Sorted_Array.ipynb">977. Squares of a Sorted Array </a> 
   * -[x] (完成日期: 2020/10/08) <a href="Easy/1046/Last_Stone_Weight.ipynb">1046. Last Stone Weight </a> 
+  * -[x] (完成日期: 2020/10/13) <a href="Easy/1047/Remove_All_Adjacent_Duplicates_In_String.ipynb">1047. Remove All Adjacent Duplicates In String </a> 
+  * -[x] (完成日期: 2020/10/13) <a href="Easy/1108/Defanging_an_IP_Address.ipynb">1108. Defanging an IP Address </a> 
   * -[x] (完成日期: 2020/10/07) <a href="Easy/1232/Check_If_It_Is_a_Straight_Line.ipynb">1232. Check If It Is a Straight Line </a> 
   * -[x] (完成日期: 2020/10/12) <a href="Easy/1287/Element_Appearing_More_Than_25%_In_Sorted_Array.ipynb">1287. Element Appearing More Than 25% In Sorted Array </a> 
   * -[x] (完成日期: 2020/10/06) <a href="Easy/1299/Replace_Elements_with_Greatest_Element_on_Right_Side.ipynb">1299. Replace Elements with Greatest Element on Right Side </a> 
   * -[x] (完成日期: 2020/10/07) <a href="Easy/1323/Maximum_69_Number.ipynb">1323. Maximum 69 Number </a> 
   * -[x] (完成日期: 2020/10/06) <a href="Easy/1389/Create_Target_Array_in_the_Given_Order.ipynb">1389. Create Target Array in the Given Order </a> 
   * -[x] (完成日期: 2020/10/12) <a href="Easy/1588/Sumof_All_Odd_Length_Subarrays.ipynb">1588. Sum of All Odd Length Subarrays </a> 
+  * -[x] (完成日期: 2020/10/13) <a href="Easy/1608/Special_Array_With_X_Elements_Greater_Than_or_Equal_X.ipynb">1608. Special Array With X Elements Greater Than or Equal X </a> 
 
 
 
