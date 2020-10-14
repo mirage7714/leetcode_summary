@@ -38,8 +38,10 @@
   * -[x] (完成日期: 2020/10/06) <a href="Easy/1299/Replace_Elements_with_Greatest_Element_on_Right_Side.ipynb">1299. Replace Elements with Greatest Element on Right Side </a> 
   * -[x] (完成日期: 2020/10/07) <a href="Easy/1323/Maximum_69_Number.ipynb">1323. Maximum 69 Number </a> 
   * -[x] (完成日期: 2020/10/06) <a href="Easy/1389/Create_Target_Array_in_the_Given_Order.ipynb">1389. Create Target Array in the Given Order </a> 
+  * -[x] (完成日期: 2020/10/14) <a href="Easy/1491/Average_Salary_Excluding_the_Minimum_and_Maximum_Salary.ipynb">1491. Average Salary Excluding the Minimum and Maximum Salary </a> 
   * -[x] (完成日期: 2020/10/13) <a href="Easy/1507/Reformat_Date.ipynb">1507. Reformat Date </a> 
-  * -[x] (完成日期: 2020/10/13) <a href="Easy/1523/Count_Odd_Numbers_in_an_Interval_Range.ipynb">11523. Count Odd Numbers in an Interval Range </a> 
+  * -[x] (完成日期: 2020/10/13) <a href="Easy/1523/Count_Odd_Numbers_in_an_Interval_Range.ipynb">1523. Count Odd Numbers in an Interval Range </a> 
+  * -[x] (完成日期: 2020/10/14) <a href="Easy/1556/Thousand_Separator.ipynb">1556. Thousand Separator </a> 
   * -[x] (完成日期: 2020/10/12) <a href="Easy/1588/Sumof_All_Odd_Length_Subarrays.ipynb">1588. Sum of All Odd Length Subarrays </a> 
   * -[x] (完成日期: 2020/10/13) <a href="Easy/1608/Special_Array_With_X_Elements_Greater_Than_or_Equal_X.ipynb">1608. Special Array With X Elements Greater Than or Equal X </a> 
 
