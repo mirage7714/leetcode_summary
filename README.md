@@ -6,6 +6,7 @@
   * -[x] (完成日期: 2020/10/09) <a href="Easy/1/Two_Sum.ipynb">1. Two Sum </a> 
   * -[x] (完成日期: 2020/10/10) <a href="Easy/14/Longest_Common_Prefix.ipynb">14. Longest Common Prefix </a> 
   * -[x] (完成日期: 2020/10/07) <a href="Easy/171/Excel_Sheet_Column_Number.ipynb">171. Excel Sheet Column Number </a> 
+  * -[x] (完成日期: 2020/10/15) <a href="Easy/172/Factorial_Trailing_Zeroes.ipynb">172. Factorial Trailing Zeroes </a> 
   * -[x] (完成日期: 2020/10/10) <a href="Easy/202/Happy_Number.ipynb">202. Happy Number </a> 
   * -[x] (完成日期: 2020/10/08) <a href="Easy/217/Contains_Duplicate.ipynb">217. Contains Duplicate </a> 
   * -[x] (完成日期: 2020/10/10) <a href="Easy/219/Contains_Duplicate_II.ipynb">219. Contains Duplicate II </a> 
@@ -17,7 +18,8 @@
   * -[x] (完成日期: 2020/10/09) <a href="Easy/345/Reverse_Vowels_of_a_String.ipynb">345. Reverse Vowels of a String </a> 
   * -[x] (完成日期: 2020/10/10) <a href="Easy/349/Intersection_of_Two_Arrays.ipynb">349. Intersection of Two Arrays / 350. Intersection of Two Arrays II </a> 
   * -[x] (完成日期: 2020/10/10) <a href="Easy/367/Valid_Perfect_Square.ipynb">367. Valid Perfect Square </a> 
-  * -[x] (完成日期: 2020/10/10) <a href="Easy/383/Ransom_Note.ipynb">383. Ransom Note </a> 
+  * -[x] (完成日期: 2020/10/10) <a href="Easy/383/Ransom_Note.ipynb">383. Ransom Note </a>
+  * -[x] (完成日期: 2020/10/15) <a href="Easy/405/Convert_a_Number_to_Hexadecimal.ipynb">405. Convert a Number to Hexadecimal </a> 
   * -[x] (完成日期: 2020/10/10) <a href="Easy/409/Longest_Palindrome.ipynb">409. Longest Palindrome </a> 
   * -[x] (完成日期: 2020/10/11) <a href="Easy/441/Arranging_Coins.ipynb">441. Arranging Coins </a> 
   * -[x] (完成日期: 2020/10/11) <a href="Easy/485/Max_Consecutive_Ones.ipynb">485. Max Consecutive Ones </a> 
