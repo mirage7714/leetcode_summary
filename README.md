@@ -8,6 +8,7 @@
   * -[x] (完成日期: 2020/10/07) <a href="Easy/171/Excel_Sheet_Column_Number.ipynb">171. Excel Sheet Column Number </a> 
   * -[x] (完成日期: 2020/10/15) <a href="Easy/172/Factorial_Trailing_Zeroes.ipynb">172. Factorial Trailing Zeroes </a> 
   * -[x] (完成日期: 2020/10/10) <a href="Easy/202/Happy_Number.ipynb">202. Happy Number </a> 
+  * -[x] (完成日期: 2020/10/16) <a href="Easy/205/Isomorphic_Strings.ipynb">205. Isomorphic Strings </a> 
   * -[x] (完成日期: 2020/10/08) <a href="Easy/217/Contains_Duplicate.ipynb">217. Contains Duplicate </a> 
   * -[x] (完成日期: 2020/10/10) <a href="Easy/219/Contains_Duplicate_II.ipynb">219. Contains Duplicate II </a> 
   * -[x] (完成日期: 2020/10/09) <a href="Easy/231/Power_of_Two.ipynb">231. Power of Two </a> 
@@ -24,6 +25,7 @@
   * -[x] (完成日期: 2020/10/11) <a href="Easy/441/Arranging_Coins.ipynb">441. Arranging Coins </a> 
   * -[x] (完成日期: 2020/10/11) <a href="Easy/485/Max_Consecutive_Ones.ipynb">485. Max Consecutive Ones </a> 
   * -[x] (完成日期: 2020/10/14) <a href="Easy/496/Next_Greater_Element_I.ipynb">496. Next Greater Element I </a> 
+  * -[x] (完成日期: 2020/10/16) <a href="Easy/747/Largest_Number_At_Least_Twice_of_Others.ipynb">747. Largest Number At Least Twice of Others </a> 
   * -[x] (完成日期: 2020/10/11) <a href="Easy/819/Most_Common_Word.ipynb">819. Most Common Word </a> 
   * -[x] (完成日期: 2020/10/11) <a href="Easy/844/Backspace_String_Compare.ipynb">844. Backspace String Compare </a> 
   * -[x] (完成日期: 2020/10/08) <a href="Easy/852/Peak_Index_in_a_Mountain_Array.ipynb">852. Peak Index in a Mountain Array </a> 
