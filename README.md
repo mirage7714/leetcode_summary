@@ -42,6 +42,7 @@
   * -[x] (完成日期: 2020/10/13) <a href="Easy/1290/Convert_Binary_Number_in_a_Linked_List_to_Integer.ipynb">1290. Convert Binary Number in a Linked List to Integer </a>
   * -[x] (完成日期: 2020/10/06) <a href="Easy/1299/Replace_Elements_with_Greatest_Element_on_Right_Side.ipynb">1299. Replace Elements with Greatest Element on Right Side </a>
   * -[x] (完成日期: 2020/10/14) <a href="Easy/1309/Decrypt_String_from_Alphabet_to_Integer_Mapping.ipynb">1309. Decrypt String from Alphabet to Integer Mapping </a> 
+  * -[x] (完成日期: 2020/10/17) <a href="Easy/1313/Decompress_Run-Length_Encoded_List.ipynb">1313. Decompress Run-Length Encoded List </a> 
   * -[x] (完成日期: 2020/10/14) <a href="Easy/1317/Convert_Integer_to_the_Sum_of_Two_No-Zero_Integers.ipynb">1317. Convert Integer to the Sum of Two No-Zero Integers </a> 
   * -[x] (完成日期: 2020/10/07) <a href="Easy/1323/Maximum_69_Number.ipynb">1323. Maximum 69 Number </a> 
   * -[x] (完成日期: 2020/10/14) <a href="Easy/1351/Count_Negative_Numbers_in_a_Sorted_Matrix.ipynb">1351. Count Negative Numbers in a Sorted Matrix </a> 
