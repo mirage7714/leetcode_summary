@@ -56,7 +56,7 @@
   * -[x] (完成日期: 2020/10/13) <a href="Easy/1523/Count_Odd_Numbers_in_an_Interval_Range.ipynb">1523. Count Odd Numbers in an Interval Range </a> 
   * -[x] (完成日期: 2020/10/14) <a href="Easy/1556/Thousand_Separator.ipynb">1556. Thousand Separator </a> 
   * -[x] (完成日期: 2020/10/14) <a href="Easy/1572/Matrix_Diagonal_Sum.ipynb">1572. Matrix Diagonal Sum </a> 
-  * -[x] (完成日期: 2020/10/19) <a href="Easy/1576/Replace_All_?'s_to_Avoid_Consecutive_Repeating_Characters.ipynb">1576. Replace All ?'s to Avoid Consecutive Repeating Characters </a> 
+  * -[x] (完成日期: 2020/10/19) <a href="Easy/1576/Replace_All_to_Avoid_Consecutive_Repeating_Characters.ipynb">1576. Replace All ?'s to Avoid Consecutive Repeating Characters </a> 
   * -[x] (完成日期: 2020/10/12) <a href="Easy/1588/Sumof_All_Odd_Length_Subarrays.ipynb">1588. Sum of All Odd Length Subarrays </a> 
   * -[x] (完成日期: 2020/10/13) <a href="Easy/1608/Special_Array_With_X_Elements_Greater_Than_or_Equal_X.ipynb">1608. Special Array With X Elements Greater Than or Equal X </a> 
 
