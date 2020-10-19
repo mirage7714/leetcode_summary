@@ -37,6 +37,7 @@
   * -[x] (完成日期: 2020/10/08) <a href="Easy/977/Squares_of_a_Sorted_Array.ipynb">977. Squares of a Sorted Array </a> 
   * -[x] (完成日期: 2020/10/08) <a href="Easy/1046/Last_Stone_Weight.ipynb">1046. Last Stone Weight </a> 
   * -[x] (完成日期: 2020/10/13) <a href="Easy/1047/Remove_All_Adjacent_Duplicates_In_String.ipynb">1047. Remove All Adjacent Duplicates In String </a> 
+  * -[x] (完成日期: 2020/10/19) <a href="Easy/1103/Distribute_Candies_to_People.ipynb">1103. Distribute Candies to People </a> 
   * -[x] (完成日期: 2020/10/13) <a href="Easy/1108/Defanging_an_IP_Address.ipynb">1108. Defanging an IP Address </a> 
   * -[x] (完成日期: 2020/10/19) <a href="Easy/1221/Split_a_String_in_Balanced_Strings.ipynb">1221. Split a String in Balanced Strings </a> 
   * -[x] (完成日期: 2020/10/07) <a href="Easy/1232/Check_If_It_Is_a_Straight_Line.ipynb">1232. Check If It Is a Straight Line </a> 
@@ -54,6 +55,7 @@
   * -[x] (完成日期: 2020/10/13) <a href="Easy/1523/Count_Odd_Numbers_in_an_Interval_Range.ipynb">1523. Count Odd Numbers in an Interval Range </a> 
   * -[x] (完成日期: 2020/10/14) <a href="Easy/1556/Thousand_Separator.ipynb">1556. Thousand Separator </a> 
   * -[x] (完成日期: 2020/10/14) <a href="Easy/1572/Matrix_Diagonal_Sum.ipynb">1572. Matrix Diagonal Sum </a> 
+  * -[x] (完成日期: 2020/10/19) <a href="Easy/1576/Replace_All_?'s_to_Avoid_Consecutive_Repeating_Characters.ipynb">1576. Replace All ?'s to Avoid Consecutive Repeating Characters </a> 
   * -[x] (完成日期: 2020/10/12) <a href="Easy/1588/Sumof_All_Odd_Length_Subarrays.ipynb">1588. Sum of All Odd Length Subarrays </a> 
   * -[x] (完成日期: 2020/10/13) <a href="Easy/1608/Special_Array_With_X_Elements_Greater_Than_or_Equal_X.ipynb">1608. Special Array With X Elements Greater Than or Equal X </a> 
 
