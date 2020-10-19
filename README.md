@@ -25,6 +25,7 @@
   * -[x] (完成日期: 2020/10/11) <a href="Easy/441/Arranging_Coins.ipynb">441. Arranging Coins </a> 
   * -[x] (完成日期: 2020/10/11) <a href="Easy/485/Max_Consecutive_Ones.ipynb">485. Max Consecutive Ones </a> 
   * -[x] (完成日期: 2020/10/14) <a href="Easy/496/Next_Greater_Element_I.ipynb">496. Next Greater Element I </a> 
+  * -[x] (完成日期: 2020/10/19) <a href="Easy/520/Detect_Capital.ipynb">520. Detect Capital </a> 
   * -[x] (完成日期: 2020/10/16) <a href="Easy/747/Largest_Number_At_Least_Twice_of_Others.ipynb">747. Largest Number At Least Twice of Others </a> 
   * -[x] (完成日期: 2020/10/11) <a href="Easy/819/Most_Common_Word.ipynb">819. Most Common Word </a> 
   * -[x] (完成日期: 2020/10/11) <a href="Easy/844/Backspace_String_Compare.ipynb">844. Backspace String Compare </a> 
@@ -37,6 +38,7 @@
   * -[x] (完成日期: 2020/10/08) <a href="Easy/1046/Last_Stone_Weight.ipynb">1046. Last Stone Weight </a> 
   * -[x] (完成日期: 2020/10/13) <a href="Easy/1047/Remove_All_Adjacent_Duplicates_In_String.ipynb">1047. Remove All Adjacent Duplicates In String </a> 
   * -[x] (完成日期: 2020/10/13) <a href="Easy/1108/Defanging_an_IP_Address.ipynb">1108. Defanging an IP Address </a> 
+  * -[x] (完成日期: 2020/10/19) <a href="Easy/1221/Split_a_String_in_Balanced_Strings.ipynb">1221. Split a String in Balanced Strings </a> 
   * -[x] (完成日期: 2020/10/07) <a href="Easy/1232/Check_If_It_Is_a_Straight_Line.ipynb">1232. Check If It Is a Straight Line </a> 
   * -[x] (完成日期: 2020/10/12) <a href="Easy/1287/Element_Appearing_More_Than_25%_In_Sorted_Array.ipynb">1287. Element Appearing More Than 25% In Sorted Array </a> 
   * -[x] (完成日期: 2020/10/13) <a href="Easy/1290/Convert_Binary_Number_in_a_Linked_List_to_Integer.ipynb">1290. Convert Binary Number in a Linked List to Integer </a>
