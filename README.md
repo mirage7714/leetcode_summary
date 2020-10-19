@@ -23,6 +23,7 @@
   * -[x] (完成日期: 2020/10/15) <a href="Easy/405/Convert_a_Number_to_Hexadecimal.ipynb">405. Convert a Number to Hexadecimal </a> 
   * -[x] (完成日期: 2020/10/10) <a href="Easy/409/Longest_Palindrome.ipynb">409. Longest Palindrome </a> 
   * -[x] (完成日期: 2020/10/11) <a href="Easy/441/Arranging_Coins.ipynb">441. Arranging Coins </a> 
+  * -[x] (完成日期: 2020/10/19) <a href="Easy/482/License_Key_Formatting.ipynb">482. License Key Formatting </a> 
   * -[x] (完成日期: 2020/10/11) <a href="Easy/485/Max_Consecutive_Ones.ipynb">485. Max Consecutive Ones </a> 
   * -[x] (完成日期: 2020/10/19) <a href="Easy/492/Construct_the_Rectangle.ipynb">492. Construct the Rectangle </a>
   * -[x] (完成日期: 2020/10/14) <a href="Easy/496/Next_Greater_Element_I.ipynb">496. Next Greater Element I </a> 
