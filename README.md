@@ -36,6 +36,7 @@
   * -[x] (完成日期: 2020/10/20) <a href="Easy/867/Transpose_Matrix.ipynb">867. Transpose Matrix </a> 
   * -[x] (完成日期: 2020/10/08) <a href="Easy/876/Middle_of_the_Linked_List.ipynb">876. Middle of the Linked List </a> 
   * -[x] (完成日期: 2020/10/20) <a href="Easy/884/Uncommon_Words_from_Two_Sentences.ipynb">884. Uncommon Words from Two Sentences </a> 
+  * -[x] (完成日期: 2020/10/21) <a href="Easy/905/Monotonic_Array.ipynb">896. Monotonic Array </a> 
   * -[x] (完成日期: 2020/10/20) <a href="Easy/905/Sort_Array_By_Parity.ipynb">905. Sort Array By Parity </a> 
   * -[x] (完成日期: 2020/10/04) <a href="Easy/917/Reverse_Only_Letters.ipynb">917. Reverse Only Letters </a> 
   * -[x] (完成日期: 2020/10/20) <a href="Easy/922/Sort_Array_By_Parity_II.ipynb">922. Sort Array By Parity II </a> 
