@@ -48,8 +48,10 @@
   * -[x] (完成日期: 2020/10/19) <a href="Easy/1089/Duplicate_Zeros.ipynb">1089. Duplicate Zeros </a> 
   * -[x] (完成日期: 2020/10/19) <a href="Easy/1103/Distribute_Candies_to_People.ipynb">1103. Distribute Candies to People </a> 
   * -[x] (完成日期: 2020/10/13) <a href="Easy/1108/Defanging_an_IP_Address.ipynb">1108. Defanging an IP Address </a> 
+  * -[x] (完成日期: 2020/10/21) <a href="Easy/1170/Compare_Strings_by_Frequency_of_the_Smallest_Character.ipynb">1170. Compare Strings by Frequency of the Smallest Character </a> 
   * -[x] (完成日期: 2020/10/19) <a href="Easy/1221/Split_a_String_in_Balanced_Strings.ipynb">1221. Split a String in Balanced Strings </a> 
   * -[x] (完成日期: 2020/10/07) <a href="Easy/1232/Check_If_It_Is_a_Straight_Line.ipynb">1232. Check If It Is a Straight Line </a> 
+  * -[x] (完成日期: 2020/10/21) <a href="Easy/1252/Cells_with_Odd_Values_in_a_Matrix.ipynb">1252. Cells with Odd Values in a Matrix </a> 
   * -[x] (完成日期: 2020/10/12) <a href="Easy/1287/Element_Appearing_More_Than_25%_In_Sorted_Array.ipynb">1287. Element Appearing More Than 25% In Sorted Array </a> 
   * -[x] (完成日期: 2020/10/13) <a href="Easy/1290/Convert_Binary_Number_in_a_Linked_List_to_Integer.ipynb">1290. Convert Binary Number in a Linked List to Integer </a>
   * -[x] (完成日期: 2020/10/06) <a href="Easy/1299/Replace_Elements_with_Greatest_Element_on_Right_Side.ipynb">1299. Replace Elements with Greatest Element on Right Side </a>
