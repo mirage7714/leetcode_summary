@@ -43,6 +43,7 @@
   * -[x] (完成日期: 2020/10/20) <a href="Easy/929/Unique_Email_Addresses.ipynb">929. Unique Email Addresses </a> 
   * -[x] (完成日期: 2020/10/08) <a href="Easy/941/Valid_Mountain_Array.ipynb">941. Valid Mountain Array </a> 
   * -[x] (完成日期: 2020/10/08) <a href="Easy/977/Squares_of_a_Sorted_Array.ipynb">977. Squares of a Sorted Array </a> 
+  * -[x] (完成日期: 2020/10/22) <a href="Easy/1002/Find_Common_Characters.ipynb">1002. Find Common Characters </a> 
   * -[x] (完成日期: 2020/10/08) <a href="Easy/1046/Last_Stone_Weight.ipynb">1046. Last Stone Weight </a> 
   * -[x] (完成日期: 2020/10/13) <a href="Easy/1047/Remove_All_Adjacent_Duplicates_In_String.ipynb">1047. Remove All Adjacent Duplicates In String </a> 
   * -[x] (完成日期: 2020/10/19) <a href="Easy/1089/Duplicate_Zeros.ipynb">1089. Duplicate Zeros </a> 
