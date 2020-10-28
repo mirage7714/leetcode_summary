@@ -30,6 +30,7 @@
   * -[x] (完成日期: 2020/10/14) <a href="Easy/496/Next_Greater_Element_I.ipynb">496. Next Greater Element I </a> 
   * -[x] (完成日期: 2020/10/19) <a href="Easy/520/Detect_Capital.ipynb">520. Detect Capital </a> 
   * -[x] (完成日期: 2020/10/16) <a href="Easy/747/Largest_Number_At_Least_Twice_of_Others.ipynb">747. Largest Number At Least Twice of Others </a> 
+  * -[x] (完成日期: 2020/10/28) <a href="Easy/811/Subdomain_Visit_Count.ipynb">811. Subdomain Visit Count </a> 
   * -[x] (完成日期: 2020/10/11) <a href="Easy/819/Most_Common_Word.ipynb">819. Most Common Word </a> 
   * -[x] (完成日期: 2020/10/11) <a href="Easy/844/Backspace_String_Compare.ipynb">844. Backspace String Compare </a> 
   * -[x] (完成日期: 2020/10/08) <a href="Easy/852/Peak_Index_in_a_Mountain_Array.ipynb">852. Peak Index in a Mountain Array </a> 
