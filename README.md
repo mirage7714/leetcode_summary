@@ -45,7 +45,9 @@
   * -[x] (完成日期: 2020/10/20) <a href="Easy/929/Unique_Email_Addresses.ipynb">929. Unique Email Addresses </a> 
   * -[x] (完成日期: 2020/10/08) <a href="Easy/941/Valid_Mountain_Array.ipynb">941. Valid Mountain Array </a> 
   * -[x] (完成日期: 2020/10/08) <a href="Easy/977/Squares_of_a_Sorted_Array.ipynb">977. Squares of a Sorted Array </a> 
-  * -[x] (完成日期: 2020/10/22) <a href="Easy/985/Sum_of_Even_Numbers_After_Queries.ipynb">985. Sum of Even Numbers After Queries </a> 
+  * -[x] (完成日期: 2020/10/22) <a href="Easy/985/Sum_of_Even_Numbers_After_Queries.ipynb">985. Sum of Even Numbers After Queries </a>
+  * -[x] (完成日期: 2020/10/28) <a href="Easy/989/Add_to_Array-Form_of_Integer.ipynb">989. Add to Array-Form of Integer </a> 
+  * -[x] (完成日期: 2020/10/28) <a href="Easy/997/Find_the_Town_Judge.ipynb">997. Find the Town Judge </a>
   * -[x] (完成日期: 2020/10/22) <a href="Easy/1002/Find_Common_Characters.ipynb">1002. Find Common Characters </a> 
   * -[x] (完成日期: 2020/10/22) <a href="Easy/1009/Complement_of_Base_10_Integer.ipynb">1009. Complement of Base 10 Integer </a> 
   * -[x] (完成日期: 2020/10/08) <a href="Easy/1046/Last_Stone_Weight.ipynb">1046. Last Stone Weight </a> 
