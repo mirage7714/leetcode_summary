@@ -49,7 +49,9 @@
   * -[x] (完成日期: 2020/10/28) <a href="Easy/989/Add_to_Array-Form_of_Integer.ipynb">989. Add to Array-Form of Integer </a> 
   * -[x] (完成日期: 2020/10/28) <a href="Easy/997/Find_the_Town_Judge.ipynb">997. Find the Town Judge </a>
   * -[x] (完成日期: 2020/10/22) <a href="Easy/1002/Find_Common_Characters.ipynb">1002. Find Common Characters </a> 
+  * -[x] (完成日期: 2020/10/28) <a href="Easy/1005/Maximize_Sum_Of_Array_After_K_Negations.ipynb">1005. Maximize Sum Of Array After K Negations </a> 
   * -[x] (完成日期: 2020/10/22) <a href="Easy/1009/Complement_of_Base_10_Integer.ipynb">1009. Complement of Base 10 Integer </a> 
+  * -[x] (完成日期: 2020/10/28) <a href="Easy/1018/Binary_Prefix_Divisible_By_5.ipynb">1018. Binary Prefix Divisible By 5 </a> 
   * -[x] (完成日期: 2020/10/08) <a href="Easy/1046/Last_Stone_Weight.ipynb">1046. Last Stone Weight </a> 
   * -[x] (完成日期: 2020/10/13) <a href="Easy/1047/Remove_All_Adjacent_Duplicates_In_String.ipynb">1047. Remove All Adjacent Duplicates In String </a> 
   * -[x] (完成日期: 2020/10/23) <a href="Easy/1078/Occurrences_After_Bigram.ipynb">1078. Occurrences After Bigram </a> 
