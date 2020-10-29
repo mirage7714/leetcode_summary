@@ -5,6 +5,7 @@
 * Easy
   * -[x] (完成日期: 2020/10/09) <a href="Easy/1/Two_Sum.ipynb">1. Two Sum </a> 
   * -[x] (完成日期: 2020/10/10) <a href="Easy/14/Longest_Common_Prefix.ipynb">14. Longest Common Prefix </a> 
+  * -[x] (完成日期: 2020/10/29) <a href="Easy/168/Excel_Sheet_Column_Title.ipynb">168. Excel Sheet Column Title </a> 
   * -[x] (完成日期: 2020/10/07) <a href="Easy/171/Excel_Sheet_Column_Number.ipynb">171. Excel Sheet Column Number </a> 
   * -[x] (完成日期: 2020/10/15) <a href="Easy/172/Factorial_Trailing_Zeroes.ipynb">172. Factorial Trailing Zeroes </a> 
   * -[x] (完成日期: 2020/10/10) <a href="Easy/202/Happy_Number.ipynb">202. Happy Number </a> 
@@ -27,8 +28,10 @@
   * -[x] (完成日期: 2020/10/19) <a href="Easy/482/License_Key_Formatting.ipynb">482. License Key Formatting </a> 
   * -[x] (完成日期: 2020/10/11) <a href="Easy/485/Max_Consecutive_Ones.ipynb">485. Max Consecutive Ones </a> 
   * -[x] (完成日期: 2020/10/19) <a href="Easy/492/Construct_the_Rectangle.ipynb">492. Construct the Rectangle </a>
-  * -[x] (完成日期: 2020/10/14) <a href="Easy/496/Next_Greater_Element_I.ipynb">496. Next Greater Element I </a> 
+  * -[x] (完成日期: 2020/10/14) <a href="Easy/496/Next_Greater_Element_I.ipynb">496. Next Greater Element I </a>
+  * -[x] (完成日期: 2020/10/29) <a href="Easy/504/Base_7.ipynb">504. Base 7 </a>
   * -[x] (完成日期: 2020/10/19) <a href="Easy/520/Detect_Capital.ipynb">520. Detect Capital </a> 
+  * -[x] (完成日期: 2020/10/29) <a href="Easy/561/Array_Partition_I.ipynb">561. Array Partition I </a> 
   * -[x] (完成日期: 2020/10/16) <a href="Easy/747/Largest_Number_At_Least_Twice_of_Others.ipynb">747. Largest Number At Least Twice of Others </a> 
   * -[x] (完成日期: 2020/10/28) <a href="Easy/811/Subdomain_Visit_Count.ipynb">811. Subdomain Visit Count </a> 
   * -[x] (完成日期: 2020/10/11) <a href="Easy/819/Most_Common_Word.ipynb">819. Most Common Word </a> 
