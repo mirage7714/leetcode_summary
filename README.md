@@ -87,6 +87,9 @@
   * -[x] (完成日期: 2020/10/12) <a href="Easy/1588/Sumof_All_Odd_Length_Subarrays.ipynb">1588. Sum of All Odd Length Subarrays </a> 
   * -[x] (完成日期: 2020/10/13) <a href="Easy/1608/Special_Array_With_X_Elements_Greater_Than_or_Equal_X.ipynb">1608. Special Array With X Elements Greater Than or Equal X </a> 
 
+* Medium:  
+  * -[x] (完成日期: 2020/10/29) <a href="Medium/537/Complex_Number_Multiplication.ipynb">537. Complex Number Multiplication </a> 
+  * -[x] (完成日期: 2020/10/29) <a href="Medium/949/Largest_Time_for_Given_Digits.ipynb">949. Largest Time for Given Digits </a> 
 
 
 
