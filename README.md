@@ -14,7 +14,9 @@
   * -[x] (完成日期: 2020/10/16) <a href="Easy/205/Isomorphic_Strings.ipynb">205. Isomorphic Strings </a> 
   * -[x] (完成日期: 2020/10/08) <a href="Easy/217/Contains_Duplicate.ipynb">217. Contains Duplicate </a> 
   * -[x] (完成日期: 2020/10/10) <a href="Easy/219/Contains_Duplicate_II.ipynb">219. Contains Duplicate II </a> 
+  * -[x] (完成日期: 2020/10/30) <a href="Easy/228/Summary_Ranges.ipynb">228. Summary Ranges </a> 
   * -[x] (完成日期: 2020/10/09) <a href="Easy/231/Power_of_Two.ipynb">231. Power of Two </a> 
+  * -[x] (完成日期: 2020/10/30) <a href="Easy/234/Palindrome_Linked_List.ipynb">234. Palindrome Linked List </a> 
   * -[x] (完成日期: 2020/10/10) <a href="Easy/242/Valid_Anagram.ipynb">242. Valid Anagram </a> 
   * -[x] (完成日期: 2020/10/08) <a href="Easy/258/Add_Digits.ipynb">258. Add Digits </a> 
   * -[x] (完成日期: 2020/10/08) <a href="Easy/290/Word_Pattern.ipynb">290. Word Pattern </a> 
