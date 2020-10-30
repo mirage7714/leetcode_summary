@@ -42,6 +42,7 @@
   * -[x] (完成日期: 2020/10/30) <a href="Easy/598/Range_Addition_II.ipynb">598. Range Addition II </a> 
   * -[x] (完成日期: 2020/10/29) <a href="Easy/744/Find_Smallest_Letter_Greater_Than_Target.ipynb">744. Find Smallest Letter Greater Than Target </a> 
   * -[x] (完成日期: 2020/10/16) <a href="Easy/747/Largest_Number_At_Least_Twice_of_Others.ipynb">747. Largest Number At Least Twice of Others </a> 
+  * -[x] (完成日期: 2020/10/30) <a href="Easy/748/Shortest_Completing_Word.ipynb">748. Shortest Completing Word </a> 
   * -[x] (完成日期: 2020/10/28) <a href="Easy/811/Subdomain_Visit_Count.ipynb">811. Subdomain Visit Count </a> 
   * -[x] (完成日期: 2020/10/11) <a href="Easy/819/Most_Common_Word.ipynb">819. Most Common Word </a> 
   * -[x] (完成日期: 2020/10/11) <a href="Easy/844/Backspace_String_Compare.ipynb">844. Backspace String Compare </a> 
