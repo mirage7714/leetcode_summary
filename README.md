@@ -8,6 +8,7 @@
   * -[x] (完成日期: 2020/10/29) <a href="Easy/168/Excel_Sheet_Column_Title.ipynb">168. Excel Sheet Column Title </a> 
   * -[x] (完成日期: 2020/10/07) <a href="Easy/171/Excel_Sheet_Column_Number.ipynb">171. Excel Sheet Column Number </a> 
   * -[x] (完成日期: 2020/10/15) <a href="Easy/172/Factorial_Trailing_Zeroes.ipynb">172. Factorial Trailing Zeroes </a> 
+  * -[x] (完成日期: 2020/10/30) <a href="Easy/190/Reverse_Bits.ipynb">190. Reverse Bits </a> 
   * -[x] (完成日期: 2020/10/10) <a href="Easy/202/Happy_Number.ipynb">202. Happy Number </a> 
   * -[x] (完成日期: 2020/10/16) <a href="Easy/205/Isomorphic_Strings.ipynb">205. Isomorphic Strings </a> 
   * -[x] (完成日期: 2020/10/08) <a href="Easy/217/Contains_Duplicate.ipynb">217. Contains Duplicate </a> 
