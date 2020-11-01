@@ -95,9 +95,12 @@
   * -[x] (完成日期: 2020/10/14) <a href="Easy/1556/Thousand_Separator.ipynb">1556. Thousand Separator </a> 
   * -[x] (完成日期: 2020/10/14) <a href="Easy/1572/Matrix_Diagonal_Sum.ipynb">1572. Matrix Diagonal Sum </a> 
   * -[x] (完成日期: 2020/10/19) <a href="Easy/1576/Replace_All_to_Avoid_Consecutive_Repeating_Characters.ipynb">1576. Replace All ?'s to Avoid Consecutive Repeating Characters </a> 
+  * -[x] (完成日期: 2020/11/01) <a href="Easy/1582/Special_Positions_in_a_Binary_Matrix.ipynb">1582. Special Positions in a Binary Matrix </a> 
   * -[x] (完成日期: 2020/10/12) <a href="Easy/1588/Sumof_All_Odd_Length_Subarrays.ipynb">1588. Sum of All Odd Length Subarrays </a> 
   * -[x] (完成日期: 2020/11/01) <a href="Easy/1592/Rearrange_Spaces_Between_Words.ipynb">1592. Rearrange Spaces Between Words </a> 
-  * -[x] (完成日期: 2020/10/13) <a href="Easy/1608/Special_Array_With_X_Elements_Greater_Than_or_Equal_X.ipynb">1608. Special Array With X Elements Greater Than or Equal X </a> 
+  * -[x] (完成日期: 2020/10/13) <a href="Easy/1608/Special_Array_With_X_Elements_Greater_Than_or_Equal_X.ipynb">1608. Special Array With X Elements Greater Than or Equal X </a>
+  * -[x] (完成日期: 2020/11/01) <a href="Easy/1619/Mean_of_Array_After_Removing_Some_Elements.ipynb">1619. Mean of Array After Removing Some Elements </a>
+  * -[x] (完成日期: 2020/11/01) <a href="Easy/1624/Largest_Substring_Between_Two_Equal_Characters.ipynb">1624. Largest Substring Between Two Equal Characters </a>
 
 * Medium:  
   * -[x] (完成日期: 2020/10/31) <a href="Medium/73/Set_Matrix_Zeroes.ipynb">73. Set Matrix Zeroes </a>
