@@ -101,11 +101,13 @@
   * -[x] (完成日期: 2020/10/13) <a href="Easy/1608/Special_Array_With_X_Elements_Greater_Than_or_Equal_X.ipynb">1608. Special Array With X Elements Greater Than or Equal X </a>
   * -[x] (完成日期: 2020/11/01) <a href="Easy/1619/Mean_of_Array_After_Removing_Some_Elements.ipynb">1619. Mean of Array After Removing Some Elements </a>
   * -[x] (完成日期: 2020/11/01) <a href="Easy/1624/Largest_Substring_Between_Two_Equal_Characters.ipynb">1624. Largest Substring Between Two Equal Characters </a>
+  * -[x] (完成日期: 2020/11/02) <a href="Easy/1640/Check_Array_Formation_Through_Concatenation.ipynb">1640. Check Array Formation Through Concatenation </a>
 
 * Medium:  
   * -[x] (完成日期: 2020/10/31) <a href="Medium/73/Set_Matrix_Zeroes.ipynb">73. Set Matrix Zeroes </a>
   * -[x] (完成日期: 2020/10/31) <a href="Medium/75/Sort_Colors.ipynb">75. Sort Colors </a>
   * -[x] (完成日期: 2020/10/29) <a href="Medium/537/Complex_Number_Multiplication.ipynb">537. Complex Number Multiplication </a>
+  * -[x] (完成日期: 2020/11/02) <a href="Medium/581/Shortest_Unsorted_Continuous_Subarray.ipynb">581. Shortest Unsorted Continuous Subarray </a>
   * -[x] (完成日期: 2020/10/29) <a href="Medium/949/Largest_Time_for_Given_Digits.ipynb">949. Largest Time for Given Digits </a> 
 
 
