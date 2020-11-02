@@ -88,7 +88,8 @@
   * -[x] (完成日期: 2020/10/14) <a href="Easy/1351/Count_Negative_Numbers_in_a_Sorted_Matrix.ipynb">1351. Count Negative Numbers in a Sorted Matrix </a> 
   * -[x] (完成日期: 2020/10/22) <a href="Easy/1374/Generate_a_String_With_Characters_That_Have_Odd_Counts.ipynb">1374. Generate a String With Characters That Have Odd Counts </a> 
   * -[x] (完成日期: 2020/10/06) <a href="Easy/1389/Create_Target_Array_in_the_Given_Order.ipynb">1389. Create Target Array in the Given Order </a> 
-  * -[x] (完成日期: 2020/10/27) <a href="Easy/1446/Consecutive_Characters.ipynb">1446. Consecutive Characters </a> 
+  * -[x] (完成日期: 2020/11/02) <a href="Easy/1417/Reformat_The_String.ipynb">1417. Reformat The String </a>
+  * -[x] (完成日期: 2020/10/27) <a href="Easy/1446/Consecutive_Characters.ipynb">1446. Consecutive Characters </a>
   * -[x] (完成日期: 2020/10/14) <a href="Easy/1491/Average_Salary_Excluding_the_Minimum_and_Maximum_Salary.ipynb">1491. Average Salary Excluding the Minimum and Maximum Salary </a> 
   * -[x] (完成日期: 2020/10/13) <a href="Easy/1507/Reformat_Date.ipynb">1507. Reformat Date </a> 
   * -[x] (完成日期: 2020/10/13) <a href="Easy/1523/Count_Odd_Numbers_in_an_Interval_Range.ipynb">1523. Count Odd Numbers in an Interval Range </a> 
