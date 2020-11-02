@@ -91,6 +91,7 @@
   * -[x] (完成日期: 2020/11/02) <a href="Easy/1417/Reformat_The_String.ipynb">1417. Reformat The String </a>
   * -[x] (完成日期: 2020/10/27) <a href="Easy/1446/Consecutive_Characters.ipynb">1446. Consecutive Characters </a>
   * -[x] (完成日期: 2020/10/14) <a href="Easy/1491/Average_Salary_Excluding_the_Minimum_and_Maximum_Salary.ipynb">1491. Average Salary Excluding the Minimum and Maximum Salary </a> 
+  * -[x] (完成日期: 2020/11/02) <a href="Easy/1496/Path_Crossing.ipynb">1496. Path Crossing </a> 
   * -[x] (完成日期: 2020/10/13) <a href="Easy/1507/Reformat_Date.ipynb">1507. Reformat Date </a> 
   * -[x] (完成日期: 2020/10/13) <a href="Easy/1523/Count_Odd_Numbers_in_an_Interval_Range.ipynb">1523. Count Odd Numbers in an Interval Range </a> 
   * -[x] (完成日期: 2020/10/14) <a href="Easy/1556/Thousand_Separator.ipynb">1556. Thousand Separator </a> 
