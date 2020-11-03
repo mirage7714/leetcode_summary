@@ -45,7 +45,8 @@
   * -[x] (完成日期: 2020/10/16) <a href="Easy/747/Largest_Number_At_Least_Twice_of_Others.ipynb">747. Largest Number At Least Twice of Others </a> 
   * -[x] (完成日期: 2020/10/30) <a href="Easy/748/Shortest_Completing_Word.ipynb">748. Shortest Completing Word </a> 
   * -[x] (完成日期: 2020/10/28) <a href="Easy/811/Subdomain_Visit_Count.ipynb">811. Subdomain Visit Count </a> 
-  * -[x] (完成日期: 2020/10/11) <a href="Easy/819/Most_Common_Word.ipynb">819. Most Common Word </a> 
+  * -[x] (完成日期: 2020/10/11) <a href="Easy/819/Most_Common_Word.ipynb">819. Most Common Word </a>
+  * -[x] (完成日期: 2020/11/03) <a href="Easy/830/Positions_of_Large_Groups.ipynb">830. Positions of Large Groups </a>
   * -[x] (完成日期: 2020/10/11) <a href="Easy/844/Backspace_String_Compare.ipynb">844. Backspace String Compare </a> 
   * -[x] (完成日期: 2020/10/08) <a href="Easy/852/Peak_Index_in_a_Mountain_Array.ipynb">852. Peak Index in a Mountain Array </a> 
   * -[x] (完成日期: 2020/10/13) <a href="Easy/860/Lemonade_Change.ipynb">860. Lemonade Change </a> 
@@ -56,7 +57,8 @@
   * -[x] (完成日期: 2020/10/21) <a href="Easy/905/Monotonic_Array.ipynb">896. Monotonic Array </a> 
   * -[x] (完成日期: 2020/10/20) <a href="Easy/905/Sort_Array_By_Parity.ipynb">905. Sort Array By Parity </a> 
   * -[x] (完成日期: 2020/10/04) <a href="Easy/917/Reverse_Only_Letters.ipynb">917. Reverse Only Letters </a> 
-  * -[x] (完成日期: 2020/10/20) <a href="Easy/922/Sort_Array_By_Parity_II.ipynb">922. Sort Array By Parity II </a> 
+  * -[x] (完成日期: 2020/10/20) <a href="Easy/922/Sort_Array_By_Parity_II.ipynb">922. Sort Array By Parity II </a>
+  * -[x] (完成日期: 2020/11/03) <a href="Easy/925/Long_Pressed_Name.ipynb">925. Long Pressed Name </a>
   * -[x] (完成日期: 2020/10/20) <a href="Easy/929/Unique_Email_Addresses.ipynb">929. Unique Email Addresses </a> 
   * -[x] (完成日期: 2020/10/08) <a href="Easy/941/Valid_Mountain_Array.ipynb">941. Valid Mountain Array </a> 
   * -[x] (完成日期: 2020/10/08) <a href="Easy/977/Squares_of_a_Sorted_Array.ipynb">977. Squares of a Sorted Array </a> 
@@ -94,7 +96,8 @@
   * -[x] (完成日期: 2020/11/02) <a href="Easy/1496/Path_Crossing.ipynb">1496. Path Crossing </a> 
   * -[x] (完成日期: 2020/10/13) <a href="Easy/1507/Reformat_Date.ipynb">1507. Reformat Date </a> 
   * -[x] (完成日期: 2020/10/13) <a href="Easy/1523/Count_Odd_Numbers_in_an_Interval_Range.ipynb">1523. Count Odd Numbers in an Interval Range </a> 
-  * -[x] (完成日期: 2020/10/14) <a href="Easy/1556/Thousand_Separator.ipynb">1556. Thousand Separator </a> 
+  * -[x] (完成日期: 2020/10/14) <a href="Easy/1556/Thousand_Separator.ipynb">1556. Thousand Separator </a>
+  * -[x] (完成日期: 2020/11/03) <a href="Easy/1566/Detect_Pattern_of_Length_M_Repeated_K_or_More_Times.ipynb">1566. Detect Pattern of Length M Repeated K or More Times </a>
   * -[x] (完成日期: 2020/10/14) <a href="Easy/1572/Matrix_Diagonal_Sum.ipynb">1572. Matrix Diagonal Sum </a> 
   * -[x] (完成日期: 2020/10/19) <a href="Easy/1576/Replace_All_to_Avoid_Consecutive_Repeating_Characters.ipynb">1576. Replace All ?'s to Avoid Consecutive Repeating Characters </a> 
   * -[x] (完成日期: 2020/11/01) <a href="Easy/1582/Special_Positions_in_a_Binary_Matrix.ipynb">1582. Special Positions in a Binary Matrix </a> 
