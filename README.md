@@ -67,7 +67,8 @@
   * -[x] (完成日期: 2020/10/28) <a href="Easy/997/Find_the_Town_Judge.ipynb">997. Find the Town Judge </a>
   * -[x] (完成日期: 2020/10/22) <a href="Easy/1002/Find_Common_Characters.ipynb">1002. Find Common Characters </a> 
   * -[x] (完成日期: 2020/10/28) <a href="Easy/1005/Maximize_Sum_Of_Array_After_K_Negations.ipynb">1005. Maximize Sum Of Array After K Negations </a> 
-  * -[x] (完成日期: 2020/10/22) <a href="Easy/1009/Complement_of_Base_10_Integer.ipynb">1009. Complement of Base 10 Integer </a> 
+  * -[x] (完成日期: 2020/10/22) <a href="Easy/1009/Complement_of_Base_10_Integer.ipynb">1009. Complement of Base 10 Integer </a>
+  * -[x] (完成日期: 2020/11/06) <a href="Easy/1013/Partition_Array_Into_Three_Parts_With_Equal_Sum.ipynb">1013. Partition Array Into Three Parts With Equal Sum </a>
   * -[x] (完成日期: 2020/10/28) <a href="Easy/1018/Binary_Prefix_Divisible_By_5.ipynb">1018. Binary Prefix Divisible By 5 </a> 
   * -[x] (完成日期: 2020/10/08) <a href="Easy/1046/Last_Stone_Weight.ipynb">1046. Last Stone Weight </a> 
   * -[x] (完成日期: 2020/10/13) <a href="Easy/1047/Remove_All_Adjacent_Duplicates_In_String.ipynb">1047. Remove All Adjacent Duplicates In String </a> 
@@ -111,9 +112,13 @@
 * Medium:  
   * -[x] (完成日期: 2020/10/31) <a href="Medium/73/Set_Matrix_Zeroes.ipynb">73. Set Matrix Zeroes </a>
   * -[x] (完成日期: 2020/10/31) <a href="Medium/75/Sort_Colors.ipynb">75. Sort Colors </a>
+  * -[x] (完成日期: 2020/11/06) <a href="Medium/287/Find_the_Duplicate_Number.ipynb">287. Find the Duplicate Number </a>
   * -[x] (完成日期: 2020/10/29) <a href="Medium/537/Complex_Number_Multiplication.ipynb">537. Complex Number Multiplication </a>
   * -[x] (完成日期: 2020/11/02) <a href="Medium/581/Shortest_Unsorted_Continuous_Subarray.ipynb">581. Shortest Unsorted Continuous Subarray </a>
   * -[x] (完成日期: 2020/10/29) <a href="Medium/949/Largest_Time_for_Given_Digits.ipynb">949. Largest Time for Given Digits </a> 
+ 
+* Hard:
+  * -[x] (完成日期: 2020/11/06) <a href="Hard/41/First_Missing_Positive.ipynb">41. First Missing Positive </a>
 
 
 
