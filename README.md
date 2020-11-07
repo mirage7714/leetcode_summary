@@ -89,6 +89,8 @@
   * -[x] (完成日期: 2020/10/14) <a href="Easy/1317/Convert_Integer_to_the_Sum_of_Two_No-Zero_Integers.ipynb">1317. Convert Integer to the Sum of Two No-Zero Integers </a> 
   * -[x] (完成日期: 2020/10/07) <a href="Easy/1323/Maximum_69_Number.ipynb">1323. Maximum 69 Number </a> 
   * -[x] (完成日期: 2020/10/14) <a href="Easy/1351/Count_Negative_Numbers_in_a_Sorted_Matrix.ipynb">1351. Count Negative Numbers in a Sorted Matrix </a> 
+  * -[x] (完成日期: 2020/11/07) <a href="Easy/1356/Sort_Integers_by_The_Number_of_1_Bits.ipynb">1356. Sort Integers by The Number of 1 Bits </a>
+  * -[x] (完成日期: 2020/11/07) <a href="Easy/1370/Increasing_Decreasing_String.ipynb">1370. Increasing Decreasing String </a>
   * -[x] (完成日期: 2020/10/22) <a href="Easy/1374/Generate_a_String_With_Characters_That_Have_Odd_Counts.ipynb">1374. Generate a String With Characters That Have Odd Counts </a> 
   * -[x] (完成日期: 2020/10/06) <a href="Easy/1389/Create_Target_Array_in_the_Given_Order.ipynb">1389. Create Target Array in the Given Order </a> 
   * -[x] (完成日期: 2020/11/02) <a href="Easy/1417/Reformat_The_String.ipynb">1417. Reformat The String </a>
@@ -105,6 +107,7 @@
   * -[x] (完成日期: 2020/10/12) <a href="Easy/1588/Sumof_All_Odd_Length_Subarrays.ipynb">1588. Sum of All Odd Length Subarrays </a> 
   * -[x] (完成日期: 2020/11/01) <a href="Easy/1592/Rearrange_Spaces_Between_Words.ipynb">1592. Rearrange Spaces Between Words </a> 
   * -[x] (完成日期: 2020/10/13) <a href="Easy/1608/Special_Array_With_X_Elements_Greater_Than_or_Equal_X.ipynb">1608. Special Array With X Elements Greater Than or Equal X </a>
+  * -[x] (完成日期: 2020/11/07) <a href="Easy/1614/Maximum_Nesting_Depth_of_the_Parentheses.ipynb">1614. Maximum Nesting Depth of the Parentheses </a>
   * -[x] (完成日期: 2020/11/01) <a href="Easy/1619/Mean_of_Array_After_Removing_Some_Elements.ipynb">1619. Mean of Array After Removing Some Elements </a>
   * -[x] (完成日期: 2020/11/01) <a href="Easy/1624/Largest_Substring_Between_Two_Equal_Characters.ipynb">1624. Largest Substring Between Two Equal Characters </a>
   * -[x] (完成日期: 2020/11/02) <a href="Easy/1640/Check_Array_Formation_Through_Concatenation.ipynb">1640. Check Array Formation Through Concatenation </a>
@@ -116,6 +119,7 @@
   * -[x] (完成日期: 2020/10/29) <a href="Medium/537/Complex_Number_Multiplication.ipynb">537. Complex Number Multiplication </a>
   * -[x] (完成日期: 2020/11/02) <a href="Medium/581/Shortest_Unsorted_Continuous_Subarray.ipynb">581. Shortest Unsorted Continuous Subarray </a>
   * -[x] (完成日期: 2020/10/29) <a href="Medium/949/Largest_Time_for_Given_Digits.ipynb">949. Largest Time for Given Digits </a> 
+  * -[x] (完成日期: 2020/11/07) <a href="Medium/1561/Maximum_Number_of_Coins_You_Can_Get.ipynb">1561. Maximum Number of Coins You Can Get </a> 
  
 * Hard:
   * -[x] (完成日期: 2020/11/06) <a href="Hard/41/First_Missing_Positive.ipynb">41. First Missing Positive </a>
