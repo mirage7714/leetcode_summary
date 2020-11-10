@@ -29,7 +29,8 @@
   * -[x] (完成日期: 2020/10/15) <a href="Easy/405/Convert_a_Number_to_Hexadecimal.ipynb">405. Convert a Number to Hexadecimal </a> 
   * -[x] (完成日期: 2020/10/10) <a href="Easy/409/Longest_Palindrome.ipynb">409. Longest Palindrome </a> 
   * -[x] (完成日期: 2020/10/11) <a href="Easy/441/Arranging_Coins.ipynb">441. Arranging Coins </a> 
-  * -[x] (完成日期: 2020/10/30) <a href="Easy/455/Assign_Cookies.ipynb">455. Assign Cookies </a> 
+  * -[x] (完成日期: 2020/10/30) <a href="Easy/455/Assign_Cookies.ipynb">455. Assign Cookies </a>
+  * -[x] (完成日期: 2020/11/10) <a href="Easy/459/Repeated_Substring_Pattern.ipynb">459. Repeated Substring Pattern </a>
   * -[x] (完成日期: 2020/10/30) <a href="Easy/461/Hamming_Distance.ipynb">461. Hamming Distance </a> 
   * -[x] (完成日期: 2020/10/19) <a href="Easy/482/License_Key_Formatting.ipynb">482. License Key Formatting </a> 
   * -[x] (完成日期: 2020/10/11) <a href="Easy/485/Max_Consecutive_Ones.ipynb">485. Max Consecutive Ones </a> 
@@ -110,6 +111,7 @@
   * -[x] (完成日期: 2020/11/07) <a href="Easy/1614/Maximum_Nesting_Depth_of_the_Parentheses.ipynb">1614. Maximum Nesting Depth of the Parentheses </a>
   * -[x] (完成日期: 2020/11/01) <a href="Easy/1619/Mean_of_Array_After_Removing_Some_Elements.ipynb">1619. Mean of Array After Removing Some Elements </a>
   * -[x] (完成日期: 2020/11/01) <a href="Easy/1624/Largest_Substring_Between_Two_Equal_Characters.ipynb">1624. Largest Substring Between Two Equal Characters </a>
+  * -[x] (完成日期: 2020/11/10) <a href="Easy/1636/Sort_Array_by_Increasing_Frequency.ipynb">1636. Sort Array by Increasing Frequency </a>
   * -[x] (完成日期: 2020/11/02) <a href="Easy/1640/Check_Array_Formation_Through_Concatenation.ipynb">1640. Check Array Formation Through Concatenation </a>
 
 * Medium:  
@@ -119,6 +121,7 @@
   * -[x] (完成日期: 2020/10/29) <a href="Medium/537/Complex_Number_Multiplication.ipynb">537. Complex Number Multiplication </a>
   * -[x] (完成日期: 2020/11/02) <a href="Medium/581/Shortest_Unsorted_Continuous_Subarray.ipynb">581. Shortest Unsorted Continuous Subarray </a>
   * -[x] (完成日期: 2020/10/29) <a href="Medium/949/Largest_Time_for_Given_Digits.ipynb">949. Largest Time for Given Digits </a> 
+  * -[x] (完成日期: 2020/11/10) <a href="Medium/1366/Rank_Teams_by_Votes.ipynb">1366. Rank Teams by Votes </a> 
   * -[x] (完成日期: 2020/11/07) <a href="Medium/1561/Maximum_Number_of_Coins_You_Can_Get.ipynb">1561. Maximum Number of Coins You Can Get </a> 
  
 * Hard:
