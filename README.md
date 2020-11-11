@@ -88,7 +88,8 @@
   * -[x] (完成日期: 2020/10/14) <a href="Easy/1309/Decrypt_String_from_Alphabet_to_Integer_Mapping.ipynb">1309. Decrypt String from Alphabet to Integer Mapping </a> 
   * -[x] (完成日期: 2020/10/17) <a href="Easy/1313/Decompress_Run-Length_Encoded_List.ipynb">1313. Decompress Run-Length Encoded List </a> 
   * -[x] (完成日期: 2020/10/14) <a href="Easy/1317/Convert_Integer_to_the_Sum_of_Two_No-Zero_Integers.ipynb">1317. Convert Integer to the Sum of Two No-Zero Integers </a> 
-  * -[x] (完成日期: 2020/10/07) <a href="Easy/1323/Maximum_69_Number.ipynb">1323. Maximum 69 Number </a> 
+  * -[x] (完成日期: 2020/10/07) <a href="Easy/1323/Maximum_69_Number.ipynb">1323. Maximum 69 Number </a>
+  * -[x] (完成日期: 2020/11/11) <a href="Easy/1337/The_K_Weakest_Rows_in_a_Matrix.ipynb">1337. The K Weakest Rows in a Matrix </a>
   * -[x] (完成日期: 2020/10/14) <a href="Easy/1351/Count_Negative_Numbers_in_a_Sorted_Matrix.ipynb">1351. Count Negative Numbers in a Sorted Matrix </a> 
   * -[x] (完成日期: 2020/11/07) <a href="Easy/1356/Sort_Integers_by_The_Number_of_1_Bits.ipynb">1356. Sort Integers by The Number of 1 Bits </a>
   * -[x] (完成日期: 2020/11/07) <a href="Easy/1370/Increasing_Decreasing_String.ipynb">1370. Increasing Decreasing String </a>
