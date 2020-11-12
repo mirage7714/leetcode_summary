@@ -85,7 +85,8 @@
   * -[x] (完成日期: 2020/10/12) <a href="Easy/1287/Element_Appearing_More_Than_25%_In_Sorted_Array.ipynb">1287. Element Appearing More Than 25% In Sorted Array </a> 
   * -[x] (完成日期: 2020/10/13) <a href="Easy/1290/Convert_Binary_Number_in_a_Linked_List_to_Integer.ipynb">1290. Convert Binary Number in a Linked List to Integer </a>
   * -[x] (完成日期: 2020/10/06) <a href="Easy/1299/Replace_Elements_with_Greatest_Element_on_Right_Side.ipynb">1299. Replace Elements with Greatest Element on Right Side </a>
-  * -[x] (完成日期: 2020/10/14) <a href="Easy/1309/Decrypt_String_from_Alphabet_to_Integer_Mapping.ipynb">1309. Decrypt String from Alphabet to Integer Mapping </a> 
+  * -[x] (完成日期: 2020/11/12) <a href="Easy/1304/Find_N_Unique_Integers_Sum_up_to_Zero.ipynb">1304. Find N Unique Integers Sum up to Zero </a>
+  * -[x] (完成日期: 2020/10/14) <a href="Easy/1309/Decrypt_String_from_Alphabet_to_Integer_Mapping.ipynb">1309. Decrypt String from Alphabet to Integer Mapping </a>
   * -[x] (完成日期: 2020/10/17) <a href="Easy/1313/Decompress_Run-Length_Encoded_List.ipynb">1313. Decompress Run-Length Encoded List </a> 
   * -[x] (完成日期: 2020/10/14) <a href="Easy/1317/Convert_Integer_to_the_Sum_of_Two_No-Zero_Integers.ipynb">1317. Convert Integer to the Sum of Two No-Zero Integers </a> 
   * -[x] (完成日期: 2020/10/07) <a href="Easy/1323/Maximum_69_Number.ipynb">1323. Maximum 69 Number </a>
@@ -117,7 +118,9 @@
 
 * Medium:  
   * -[x] (完成日期: 2020/10/31) <a href="Medium/73/Set_Matrix_Zeroes.ipynb">73. Set Matrix Zeroes </a>
+  * -[x] (完成日期: 2020/11/12) <a href="Medium/74/Search_a_2D_Matrix.ipynb">74. Search a 2D Matrix </a>
   * -[x] (完成日期: 2020/10/31) <a href="Medium/75/Sort_Colors.ipynb">75. Sort Colors </a>
+  * -[x] (完成日期: 2020/11/12) <a href="Medium/240/Search_a_2D_Matrix_II.ipynb">240. Search a 2D Matrix II </a>
   * -[x] (完成日期: 2020/11/06) <a href="Medium/287/Find_the_Duplicate_Number.ipynb">287. Find the Duplicate Number </a>
   * -[x] (完成日期: 2020/10/29) <a href="Medium/537/Complex_Number_Multiplication.ipynb">537. Complex Number Multiplication </a>
   * -[x] (完成日期: 2020/11/02) <a href="Medium/581/Shortest_Unsorted_Continuous_Subarray.ipynb">581. Shortest Unsorted Continuous Subarray </a>
