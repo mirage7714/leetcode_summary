@@ -95,7 +95,8 @@
   * -[x] (完成日期: 2020/11/07) <a href="Easy/1356/Sort_Integers_by_The_Number_of_1_Bits.ipynb">1356. Sort Integers by The Number of 1 Bits </a>
   * -[x] (完成日期: 2020/11/07) <a href="Easy/1370/Increasing_Decreasing_String.ipynb">1370. Increasing Decreasing String </a>
   * -[x] (完成日期: 2020/10/22) <a href="Easy/1374/Generate_a_String_With_Characters_That_Have_Odd_Counts.ipynb">1374. Generate a String With Characters That Have Odd Counts </a> 
-  * -[x] (完成日期: 2020/10/06) <a href="Easy/1389/Create_Target_Array_in_the_Given_Order.ipynb">1389. Create Target Array in the Given Order </a> 
+  * -[x] (完成日期: 2020/11/13) <a href="Easy/1380/Lucky_Numbers_in_a_Matrix.ipynb">1380. Lucky Numbers in a Matrix </a>
+  * -[x] (完成日期: 2020/10/06) <a href="Easy/1389/Create_Target_Array_in_the_Given_Order.ipynb">1389. Create Target Array in the Given Order </a>
   * -[x] (完成日期: 2020/11/12) <a href="Easy/1399/Count_Largest_Group.ipynb">1399. Count Largest Group </a> 
   * -[x] (完成日期: 2020/11/02) <a href="Easy/1417/Reformat_The_String.ipynb">1417. Reformat The String </a>
   * -[x] (完成日期: 2020/10/27) <a href="Easy/1446/Consecutive_Characters.ipynb">1446. Consecutive Characters </a>
