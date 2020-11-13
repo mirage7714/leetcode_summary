@@ -41,7 +41,8 @@
   * -[x] (完成日期: 2020/10/19) <a href="Easy/520/Detect_Capital.ipynb">520. Detect Capital </a> 
   * -[x] (完成日期: 2020/10/29) <a href="Easy/561/Array_Partition_I.ipynb">561. Array Partition I </a> 
   * -[x] (完成日期: 2020/10/30) <a href="Easy/594/Longest_Harmonious_Subsequence.ipynb">594. Longest Harmonious Subsequence </a> 
-  * -[x] (完成日期: 2020/10/30) <a href="Easy/598/Range_Addition_II.ipynb">598. Range Addition II </a> 
+  * -[x] (完成日期: 2020/10/30) <a href="Easy/598/Range_Addition_II.ipynb">598. Range Addition II </a>
+  * -[x] (完成日期: 2020/11/12) <a href="Easy/674/Longest_Continuous_Increasing_Subsequence.ipynb">674. Longest Continuous Increasing Subsequence </a>
   * -[x] (完成日期: 2020/10/29) <a href="Easy/744/Find_Smallest_Letter_Greater_Than_Target.ipynb">744. Find Smallest Letter Greater Than Target </a> 
   * -[x] (完成日期: 2020/10/16) <a href="Easy/747/Largest_Number_At_Least_Twice_of_Others.ipynb">747. Largest Number At Least Twice of Others </a> 
   * -[x] (完成日期: 2020/10/30) <a href="Easy/748/Shortest_Completing_Word.ipynb">748. Shortest Completing Word </a> 
