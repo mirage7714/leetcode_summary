@@ -43,7 +43,9 @@
   * -[x] (完成日期: 2020/10/30) <a href="Easy/594/Longest_Harmonious_Subsequence.ipynb">594. Longest Harmonious Subsequence </a> 
   * -[x] (完成日期: 2020/10/30) <a href="Easy/598/Range_Addition_II.ipynb">598. Range Addition II </a>
   * -[x] (完成日期: 2020/11/12) <a href="Easy/674/Longest_Continuous_Increasing_Subsequence.ipynb">674. Longest Continuous Increasing Subsequence </a>
-  * -[x] (完成日期: 2020/10/29) <a href="Easy/744/Find_Smallest_Letter_Greater_Than_Target.ipynb">744. Find Smallest Letter Greater Than Target </a> 
+  * -[x] (完成日期: 2020/11/14) <a href="Easy/690/Employee_Importance.ipynb">690. Employee Importance </a>
+  * -[x] (完成日期: 2020/11/14) <a href="Easy/724/Find_Pivot_Index.ipynb">724. Find Pivot Index </a>
+  * -[x] (完成日期: 2020/10/29) <a href="Easy/744/Find_Smallest_Letter_Greater_Than_Target.ipynb">744. Find Smallest Letter Greater Than Target </a>
   * -[x] (完成日期: 2020/10/16) <a href="Easy/747/Largest_Number_At_Least_Twice_of_Others.ipynb">747. Largest Number At Least Twice of Others </a> 
   * -[x] (完成日期: 2020/10/30) <a href="Easy/748/Shortest_Completing_Word.ipynb">748. Shortest Completing Word </a> 
   * -[x] (完成日期: 2020/10/28) <a href="Easy/811/Subdomain_Visit_Count.ipynb">811. Subdomain Visit Count </a> 
@@ -101,6 +103,7 @@
   * -[x] (完成日期: 2020/11/12) <a href="Easy/1399/Count_Largest_Group.ipynb">1399. Count Largest Group </a> 
   * -[x] (完成日期: 2020/11/02) <a href="Easy/1417/Reformat_The_String.ipynb">1417. Reformat The String </a>
   * -[x] (完成日期: 2020/10/27) <a href="Easy/1446/Consecutive_Characters.ipynb">1446. Consecutive Characters </a>
+  * -[x] (完成日期: 2020/11/14) <a href="Easy/1455/Check_If_a_Word_Occurs_As_a_Prefix_of_Any_Word_in_a_Sentence.ipynb">1455. Check If a Word Occurs As a Prefix of Any Word in a Sentence </a>
   * -[x] (完成日期: 2020/10/14) <a href="Easy/1491/Average_Salary_Excluding_the_Minimum_and_Maximum_Salary.ipynb">1491. Average Salary Excluding the Minimum and Maximum Salary </a> 
   * -[x] (完成日期: 2020/11/02) <a href="Easy/1496/Path_Crossing.ipynb">1496. Path Crossing </a> 
   * -[x] (完成日期: 2020/10/13) <a href="Easy/1507/Reformat_Date.ipynb">1507. Reformat Date </a> 
