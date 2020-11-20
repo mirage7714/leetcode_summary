@@ -5,6 +5,7 @@
 * Easy
   * -[x] (完成日期: 2020/10/09) <a href="Easy/1/Two_Sum.ipynb">1. Two Sum </a> 
   * -[x] (完成日期: 2020/10/10) <a href="Easy/14/Longest_Common_Prefix.ipynb">14. Longest Common Prefix </a> 
+  * -[x] (完成日期: 2020/11/20) <a href="Easy/27/Remove_Element.ipynb">27. Remove Element </a> 
   * -[x] (完成日期: 2020/10/29) <a href="Easy/168/Excel_Sheet_Column_Title.ipynb">168. Excel Sheet Column Title </a> 
   * -[x] (完成日期: 2020/10/07) <a href="Easy/171/Excel_Sheet_Column_Number.ipynb">171. Excel Sheet Column Number </a> 
   * -[x] (完成日期: 2020/10/15) <a href="Easy/172/Factorial_Trailing_Zeroes.ipynb">172. Factorial Trailing Zeroes </a> 
@@ -102,6 +103,7 @@
   * -[x] (完成日期: 2020/10/06) <a href="Easy/1389/Create_Target_Array_in_the_Given_Order.ipynb">1389. Create Target Array in the Given Order </a>
   * -[x] (完成日期: 2020/11/12) <a href="Easy/1399/Count_Largest_Group.ipynb">1399. Count Largest Group </a> 
   * -[x] (完成日期: 2020/11/02) <a href="Easy/1417/Reformat_The_String.ipynb">1417. Reformat The String </a>
+  * -[x] (完成日期: 2020/11/20) <a href="Easy/1436/Destination_City.ipynb">1436. Destination City </a>
   * -[x] (完成日期: 2020/10/27) <a href="Easy/1446/Consecutive_Characters.ipynb">1446. Consecutive Characters </a>
   * -[x] (完成日期: 2020/11/14) <a href="Easy/1455/Check_If_a_Word_Occurs_As_a_Prefix_of_Any_Word_in_a_Sentence.ipynb">1455. Check If a Word Occurs As a Prefix of Any Word in a Sentence </a>
   * -[x] (完成日期: 2020/10/14) <a href="Easy/1491/Average_Salary_Excluding_the_Minimum_and_Maximum_Salary.ipynb">1491. Average Salary Excluding the Minimum and Maximum Salary </a> 
@@ -119,6 +121,7 @@
   * -[x] (完成日期: 2020/11/07) <a href="Easy/1614/Maximum_Nesting_Depth_of_the_Parentheses.ipynb">1614. Maximum Nesting Depth of the Parentheses </a>
   * -[x] (完成日期: 2020/11/01) <a href="Easy/1619/Mean_of_Array_After_Removing_Some_Elements.ipynb">1619. Mean of Array After Removing Some Elements </a>
   * -[x] (完成日期: 2020/11/01) <a href="Easy/1624/Largest_Substring_Between_Two_Equal_Characters.ipynb">1624. Largest Substring Between Two Equal Characters </a>
+  * -[x] (完成日期: 2020/11/20) <a href="Easy/1629/Slowest_Key.ipynb">1629. Slowest Key </a>
   * -[x] (完成日期: 2020/11/10) <a href="Easy/1636/Sort_Array_by_Increasing_Frequency.ipynb">1636. Sort Array by Increasing Frequency </a>
   * -[x] (完成日期: 2020/11/02) <a href="Easy/1640/Check_Array_Formation_Through_Concatenation.ipynb">1640. Check Array Formation Through Concatenation </a>
 
