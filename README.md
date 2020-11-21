@@ -7,6 +7,7 @@
   * -[x] (完成日期: 2020/10/10) <a href="Easy/14/Longest_Common_Prefix.ipynb">14. Longest Common Prefix </a> 
   * -[x] (完成日期: 2020/11/20) <a href="Easy/26/Remove_Duplicates_from_Sorted_Array.ipynb">26. Remove Duplicates from Sorted Array </a> 
   * -[x] (完成日期: 2020/11/20) <a href="Easy/27/Remove_Element.ipynb">27. Remove Element </a> 
+  * -[x] (完成日期: 2020/11/21) <a href="Easy/125/Valid_Palindrome.ipynb">125. Valid Palindrome </a> 
   * -[x] (完成日期: 2020/10/29) <a href="Easy/168/Excel_Sheet_Column_Title.ipynb">168. Excel Sheet Column Title </a> 
   * -[x] (完成日期: 2020/10/07) <a href="Easy/171/Excel_Sheet_Column_Number.ipynb">171. Excel Sheet Column Number </a> 
   * -[x] (完成日期: 2020/10/15) <a href="Easy/172/Factorial_Trailing_Zeroes.ipynb">172. Factorial Trailing Zeroes </a> 
