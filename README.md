@@ -138,6 +138,7 @@
   * -[x] (完成日期: 2020/11/06) <a href="Medium/287/Find_the_Duplicate_Number.ipynb">287. Find the Duplicate Number </a>
   * -[x] (完成日期: 2020/10/29) <a href="Medium/537/Complex_Number_Multiplication.ipynb">537. Complex Number Multiplication </a>
   * -[x] (完成日期: 2020/11/02) <a href="Medium/581/Shortest_Unsorted_Continuous_Subarray.ipynb">581. Shortest Unsorted Continuous Subarray </a>
+  * -[x] (完成日期: 2020/11/24) <a href="Medium/609/Find_Duplicate_File_in_System.ipynb">609. Find Duplicate File in System </a>
   * -[x] (完成日期: 2020/11/24) <a href="Medium/831/Masking_Personal_Information.ipynb">831. Masking Personal Information </a>
   * -[x] (完成日期: 2020/10/29) <a href="Medium/949/Largest_Time_for_Given_Digits.ipynb">949. Largest Time for Given Digits </a> 
   * -[x] (完成日期: 2020/11/11) <a href="Medium/954/Array_of_Doubled_Pairs.ipynb">954. Array of Doubled Pairs </a> 
