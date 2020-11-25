@@ -128,6 +128,7 @@
   * -[x] (完成日期: 2020/11/20) <a href="Easy/1629/Slowest_Key.ipynb">1629. Slowest Key </a>
   * -[x] (完成日期: 2020/11/10) <a href="Easy/1636/Sort_Array_by_Increasing_Frequency.ipynb">1636. Sort Array by Increasing Frequency </a>
   * -[x] (完成日期: 2020/11/02) <a href="Easy/1640/Check_Array_Formation_Through_Concatenation.ipynb">1640. Check Array Formation Through Concatenation </a>
+  * -[x] (完成日期: 2020/11/25) <a href="Easy/1646/Get_Maximum_in_Generated_Array.ipynb">1646. Get Maximum in Generated Array </a>
   * -[x] (完成日期: 2020/11/24) <a href="Easy/1662/Check_If_Two_String_Arrays_are_Equivalent.ipynb">1662. Check If Two String Arrays are Equivalent </a>
 
 * Medium:  
@@ -136,6 +137,7 @@
   * -[x] (完成日期: 2020/10/31) <a href="Medium/75/Sort_Colors.ipynb">75. Sort Colors </a>
   * -[x] (完成日期: 2020/11/12) <a href="Medium/240/Search_a_2D_Matrix_II.ipynb">240. Search a 2D Matrix II </a>
   * -[x] (完成日期: 2020/11/06) <a href="Medium/287/Find_the_Duplicate_Number.ipynb">287. Find the Duplicate Number </a>
+  * -[x] (完成日期: 2020/11/25) <a href="Medium/299/Bulls_and_Cows.ipynb">299. Bulls and Cows </a>
   * -[x] (完成日期: 2020/10/29) <a href="Medium/537/Complex_Number_Multiplication.ipynb">537. Complex Number Multiplication </a>
   * -[x] (完成日期: 2020/11/02) <a href="Medium/581/Shortest_Unsorted_Continuous_Subarray.ipynb">581. Shortest Unsorted Continuous Subarray </a>
   * -[x] (完成日期: 2020/11/24) <a href="Medium/609/Find_Duplicate_File_in_System.ipynb">609. Find Duplicate File in System </a>
