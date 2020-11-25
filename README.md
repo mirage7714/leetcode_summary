@@ -110,6 +110,7 @@
   * -[x] (完成日期: 2020/11/20) <a href="Easy/1436/Destination_City.ipynb">1436. Destination City </a>
   * -[x] (完成日期: 2020/10/27) <a href="Easy/1446/Consecutive_Characters.ipynb">1446. Consecutive Characters </a>
   * -[x] (完成日期: 2020/11/14) <a href="Easy/1455/Check_If_a_Word_Occurs_As_a_Prefix_of_Any_Word_in_a_Sentence.ipynb">1455. Check If a Word Occurs As a Prefix of Any Word in a Sentence </a>
+  * -[x] (完成日期: 2020/11/25) <a href="Easy/1460/Make_Two_Arrays_Equal_by_Reversing_Sub-arrays.ipynb">1460. Make Two Arrays Equal by Reversing Sub-arrays </a>
   * -[x] (完成日期: 2020/10/14) <a href="Easy/1491/Average_Salary_Excluding_the_Minimum_and_Maximum_Salary.ipynb">1491. Average Salary Excluding the Minimum and Maximum Salary </a> 
   * -[x] (完成日期: 2020/11/02) <a href="Easy/1496/Path_Crossing.ipynb">1496. Path Crossing </a> 
   * -[x] (完成日期: 2020/10/13) <a href="Easy/1507/Reformat_Date.ipynb">1507. Reformat Date </a> 
