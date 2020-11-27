@@ -115,7 +115,8 @@
   * -[x] (完成日期: 2020/10/14) <a href="Easy/1491/Average_Salary_Excluding_the_Minimum_and_Maximum_Salary.ipynb">1491. Average Salary Excluding the Minimum and Maximum Salary </a> 
   * -[x] (完成日期: 2020/11/02) <a href="Easy/1496/Path_Crossing.ipynb">1496. Path Crossing </a> 
   * -[x] (完成日期: 2020/10/13) <a href="Easy/1507/Reformat_Date.ipynb">1507. Reformat Date </a> 
-  * -[x] (完成日期: 2020/10/13) <a href="Easy/1523/Count_Odd_Numbers_in_an_Interval_Range.ipynb">1523. Count Odd Numbers in an Interval Range </a> 
+  * -[x] (完成日期: 2020/10/13) <a href="Easy/1523/Count_Odd_Numbers_in_an_Interval_Range.ipynb">1523. Count Odd Numbers in an Interval Range </a>
+  * -[x] (完成日期: 2020/11/27) <a href="Easy/1534/Count_Good_Triplets.ipynb">1534. Count Good Triplets </a>
   * -[x] (完成日期: 2020/10/14) <a href="Easy/1556/Thousand_Separator.ipynb">1556. Thousand Separator </a>
   * -[x] (完成日期: 2020/11/03) <a href="Easy/1566/Detect_Pattern_of_Length_M_Repeated_K_or_More_Times.ipynb">1566. Detect Pattern of Length M Repeated K or More Times </a>
   * -[x] (完成日期: 2020/10/14) <a href="Easy/1572/Matrix_Diagonal_Sum.ipynb">1572. Matrix Diagonal Sum </a> 
@@ -131,6 +132,7 @@
   * -[x] (完成日期: 2020/11/10) <a href="Easy/1636/Sort_Array_by_Increasing_Frequency.ipynb">1636. Sort Array by Increasing Frequency </a>
   * -[x] (完成日期: 2020/11/02) <a href="Easy/1640/Check_Array_Formation_Through_Concatenation.ipynb">1640. Check Array Formation Through Concatenation </a>
   * -[x] (完成日期: 2020/11/25) <a href="Easy/1646/Get_Maximum_in_Generated_Array.ipynb">1646. Get Maximum in Generated Array </a>
+  * -[x] (完成日期: 2020/11/27) <a href="Easy/1652/Defuse_the_Bomb.ipynb">1652. Defuse the Bomb </a>
   * -[x] (完成日期: 2020/11/24) <a href="Easy/1662/Check_If_Two_String_Arrays_are_Equivalent.ipynb">1662. Check If Two String Arrays are Equivalent </a>
 
 * Medium:  
@@ -146,7 +148,8 @@
   * -[x] (完成日期: 2020/11/24) <a href="Medium/831/Masking_Personal_Information.ipynb">831. Masking Personal Information </a>
   * -[x] (完成日期: 2020/10/29) <a href="Medium/949/Largest_Time_for_Given_Digits.ipynb">949. Largest Time for Given Digits </a> 
   * -[x] (完成日期: 2020/11/11) <a href="Medium/954/Array_of_Doubled_Pairs.ipynb">954. Array of Doubled Pairs </a> 
-  * -[x] (完成日期: 2020/11/10) <a href="Medium/1366/Rank_Teams_by_Votes.ipynb">1366. Rank Teams by Votes </a> 
+  * -[x] (完成日期: 2020/11/10) <a href="Medium/1366/Rank_Teams_by_Votes.ipynb">1366. Rank Teams by Votes </a>
+  * -[x] (完成日期: 2020/11/27) <a href="Medium/1509/Minimum_Difference_Between_Largest_and_Smallest_Value_in_Three_Moves.ipynb">1509. Minimum Difference Between Largest and Smallest Value in Three Moves </a>
   * -[x] (完成日期: 2020/11/07) <a href="Medium/1561/Maximum_Number_of_Coins_You_Can_Get.ipynb">1561. Maximum Number of Coins You Can Get </a> 
  
 * Hard:
