@@ -55,6 +55,7 @@
   * -[x] (完成日期: 2020/11/23) <a href="Easy/766/Toeplitz_Matrix.ipynb">766. Toeplitz Matrix </a> 
   * -[x] (完成日期: 2020/10/28) <a href="Easy/811/Subdomain_Visit_Count.ipynb">811. Subdomain Visit Count </a> 
   * -[x] (完成日期: 2020/10/11) <a href="Easy/819/Most_Common_Word.ipynb">819. Most Common Word </a>
+  * -[x] (完成日期: 2020/11/27) <a href="Easy/821/Shortest_Distance_to_a_Character.ipynb">821. Shortest Distance to a Character </a>
   * -[x] (完成日期: 2020/11/03) <a href="Easy/830/Positions_of_Large_Groups.ipynb">830. Positions of Large Groups </a>
   * -[x] (完成日期: 2020/10/11) <a href="Easy/844/Backspace_String_Compare.ipynb">844. Backspace String Compare </a> 
   * -[x] (完成日期: 2020/10/08) <a href="Easy/852/Peak_Index_in_a_Mountain_Array.ipynb">852. Peak Index in a Mountain Array </a> 
@@ -86,6 +87,7 @@
   * -[x] (完成日期: 2020/10/19) <a href="Easy/1103/Distribute_Candies_to_People.ipynb">1103. Distribute Candies to People </a> 
   * -[x] (完成日期: 2020/10/13) <a href="Easy/1108/Defanging_an_IP_Address.ipynb">1108. Defanging an IP Address </a> 
   * -[x] (完成日期: 2020/10/21) <a href="Easy/1170/Compare_Strings_by_Frequency_of_the_Smallest_Character.ipynb">1170. Compare Strings by Frequency of the Smallest Character </a> 
+  * -[x] (完成日期: 2020/11/27) <a href="Easy/1184/Distance_Between_Bus_Stops.ipynb">1184. Distance Between Bus Stops </a>
   * -[x] (完成日期: 2020/10/19) <a href="Easy/1221/Split_a_String_in_Balanced_Strings.ipynb">1221. Split a String in Balanced Strings </a> 
   * -[x] (完成日期: 2020/10/07) <a href="Easy/1232/Check_If_It_Is_a_Straight_Line.ipynb">1232. Check If It Is a Straight Line </a> 
   * -[x] (完成日期: 2020/10/21) <a href="Easy/1252/Cells_with_Odd_Values_in_a_Matrix.ipynb">1252. Cells with Odd Values in a Matrix </a> 
