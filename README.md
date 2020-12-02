@@ -136,6 +136,9 @@
   * -[x] (完成日期: 2020/11/25) <a href="Easy/1646/Get_Maximum_in_Generated_Array.ipynb">1646. Get Maximum in Generated Array </a>
   * -[x] (完成日期: 2020/11/27) <a href="Easy/1652/Defuse_the_Bomb.ipynb">1652. Defuse the Bomb </a>
   * -[x] (完成日期: 2020/11/24) <a href="Easy/1662/Check_If_Two_String_Arrays_are_Equivalent.ipynb">1662. Check If Two String Arrays are Equivalent </a>
+  * -[x] (完成日期: 2020/12/02) <a href="Easy/1668/Maximum_Repeating_Substring.ipynb">1668. Maximum Repeating Substring </a>
+  * -[x] (完成日期: 2020/12/02) <a href="Easy/1672/Richest_Customer_Wealth.ipynb">1672. Richest Customer Wealth </a>
+
 
 * Medium:  
   * -[x] (完成日期: 2020/10/31) <a href="Medium/73/Set_Matrix_Zeroes.ipynb">73. Set Matrix Zeroes </a>
