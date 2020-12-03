@@ -47,6 +47,7 @@
   * -[x] (完成日期: 2020/10/30) <a href="Easy/594/Longest_Harmonious_Subsequence.ipynb">594. Longest Harmonious Subsequence </a> 
   * -[x] (完成日期: 2020/10/30) <a href="Easy/598/Range_Addition_II.ipynb">598. Range Addition II </a>
   * -[x] (完成日期: 2020/11/12) <a href="Easy/674/Longest_Continuous_Increasing_Subsequence.ipynb">674. Longest Continuous Increasing Subsequence </a>
+  * -[x] (完成日期: 2020/12/03) <a href="Easy/682/Baseball_Game.ipynb">682. Baseball Game </a>
   * -[x] (完成日期: 2020/11/14) <a href="Easy/690/Employee_Importance.ipynb">690. Employee Importance </a>
   * -[x] (完成日期: 2020/11/14) <a href="Easy/724/Find_Pivot_Index.ipynb">724. Find Pivot Index </a>
   * -[x] (完成日期: 2020/10/29) <a href="Easy/744/Find_Smallest_Letter_Greater_Than_Target.ipynb">744. Find Smallest Letter Greater Than Target </a>
@@ -92,6 +93,7 @@
   * -[x] (完成日期: 2020/10/07) <a href="Easy/1232/Check_If_It_Is_a_Straight_Line.ipynb">1232. Check If It Is a Straight Line </a> 
   * -[x] (完成日期: 2020/10/21) <a href="Easy/1252/Cells_with_Odd_Values_in_a_Matrix.ipynb">1252. Cells with Odd Values in a Matrix </a> 
   * -[x] (完成日期: 2020/10/28) <a href="Easy/1260/Shift_2D_Grid.ipynb">1260. Shift 2D Grid </a> 
+  * -[x] (完成日期: 2020/12/03) <a href="Easy/1266/Minimum_Time_Visiting_All_Points.ipynb">1266. Minimum Time Visiting All Points </a> 
   * -[x] (完成日期: 2020/10/12) <a href="Easy/1287/Element_Appearing_More_Than_25%_In_Sorted_Array.ipynb">1287. Element Appearing More Than 25% In Sorted Array </a> 
   * -[x] (完成日期: 2020/10/13) <a href="Easy/1290/Convert_Binary_Number_in_a_Linked_List_to_Integer.ipynb">1290. Convert Binary Number in a Linked List to Integer </a>
   * -[x] (完成日期: 2020/10/06) <a href="Easy/1299/Replace_Elements_with_Greatest_Element_on_Right_Side.ipynb">1299. Replace Elements with Greatest Element on Right Side </a>
@@ -126,6 +128,7 @@
   * -[x] (完成日期: 2020/11/01) <a href="Easy/1582/Special_Positions_in_a_Binary_Matrix.ipynb">1582. Special Positions in a Binary Matrix </a> 
   * -[x] (完成日期: 2020/10/12) <a href="Easy/1588/Sumof_All_Odd_Length_Subarrays.ipynb">1588. Sum of All Odd Length Subarrays </a> 
   * -[x] (完成日期: 2020/11/01) <a href="Easy/1592/Rearrange_Spaces_Between_Words.ipynb">1592. Rearrange Spaces Between Words </a> 
+  * -[x] (完成日期: 2020/12/03) <a href="Easy/1598/Crawler_Log_Folder.ipynb">1598. Crawler Log Folder </a> 
   * -[x] (完成日期: 2020/10/13) <a href="Easy/1608/Special_Array_With_X_Elements_Greater_Than_or_Equal_X.ipynb">1608. Special Array With X Elements Greater Than or Equal X </a>
   * -[x] (完成日期: 2020/11/07) <a href="Easy/1614/Maximum_Nesting_Depth_of_the_Parentheses.ipynb">1614. Maximum Nesting Depth of the Parentheses </a>
   * -[x] (完成日期: 2020/11/01) <a href="Easy/1619/Mean_of_Array_After_Removing_Some_Elements.ipynb">1619. Mean of Array After Removing Some Elements </a>
