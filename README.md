@@ -150,6 +150,7 @@
   * -[x] (完成日期: 2020/10/31) <a href="Medium/75/Sort_Colors.ipynb">75. Sort Colors </a>
   * -[x] (完成日期: 2020/12/05) <a href="Medium/151/Reverse_Words_in_a_String.ipynb">151. Reverse Words in a String </a>
   * -[x] (完成日期: 2020/12/05) <a href="Medium/162/Find_Peak_Element.ipynb">162. Find Peak Element </a>
+  * -[x] (完成日期: 2020/12/05) <a href="Medium/189/Rotate_Array.ipynb">189. Rotate Array </a>
   * -[x] (完成日期: 2020/11/12) <a href="Medium/240/Search_a_2D_Matrix_II.ipynb">240. Search a 2D Matrix II </a>
   * -[x] (完成日期: 2020/11/06) <a href="Medium/287/Find_the_Duplicate_Number.ipynb">287. Find the Duplicate Number </a>
   * -[x] (完成日期: 2020/11/25) <a href="Medium/299/Bulls_and_Cows.ipynb">299. Bulls and Cows </a>
