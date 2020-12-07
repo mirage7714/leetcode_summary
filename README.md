@@ -31,7 +31,8 @@
   * -[x] (完成日期: 2020/10/27) <a href="Easy/392/Is_Subsequence.ipynb">392. Is Subsequence </a>
   * -[x] (完成日期: 2020/10/15) <a href="Easy/405/Convert_a_Number_to_Hexadecimal.ipynb">405. Convert a Number to Hexadecimal </a> 
   * -[x] (完成日期: 2020/10/10) <a href="Easy/409/Longest_Palindrome.ipynb">409. Longest Palindrome </a> 
-  * -[x] (完成日期: 2020/10/11) <a href="Easy/441/Arranging_Coins.ipynb">441. Arranging Coins </a> 
+  * -[x] (完成日期: 2020/10/11) <a href="Easy/441/Arranging_Coins.ipynb">441. Arranging Coins </a>
+  * -[x] (完成日期: 2020/12/07) <a href="Easy/448/Find_All_Numbers_Disappeared_in_an_Array.ipynb">448. Find All Numbers Disappeared in an Array </a>
   * -[x] (完成日期: 2020/10/30) <a href="Easy/455/Assign_Cookies.ipynb">455. Assign Cookies </a>
   * -[x] (完成日期: 2020/11/10) <a href="Easy/459/Repeated_Substring_Pattern.ipynb">459. Repeated Substring Pattern </a>
   * -[x] (完成日期: 2020/10/30) <a href="Easy/461/Hamming_Distance.ipynb">461. Hamming Distance </a>
@@ -142,7 +143,7 @@
   * -[x] (完成日期: 2020/11/24) <a href="Easy/1662/Check_If_Two_String_Arrays_are_Equivalent.ipynb">1662. Check If Two String Arrays are Equivalent </a>
   * -[x] (完成日期: 2020/12/02) <a href="Easy/1668/Maximum_Repeating_Substring.ipynb">1668. Maximum Repeating Substring </a>
   * -[x] (完成日期: 2020/12/02) <a href="Easy/1672/Richest_Customer_Wealth.ipynb">1672. Richest Customer Wealth </a>
-
+  * -[x] (完成日期: 2020/12/07) <a href="Easy/1678/Goal_Parser_Interpretation.ipynb">1678. Goal Parser Interpretation </a>
 
 * Medium:  
   * -[x] (完成日期: 2020/12/06) <a href="Medium/48/Rotate_Image.ipynb">48. Rotate Image </a>
@@ -157,6 +158,7 @@
   * -[x] (完成日期: 2020/12/06) <a href="Medium/260/Single_Number_III.ipynb">260. Single Number III </a>
   * -[x] (完成日期: 2020/11/06) <a href="Medium/287/Find_the_Duplicate_Number.ipynb">287. Find the Duplicate Number </a>
   * -[x] (完成日期: 2020/11/25) <a href="Medium/299/Bulls_and_Cows.ipynb">299. Bulls and Cows </a>
+  * -[x] (完成日期: 2020/12/07) <a href="Medium/442/Find_All_Duplicates_in_an_Array.ipynb">442. Find All Duplicates in an Array </a>
   * -[x] (完成日期: 2020/10/29) <a href="Medium/537/Complex_Number_Multiplication.ipynb">537. Complex Number Multiplication </a>
   * -[x] (完成日期: 2020/12/05) <a href="Medium/540/Single_Element_in_a_Sorted_Array.ipynb">540. Single Element in a Sorted Array </a>
   * -[x] (完成日期: 2020/11/02) <a href="Medium/581/Shortest_Unsorted_Continuous_Subarray.ipynb">581. Shortest Unsorted Continuous Subarray </a>
