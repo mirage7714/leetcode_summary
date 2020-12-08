@@ -104,6 +104,7 @@
   * -[x] (完成日期: 2020/10/17) <a href="Easy/1313/Decompress_Run-Length_Encoded_List.ipynb">1313. Decompress Run-Length Encoded List </a> 
   * -[x] (完成日期: 2020/10/14) <a href="Easy/1317/Convert_Integer_to_the_Sum_of_Two_No-Zero_Integers.ipynb">1317. Convert Integer to the Sum of Two No-Zero Integers </a> 
   * -[x] (完成日期: 2020/10/07) <a href="Easy/1323/Maximum_69_Number.ipynb">1323. Maximum 69 Number </a>
+  * -[x] (完成日期: 2020/12/08) <a href="Easy/1331/Rank_Transform_of_an_Array.ipynb">1331. Rank Transform of an Array </a>
   * -[x] (完成日期: 2020/11/11) <a href="Easy/1337/The_K_Weakest_Rows_in_a_Matrix.ipynb">1337. The K Weakest Rows in a Matrix </a>
   * -[x] (完成日期: 2020/10/14) <a href="Easy/1351/Count_Negative_Numbers_in_a_Sorted_Matrix.ipynb">1351. Count Negative Numbers in a Sorted Matrix </a> 
   * -[x] (完成日期: 2020/11/07) <a href="Easy/1356/Sort_Integers_by_The_Number_of_1_Bits.ipynb">1356. Sort Integers by The Number of 1 Bits </a>
@@ -162,6 +163,7 @@
   * -[x] (完成日期: 2020/10/29) <a href="Medium/537/Complex_Number_Multiplication.ipynb">537. Complex Number Multiplication </a>
   * -[x] (完成日期: 2020/12/05) <a href="Medium/540/Single_Element_in_a_Sorted_Array.ipynb">540. Single Element in a Sorted Array </a>
   * -[x] (完成日期: 2020/11/02) <a href="Medium/581/Shortest_Unsorted_Continuous_Subarray.ipynb">581. Shortest Unsorted Continuous Subarray </a>
+  * -[x] (完成日期: 2020/12/08) <a href="Medium/593/Valid_Square.ipynb">593. Valid Square </a>
   * -[x] (完成日期: 2020/11/24) <a href="Medium/609/Find_Duplicate_File_in_System.ipynb">609. Find Duplicate File in System </a>
   * -[x] (完成日期: 2020/11/24) <a href="Medium/831/Masking_Personal_Information.ipynb">831. Masking Personal Information </a>
   * -[x] (完成日期: 2020/10/29) <a href="Medium/949/Largest_Time_for_Given_Digits.ipynb">949. Largest Time for Given Digits </a> 
