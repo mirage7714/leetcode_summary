@@ -171,6 +171,7 @@
   * -[x] (完成日期: 2020/11/10) <a href="Medium/1366/Rank_Teams_by_Votes.ipynb">1366. Rank Teams by Votes </a>
   * -[x] (完成日期: 2020/12/10) <a href="Medium/1395/Count_Number_of_Teams.ipynb">1395. Count Number of Teams </a>
   * -[x] (完成日期: 2020/12/09) <a href="Medium/1410/HTML_Entity_Parser.ipynb">1410. HTML Entity Parser </a>
+  * -[x] (完成日期: 2020/12/12) <a href="Medium/1451/Rearrange_Words_in_a_Sentence.ipynb">1451. Rearrange Words in a Sentence </a>
   * -[x] (完成日期: 2020/11/27) <a href="Medium/1509/Minimum_Difference_Between_Largest_and_Smallest_Value_in_Three_Moves.ipynb">1509. Minimum Difference Between Largest and Smallest Value in Three Moves </a>
   * -[x] (完成日期: 2020/11/07) <a href="Medium/1561/Maximum_Number_of_Coins_You_Can_Get.ipynb">1561. Maximum Number of Coins You Can Get </a> 
   * -[x] (完成日期: 2020/12/09) <a href="Medium/1641/Count_Sorted_Vowel_Strings.ipynb">1641. Count Sorted Vowel Strings </a>
