@@ -48,6 +48,7 @@
   * -[x] (完成日期: 2020/12/05) <a href="Easy/575/Distribute_Candies.ipynb">575. Distribute Candies </a> 
   * -[x] (完成日期: 2020/10/30) <a href="Easy/594/Longest_Harmonious_Subsequence.ipynb">594. Longest Harmonious Subsequence </a> 
   * -[x] (完成日期: 2020/10/30) <a href="Easy/598/Range_Addition_II.ipynb">598. Range Addition II </a>
+  * -[x] (完成日期: 2020/12/15) <a href="Easy/599/Minimum_Index_Sum_of_Two_Lists.ipynb">599. Minimum Index Sum of Two Lists </a>
   * -[x] (完成日期: 2020/11/12) <a href="Easy/674/Longest_Continuous_Increasing_Subsequence.ipynb">674. Longest Continuous Increasing Subsequence </a>
   * -[x] (完成日期: 2020/12/03) <a href="Easy/682/Baseball_Game.ipynb">682. Baseball Game </a>
   * -[x] (完成日期: 2020/11/14) <a href="Easy/690/Employee_Importance.ipynb">690. Employee Importance </a>
