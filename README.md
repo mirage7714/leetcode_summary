@@ -170,6 +170,7 @@
   * -[x] (完成日期: 2020/12/08) <a href="Medium/593/Valid_Square.ipynb">593. Valid Square </a>
   * -[x] (完成日期: 2020/11/24) <a href="Medium/609/Find_Duplicate_File_in_System.ipynb">609. Find Duplicate File in System </a>
   * -[x] (完成日期: 2020/12/17) <a href="Medium/784/Letter_Case_Permutation.ipynb">784. Letter Case Permutation </a>
+  * -[x] (完成日期: 2020/12/20) <a href="Medium/807/Max_Increase_to_Keep_City_Skyline.ipynb">807. Max Increase to Keep City Skyline </a>
   * -[x] (完成日期: 2020/11/24) <a href="Medium/831/Masking_Personal_Information.ipynb">831. Masking Personal Information </a>
   * -[x] (完成日期: 2020/10/29) <a href="Medium/949/Largest_Time_for_Given_Digits.ipynb">949. Largest Time for Given Digits </a> 
   * -[x] (完成日期: 2020/11/11) <a href="Medium/954/Array_of_Doubled_Pairs.ipynb">954. Array of Doubled Pairs </a> 
