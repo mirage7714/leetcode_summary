@@ -149,6 +149,7 @@
   * -[x] (完成日期: 2020/12/07) <a href="Easy/1678/Goal_Parser_Interpretation.ipynb">1678. Goal Parser Interpretation </a>
   * -[x] (完成日期: 2020/12/13) <a href="Easy/1684/Count_the_Number_of_Consistent_Strings.ipynb">1684. Count the Number of Consistent Strings </a>
   * -[x] (完成日期: 2020/12/13) <a href="Easy/1688/Count_of_Matches_in_Tournament.ipynb">1688. Count of Matches in Tournament </a>
+  * -[x] (完成日期: 2020/12/31) <a href="Easy/1700/Number_of_Students_Unable_to_Eat_Lunch.ipynb">1700. Number of Students Unable to Eat Lunch </a>
   * -[x] (完成日期: 2020/12/29) <a href="Easy/1704/Determine_if_String_Halves_Are_Alike.ipynb">1704. Determine if String Halves Are Alike </a>
 
 * Medium:  
@@ -184,6 +185,7 @@
   * -[x] (完成日期: 2020/12/09) <a href="Medium/1641/Count_Sorted_Vowel_Strings.ipynb">1641. Count Sorted Vowel Strings </a>
   * -[x] (完成日期: 2020/12/10) <a href="Medium/1647/Minimum_Deletions_to_Make_Character_Frequencies_Unique.ipynb">1647. Minimum Deletions to Make Character Frequencies Unique </a>
   * -[x] (完成日期: 2020/12/09) <a href="Medium/1679/Max_Number_of_K-Sum_Pairs.ipynb">1679. Max Number of K-Sum Pairs </a>
+  * -[x] (完成日期: 2020/12/31) <a href="Medium/1685/Sum_of_Absolute_Differences_in_a_Sorted_Array.ipynb">1685. Sum of Absolute Differences in a Sorted Array </a>
  
 * Hard:
   * -[x] (完成日期: 2020/11/06) <a href="Hard/41/First_Missing_Positive.ipynb">41. First Missing Positive </a>
