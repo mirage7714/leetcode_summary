@@ -149,6 +149,7 @@
   * -[x] (完成日期: 2020/12/07) <a href="Easy/1678/Goal_Parser_Interpretation.ipynb">1678. Goal Parser Interpretation </a>
   * -[x] (完成日期: 2020/12/13) <a href="Easy/1684/Count_the_Number_of_Consistent_Strings.ipynb">1684. Count the Number of Consistent Strings </a>
   * -[x] (完成日期: 2020/12/13) <a href="Easy/1688/Count_of_Matches_in_Tournament.ipynb">1688. Count of Matches in Tournament </a>
+  * -[x] (完成日期: 2021/01/01) <a href="Easy/1694/Reformat_Phone_Number.ipynb">1694. Reformat Phone Number </a>
   * -[x] (完成日期: 2020/12/31) <a href="Easy/1700/Number_of_Students_Unable_to_Eat_Lunch.ipynb">1700. Number of Students Unable to Eat Lunch </a>
   * -[x] (完成日期: 2020/12/29) <a href="Easy/1704/Determine_if_String_Halves_Are_Alike.ipynb">1704. Determine if String Halves Are Alike </a>
 
