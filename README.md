@@ -180,18 +180,25 @@
   * -[x] (完成日期: 2020/11/24) <a href="Medium/831/Masking_Personal_Information.ipynb">831. Masking Personal Information </a>
   * -[x] (完成日期: 2020/10/29) <a href="Medium/949/Largest_Time_for_Given_Digits.ipynb">949. Largest Time for Given Digits </a> 
   * -[x] (完成日期: 2020/11/11) <a href="Medium/954/Array_of_Doubled_Pairs.ipynb">954. Array of Doubled Pairs </a> 
+  * -[x] (完成日期: 2021/01/09) <a href="Medium/1347/Minimum_Number_of_Steps_to_Make_Two_Strings_Anagram.ipynb">1347. Minimum Number of Steps to Make Two Strings Anagram </a>
   * -[x] (完成日期: 2020/11/10) <a href="Medium/1366/Rank_Teams_by_Votes.ipynb">1366. Rank Teams by Votes </a>
   * -[x] (完成日期: 2020/12/10) <a href="Medium/1395/Count_Number_of_Teams.ipynb">1395. Count Number of Teams </a>
   * -[x] (完成日期: 2020/12/09) <a href="Medium/1410/HTML_Entity_Parser.ipynb">1410. HTML Entity Parser </a>
+  * -[x] (完成日期: 2021/01/09) <a href="Medium/1447/Simplified_Fractions.ipynb">1447. Simplified Fractions </a>
   * -[x] (完成日期: 2020/12/12) <a href="Medium/1451/Rearrange_Words_in_a_Sentence.ipynb">1451. Rearrange Words in a Sentence </a>
+  * -[x] (完成日期: 2021/01/09) <a href="Medium/1492/The_kth_Factor_of_n.ipynb">1492. The kth Factor of n </a>
+  * -[x] (完成日期: 2021/01/09) <a href="Medium/1508/Range_Sum_of_Sorted_Subarray_Sums.ipynb">1508. Range Sum of Sorted Subarray Sums </a>
   * -[x] (完成日期: 2020/11/27) <a href="Medium/1509/Minimum_Difference_Between_Largest_and_Smallest_Value_in_Three_Moves.ipynb">1509. Minimum Difference Between Largest and Smallest Value in Three Moves </a>
   * -[x] (完成日期: 2020/11/07) <a href="Medium/1561/Maximum_Number_of_Coins_You_Can_Get.ipynb">1561. Maximum Number of Coins You Can Get </a> 
   * -[x] (完成日期: 2020/12/09) <a href="Medium/1641/Count_Sorted_Vowel_Strings.ipynb">1641. Count Sorted Vowel Strings </a>
   * -[x] (完成日期: 2020/12/10) <a href="Medium/1647/Minimum_Deletions_to_Make_Character_Frequencies_Unique.ipynb">1647. Minimum Deletions to Make Character Frequencies Unique </a>
+  * -[x] (完成日期: 2021/01/09) <a href="Medium/1657/Determine_if_Two_Strings_Are_Close.ipynb">1657. Determine if Two Strings Are Close </a>
   * -[x] (完成日期: 2020/12/09) <a href="Medium/1679/Max_Number_of_K-Sum_Pairs.ipynb">1679. Max Number of K-Sum Pairs </a>
   * -[x] (完成日期: 2020/12/31) <a href="Medium/1685/Sum_of_Absolute_Differences_in_a_Sorted_Array.ipynb">1685. Sum of Absolute Differences in a Sorted Array </a>
+  * -[x] (完成日期: 2021/01/09) <a href="Medium/1701/Average_Waiting_Time.ipynb">1701. Average Waiting Time </a>
  
 * Hard:
+  * -[x] (完成日期: 2021/01/09) <a href="Hard/4/Median_of_Two_Sorted_Arrays.ipynb">4. Median of Two Sorted Arrays </a>
   * -[x] (完成日期: 2020/11/06) <a href="Hard/41/First_Missing_Positive.ipynb">41. First Missing Positive </a>
   * -[x] (完成日期: 2020/12/31) <a href="Hard/154/Find_Minimum_in_Rotated_Sorted_Array_II.ipynb">154. Find Minimum in Rotated Sorted Array II </a>
 
