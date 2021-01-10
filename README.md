@@ -154,6 +154,9 @@
   * -[x] (完成日期: 2021/01/01) <a href="Easy/1694/Reformat_Phone_Number.ipynb">1694. Reformat Phone Number </a>
   * -[x] (完成日期: 2020/12/31) <a href="Easy/1700/Number_of_Students_Unable_to_Eat_Lunch.ipynb">1700. Number of Students Unable to Eat Lunch </a>
   * -[x] (完成日期: 2020/12/29) <a href="Easy/1704/Determine_if_String_Halves_Are_Alike.ipynb">1704. Determine if String Halves Are Alike </a>
+  * -[x] (完成日期: 2021/01/10) <a href="Easy/1710/Maximum_Units_on_a_Truck.ipynb">1710. Maximum Units on a Truck </a>
+  * -[x] (完成日期: 2021/01/10) <a href="Easy/1716/Calculate_Money_in_Leetcode_Bank.ipynb">1716. Calculate Money in Leetcode Bank </a>
+  * -[x] (完成日期: 2021/01/10) <a href="Easy/1720/Decode_XORed_Array.ipynb">1720. Decode XORed Array </a>
 
 * Medium:  
   * -[x] (完成日期: 2020/12/06) <a href="Medium/48/Rotate_Image.ipynb">48. Rotate Image </a>
