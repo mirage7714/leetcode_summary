@@ -195,6 +195,7 @@
   * -[x] (完成日期: 2021/01/09) <a href="Medium/1492/The_kth_Factor_of_n.ipynb">1492. The kth Factor of n </a>
   * -[x] (完成日期: 2021/01/09) <a href="Medium/1508/Range_Sum_of_Sorted_Subarray_Sums.ipynb">1508. Range Sum of Sorted Subarray Sums </a>
   * -[x] (完成日期: 2020/11/27) <a href="Medium/1509/Minimum_Difference_Between_Largest_and_Smallest_Value_in_Three_Moves.ipynb">1509. Minimum Difference Between Largest and Smallest Value in Three Moves </a>
+  * -[x] (完成日期: 2021/01/12) <a href="Medium/1513/Number_of_Substrings_With_Only_1s.ipynb">1513. Number of Substrings With Only 1s </a>
   * -[x] (完成日期: 2020/11/07) <a href="Medium/1561/Maximum_Number_of_Coins_You_Can_Get.ipynb">1561. Maximum Number of Coins You Can Get </a> 
   * -[x] (完成日期: 2020/12/09) <a href="Medium/1641/Count_Sorted_Vowel_Strings.ipynb">1641. Count Sorted Vowel Strings </a>
   * -[x] (完成日期: 2020/12/10) <a href="Medium/1647/Minimum_Deletions_to_Make_Character_Frequencies_Unique.ipynb">1647. Minimum Deletions to Make Character Frequencies Unique </a>
