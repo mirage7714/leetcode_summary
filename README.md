@@ -158,6 +158,7 @@
   * -[x] (完成日期: 2021/01/10) <a href="Easy/1710/Maximum_Units_on_a_Truck.ipynb">1710. Maximum Units on a Truck </a>
   * -[x] (完成日期: 2021/01/10) <a href="Easy/1716/Calculate_Money_in_Leetcode_Bank.ipynb">1716. Calculate Money in Leetcode Bank </a>
   * -[x] (完成日期: 2021/01/10) <a href="Easy/1720/Decode_XORed_Array.ipynb">1720. Decode XORed Array </a>
+  * -[x] (完成日期: 2021/01/18) <a href="Easy/1725/Number_Of_Rectangles_That_Can_Form_The_Largest_Square.ipynb">1725. Number Of Rectangles That Can Form The Largest Square </a>
 
 * Medium:  
   * -[x] (完成日期: 2020/12/06) <a href="Medium/48/Rotate_Image.ipynb">48. Rotate Image </a>
