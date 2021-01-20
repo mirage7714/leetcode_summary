@@ -189,6 +189,7 @@
   * -[x] (完成日期: 2020/12/17) <a href="Medium/784/Letter_Case_Permutation.ipynb">784. Letter Case Permutation </a>
   * -[x] (完成日期: 2020/12/20) <a href="Medium/807/Max_Increase_to_Keep_City_Skyline.ipynb">807. Max Increase to Keep City Skyline </a>
   * -[x] (完成日期: 2020/11/24) <a href="Medium/831/Masking_Personal_Information.ipynb">831. Masking Personal Information </a>
+  * -[x] (完成日期: 2021/01/20) <a href="Medium/846/Hand_of_Straights.ipynb">846. Hand of Straights </a>
   * -[x] (完成日期: 2020/10/29) <a href="Medium/949/Largest_Time_for_Given_Digits.ipynb">949. Largest Time for Given Digits </a> 
   * -[x] (完成日期: 2020/11/11) <a href="Medium/954/Array_of_Doubled_Pairs.ipynb">954. Array of Doubled Pairs </a>
   * -[x] (完成日期: 2021/01/16) <a href="Medium/973/K_Closest_Points_to_Origin.ipynb">973. K Closest Points to Origin </a>
