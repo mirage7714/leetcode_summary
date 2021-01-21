@@ -189,11 +189,12 @@
   * -[x] (完成日期: 2020/12/17) <a href="Medium/784/Letter_Case_Permutation.ipynb">784. Letter Case Permutation </a>
   * -[x] (完成日期: 2020/12/20) <a href="Medium/807/Max_Increase_to_Keep_City_Skyline.ipynb">807. Max Increase to Keep City Skyline </a>
   * -[x] (完成日期: 2020/11/24) <a href="Medium/831/Masking_Personal_Information.ipynb">831. Masking Personal Information </a>
-  * -[x] (完成日期: 2021/01/20) <a href="Medium/846/Hand_of_Straights.ipynb">846. Hand of Straights </a> (與No. 1296相同)
+  * -[x] (完成日期: 2021/01/20) <a href="Medium/846/Hand_of_Straights.ipynb">846. Hand of Straights </a> (題目與No. 1296相同)
   * -[x] (完成日期: 2021/01/20) <a href="Medium/869/Reordered_Power_of_2.ipynb">869. Reordered Power of 2 </a>
   * -[x] (完成日期: 2020/10/29) <a href="Medium/949/Largest_Time_for_Given_Digits.ipynb">949. Largest Time for Given Digits </a> 
   * -[x] (完成日期: 2020/11/11) <a href="Medium/954/Array_of_Doubled_Pairs.ipynb">954. Array of Doubled Pairs </a>
   * -[x] (完成日期: 2021/01/16) <a href="Medium/973/K_Closest_Points_to_Origin.ipynb">973. K Closest Points to Origin </a>
+  * -[x] (完成日期: 2021/01/21) <a href="Medium/1296/Divide_Array_in_Sets_of_K_Consecutive_Numbers.ipynb">1296. Divide Array in Sets of K Consecutive Numbers </a> (與No. 846相同)
   * -[x] (完成日期: 2021/01/09) <a href="Medium/1347/Minimum_Number_of_Steps_to_Make_Two_Strings_Anagram.ipynb">1347. Minimum Number of Steps to Make Two Strings Anagram </a>
   * -[x] (完成日期: 2020/11/10) <a href="Medium/1366/Rank_Teams_by_Votes.ipynb">1366. Rank Teams by Votes </a>
   * -[x] (完成日期: 2020/12/10) <a href="Medium/1395/Count_Number_of_Teams.ipynb">1395. Count Number of Teams </a>
