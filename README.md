@@ -209,6 +209,7 @@
   * -[x] (完成日期: 2021/01/12) <a href="Medium/1513/Number_of_Substrings_With_Only_1s.ipynb">1513. Number of Substrings With Only 1s </a>
   * -[x] (完成日期: 2020/11/07) <a href="Medium/1561/Maximum_Number_of_Coins_You_Can_Get.ipynb">1561. Maximum Number of Coins You Can Get </a> 
   * -[x] (完成日期: 2021/01/13) <a href="Medium/1578/Minimum_Deletion_Cost_to_Avoid_Repeating_Letters.ipynb">1578. Minimum Deletion Cost to Avoid Repeating Letters </a> 
+  * -[x] (完成日期: 2021/01/25) <a href="Medium/1604/Alert_Using_Same_Key-Card_Three_or_More_Times_in_a_One_Hour_Period.ipynb">1604. Alert Using Same Key-Card Three or More Times in a One Hour Period </a>
   * -[x] (完成日期: 2021/01/15) <a href="Medium/1630/Arithmetic_Subarrays.ipynb">1630. Arithmetic Subarrays </a>
   * -[x] (完成日期: 2020/12/09) <a href="Medium/1641/Count_Sorted_Vowel_Strings.ipynb">1641. Count Sorted Vowel Strings </a>
   * -[x] (完成日期: 2020/12/10) <a href="Medium/1647/Minimum_Deletions_to_Make_Character_Frequencies_Unique.ipynb">1647. Minimum Deletions to Make Character Frequencies Unique </a>
