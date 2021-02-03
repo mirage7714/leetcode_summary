@@ -184,6 +184,7 @@
   * -[x] (完成日期: 2020/10/29) <a href="Medium/537/Complex_Number_Multiplication.ipynb">537. Complex Number Multiplication </a>
   * -[x] (完成日期: 2021/01/12) <a href="Medium/539/Minimum_Time_Difference.ipynb">539. Minimum Time Difference </a>
   * -[x] (完成日期: 2020/12/05) <a href="Medium/540/Single_Element_in_a_Sorted_Array.ipynb">540. Single Element in a Sorted Array </a>
+  * -[x] (完成日期: 2021/02/03) <a href="Medium/567/Permutation_in_String.ipynb">567. Permutation in String </a>
   * -[x] (完成日期: 2020/11/02) <a href="Medium/581/Shortest_Unsorted_Continuous_Subarray.ipynb">581. Shortest Unsorted Continuous Subarray </a>
   * -[x] (完成日期: 2020/12/08) <a href="Medium/593/Valid_Square.ipynb">593. Valid Square </a>
   * -[x] (完成日期: 2020/11/24) <a href="Medium/609/Find_Duplicate_File_in_System.ipynb">609. Find Duplicate File in System </a>
