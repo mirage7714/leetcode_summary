@@ -138,7 +138,8 @@
   * -[x] (完成日期: 2020/11/01) <a href="Easy/1582/Special_Positions_in_a_Binary_Matrix.ipynb">1582. Special Positions in a Binary Matrix </a> 
   * -[x] (完成日期: 2020/10/12) <a href="Easy/1588/Sumof_All_Odd_Length_Subarrays.ipynb">1588. Sum of All Odd Length Subarrays </a> 
   * -[x] (完成日期: 2020/11/01) <a href="Easy/1592/Rearrange_Spaces_Between_Words.ipynb">1592. Rearrange Spaces Between Words </a> 
-  * -[x] (完成日期: 2020/12/03) <a href="Easy/1598/Crawler_Log_Folder.ipynb">1598. Crawler Log Folder </a> 
+  * -[x] (完成日期: 2020/12/03) <a href="Easy/1598/Crawler_Log_Folder.ipynb">1598. Crawler Log Folder </a>
+  * -[x] (完成日期: 2021/02/06) <a href="Easy/1603/Design_Parking_System.ipynb">1603. Design Parking System </a>  
   * -[x] (完成日期: 2020/10/13) <a href="Easy/1608/Special_Array_With_X_Elements_Greater_Than_or_Equal_X.ipynb">1608. Special Array With X Elements Greater Than or Equal X </a>
   * -[x] (完成日期: 2020/11/07) <a href="Easy/1614/Maximum_Nesting_Depth_of_the_Parentheses.ipynb">1614. Maximum Nesting Depth of the Parentheses </a>
   * -[x] (完成日期: 2020/11/01) <a href="Easy/1619/Mean_of_Array_After_Removing_Some_Elements.ipynb">1619. Mean of Array After Removing Some Elements </a>
