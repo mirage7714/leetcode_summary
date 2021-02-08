@@ -214,6 +214,7 @@
   * -[x] (完成日期: 2021/01/23) <a href="Medium/1338/Reduce_Array_Size_to_The_Half.ipynb">1338. Reduce Array Size to The Half </a>
   * -[x] (完成日期: 2021/01/09) <a href="Medium/1347/Minimum_Number_of_Steps_to_Make_Two_Strings_Anagram.ipynb">1347. Minimum Number of Steps to Make Two Strings Anagram </a>
   * -[x] (完成日期: 2020/11/10) <a href="Medium/1366/Rank_Teams_by_Votes.ipynb">1366. Rank Teams by Votes </a>
+  * -[x] (完成日期: 2021/02/08) <a href="Medium/1381/Design_a_Stack_With_Increment_Operation.ipynb">1381. Design a Stack With Increment Operation </a>
   * -[x] (完成日期: 2020/12/10) <a href="Medium/1395/Count_Number_of_Teams.ipynb">1395. Count Number of Teams </a>
   * -[x] (完成日期: 2020/12/09) <a href="Medium/1410/HTML_Entity_Parser.ipynb">1410. HTML Entity Parser </a>
   * -[x] (完成日期: 2021/01/09) <a href="Medium/1447/Simplified_Fractions.ipynb">1447. Simplified Fractions </a>
