@@ -166,7 +166,8 @@
   * -[x] (完成日期: 2021/01/10) <a href="Easy/1716/Calculate_Money_in_Leetcode_Bank.ipynb">1716. Calculate Money in Leetcode Bank </a>
   * -[x] (完成日期: 2021/01/10) <a href="Easy/1720/Decode_XORed_Array.ipynb">1720. Decode XORed Array </a>
   * -[x] (完成日期: 2021/01/18) <a href="Easy/1725/Number_Of_Rectangles_That_Can_Form_The_Largest_Square.ipynb">1725. Number Of Rectangles That Can Form The Largest Square </a>
-  * -[x] (完成日期: 2021/01/31) <a href="Easy/1742/Maximum_Number_of_Balls in_a_Box.ipynb">1742. Maximum Number of Balls in a Box </a>
+  * -[x] (完成日期: 2021/01/31) <a href="Easy/1742/Maximum_Number_of_Balls_in_a_Box.ipynb">1742. Maximum Number of Balls in a Box </a>
+  * -[x] (完成日期: 2021/02/08) <a href="Easy/1748/Sum_of_Unique_Elements.ipynb">1748. Sum of Unique Elements </a>
 
 * Medium:  
   * -[x] (完成日期: 2020/12/06) <a href="Medium/48/Rotate_Image.ipynb">48. Rotate Image </a>
@@ -209,11 +210,13 @@
   * -[x] (完成日期: 2020/10/29) <a href="Medium/949/Largest_Time_for_Given_Digits.ipynb">949. Largest Time for Given Digits </a> 
   * -[x] (完成日期: 2020/11/11) <a href="Medium/954/Array_of_Doubled_Pairs.ipynb">954. Array of Doubled Pairs </a>
   * -[x] (完成日期: 2021/01/16) <a href="Medium/973/K_Closest_Points_to_Origin.ipynb">973. K Closest Points to Origin </a>
+  * -[x] (完成日期: 2021/02/08) <a href="Medium/1138/Alphabet_Board_Path.ipynb">1138. Alphabet Board Path </a>
   * -[x] (完成日期: 2021/01/21) <a href="Medium/1296/Divide_Array_in_Sets_of_K_Consecutive_Numbers.ipynb">1296. Divide Array in Sets of K Consecutive Numbers </a> (題目與No. 846相同)
   * -[x] (完成日期: 2021/01/23) <a href="Medium/1324/Print_Words_Vertically.ipynb">1324. Print Words Vertically </a>
   * -[x] (完成日期: 2021/01/23) <a href="Medium/1338/Reduce_Array_Size_to_The_Half.ipynb">1338. Reduce Array Size to The Half </a>
   * -[x] (完成日期: 2021/01/09) <a href="Medium/1347/Minimum_Number_of_Steps_to_Make_Two_Strings_Anagram.ipynb">1347. Minimum Number of Steps to Make Two Strings Anagram </a>
   * -[x] (完成日期: 2020/11/10) <a href="Medium/1366/Rank_Teams_by_Votes.ipynb">1366. Rank Teams by Votes </a>
+  * -[x] (完成日期: 2021/02/08) <a href="Medium/1381/Design_a_Stack_With_Increment_Operation.ipynb">1381. Design a Stack With Increment Operation </a>
   * -[x] (完成日期: 2020/12/10) <a href="Medium/1395/Count_Number_of_Teams.ipynb">1395. Count Number of Teams </a>
   * -[x] (完成日期: 2020/12/09) <a href="Medium/1410/HTML_Entity_Parser.ipynb">1410. HTML Entity Parser </a>
   * -[x] (完成日期: 2021/01/09) <a href="Medium/1447/Simplified_Fractions.ipynb">1447. Simplified Fractions </a>
