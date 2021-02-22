@@ -168,6 +168,7 @@
   * -[x] (完成日期: 2021/01/18) <a href="Easy/1725/Number_Of_Rectangles_That_Can_Form_The_Largest_Square.ipynb">1725. Number Of Rectangles That Can Form The Largest Square </a>
   * -[x] (完成日期: 2021/01/31) <a href="Easy/1742/Maximum_Number_of_Balls_in_a_Box.ipynb">1742. Maximum Number of Balls in a Box </a>
   * -[x] (完成日期: 2021/02/08) <a href="Easy/1748/Sum_of_Unique_Elements.ipynb">1748. Sum of Unique Elements </a>
+  * -[x] (完成日期: 2021/02/22) <a href="Easy/1768/Merge_Strings_Alternately.ipynb">1768. Merge Strings Alternately </a>
 
 * Medium:  
   * -[x] (完成日期: 2020/12/06) <a href="Medium/48/Rotate_Image.ipynb">48. Rotate Image </a>
