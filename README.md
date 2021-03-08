@@ -170,6 +170,7 @@
   * -[x] (完成日期: 2021/02/08) <a href="Easy/1748/Sum_of_Unique_Elements.ipynb">1748. Sum of Unique Elements </a>
   * -[x] (完成日期: 2021/02/22) <a href="Easy/1768/Merge_Strings_Alternately.ipynb">1768. Merge Strings Alternately </a>
   * -[x] (完成日期: 2021/03/01) <a href="Easy/1773/Count_Items_Matching_a_Rule.ipynb">1773. Count Items Matching a Rule </a>
+  * -[x] (完成日期: 2021/03/08) <a href="Easy/1779/Find_Nearest_Point_That_Has_the_Same_X_or_Y_Coordinate.ipynb">1779. Find Nearest Point That Has the Same X or Y Coordinate </a>
 
 * Medium:  
   * -[x] (完成日期: 2020/12/06) <a href="Medium/48/Rotate_Image.ipynb">48. Rotate Image </a>
