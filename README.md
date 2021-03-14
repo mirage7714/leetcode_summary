@@ -172,6 +172,7 @@
   * -[x] (完成日期: 2021/03/01) <a href="Easy/1773/Count_Items_Matching_a_Rule.ipynb">1773. Count Items Matching a Rule </a>
   * -[x] (完成日期: 2021/03/08) <a href="Easy/1779/Find_Nearest_Point_That_Has_the_Same_X_or_Y_Coordinate.ipynb">1779. Find Nearest Point That Has the Same X or Y Coordinate </a>
   * -[x] (完成日期: 2021/03/08) <a href="Easy/1784/Check_if_Binary_String_Has_at_Most_One_Segment_of_Ones.ipynb">1784. Check if Binary String Has at Most One Segment of Ones </a>
+  * -[x] (完成日期: 2021/03/14) <a href="Easy/1790/Check_if_One_String_Swap_Can_Make_Strings_Equal.ipynb">1790. Check if One String Swap Can Make Strings Equal </a>
 
 * Medium:  
   * -[x] (完成日期: 2020/12/06) <a href="Medium/48/Rotate_Image.ipynb">48. Rotate Image </a>
