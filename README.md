@@ -248,6 +248,7 @@
   * -[x] (完成日期: 2021/01/24) <a href="Medium/1732/Find_the_Highest_Altitude.ipynb">1732. Find the Highest Altitude </a>
   * -[x] (完成日期: 2021/01/24) <a href="Medium/1736/Latest_Time_by_Replacing_Hidden_Digits.ipynb">1736. Latest Time by Replacing Hidden Digits </a>
   * -[x] (完成日期: 2021/02/24) <a href="Medium/1754/Largest_Merge_Of_Two_Strings.ipynb">1754. Largest Merge Of Two Strings </a>
+  * -[x] (完成日期: 2021/03/30) <a href="Medium/1807/Evaluate_the_Bracket_Pairs_of_a_String.ipynb">1807. Evaluate the Bracket Pairs of a String </a>
  
 * Hard:
   * -[x] (完成日期: 2021/01/09) <a href="Hard/4/Median_of_Two_Sorted_Arrays.ipynb">4. Median of Two Sorted Arrays </a>
