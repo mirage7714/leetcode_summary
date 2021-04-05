@@ -176,6 +176,7 @@
   * -[x] (完成日期: 2021/03/24) <a href="Easy/1796/Second_Largest_Digit_in_a_String.ipynb">1796. Second Largest Digit in a String </a>
   * -[x] (完成日期: 2021/03/24) <a href="Easy/1800/Maximum_Ascending_Subarray_Sum.ipynb">1800. Maximum Ascending Subarray Sum </a>
   * -[x] (完成日期: 2021/03/28) <a href="Easy/1805/Number_of_Different_Integers_in_a_String.ipynb">1805. Number of Different Integers in a String </a>
+  * -[x] (完成日期: 2021/04/05) <a href="Easy/1816/Truncate_Sentence.ipynb">1816. Truncate Sentence </a>
 
 * Medium:  
   * -[x] (完成日期: 2020/12/06) <a href="Medium/48/Rotate_Image.ipynb">48. Rotate Image </a>
