@@ -179,6 +179,7 @@
   * -[x] (完成日期: 2021/04/05) <a href="Easy/1812/Determine_Color_of_a_Chessboard_Square.ipynb">1812. Determine Color of a Chessboard Square </a>
   * -[x] (完成日期: 2021/04/05) <a href="Easy/1816/Truncate_Sentence.ipynb">1816. Truncate Sentence </a>
   * -[x] (完成日期: 2021/04/11) <a href="Easy/1822/Sign_of_the_Product_of_an_Array.ipynb">1822. Sign of the Product of an Array </a>
+  * -[x] (完成日期: 2021/04/18) <a href="Easy/1827/Minimum_Operations_to_Make_the_Array_Increasing.ipynb">1827. Minimum Operations to Make the Array Increasing </a>
 
 * Medium:  
   * -[x] (完成日期: 2020/12/06) <a href="Medium/48/Rotate_Image.ipynb">48. Rotate Image </a>
