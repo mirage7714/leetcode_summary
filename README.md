@@ -263,6 +263,7 @@
   * -[x] (完成日期: 2021/04/06) <a href="Medium/1806/Minimum_Number_of_Operations_to_Reinitialize_a_Permutation.ipynb">1806. Minimum Number of Operations to Reinitialize a Permutation </a>
   * -[x] (完成日期: 2021/03/30) <a href="Medium/1807/Evaluate_the_Bracket_Pairs_of_a_String.ipynb">1807. Evaluate the Bracket Pairs of a String </a>
   * -[x] (完成日期: 2021/04/06) <a href="Medium/1817/Finding_the_Users_Active_Minutes.ipynb">1817. Finding the Users Active Minutes </a>
+  * -[x] (完成日期: 2021/05/09) <a href="Medium/1839/Longest_Substring_Of_All_Vowels_in_Order.ipynb">1839. Longest Substring Of All Vowels in Order </a>
  
 * Hard:
   * -[x] (完成日期: 2021/01/09) <a href="Hard/4/Median_of_Two_Sorted_Arrays.ipynb">4. Median of Two Sorted Arrays </a>
