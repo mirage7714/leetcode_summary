@@ -188,6 +188,7 @@
   * -[x] (完成日期: 2021/05/03) <a href="Easy/1844/Replace_All_Digits_with_Characters.ipynb">1844. Replace All Digits with Characters </a>
   * -[x] (完成日期: 2021/05/03) <a href="Easy/1848/Minimum_Distance_to_the_Target_Element.ipynb">1848. Minimum Distance to the Target Element </a>
   * -[x] (完成日期: 2021/05/11) <a href="Easy/1854/Maximum_Population_Year.ipynb">1854. Maximum Population Year </a>
+  * -[x] (完成日期: 2021/05/16) <a href="Easy/1859/Sorting_the_Sentence.ipynb">1859. Sorting the Sentence </a>
 
 * Medium:  
   * -[x] (完成日期: 2021/05/01) <a href="Medium/17/Letter_Combinations_of_a_Phone_Number.ipynb">17. Letter Combinations of a Phone Number </a>
