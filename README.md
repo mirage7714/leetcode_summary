@@ -189,7 +189,8 @@
   * -[x] (完成日期: 2021/05/03) <a href="Easy/1848/Minimum_Distance_to_the_Target_Element.ipynb">1848. Minimum Distance to the Target Element </a>
   * -[x] (完成日期: 2021/05/11) <a href="Easy/1854/Maximum_Population_Year.ipynb">1854. Maximum Population Year </a>
   * -[x] (完成日期: 2021/05/16) <a href="Easy/1859/Sorting_the_Sentence.ipynb">1859. Sorting the Sentence </a>
-
+  * -[x] (完成日期: 2021/05/16) <a href="Easy/1863/Sum_of_All_Subset_XOR_Totals.ipynb">1863. Sum of All Subset XOR Totals </a>
+  
 * Medium:  
   * -[x] (完成日期: 2021/05/01) <a href="Medium/17/Letter_Combinations_of_a_Phone_Number.ipynb">17. Letter Combinations of a Phone Number </a>
   * -[x] (完成日期: 2020/12/06) <a href="Medium/48/Rotate_Image.ipynb">48. Rotate Image </a>
