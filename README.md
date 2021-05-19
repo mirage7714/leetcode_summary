@@ -230,6 +230,7 @@
   * -[x] (完成日期: 2020/12/20) <a href="Medium/807/Max_Increase_to_Keep_City_Skyline.ipynb">807. Max Increase to Keep City Skyline </a>
   * -[x] (完成日期: 2020/11/24) <a href="Medium/831/Masking_Personal_Information.ipynb">831. Masking Personal Information </a>
   * -[x] (完成日期: 2021/01/20) <a href="Medium/846/Hand_of_Straights.ipynb">846. Hand of Straights </a> (題目與No. 1296相同)
+  * -[x] (完成日期: 2021/05/19) <a href="Medium/848/Shifting_Letters.ipynb">848. Shifting Letters </a>
   * -[x] (完成日期: 2021/01/20) <a href="Medium/869/Reordered_Power_of_2.ipynb">869. Reordered Power of 2 </a>
   * -[x] (完成日期: 2021/01/20) <a href="Medium/890/Find_and_Replace_Pattern.ipynb">890. Find and Replace Pattern </a>
   * -[x] (完成日期: 2020/10/29) <a href="Medium/949/Largest_Time_for_Given_Digits.ipynb">949. Largest Time for Given Digits </a> 
