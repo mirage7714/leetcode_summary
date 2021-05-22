@@ -229,6 +229,7 @@
   * -[x] (完成日期: 2020/12/17) <a href="Medium/784/Letter_Case_Permutation.ipynb">784. Letter Case Permutation </a>
   * -[x] (完成日期: 2021/05/19) <a href="Medium/791/Custom_Sort_String.ipynb">791. Custom Sort String </a>
   * -[x] (完成日期: 2020/12/20) <a href="Medium/807/Max_Increase_to_Keep_City_Skyline.ipynb">807. Max Increase to Keep City Skyline </a>
+  * -[x] (完成日期: 2021/05/22) <a href="Medium/826/Most_Profit_Assigning_Work.ipynb">826. Most Profit Assigning Work </a>
   * -[x] (完成日期: 2020/11/24) <a href="Medium/831/Masking_Personal_Information.ipynb">831. Masking Personal Information </a>
   * -[x] (完成日期: 2021/01/20) <a href="Medium/846/Hand_of_Straights.ipynb">846. Hand of Straights </a> (題目與No. 1296相同)
   * -[x] (完成日期: 2021/05/19) <a href="Medium/848/Shifting_Letters.ipynb">848. Shifting Letters </a>
