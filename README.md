@@ -190,6 +190,7 @@
   * -[x] (完成日期: 2021/05/11) <a href="Easy/1854/Maximum_Population_Year.ipynb">1854. Maximum Population Year </a>
   * -[x] (完成日期: 2021/05/16) <a href="Easy/1859/Sorting_the_Sentence.ipynb">1859. Sorting the Sentence </a>
   * -[x] (完成日期: 2021/05/16) <a href="Easy/1863/Sum_of_All_Subset_XOR_Totals.ipynb">1863. Sum of All Subset XOR Totals </a> (待改善解法，同medium 77, 78)
+  * -[x] (完成日期: 2021/05/16) <a href="Easy/1869/Longer_Contiguous_Segments_of_Ones_than_Zeros.ipynb">1869. Longer Contiguous Segments of Ones than Zeros </a>
   
 * Medium:  
   * -[x] (完成日期: 2021/05/01) <a href="Medium/17/Letter_Combinations_of_a_Phone_Number.ipynb">17. Letter Combinations of a Phone Number </a>
