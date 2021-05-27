@@ -73,6 +73,7 @@
   * -[x] (完成日期: 2020/10/22) <a href="Easy/868/Binary_Gap.ipynb">868. Binary Gap </a> 
   * -[x] (完成日期: 2020/10/08) <a href="Easy/876/Middle_of_the_Linked_List.ipynb">876. Middle of the Linked List </a> 
   * -[x] (完成日期: 2020/10/20) <a href="Easy/884/Uncommon_Words_from_Two_Sentences.ipynb">884. Uncommon Words from Two Sentences </a> 
+  * -[x] (完成日期: 2021/05/27) <a href="Easy/888/Fair_Candy_Swap.ipynb">888. Fair Candy Swap </a> 
   * -[x] (完成日期: 2020/10/21) <a href="Easy/905/Monotonic_Array.ipynb">896. Monotonic Array </a> 
   * -[x] (完成日期: 2020/10/20) <a href="Easy/905/Sort_Array_By_Parity.ipynb">905. Sort Array By Parity </a> 
   * -[x] (完成日期: 2020/10/04) <a href="Easy/917/Reverse_Only_Letters.ipynb">917. Reverse Only Letters </a> 
