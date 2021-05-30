@@ -193,6 +193,7 @@
   * -[x] (完成日期: 2021/05/16) <a href="Easy/1859/Sorting_the_Sentence.ipynb">1859. Sorting the Sentence </a>
   * -[x] (完成日期: 2021/05/16) <a href="Easy/1863/Sum_of_All_Subset_XOR_Totals.ipynb">1863. Sum of All Subset XOR Totals </a> (待改善解法，同medium 77, 78)
   * -[x] (完成日期: 2021/05/16) <a href="Easy/1869/Longer_Contiguous_Segments_of_Ones_than_Zeros.ipynb">1869. Longer Contiguous Segments of Ones than Zeros </a>
+  * -[x] (完成日期: 2021/05/30) <a href="Easy/1876/Substrings_of_Size_Three_with_Distinct_Characters.ipynb">1876. Substrings of Size Three with Distinct Characters </a>
   
 * Medium:  
   * -[x] (完成日期: 2021/05/01) <a href="Medium/17/Letter_Combinations_of_a_Phone_Number.ipynb">17. Letter Combinations of a Phone Number </a>
