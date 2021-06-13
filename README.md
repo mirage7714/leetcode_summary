@@ -196,6 +196,7 @@
   * -[x] (完成日期: 2021/05/30) <a href="Easy/1876/Substrings_of_Size_Three_with_Distinct_Characters.ipynb">1876. Substrings of Size Three with Distinct Characters </a>
   * -[x] (完成日期: 2021/05/30) <a href="Easy/1880/Check_if_Word_Equals_Summation_of_Two_Words.ipynb">1880. Check if Word Equals Summation of Two Words </a>
   * -[x] (完成日期: 2021/06/06) <a href="Easy/1886/Determine_Whether_Matrix_Can_Be_Obtained_By_Rotation.ipynb">1886. Determine Whether Matrix Can Be Obtained By Rotation </a>
+  * -[x] (完成日期: 2021/06/13) <a href="Easy/1893/Check_if_All_the_Integers_in_a_Range_Are_Covered.ipynb">1893. Check if All the Integers in a Range Are Covered </a>
   
 * Medium:  
   * -[x] (完成日期: 2021/05/01) <a href="Medium/17/Letter_Combinations_of_a_Phone_Number.ipynb">17. Letter Combinations of a Phone Number </a>
