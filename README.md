@@ -287,6 +287,7 @@
   * -[x] (完成日期: 2021/05/16) <a href="Medium/1861/Rotating_the_Box.ipynb">1861. Rotating the Box </a>
   * -[x] (完成日期: 2021/06/13) <a href="Medium/1881/Maximum_Value_after_Insertion.ipynb">1881. Maximum Value after Insertion </a>
   * -[x] (完成日期: 2021/06/13) <a href="Medium/1887/Reduction_Operations_to_Make_the_Array_Elements_Equal.ipynb">1887. Reduction Operations to Make the Array Elements Equal </a>
+  * -[x] (完成日期: 2021/06/14) <a href="Medium/1899/Merge_Triplets_to_Form_Target_Triplet.ipynb">1899. Merge Triplets to Form Target Triplet </a>
 
 * Hard:
   * -[x] (完成日期: 2021/01/09) <a href="Hard/4/Median_of_Two_Sorted_Arrays.ipynb">4. Median of Two Sorted Arrays </a>
