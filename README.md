@@ -257,6 +257,7 @@
   * -[x] (完成日期: 2021/02/08) <a href="Medium/1381/Design_a_Stack_With_Increment_Operation.ipynb">1381. Design a Stack With Increment Operation </a>
   * -[x] (完成日期: 2020/12/10) <a href="Medium/1395/Count_Number_of_Teams.ipynb">1395. Count Number of Teams </a>
   * -[x] (完成日期: 2020/12/09) <a href="Medium/1410/HTML_Entity_Parser.ipynb">1410. HTML Entity Parser </a>
+  * -[x] (完成日期: 2021/06/20) <a href="Medium/1418/Display_Table_of_Food_Orders_in_a_Restaurant.ipynb">1418. Display Table of Food Orders in a Restaurant </a>
   * -[x] (完成日期: 2021/01/09) <a href="Medium/1447/Simplified_Fractions.ipynb">1447. Simplified Fractions </a>
   * -[x] (完成日期: 2020/12/12) <a href="Medium/1451/Rearrange_Words_in_a_Sentence.ipynb">1451. Rearrange Words in a Sentence </a>
   * -[x] (完成日期: 2021/01/09) <a href="Medium/1492/The_kth_Factor_of_n.ipynb">1492. The kth Factor of n </a>
