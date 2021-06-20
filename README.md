@@ -198,6 +198,7 @@
   * -[x] (完成日期: 2021/06/06) <a href="Easy/1886/Determine_Whether_Matrix_Can_Be_Obtained_By_Rotation.ipynb">1886. Determine Whether Matrix Can Be Obtained By Rotation </a>
   * -[x] (完成日期: 2021/06/13) <a href="Easy/1893/Check_if_All_the_Integers_in_a_Range_Are_Covered.ipynb">1893. Check if All the Integers in a Range Are Covered </a>
   * -[x] (完成日期: 2021/06/14) <a href="Easy/1897/Redistribute_Characters_to_Make_All_Strings_Equal.ipynb">1897. Redistribute Characters to Make All Strings Equal </a>
+  * -[x] (完成日期: 2021/06/20) <a href="Easy/1903/Largest_Odd_Number_in_String.ipynb">1903. Largest Odd Number in String </a>
   
 * Medium:  
   * -[x] (完成日期: 2021/05/01) <a href="Medium/17/Letter_Combinations_of_a_Phone_Number.ipynb">17. Letter Combinations of a Phone Number </a>
