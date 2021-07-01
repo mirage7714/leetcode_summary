@@ -224,6 +224,7 @@
   * -[x] (完成日期: 2021/01/16) <a href="Medium/347/Top_K_Frequent_Elements.ipynb">347. Top K Frequent Elements </a>
   * -[x] (完成日期: 2020/12/07) <a href="Medium/442/Find_All_Duplicates_in_an_Array.ipynb">442. Find All Duplicates in an Array </a>
   * -[x] (完成日期: 2021/01/11) <a href="Medium/443/String_Compression.ipynb">443. String Compression </a>
+  * -[x] (完成日期: 2021/07/01) <a href="Medium/535/Encode_and_Decode_TinyURL.ipynb">535. Encode and Decode TinyURL </a>
   * -[x] (完成日期: 2020/10/29) <a href="Medium/537/Complex_Number_Multiplication.ipynb">537. Complex Number Multiplication </a>
   * -[x] (完成日期: 2021/01/12) <a href="Medium/539/Minimum_Time_Difference.ipynb">539. Minimum Time Difference </a>
   * -[x] (完成日期: 2020/12/05) <a href="Medium/540/Single_Element_in_a_Sorted_Array.ipynb">540. Single Element in a Sorted Array </a>
