@@ -28,6 +28,7 @@
   * -[x] (完成日期: 2020/10/08) <a href="Easy/290/Word_Pattern.ipynb">290. Word Pattern </a> 
   * -[x] (完成日期: 2021/02/06) <a href="Easy/303/Range_Sum_Query-Immutable.ipynb">303. Range Sum Query - Immutable </a> 
   * -[x] (完成日期: 2020/10/01) <a href="Easy/326/Power_of_Three.ipynb">326. Power of Three / 342. Power of Four </a> 
+  * -[x] (完成日期: 2021/07/06) <a href="Easy/338/Counting_Bits.ipynb">338. Counting Bits </a> 
   * -[x] (完成日期: 2020/10/09) <a href="Easy/345/Reverse_Vowels_of_a_String.ipynb">345. Reverse Vowels of a String </a> 
   * -[x] (完成日期: 2020/10/10) <a href="Easy/349/Intersection_of_Two_Arrays.ipynb">349. Intersection of Two Arrays / 350. Intersection of Two Arrays II </a> 
   * -[x] (完成日期: 2020/10/10) <a href="Easy/367/Valid_Perfect_Square.ipynb">367. Valid Perfect Square </a> 
@@ -199,7 +200,8 @@
   * -[x] (完成日期: 2021/06/13) <a href="Easy/1893/Check_if_All_the_Integers_in_a_Range_Are_Covered.ipynb">1893. Check if All the Integers in a Range Are Covered </a>
   * -[x] (完成日期: 2021/06/14) <a href="Easy/1897/Redistribute_Characters_to_Make_All_Strings_Equal.ipynb">1897. Redistribute Characters to Make All Strings Equal </a>
   * -[x] (完成日期: 2021/06/20) <a href="Easy/1903/Largest_Odd_Number_in_String.ipynb">1903. Largest Odd Number in String </a>
-  * -[x] (完成日期: 2021/06/27) <a href="Easy/1919/Maximum_Product_Difference_Between_Two_Pairs.ipynb">1913. Maximum Product Difference Between Two Pairs </a>
+  * -[x] (完成日期: 2021/06/27) <a href="Easy/1913/Maximum_Product_Difference_Between_Two_Pairs.ipynb">1913. Maximum Product Difference Between Two Pairs </a>
+  * -[x] (完成日期: 2021/07/04) <a href="Easy/1920/Build_Array_from_Permutation.ipynb">1920. Build Array from Permutation </a>
   
 * Medium:  
   * -[x] (完成日期: 2021/05/01) <a href="Medium/17/Letter_Combinations_of_a_Phone_Number.ipynb">17. Letter Combinations of a Phone Number </a>
