@@ -294,6 +294,7 @@
   * -[x] (完成日期: 2021/05/09) <a href="Medium/1839/Longest_Substring_Of_All_Vowels_in_Order.ipynb">1839. Longest Substring Of All Vowels in Order </a>
   * -[x] (完成日期: 2021/05/22) <a href="Medium/1846/Maximum_Element_After_Decreasing_and_Rearranging.ipynb">1846. Maximum Element After Decreasing and Rearranging </a>
   * -[x] (完成日期: 2021/05/16) <a href="Medium/1861/Rotating_the_Box.ipynb">1861. Rotating the Box </a>
+  * -[x] (完成日期: 2021/07/08) <a href="Medium/1877/Minimize_Maximum_Pair_Sum_in_Array.ipynb">1877. Minimize Maximum Pair Sum in Array </a>
   * -[x] (完成日期: 2021/06/13) <a href="Medium/1881/Maximum_Value_after_Insertion.ipynb">1881. Maximum Value after Insertion </a>
   * -[x] (完成日期: 2021/06/13) <a href="Medium/1887/Reduction_Operations_to_Make_the_Array_Elements_Equal.ipynb">1887. Reduction Operations to Make the Array Elements Equal </a>
   * -[x] (完成日期: 2021/06/14) <a href="Medium/1899/Merge_Triplets_to_Form_Target_Triplet.ipynb">1899. Merge Triplets to Form Target Triplet </a>
