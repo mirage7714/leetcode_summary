@@ -302,6 +302,7 @@
   * -[x] (完成日期: 2021/06/15) <a href="Medium/1901/Find_a_Peak_Element_II.ipynb">1901. Find a Peak Element II </a>
   * -[x] (完成日期: 2021/06/27) <a href="Medium/1904/The_Number_of_Full_Rounds_You_Have_Played.ipynb">1904. The Number of Full Rounds You Have Played </a>
   * -[x] (完成日期: 2021/06/27) <a href="Medium/1910/Remove_All_Occurrences_of_a_Substring.ipynb">1910. Remove All Occurrences of a Substring </a>
+  * -[x] (完成日期: 2021/07/10) <a href="Medium/1921/Eliminate_Maximum_Number_of_Monsters.ipynb">1921. Eliminate Maximum Number of Monsters </a>
 
 * Hard:
   * -[x] (完成日期: 2021/01/09) <a href="Hard/4/Median_of_Two_Sorted_Arrays.ipynb">4. Median of Two Sorted Arrays </a>
