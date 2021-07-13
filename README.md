@@ -207,6 +207,7 @@
 * Medium:  
   * -[x] (完成日期: 2021/05/01) <a href="Medium/17/Letter_Combinations_of_a_Phone_Number.ipynb">17. Letter Combinations of a Phone Number </a>
   * -[x] (完成日期: 2020/12/06) <a href="Medium/48/Rotate_Image.ipynb">48. Rotate Image </a>
+  * -[x] (完成日期: 2021/07/13) <a href="Medium/49/Group_Anagrams.ipynb">49. Group Anagrams </a>
   * -[x] (完成日期: 2021/05/27) <a href="Medium/56/Merge_Intervals.ipynb">56. Merge Intervals </a>
   * -[x] (完成日期: 2020/10/31) <a href="Medium/73/Set_Matrix_Zeroes.ipynb">73. Set Matrix Zeroes </a>
   * -[x] (完成日期: 2020/11/12) <a href="Medium/74/Search_a_2D_Matrix.ipynb">74. Search a 2D Matrix </a>
