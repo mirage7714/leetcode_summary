@@ -225,6 +225,7 @@
   * -[x] (完成日期: 2020/12/06) <a href="Medium/260/Single_Number_III.ipynb">260. Single Number III </a>
   * -[x] (完成日期: 2020/11/06) <a href="Medium/287/Find_the_Duplicate_Number.ipynb">287. Find the Duplicate Number </a>
   * -[x] (完成日期: 2020/11/25) <a href="Medium/299/Bulls_and_Cows.ipynb">299. Bulls and Cows </a>
+  * -[x] (完成日期: 2021/07/16) <a href="Medium/343/Integer_Break.ipynb">343. Integer Break </a>
   * -[x] (完成日期: 2021/01/16) <a href="Medium/347/Top_K_Frequent_Elements.ipynb">347. Top K Frequent Elements </a>
   * -[x] (完成日期: 2020/12/07) <a href="Medium/442/Find_All_Duplicates_in_an_Array.ipynb">442. Find All Duplicates in an Array </a>
   * -[x] (完成日期: 2021/01/11) <a href="Medium/443/String_Compression.ipynb">443. String Compression </a>
