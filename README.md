@@ -58,6 +58,7 @@
   * -[x] (完成日期: 2020/12/03) <a href="Easy/682/Baseball_Game.ipynb">682. Baseball Game </a>
   * -[x] (完成日期: 2020/11/14) <a href="Easy/690/Employee_Importance.ipynb">690. Employee Importance </a>
   * -[x] (完成日期: 2021/02/18) <a href="Easy/703/Kth_Largest_Element_in_a_Stream.ipynb">703. Kth Largest Element in a Stream </a>
+  * -[x] (完成日期: 2021/07/18) <a href="Easy/705/Design_HashSet.ipynb">705. Design HashSet </a>
   * -[x] (完成日期: 2021/07/18) <a href="Easy/706/Design_HashMap.ipynb">706. Design HashMap </a>
   * -[x] (完成日期: 2020/11/14) <a href="Easy/724/Find_Pivot_Index.ipynb">724. Find Pivot Index </a>
   * -[x] (完成日期: 2020/10/29) <a href="Easy/744/Find_Smallest_Letter_Greater_Than_Target.ipynb">744. Find Smallest Letter Greater Than Target </a>
