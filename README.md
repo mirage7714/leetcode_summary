@@ -232,6 +232,7 @@
   * -[x] (完成日期: 2020/11/25) <a href="Medium/299/Bulls_and_Cows.ipynb">299. Bulls and Cows </a>
   * -[x] (完成日期: 2021/07/16) <a href="Medium/343/Integer_Break.ipynb">343. Integer Break </a>
   * -[x] (完成日期: 2021/01/16) <a href="Medium/347/Top_K_Frequent_Elements.ipynb">347. Top K Frequent Elements </a>
+  * -[x] (完成日期: 2021/07/22) <a href="Medium/355/Design_Twitter.ipynb">355. Design Twitter </a>
   * -[x] (完成日期: 2021/07/20) <a href="Medium/384/Shuffle_an_Array.ipynb">384. Shuffle an Array </a>
   * -[x] (完成日期: 2021/07/21) <a href="Medium/398/Random_Pick_Index.ipynb">398. Random Pick Index </a>
   * -[x] (完成日期: 2020/12/07) <a href="Medium/442/Find_All_Duplicates_in_an_Array.ipynb">442. Find All Duplicates in an Array </a>
