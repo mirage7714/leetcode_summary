@@ -208,6 +208,7 @@
   * -[x] (完成日期: 2021/07/18) <a href="Easy/1935/Maximum_Number_of_Words_You_Can_Type.ipynb">1935. Maximum Number of Words You Can Type </a>
   * -[x] (完成日期: 2021/07/25) <a href="Easy/1941/Check_if_All_Characters_Have_Equal_Number_of_Occurrences.ipynb">1941. Check if All Characters Have Equal Number of Occurrences </a>
   * -[x] (完成日期: 2021/07/26) <a href="Easy/1945/Sum_of_Digits_of_String_After_Convert.ipynb">1945. Sum of Digits of String After Convert </a>
+  * -[x] (完成日期: 2021/08/02) <a href="Easy/1952/Three_Divisors.ipynb">1952. Three Divisors </a>
   
 * Medium:  
   * -[x] (完成日期: 2021/05/01) <a href="Medium/17/Letter_Combinations_of_a_Phone_Number.ipynb">17. Letter Combinations of a Phone Number </a>
