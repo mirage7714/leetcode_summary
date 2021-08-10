@@ -47,6 +47,7 @@
   * -[x] (完成日期: 2020/10/19) <a href="Easy/482/License_Key_Formatting.ipynb">482. License Key Formatting </a> 
   * -[x] (完成日期: 2020/10/11) <a href="Easy/485/Max_Consecutive_Ones.ipynb">485. Max Consecutive Ones </a> 
   * -[x] (完成日期: 2020/10/19) <a href="Easy/492/Construct_the_Rectangle.ipynb">492. Construct the Rectangle </a>
+  * -[x] (完成日期: 2021/08/10) <a href="Easy/495/Teemo_Attacking.ipynb">495. Teemo Attacking </a>
   * -[x] (完成日期: 2020/10/14) <a href="Easy/496/Next_Greater_Element_I.ipynb">496. Next Greater Element I </a>
   * -[x] (完成日期: 2020/10/29) <a href="Easy/504/Base_7.ipynb">504. Base 7 </a>
   * -[x] (完成日期: 2020/10/30) <a href="Easy/506/Relative_Ranks.ipynb">506. Relative Ranks </a>
