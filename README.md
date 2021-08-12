@@ -317,6 +317,7 @@
   * -[x] (完成日期: 2021/04/06) <a href="Medium/1817/Finding_the_Users_Active_Minutes.ipynb">1817. Finding the Users Active Minutes </a>
   * -[x] (完成日期: 2021/05/11) <a href="Medium/1833/Maximum_Ice_Cream_Bars.ipynb">1833. Maximum Ice Cream Bars </a>
   * -[x] (完成日期: 2021/05/09) <a href="Medium/1839/Longest_Substring_Of_All_Vowels_in_Order.ipynb">1839. Longest Substring Of All Vowels in Order </a>
+  * -[x] (完成日期: 2021/08/12) <a href="Medium/1845/Seat_Reservation_Manager.ipynb">1845. Seat Reservation Manager </a>
   * -[x] (完成日期: 2021/05/22) <a href="Medium/1846/Maximum_Element_After_Decreasing_and_Rearranging.ipynb">1846. Maximum Element After Decreasing and Rearranging </a>
   * -[x] (完成日期: 2021/05/16) <a href="Medium/1861/Rotating_the_Box.ipynb">1861. Rotating the Box </a>
   * -[x] (完成日期: 2021/07/08) <a href="Medium/1877/Minimize_Maximum_Pair_Sum_in_Array.ipynb">1877. Minimize Maximum Pair Sum in Array </a>
