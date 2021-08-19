@@ -218,6 +218,7 @@
   * -[x] (完成日期: 2021/08/15) <a href="Easy/1967/Number_of_Strings_That_Appear_as_Substrings_in_Word.ipynb">1967. Number of Strings That Appear as Substrings in Word </a>
   
 * Medium:  
+  * -[x] (完成日期: 2021/08/19) <a href="Medium/6/ZigZag_Conversion.ipynb">6. ZigZag Conversion </a>
   * -[x] (完成日期: 2021/05/01) <a href="Medium/17/Letter_Combinations_of_a_Phone_Number.ipynb">17. Letter Combinations of a Phone Number </a>
   * -[x] (完成日期: 2020/12/06) <a href="Medium/48/Rotate_Image.ipynb">48. Rotate Image </a>
   * -[x] (完成日期: 2021/07/13) <a href="Medium/49/Group_Anagrams.ipynb">49. Group Anagrams </a>
