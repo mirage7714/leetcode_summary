@@ -216,6 +216,7 @@
   * -[x] (完成日期: 2021/08/08) <a href="Easy/1957/Delete_Characters_to_Make_Fancy_String.ipynb">1957. Delete Characters to Make Fancy String </a>
   * -[x] (完成日期: 2021/08/08) <a href="Easy/1961/Check_If_String_Is_a_Prefix_of_Array.ipynb">1961. Check If String Is a Prefix of Array </a>
   * -[x] (完成日期: 2021/08/15) <a href="Easy/1967/Number_of_Strings_That_Appear_as_Substrings_in_Word.ipynb">1967. Number of Strings That Appear as Substrings in Word </a>
+  * -[x] (完成日期: 2021/08/22) <a href="Easy/1974/Minimum_Time_to_Type_Word_Using_Special_Typewriter.ipynb">1974. Minimum Time to Type Word Using Special Typewriter </a>
   
 * Medium:  
   * -[x] (完成日期: 2021/08/19) <a href="Medium/6/ZigZag_Conversion.ipynb">6. ZigZag Conversion </a>
