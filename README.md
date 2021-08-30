@@ -218,6 +218,7 @@
   * -[x] (完成日期: 2021/08/15) <a href="Easy/1967/Number_of_Strings_That_Appear_as_Substrings_in_Word.ipynb">1967. Number of Strings That Appear as Substrings in Word </a>
   * -[x] (完成日期: 2021/08/22) <a href="Easy/1974/Minimum_Time_to_Type_Word_Using_Special_Typewriter.ipynb">1974. Minimum Time to Type Word Using Special Typewriter </a>
   * -[x] (完成日期: 2021/08/23) <a href="Easy/1979/Find_Greatest_Common_Divisor_of_Array.ipynb">1979. Find Greatest Common Divisor of Array </a>
+  * -[x] (完成日期: 2021/08/30) <a href="Easy/1984/Minimum_Difference_Between_Highest_and_Lowest_of_K_Scores.ipynb">1984. Minimum Difference Between Highest and Lowest of K Scores </a>
   
 * Medium:  
   * -[x] (完成日期: 2021/08/19) <a href="Medium/6/ZigZag_Conversion.ipynb">6. ZigZag Conversion </a>
