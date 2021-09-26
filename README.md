@@ -223,6 +223,7 @@
   * -[x] (完成日期: 2021/09/12) <a href="Easy/2000/Reverse_Prefix_of_Word.ipynb">2000. Reverse Prefix of Word </a>
   * -[x] (完成日期: 2021/09/21) <a href="Easy/2006/Count_Number_of_Pairs_With_Absolute_Difference_K.ipynb">2006. Count Number of Pairs With Absolute Difference K </a>
   * -[x] (完成日期: 2021/09/21) <a href="Easy/2011/Final_Value_of_Variable_After_Performing_Operations.ipynb">2011. Final Value of Variable After Performing Operations </a>
+  * -[x] (完成日期: 2021/09/26) <a href="Easy/2016/Maximum_Difference_Between_Increasing_Elements.ipynb">2016. Maximum Difference Between Increasing Elements </a>
   
 * Medium:  
   * -[x] (完成日期: 2021/08/19) <a href="Medium/6/ZigZag_Conversion.ipynb">6. ZigZag Conversion </a>
