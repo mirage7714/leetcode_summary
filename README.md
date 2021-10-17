@@ -227,6 +227,7 @@
   * -[x] (完成日期: 2021/10/04) <a href="Easy/2022/Convert_1D_Array_Into_2D_Array.ipynb">2022. Convert 1D Array Into 2D Array </a>
   * -[x] (完成日期: 2021/10/10) <a href="Easy/2032/Two_Out_of_Three.ipynb">2032. Two Out of Three </a>
   * -[x] (完成日期: 2021/10/17) <a href="Easy/2037/Minimum_Number_of_Moves_to_Seat_Everyone.ipynb">2037. Minimum Number of Moves to Seat Everyone </a>
+  * -[x] (完成日期: 2021/10/17) <a href="Easy/2042/Check_if_Numbers_Are_Ascending_in_a_Sentence.ipynb">2042. Check if Numbers Are Ascending in a Sentence </a>
   
 * Medium:  
   * -[x] (完成日期: 2021/08/19) <a href="Medium/6/ZigZag_Conversion.ipynb">6. ZigZag Conversion </a>
