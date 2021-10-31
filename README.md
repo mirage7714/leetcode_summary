@@ -228,6 +228,7 @@
   * -[x] (完成日期: 2021/10/10) <a href="Easy/2032/Two_Out_of_Three.ipynb">2032. Two Out of Three </a>
   * -[x] (完成日期: 2021/10/17) <a href="Easy/2037/Minimum_Number_of_Moves_to_Seat_Everyone.ipynb">2037. Minimum Number of Moves to Seat Everyone </a>
   * -[x] (完成日期: 2021/10/17) <a href="Easy/2042/Check_if_Numbers_Are_Ascending_in_a_Sentence.ipynb">2042. Check if Numbers Are Ascending in a Sentence </a>
+  * -[x] (完成日期: 2021/10/31) <a href="Easy/2053/Kth_Distinct_String_in_an_Array.ipynb">2053. Kth Distinct String in an Array </a>
   
 * Medium:  
   * -[x] (完成日期: 2021/08/19) <a href="Medium/6/ZigZag_Conversion.ipynb">6. ZigZag Conversion </a>
@@ -345,7 +346,7 @@
   * -[x] (完成日期: 2021/06/27) <a href="Medium/1910/Remove_All_Occurrences_of_a_Substring.ipynb">1910. Remove All Occurrences of a Substring </a>
   * -[x] (完成日期: 2021/07/10) <a href="Medium/1921/Eliminate_Maximum_Number_of_Monsters.ipynb">1921. Eliminate Maximum Number of Monsters </a>
   * -[x] (完成日期: 2021/10/24) <a href="Medium/2043/Simple_Bank_System.ipynb">2043. Simple Bank System </a>
-
+  
 * Hard:
   * -[x] (完成日期: 2021/01/09) <a href="Hard/4/Median_of_Two_Sorted_Arrays.ipynb">4. Median of Two Sorted Arrays </a>
   * -[x] (完成日期: 2020/11/06) <a href="Hard/41/First_Missing_Positive.ipynb">41. First Missing Positive </a>
