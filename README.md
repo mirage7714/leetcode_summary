@@ -230,7 +230,8 @@
   * -[x] (完成日期: 2021/10/17) <a href="Easy/2042/Check_if_Numbers_Are_Ascending_in_a_Sentence.ipynb">2042. Check if Numbers Are Ascending in a Sentence </a>
   * -[x] (完成日期: 2021/10/31) <a href="Easy/2053/Kth_Distinct_String_in_an_Array.ipynb">2053. Kth Distinct String in an Array </a>
   * -[x] (完成日期: 2021/10/31) <a href="Easy/2057/Smallest_Index_With_Equal_Value.ipynb">2057. Smallest Index With Equal Value </a>
-  
+  * -[x] (完成日期: 2021/11/14) <a href="Easy/2068/Check_Whether_Two_Strings_are_Almost_Equivalent.ipynb">2068. Check Whether Two Strings are Almost Equivalent </a>
+
 * Medium:  
   * -[x] (完成日期: 2021/08/19) <a href="Medium/6/ZigZag_Conversion.ipynb">6. ZigZag Conversion </a>
   * -[x] (完成日期: 2021/05/01) <a href="Medium/17/Letter_Combinations_of_a_Phone_Number.ipynb">17. Letter Combinations of a Phone Number </a>
