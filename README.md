@@ -352,6 +352,7 @@
   * -[x] (完成日期: 2021/07/10) <a href="Medium/1921/Eliminate_Maximum_Number_of_Monsters.ipynb">1921. Eliminate Maximum Number of Monsters </a>
   * -[x] (完成日期: 2021/10/24) <a href="Medium/2043/Simple_Bank_System.ipynb">2043. Simple Bank System </a>
   * -[x] (完成日期: 2021/10/31) <a href="Medium/2058/Find_the_Minimum_and_Maximum_Number_of_Nodes_Between_Critical_Points.ipynb">2058. Find the Minimum and Maximum Number of Nodes Between Critical Points </a>
+  * -[x] (完成日期: 2021/12/04) <a href="Medium/2079/Watering_Plants.ipynb">2079. Watering Plants </a>
   
 * Hard:
   * -[x] (完成日期: 2021/01/09) <a href="Hard/4/Median_of_Two_Sorted_Arrays.ipynb">4. Median of Two Sorted Arrays </a>
