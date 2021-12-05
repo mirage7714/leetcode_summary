@@ -232,6 +232,7 @@
   * -[x] (完成日期: 2021/10/31) <a href="Easy/2057/Smallest_Index_With_Equal_Value.ipynb">2057. Smallest Index With Equal Value </a>
   * -[x] (完成日期: 2021/11/14) <a href="Easy/2068/Check_Whether_Two_Strings_are_Almost_Equivalent.ipynb">2068. Check Whether Two Strings are Almost Equivalent </a>
   * -[x] (完成日期: 2021/11/15) <a href="Easy/2073/Time_Needed_to_Buy_Tickets.ipynb">2073. Time Needed to Buy Tickets </a>
+  * -[x] (完成日期: 2021/12/05) <a href="Easy/2078/Two_Furthest_Houses_With_Different_Colors.ipynb">2078. Two Furthest Houses With Different Colors </a>
   * -[x] (完成日期: 2021/11/28) <a href="Easy/2085/Count_Common_Words_With_One_Occurrence.ipynb">2085. Count Common Words With One Occurrence </a>
   * -[x] (完成日期: 2021/11/28) <a href="Easy/2089/Find_Target_Indices_After_Sorting_Array.ipynb">2089. Find Target Indices After Sorting Array </a>
 
