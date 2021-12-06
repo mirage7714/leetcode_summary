@@ -225,6 +225,7 @@
   * -[x] (完成日期: 2021/09/21) <a href="Easy/2011/Final_Value_of_Variable_After_Performing_Operations.ipynb">2011. Final Value of Variable After Performing Operations </a>
   * -[x] (完成日期: 2021/09/26) <a href="Easy/2016/Maximum_Difference_Between_Increasing_Elements.ipynb">2016. Maximum Difference Between Increasing Elements </a>
   * -[x] (完成日期: 2021/10/04) <a href="Easy/2022/Convert_1D_Array_Into_2D_Array.ipynb">2022. Convert 1D Array Into 2D Array </a>
+  * -[x] (完成日期: 2021/12/06) <a href="Easy/2027/Minimum_Moves_to_Convert_String.ipynb">2027. Minimum Moves to Convert String </a>
   * -[x] (完成日期: 2021/10/10) <a href="Easy/2032/Two_Out_of_Three.ipynb">2032. Two Out of Three </a>
   * -[x] (完成日期: 2021/10/17) <a href="Easy/2037/Minimum_Number_of_Moves_to_Seat_Everyone.ipynb">2037. Minimum Number of Moves to Seat Everyone </a>
   * -[x] (完成日期: 2021/10/17) <a href="Easy/2042/Check_if_Numbers_Are_Ascending_in_a_Sentence.ipynb">2042. Check if Numbers Are Ascending in a Sentence </a>
