@@ -109,6 +109,7 @@
   * -[x] (完成日期: 2021/01/05) <a href="Easy/1128/Number_of_Equivalent_Domino_Pairs.ipynb">1128. Number of Equivalent Domino Pairs </a>
   * -[x] (完成日期: 2020/10/21) <a href="Easy/1170/Compare_Strings_by_Frequency_of_the_Smallest_Character.ipynb">1170. Compare Strings by Frequency of the Smallest Character </a> 
   * -[x] (完成日期: 2020/11/27) <a href="Easy/1184/Distance_Between_Bus_Stops.ipynb">1184. Distance Between Bus Stops </a>
+  * -[x] (完成日期: 2021/03/14) <a href="Easy/1217/Minimum_Cost_to_Move_Chips_to_The_Same_Position.ipynb">1217. Minimum Cost to Move Chips to The Same Position </a> 
   * -[x] (完成日期: 2020/10/19) <a href="Easy/1221/Split_a_String_in_Balanced_Strings.ipynb">1221. Split a String in Balanced Strings </a> 
   * -[x] (完成日期: 2020/10/07) <a href="Easy/1232/Check_If_It_Is_a_Straight_Line.ipynb">1232. Check If It Is a Straight Line </a> 
   * -[x] (完成日期: 2020/10/21) <a href="Easy/1252/Cells_with_Odd_Values_in_a_Matrix.ipynb">1252. Cells with Odd Values in a Matrix </a> 
