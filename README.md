@@ -237,6 +237,7 @@
   * -[x] (完成日期: 2021/12/05) <a href="Easy/2078/Two_Furthest_Houses_With_Different_Colors.ipynb">2078. Two Furthest Houses With Different Colors </a>
   * -[x] (完成日期: 2021/11/28) <a href="Easy/2085/Count_Common_Words_With_One_Occurrence.ipynb">2085. Count Common Words With One Occurrence </a>
   * -[x] (完成日期: 2021/11/28) <a href="Easy/2089/Find_Target_Indices_After_Sorting_Array.ipynb">2089. Find Target Indices After Sorting Array </a>
+  * -[x] (完成日期: 2021/12/13) <a href="Easy/2103/Rings_and_Rods.ipynb">2103. Rings and Rods </a>
 
 * Medium:  
   * -[x] (完成日期: 2021/08/19) <a href="Medium/6/ZigZag_Conversion.ipynb">6. ZigZag Conversion </a>
