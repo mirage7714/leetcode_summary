@@ -360,6 +360,7 @@
   * -[x] (完成日期: 2021/10/31) <a href="Medium/2058/Find_the_Minimum_and_Maximum_Number_of_Nodes_Between_Critical_Points.ipynb">2058. Find the Minimum and Maximum Number of Nodes Between Critical Points </a>
   * -[x] (完成日期: 2021/12/04) <a href="Medium/2079/Watering_Plants.ipynb">2079. Watering Plants </a>
   * -[x] (完成日期: 2021/12/04) <a href="Medium/2091/Removing_Minimum_and_Maximum_From_Array.ipynb">2091. Removing Minimum and Maximum From Array </a>
+  * -[x] (完成日期: 2021/12/19) <a href="Medium/2109/Adding_Spaces_to_a_String.ipynb">2109. Adding Spaces to a String </a>
   
 * Hard:
   * -[x] (完成日期: 2021/01/09) <a href="Hard/4/Median_of_Two_Sorted_Arrays.ipynb">4. Median of Two Sorted Arrays </a>
