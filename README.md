@@ -242,6 +242,7 @@
   * -[x] (完成日期: 2021/12/19) <a href="Easy/2108/Find_First_Palindromic_String_in_the_Array.ipynb">2108. Find First Palindromic String in the Array </a>
   * -[x] (完成日期: 2021/12/26) <a href="Easy/2114/Maximum_Number_of_Words_Found_in_Sentences.ipynb">2114. Maximum Number of Words Found in Sentences </a>
   * -[x] (完成日期: 2021/12/26) <a href="Easy/2119/A_Number_After_a_Double_Reversal.ipynb">2119. A Number After a Double Reversal </a>
+  * -[x] (完成日期: 2022/01/02) <a href="Easy/2124/Check_if_All_A's_Appears_Before_All_B's.ipynb">2124. Check if All A's Appears Before All B's </a>
 
 * Medium:  
   * -[x] (完成日期: 2021/08/19) <a href="Medium/6/ZigZag_Conversion.ipynb">6. ZigZag Conversion </a>
