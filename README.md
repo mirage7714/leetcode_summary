@@ -246,6 +246,7 @@
   * -[x] (完成日期: 2022/01/09) <a href="Easy/2129/Capitalize_the_Title.ipynb">2129. Capitalize the Title </a>
   * -[x] (完成日期: 2022/01/09) <a href="Easy/2133/Check_if_Every_Row_and_Column_Contains_All_Numbers.ipynb">2133. Check if Every Row and Column Contains All Numbers </a>
   * -[x] (完成日期: 2022/01/16) <a href="Easy/2138/Divide_a_String_Into_Groups_of_Size_k.ipynb">2138. Divide a String Into Groups of Size k </a>
+  * -[x] (完成日期: 2022/01/23) <a href="Easy/2144/Minimum_Cost_of_Buying_Candies_With_Discount.ipynb">2144. Minimum Cost of Buying Candies With Discount </a>
 
 
 * Medium:  
