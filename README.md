@@ -373,6 +373,7 @@
   * -[x] (完成日期: 2022/01/03) <a href="Medium/2110/Number_of_Smooth_Descent_Periods_of_a_Stock.ipynb">2110. Number of Smooth Descent Periods of a Stock </a>
   * -[x] (完成日期: 2022/01/03) <a href="Medium/2130/Maximum_Twin_Sum_of_a_Linked_List.ipynb">2130. Maximum Twin Sum of a Linked List </a>
   * -[x] (完成日期: 2022/01/16) <a href="Medium/2139/Minimum_Moves_to_Reach_Target_Score.ipynb">2139. Minimum Moves to Reach Target Score </a>
+  * -[x] (完成日期: 2022/01/24) <a href="Medium/2150/Find_All_Lonely_Numbers_in_the_Array.ipynb">2150. Find All Lonely Numbers in the Array </a>
   
 * Hard:
   * -[x] (完成日期: 2021/01/09) <a href="Hard/4/Median_of_Two_Sorted_Arrays.ipynb">4. Median of Two Sorted Arrays </a>
