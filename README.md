@@ -248,6 +248,7 @@
   * -[x] (完成日期: 2022/01/16) <a href="Easy/2138/Divide_a_String_Into_Groups_of_Size_k.ipynb">2138. Divide a String Into Groups of Size k </a>
   * -[x] (完成日期: 2022/01/23) <a href="Easy/2144/Minimum_Cost_of_Buying_Candies_With_Discount.ipynb">2144. Minimum Cost of Buying Candies With Discount </a>
   * -[x] (完成日期: 2022/01/23) <a href="Easy/2148/Count_Elements_With_Strictly_Smaller_and_Greater_Elements.ipynb">2148. Count Elements With Strictly Smaller and Greater Elements </a>
+  * -[x] (完成日期: 2022/01/30) <a href="Easy/2154/Keep_Multiplying_Found_Values_by_Two.ipynb">2154. Keep Multiplying Found Values by Two </a>
 
 * Medium:  
   * -[x] (完成日期: 2021/08/19) <a href="Medium/6/ZigZag_Conversion.ipynb">6. ZigZag Conversion </a>
