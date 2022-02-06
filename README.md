@@ -378,6 +378,7 @@
   * -[x] (完成日期: 2022/01/16) <a href="Medium/2139/Minimum_Moves_to_Reach_Target_Score.ipynb">2139. Minimum Moves to Reach Target Score </a>
   * -[x] (完成日期: 2022/01/24) <a href="Medium/2149/Rearrange_Array_Elements_by_Sign.ipynb">2149. Rearrange Array Elements by Sign </a>
   * -[x] (完成日期: 2022/01/24) <a href="Medium/2150/Find_All_Lonely_Numbers_in_the_Array.ipynb">2150. Find All Lonely Numbers in the Array </a>
+  * -[x] (完成日期: 2022/02/06) <a href="Medium/2161/Partition_Array_According_to_Given_Pivot.ipynb">2161. Partition Array According to Given Pivot </a>
   
 * Hard:
   * -[x] (完成日期: 2021/01/09) <a href="Hard/4/Median_of_Two_Sorted_Arrays.ipynb">4. Median of Two Sorted Arrays </a>
