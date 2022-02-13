@@ -251,6 +251,7 @@
   * -[x] (完成日期: 2022/01/30) <a href="Easy/2154/Keep_Multiplying_Found_Values_by_Two.ipynb">2154. Keep Multiplying Found Values by Two </a>
   * -[x] (完成日期: 2022/02/06) <a href="Easy/2160/Minimum_Sum_of_Four_Digit_Number_After_Splitting_Digits.ipynb">2160. Minimum Sum of Four Digit Number After Splitting Digits </a>
   * -[x] (完成日期: 2022/02/06) <a href="Easy/2164/Sort_Even_and_Odd_Indices_Independently.ipynb">2164. Sort Even and Odd Indices Independently </a>
+  * -[x] (完成日期: 2022/02/13) <a href="Easy/2169/Count_Operations_to_Obtain_Zero.ipynb">2169. Count Operations to Obtain Zero </a>
 
 * Medium:  
   * -[x] (完成日期: 2021/08/19) <a href="Medium/6/ZigZag_Conversion.ipynb">6. ZigZag Conversion </a>
