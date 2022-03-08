@@ -255,6 +255,7 @@
   * -[x] (完成日期: 2022/02/20) <a href="Easy/2176/Count_Equal_and_Divisible_Pairs_in_an_Array.ipynb">2176. Count Equal and Divisible Pairs in an Array </a>  
   * -[x] (完成日期: 2022/02/21) <a href="Easy/2180/Count_Integers_With_Even_Digit_Sum.ipynb">2180. Count Integers With Even Digit Sum </a>  
   * -[x] (完成日期: 2022/02/27) <a href="Easy/2185/Counting_Words_With_a_Given_Prefix.ipynb">2185. Counting Words With a Given Prefix </a>  
+  * -[x] (完成日期: 2022/03/08) <a href="Easy/2190/Most_Frequent_Number_Following_Key_In_an_Array.ipynb">2190. Most Frequent Number Following Key In an Array </a>  
   * -[x] (完成日期: 2022/03/07) <a href="Easy/2194/Cells_in_a_Range_on_an_Excel_Sheet.ipynb">2194. Cells in a Range on an Excel Sheet </a>  
 
 * Medium:  
