@@ -148,6 +148,7 @@
   * -[x] (完成日期: 2020/10/13) <a href="Easy/1507/Reformat_Date.ipynb">1507. Reformat Date </a> 
   * -[x] (完成日期: 2020/10/13) <a href="Easy/1523/Count_Odd_Numbers_in_an_Interval_Range.ipynb">1523. Count Odd Numbers in an Interval Range </a>
   * -[x] (完成日期: 2020/11/27) <a href="Easy/1534/Count_Good_Triplets.ipynb">1534. Count Good Triplets </a>
+  * -[x] (完成日期: 2022/03/09) <a href="Easy/1544/Make_The_String_Great.ipynb">1544. Make The String Great </a>
   * -[x] (完成日期: 2020/10/14) <a href="Easy/1556/Thousand_Separator.ipynb">1556. Thousand Separator </a>
   * -[x] (完成日期: 2020/11/03) <a href="Easy/1566/Detect_Pattern_of_Length_M_Repeated_K_or_More_Times.ipynb">1566. Detect Pattern of Length M Repeated K or More Times </a>
   * -[x] (完成日期: 2020/10/14) <a href="Easy/1572/Matrix_Diagonal_Sum.ipynb">1572. Matrix Diagonal Sum </a> 
