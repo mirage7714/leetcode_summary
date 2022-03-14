@@ -273,6 +273,7 @@
   * -[x] (完成日期: 2020/10/31) <a href="Medium/75/Sort_Colors.ipynb">75. Sort Colors </a>
   * -[x] (完成日期: 2021/05/18) <a href="Medium/77/Combinations.ipynb">77. Combinations </a> (待改善解法)
   * -[x] (完成日期: 2021/05/18) <a href="Medium/78/Subsets.ipynb">78. Subsets </a> (待改善解法) 
+  * -[x] (完成日期: 2022/03/14) <a href="Medium/82/Remove_Duplicates_from_Sorted_List_II.ipynb">82. Remove Duplicates from Sorted List II </a>
   * -[x] (完成日期: 2020/12/06) <a href="Medium/137/Single_Number_II.ipynb">137. Single Number II </a>
   * -[x] (完成日期: 2020/12/05) <a href="Medium/151/Reverse_Words_in_a_String.ipynb">151. Reverse Words in a String </a>
   * -[x] (完成日期: 2020/12/31) <a href="Medium/153/Find_Minimum_in_Rotated_Sorted_Array.ipynb">153. Find Minimum in Rotated Sorted Array </a>
