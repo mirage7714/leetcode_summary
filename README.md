@@ -271,6 +271,7 @@
   * -[x] (完成日期: 2021/07/13) <a href="Medium/49/Group_Anagrams.ipynb">49. Group Anagrams </a>
   * -[x] (完成日期: 2021/05/27) <a href="Medium/56/Merge_Intervals.ipynb">56. Merge Intervals </a>
   * -[x] (完成日期: 2021/07/17) <a href="Medium/57/Insert_Interval.ipynb">57. Insert Interval </a>
+  * -[x] (完成日期: 2022/03/15) <a href="Medium/61/Rotate_List.ipynb">61. Rotate List </a>
   * -[x] (完成日期: 2021/07/17) <a href="Medium/71/Simplify_Path.ipynb">71. Simplify Path </a>
   * -[x] (完成日期: 2020/10/31) <a href="Medium/73/Set_Matrix_Zeroes.ipynb">73. Set Matrix Zeroes </a>
   * -[x] (完成日期: 2020/11/12) <a href="Medium/74/Search_a_2D_Matrix.ipynb">74. Search a 2D Matrix </a>
