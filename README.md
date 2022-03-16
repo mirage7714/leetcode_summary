@@ -297,6 +297,7 @@
   * -[x] (完成日期: 2021/10/21) <a href="Medium/380/Insert_Delete_GetRandom_O(1).ipynb">380. Insert Delete GetRandom O(1) </a>
   * -[x] (完成日期: 2022/03/16) <a href="Medium/382/Linked_List_Random_Node.ipynb">382. Linked List Random Node </a>
   * -[x] (完成日期: 2021/07/20) <a href="Medium/384/Shuffle_an_Array.ipynb">384. Shuffle an Array </a>
+  * -[x] (完成日期: 2022/03/16) <a href="Medium/397/Integer_Replacement.ipynb">397. Integer Replacement </a>
   * -[x] (完成日期: 2021/07/21) <a href="Medium/398/Random_Pick_Index.ipynb">398. Random Pick Index </a>
   * -[x] (完成日期: 2020/12/07) <a href="Medium/442/Find_All_Duplicates_in_an_Array.ipynb">442. Find All Duplicates in an Array </a>
   * -[x] (完成日期: 2021/01/11) <a href="Medium/443/String_Compression.ipynb">443. String Compression </a>
