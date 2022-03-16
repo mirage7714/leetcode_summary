@@ -295,6 +295,7 @@
   * -[x] (完成日期: 2021/01/16) <a href="Medium/347/Top_K_Frequent_Elements.ipynb">347. Top K Frequent Elements </a>
   * -[x] (完成日期: 2021/07/22) <a href="Medium/355/Design_Twitter.ipynb">355. Design Twitter </a>
   * -[x] (完成日期: 2021/10/21) <a href="Medium/380/Insert_Delete_GetRandom_O(1).ipynb">380. Insert Delete GetRandom O(1) </a>
+  * -[x] (完成日期: 2022/03/16) <a href="Medium/382/Linked_List_Random_Node.ipynb">382. Linked List Random Node </a>
   * -[x] (完成日期: 2021/07/20) <a href="Medium/384/Shuffle_an_Array.ipynb">384. Shuffle an Array </a>
   * -[x] (完成日期: 2021/07/21) <a href="Medium/398/Random_Pick_Index.ipynb">398. Random Pick Index </a>
   * -[x] (完成日期: 2020/12/07) <a href="Medium/442/Find_All_Duplicates_in_an_Array.ipynb">442. Find All Duplicates in an Array </a>
