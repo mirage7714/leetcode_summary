@@ -92,6 +92,7 @@
   * -[x] (完成日期: 2020/10/20) <a href="Easy/929/Unique_Email_Addresses.ipynb">929. Unique Email Addresses </a> 
   * -[x] (完成日期: 2020/10/08) <a href="Easy/941/Valid_Mountain_Array.ipynb">941. Valid Mountain Array </a>
   * -[x] (完成日期: 2021/05/24) <a href="Easy/944/Delete_Columns_to_Make_Sorted.ipynb">944. Delete Columns to Make Sorted </a>  
+  * -[x] (完成日期: 2022/03/19) <a href="Easy/953/Verifying_an_Alien_Dictionary.ipynb">953. Verifying an Alien Dictionary </a> 
   * -[x] (完成日期: 2020/10/08) <a href="Easy/977/Squares_of_a_Sorted_Array.ipynb">977. Squares of a Sorted Array </a> 
   * -[x] (完成日期: 2020/10/22) <a href="Easy/985/Sum_of_Even_Numbers_After_Queries.ipynb">985. Sum of Even Numbers After Queries </a>
   * -[x] (完成日期: 2020/10/28) <a href="Easy/989/Add_to_Array-Form_of_Integer.ipynb">989. Add to Array-Form of Integer </a> 
