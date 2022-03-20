@@ -264,7 +264,8 @@
   * -[x] (完成日期: 2022/02/27) <a href="Easy/2185/Counting_Words_With_a_Given_Prefix.ipynb">2185. Counting Words With a Given Prefix </a>  
   * -[x] (完成日期: 2022/03/08) <a href="Easy/2190/Most_Frequent_Number_Following_Key_In_an_Array.ipynb">2190. Most Frequent Number Following Key In an Array </a>  
   * -[x] (完成日期: 2022/03/07) <a href="Easy/2194/Cells_in_a_Range_on_an_Excel_Sheet.ipynb">2194. Cells in a Range on an Excel Sheet </a>  
-  * -[x] (完成日期: 2022/03/13) <a href="Easy/2194/Find_All_K-Distant_Indices_in_an_Array.ipynb">2200. Find All K-Distant Indices in an Array </a>  
+  * -[x] (完成日期: 2022/03/13) <a href="Easy/2194/Find_All_K-Distant_Indices_in_an_Array.ipynb">2200. Find All K-Distant Indices in an Array </a>   
+  * -[x] (完成日期: 2022/03/20) <a href="Easy/2206/Divide_Array_Into_Equal_Pairs.ipynb">2206. Divide Array Into Equal Pairs </a>  
 
 * Medium:  
   * -[x] (完成日期: 2021/08/19) <a href="Medium/6/ZigZag_Conversion.ipynb">6. ZigZag Conversion </a>
