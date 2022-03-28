@@ -241,6 +241,7 @@
   * -[x] (完成日期: 2021/10/10) <a href="Easy/2032/Two_Out_of_Three.ipynb">2032. Two Out of Three </a>
   * -[x] (完成日期: 2021/10/17) <a href="Easy/2037/Minimum_Number_of_Moves_to_Seat_Everyone.ipynb">2037. Minimum Number of Moves to Seat Everyone </a>
   * -[x] (完成日期: 2021/10/17) <a href="Easy/2042/Check_if_Numbers_Are_Ascending_in_a_Sentence.ipynb">2042. Check if Numbers Are Ascending in a Sentence </a>
+  * -[x] (完成日期: 2022/03/28) <a href="Easy/2047/Number_of_Valid_Words_in_a_Sentence.ipynb">2047. Number of Valid Words in a Sentence </a>
   * -[x] (完成日期: 2021/10/31) <a href="Easy/2053/Kth_Distinct_String_in_an_Array.ipynb">2053. Kth Distinct String in an Array </a>
   * -[x] (完成日期: 2021/10/31) <a href="Easy/2057/Smallest_Index_With_Equal_Value.ipynb">2057. Smallest Index With Equal Value </a>
   * -[x] (完成日期: 2021/11/14) <a href="Easy/2068/Check_Whether_Two_Strings_are_Almost_Equivalent.ipynb">2068. Check Whether Two Strings are Almost Equivalent </a>
