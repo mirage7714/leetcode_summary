@@ -145,6 +145,7 @@
   * -[x] (完成日期: 2020/10/06) <a href="Easy/1389/Create_Target_Array_in_the_Given_Order.ipynb">1389. Create Target Array in the Given Order </a>
   * -[x] (完成日期: 2020/11/12) <a href="Easy/1399/Count_Largest_Group.ipynb">1399. Count Largest Group </a> 
   * -[x] (完成日期: 2021/02/04) <a href="Easy/1403/Minimum_Subsequence_in_Non-Increasing_Order.ipynb">1403. Minimum Subsequence in Non-Increasing Order </a> 
+  * -[x] (完成日期: 2022/03/29) <a href="Easy/1413/Minimum_Value_to_Get_Positive_Step_by_Step_Sum.ipynb">1413. Minimum Value to Get Positive Step by Step Sum </a>
   * -[x] (完成日期: 2020/11/02) <a href="Easy/1417/Reformat_The_String.ipynb">1417. Reformat The String </a>
   * -[x] (完成日期: 2020/11/20) <a href="Easy/1436/Destination_City.ipynb">1436. Destination City </a>
   * -[x] (完成日期: 2021/01/31) <a href="Easy/1437/Check_If_All_1's_Are_at_Least_Length_K_Places_Away.ipynb">1437. Check If All 1's Are at Least Length K Places Away </a>
