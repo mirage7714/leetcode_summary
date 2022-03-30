@@ -331,7 +331,7 @@
   * -[x] (完成日期: 2021/01/16) <a href="Medium/692/Top_K_Frequent_Words.ipynb">692. Top K Frequent Words </a>
   * -[x] (完成日期: 2021/02/03) <a href="Medium/729/My_Calendar_I.ipynb">729. My Calendar I </a>
   * -[x] (完成日期: 2021/07/16) <a href="Medium/763/Partition_Labels.ipynb">763. Partition Labels </a>
-  * -[x] (完成日期: 2020/12/17) <a href="Medium/784/Letter_Case_Permutation.ipynb">784. Letter Case Permutation </a>
+  * -[x] (完成日期: 2020/12/17) <a href="Medium/784/Letter_Case_Permutation.ipynb">784. Letter Case Permutation (Update: 20220330) </a>
   * -[x] (完成日期: 2021/05/19) <a href="Medium/791/Custom_Sort_String.ipynb">791. Custom Sort String </a>
   * -[x] (完成日期: 2020/12/20) <a href="Medium/807/Max_Increase_to_Keep_City_Skyline.ipynb">807. Max Increase to Keep City Skyline </a>
   * -[x] (完成日期: 2021/05/22) <a href="Medium/826/Most_Profit_Assigning_Work.ipynb">826. Most Profit Assigning Work </a>
