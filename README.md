@@ -11,7 +11,8 @@
   * -[x] (完成日期: 2020/11/20) <a href="Easy/27/Remove_Element.ipynb">27. Remove Element </a> 
   * -[x] (完成日期: 2022/03/23) <a href="Easy/35/Search_Insert_Position.ipynb">35. Search Insert Position </a>
   * -[x] (完成日期: 2022/03/19) <a href="Easy/83/Remove_Duplicates_from_Sorted_List.ipynb">83. Remove Duplicates from Sorted List </a> 
-  * -[x] (完成日期: 2020/11/21) <a href="Easy/125/Valid_Palindrome.ipynb">125. Valid Palindrome </a> 
+  * -[x] (完成日期: 2020/11/21) <a href="Easy/125/Valid_Palindrome.ipynb">125. Valid Palindrome </a>
+  * -[x] (完成日期: 2022/04/02) <a href="Easy/136/Single_Number.ipynb">136. Single Number </a>  
   * -[x] (完成日期: 2021/02/07) <a href="Easy/155/Min_Stack.ipynb">155. Min Stack </a> 
   * -[x] (完成日期: 2020/10/29) <a href="Easy/168/Excel_Sheet_Column_Title.ipynb">168. Excel Sheet Column Title </a> 
   * -[x] (完成日期: 2020/10/07) <a href="Easy/171/Excel_Sheet_Column_Number.ipynb">171. Excel Sheet Column Number </a> 
