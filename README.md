@@ -424,6 +424,7 @@
   * -[x] (完成日期: 2022/02/27) <a href="Medium/2186/Minimum_Number_of_Steps_to_Make_Two_Strings_Anagram_II.ipynb">2186. Minimum Number of Steps to Make Two Strings Anagram II </a>
   * -[x] (完成日期: 2022/03/07) <a href="Medium/2191/Sort_the_Jumbled_Numbers.ipynb">2191. Sort the Jumbled Numbers </a>
   * -[x] (完成日期: 2022/03/26) <a href="Medium/2195/Append_K_Integers_With_Minimal_Sum.ipynb">2195. Append K Integers With Minimal Sum </a>
+  * -[x] (完成日期: 2022/04/03) <a href="Medium/2221/Find_Triangular_Sum_of_an_Array.ipynb">2221. Find Triangular Sum of an Array </a>
   
 * Hard:
   * -[x] (完成日期: 2021/01/09) <a href="Hard/4/Median_of_Two_Sorted_Arrays.ipynb">4. Median of Two Sorted Arrays </a>
