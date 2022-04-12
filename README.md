@@ -279,7 +279,8 @@
   * -[x] (完成日期: 2022/04/03) <a href="Easy/2220/Minimum_Bit_Flips_to_Convert_Number.ipynb">2220. Minimum Bit Flips to Convert Number </a>  
   * -[x] (完成日期: 2022/04/04) <a href="Easy/2224/Minimum_Number_of_Operations_to_Convert_Time.ipynb">2224. Minimum Number of Operations to Convert Time </a>  
   * -[x] (完成日期: 2022/04/12) <a href="Easy/2231/Largest_Number_After_Digit_Swaps_by_Parity.ipynb">2231. Largest Number After Digit Swaps by Parity </a>  
-
+  * -[x] (完成日期: 2022/04/12) <a href="Easy/2236/Root_Equals_Sum_of_Children.ipynb">2236. Root Equals Sum of Children </a>  
+  
 * Medium:  
   * -[x] (完成日期: 2022/04/01) <a href="Medium/3/Longest_Substring_Without_Repeating_Characters.ipynb">3. Longest Substring Without Repeating Characters </a>
   * -[x] (完成日期: 2021/08/19) <a href="Medium/6/ZigZag_Conversion.ipynb">6. ZigZag Conversion </a>
