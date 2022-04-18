@@ -433,7 +433,8 @@
   * -[x] (完成日期: 2022/04/03) <a href="Medium/2221/Find_Triangular_Sum_of_an_Array.ipynb">2221. Find Triangular Sum of an Array </a>
   * -[x] (完成日期: 2022/04/03) <a href="Medium/2225/Find_Players_With_Zero_or_One_Losses.ipynb">2225. Find Players With Zero or One Losses </a>
   * -[x] (完成日期: 2022/04/18) <a href="Medium/2240/Number_of_Ways_to_Buy_Pens_and_Pencils.ipynb">2240. Number of Ways to Buy Pens and Pencils </a>
-  
+  * -[x] (完成日期: 2022/04/18) <a href="Medium/2244/Minimum_Rounds_to_Complete_All_Tasks.ipynb">2244. Minimum Rounds to Complete All Tasks </a>
+ 
 * Hard:
   * -[x] (完成日期: 2021/01/09) <a href="Hard/4/Median_of_Two_Sorted_Arrays.ipynb">4. Median of Two Sorted Arrays </a>
   * -[x] (完成日期: 2020/11/06) <a href="Hard/41/First_Missing_Positive.ipynb">41. First Missing Positive </a>
