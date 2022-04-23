@@ -417,6 +417,7 @@
   * -[x] (完成日期: 202@/01/30) <a href="Medium/2023/Number_of_Pairs_of_Strings_With_Concatenation_Equal_to_Target.ipynb">2023. Number of Pairs of Strings With Concatenation Equal to Target </a>
   * -[x] (完成日期: 2021/10/24) <a href="Medium/2043/Simple_Bank_System.ipynb">2043. Simple Bank System </a>
   * -[x] (完成日期: 2021/10/31) <a href="Medium/2058/Find_the_Minimum_and_Maximum_Number_of_Nodes_Between_Critical_Points.ipynb">2058. Find the Minimum and Maximum Number of Nodes Between Critical Points </a>
+  * -[x] (完成日期: 2022/04/23) <a href="Medium/2075/Decode_the_Slanted_Ciphertext.ipynb">2075. Decode the Slanted Ciphertext </a>
   * -[x] (完成日期: 2021/12/04) <a href="Medium/2079/Watering_Plants.ipynb">2079. Watering Plants </a>
   * -[x] (完成日期: 2021/12/04) <a href="Medium/2091/Removing_Minimum_and_Maximum_From_Array.ipynb">2091. Removing Minimum and Maximum From Array </a>
   * -[x] (完成日期: 2022/03/16) <a href="Medium/2095/Delete_the_Middle_Node_of_a_Linked_List.ipynb">2095. Delete the Middle Node of a Linked List </a>
