@@ -284,6 +284,7 @@
   * -[x] (完成日期: 2022/04/12) <a href="Easy/2236/Root_Equals_Sum_of_Children.ipynb">2236. Root Equals Sum of Children </a>  
   * -[x] (完成日期: 2022/04/18) <a href="Easy/2239/Find_Closest_Number_to_Zero.ipynb">2239. Find Closest Number to Zero </a> 
   * -[x] (完成日期: 2022/04/18) <a href="Easy/2243/Calculate_Digit_Sum_of_a_String.ipynb">2243. Calculate Digit Sum of a String </a> 
+  * -[x] (完成日期: 2022/04/24) <a href="Easy/2248/Intersection_of_Multiple_Arrays.ipynb">2248. Intersection of Multiple Arrays </a> 
   
 * Medium:  
   * -[x] (完成日期: 2022/04/19) <a href="Medium/2/Add_Two_Numbers.ipynb">2. Add Two Numbers </a>
