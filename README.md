@@ -286,6 +286,7 @@
   * -[x] (完成日期: 2022/04/25) <a href="Easy/2241/Design_an_ATM_Machine.ipynb">2241. Design an ATM Machine </a> 
   * -[x] (完成日期: 2022/04/18) <a href="Easy/2243/Calculate_Digit_Sum_of_a_String.ipynb">2243. Calculate Digit Sum of a String </a> 
   * -[x] (完成日期: 2022/04/24) <a href="Easy/2248/Intersection_of_Multiple_Arrays.ipynb">2248. Intersection of Multiple Arrays </a> 
+  * -[x] (完成日期: 2022/05/02) <a href="Easy/2255/Count_Prefixes_of_a_Given_String.ipynb">2255. Count Prefixes of a Given String </a> 
   
 * Medium:  
   * -[x] (完成日期: 2022/04/19) <a href="Medium/2/Add_Two_Numbers.ipynb">2. Add Two Numbers </a>
