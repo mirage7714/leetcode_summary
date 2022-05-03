@@ -444,6 +444,7 @@
   * -[x] (完成日期: 2022/04/03) <a href="Medium/2225/Find_Players_With_Zero_or_One_Losses.ipynb">2225. Find Players With Zero or One Losses </a>
   * -[x] (完成日期: 2022/04/18) <a href="Medium/2240/Number_of_Ways_to_Buy_Pens_and_Pencils.ipynb">2240. Number of Ways to Buy Pens and Pencils </a>
   * -[x] (完成日期: 2022/04/18) <a href="Medium/2244/Minimum_Rounds_to_Complete_All_Tasks.ipynb">2244. Minimum Rounds to Complete All Tasks </a>
+  * -[x] (完成日期: 2022/05/03) <a href="Medium/2256/Minimum_Average_Difference.ipynb">2256. Minimum Average Difference </a>
   * -[x] (完成日期: 2022/05/02) <a href="Medium/2260/Minimum_Consecutive_Cards_to_Pick_Up.ipynb">2260. Minimum Consecutive Cards to Pick Up </a>
  
 * Hard:
