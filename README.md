@@ -288,6 +288,7 @@
   * -[x] (完成日期: 2022/04/24) <a href="Easy/2248/Intersection_of_Multiple_Arrays.ipynb">2248. Intersection of Multiple Arrays </a> 
   * -[x] (完成日期: 2022/05/02) <a href="Easy/2255/Count_Prefixes_of_a_Given_String.ipynb">2255. Count Prefixes of a Given String </a> 
   * -[x] (完成日期: 2022/05/02) <a href="Easy/2259/Remove_Digit_From_Number_to_Maximize_Result.ipynb">2259. Remove Digit From Number to Maximize Result </a> 
+  * -[x] (完成日期: 2022/05/08) <a href="Easy/2264/Largest_3-Same-Digit_Number_in_String.ipynb">2264. Largest 3-Same-Digit Number in String </a> 
 
 * Medium:  
   * -[x] (完成日期: 2022/04/19) <a href="Medium/2/Add_Two_Numbers.ipynb">2. Add Two Numbers </a>
