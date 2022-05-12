@@ -35,6 +35,7 @@
   * -[x] (完成日期: 2020/10/30) <a href="Easy/234/Palindrome_Linked_List.ipynb">234. Palindrome Linked List </a> 
   * -[x] (完成日期: 2020/10/10) <a href="Easy/242/Valid_Anagram.ipynb">242. Valid Anagram </a> 
   * -[x] (完成日期: 2020/10/08) <a href="Easy/258/Add_Digits.ipynb">258. Add Digits </a> 
+  * -[x] (完成日期: 2022/05/12) <a href="Easy/263/Ugly_Number.ipynb">263. Ugly Number </a> 
   * -[x] (完成日期: 2022/03/30) <a href="Easy/278/First_Bad_Version.ipynb">278. First Bad Version </a> 
   * -[x] (完成日期: 2020/10/08) <a href="Easy/290/Word_Pattern.ipynb">290. Word Pattern </a> 
   * -[x] (完成日期: 2021/02/06) <a href="Easy/303/Range_Sum_Query-Immutable.ipynb">303. Range Sum Query - Immutable </a> 
