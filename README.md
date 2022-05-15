@@ -450,6 +450,7 @@
   * -[x] (完成日期: 2022/04/18) <a href="Medium/2244/Minimum_Rounds_to_Complete_All_Tasks.ipynb">2244. Minimum Rounds to Complete All Tasks </a>
   * -[x] (完成日期: 2022/05/03) <a href="Medium/2256/Minimum_Average_Difference.ipynb">2256. Minimum Average Difference </a>
   * -[x] (完成日期: 2022/05/02) <a href="Medium/2260/Minimum_Consecutive_Cards_to_Pick_Up.ipynb">2260. Minimum Consecutive Cards to Pick Up </a>
+  * -[x] (完成日期: 2022/05/15) <a href="Medium/2270/Number_of_Ways_to_Split_Array.ipynb">2270. Number of Ways to Split Array </a>
  
 * Hard:
   * -[x] (完成日期: 2021/01/09) <a href="Hard/4/Median_of_Two_Sorted_Arrays.ipynb">4. Median of Two Sorted Arrays </a>
