@@ -51,6 +51,7 @@
   * -[x] (完成日期: 2020/10/10) <a href="Easy/367/Valid_Perfect_Square.ipynb">367. Valid Perfect Square </a> 
   * -[x] (完成日期: 2020/10/10) <a href="Easy/383/Ransom_Note.ipynb">383. Ransom Note </a>
   * -[x] (完成日期: 2020/10/27) <a href="Easy/392/Is_Subsequence.ipynb">392. Is Subsequence </a>
+  * -[x] (完成日期: 2022/05/21) <a href="Easy/404/Sum_of_Left_Leaves.ipynb">404. Sum of Left Leaves </a>
   * -[x] (完成日期: 2020/10/15) <a href="Easy/405/Convert_a_Number_to_Hexadecimal.ipynb">405. Convert a Number to Hexadecimal </a> 
   * -[x] (完成日期: 2020/10/10) <a href="Easy/409/Longest_Palindrome.ipynb">409. Longest Palindrome </a>
   * -[x] (完成日期: 2021/08/09) <a href="Easy/415/Add_Strings.ipynb">415. Add Strings </a>  
