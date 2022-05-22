@@ -77,6 +77,7 @@
   * -[x] (完成日期: 2020/10/30) <a href="Easy/598/Range_Addition_II.ipynb">598. Range Addition II </a>
   * -[x] (完成日期: 2020/12/15) <a href="Easy/599/Minimum_Index_Sum_of_Two_Lists.ipynb">599. Minimum Index Sum of Two Lists </a>
   * -[x] (完成日期: 2021/08/10) <a href="Easy/605/Can_Place_Flowers.ipynb">605. Can Place Flowers </a>
+  * -[x] (完成日期: 2022/05/22) <a href="Easy/671/Second_Minimum_Node_In_a_Binary_Tree.ipynb">671. Second Minimum Node In a Binary Tree </a>
   * -[x] (完成日期: 2020/11/12) <a href="Easy/674/Longest_Continuous_Increasing_Subsequence.ipynb">674. Longest Continuous Increasing Subsequence </a>
   * -[x] (完成日期: 2020/12/03) <a href="Easy/682/Baseball_Game.ipynb">682. Baseball Game </a>
   * -[x] (完成日期: 2020/11/14) <a href="Easy/690/Employee_Importance.ipynb">690. Employee Importance </a>
