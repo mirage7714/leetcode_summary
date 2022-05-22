@@ -100,7 +100,8 @@
   * -[x] (完成日期: 2020/10/08) <a href="Easy/852/Peak_Index_in_a_Mountain_Array.ipynb">852. Peak Index in a Mountain Array </a> 
   * -[x] (完成日期: 2020/10/13) <a href="Easy/860/Lemonade_Change.ipynb">860. Lemonade Change </a> 
   * -[x] (完成日期: 2020/10/20) <a href="Easy/867/Transpose_Matrix.ipynb">867. Transpose Matrix </a> 
-  * -[x] (完成日期: 2020/10/22) <a href="Easy/868/Binary_Gap.ipynb">868. Binary Gap </a> 
+  * -[x] (完成日期: 2020/10/22) <a href="Easy/868/Binary_Gap.ipynb">868. Binary Gap </a>
+  * -[x] (完成日期: 2020/10/22) <a href="Easy/872/Leaf-Similar_Trees.ipynb">872. Leaf-Similar Trees </a>  
   * -[x] (完成日期: 2020/10/08) <a href="Easy/876/Middle_of_the_Linked_List.ipynb">876. Middle of the Linked List </a> 
   * -[x] (完成日期: 2020/10/20) <a href="Easy/884/Uncommon_Words_from_Two_Sentences.ipynb">884. Uncommon Words from Two Sentences </a> 
   * -[x] (完成日期: 2021/05/27) <a href="Easy/888/Fair_Candy_Swap.ipynb">888. Fair Candy Swap </a> 
