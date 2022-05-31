@@ -308,6 +308,7 @@
   * -[x] (完成日期: 2022/05/15) <a href="Easy/2269/Find_the_K-Beauty_of_a_Number.ipynb">2269. Find the K-Beauty of a Number </a> 
   * -[x] (完成日期: 2022/05/16) <a href="Easy/2273/Find_Resultant_Array_After_Removing_Anagrams.ipynb">2273. Find Resultant Array After Removing Anagrams </a> 
   * -[x] (完成日期: 2022/05/22) <a href="Easy/2278/Percentage_of_Letter_in_String.ipynb">2278. Percentage of Letter in String </a> 
+  * -[x] (完成日期: 2022/05/31) <a href="Easy/2283/Check_if_Number_Has_Equal_Digit_Count_and_Digit_Value.ipynb">2283. Check if Number Has Equal Digit Count and Digit Value </a> 
 
 * Medium:  
   * -[x] (完成日期: 2022/04/19) <a href="Medium/2/Add_Two_Numbers.ipynb">2. Add Two Numbers </a>
