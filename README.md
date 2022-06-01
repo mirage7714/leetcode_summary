@@ -465,6 +465,7 @@
   * -[x] (完成日期: 2022/02/21) <a href="Medium/2177/Find_Three_Consecutive_Integers_That_Sum_to_a_Given_Number.ipynb">2177. Find Three Consecutive Integers That Sum to a Given Number </a>
   * -[x] (完成日期: 2022/02/21) <a href="Medium/2178/Maximum_Split_of_Positive_Even_Integers.ipynb">2178. Maximum Split of Positive Even Integers </a>
   * -[x] (完成日期: 2022/03/14) <a href="Medium/2181/Merge_Nodes_in_Between_Zeros.ipynb">2181. Merge Nodes in Between Zeros </a>
+  * -[x] (完成日期: 2022/06/01) <a href="Medium/2182/Construct_String_With_Repeat_Limit.ipynb">2182. Construct String With Repeat Limit </a>
   * -[x] (完成日期: 2022/02/27) <a href="Medium/2186/Minimum_Number_of_Steps_to_Make_Two_Strings_Anagram_II.ipynb">2186. Minimum Number of Steps to Make Two Strings Anagram II </a>
   * -[x] (完成日期: 2022/03/07) <a href="Medium/2191/Sort_the_Jumbled_Numbers.ipynb">2191. Sort the Jumbled Numbers </a>
   * -[x] (完成日期: 2022/03/26) <a href="Medium/2195/Append_K_Integers_With_Minimal_Sum.ipynb">2195. Append K Integers With Minimal Sum </a>
