@@ -375,6 +375,7 @@
   * -[x] (完成日期: 2021/02/06) <a href="Medium/670/Maximum_Swap.ipynb">670. Maximum Swap </a>
   * -[x] (完成日期: 2021/02/06) <a href="Medium/676/Implement_Magic_Dictionary.ipynb">676. Implement Magic Dictionary </a>  
   * -[x] (完成日期: 2021/01/16) <a href="Medium/692/Top_K_Frequent_Words.ipynb">692. Top K Frequent Words </a>
+  * -[x] (完成日期: 2022/06/01) <a href="Medium/725/Split_Linked_List_in_Parts.ipynb">725. Split Linked List in Parts </a>
   * -[x] (完成日期: 2021/02/03) <a href="Medium/729/My_Calendar_I.ipynb">729. My Calendar I </a>
   * -[x] (完成日期: 2021/07/16) <a href="Medium/763/Partition_Labels.ipynb">763. Partition Labels </a>
   * -[x] (完成日期: 2020/12/17) <a href="Medium/784/Letter_Case_Permutation.ipynb">784. Letter Case Permutation (Update: 20220330) </a>
