@@ -11,6 +11,7 @@
   * -[x] (完成日期: 2020/11/20) <a href="Easy/26/Remove_Duplicates_from_Sorted_Array.ipynb">26. Remove Duplicates from Sorted Array </a> 
   * -[x] (完成日期: 2020/11/20) <a href="Easy/27/Remove_Element.ipynb">27. Remove Element </a> 
   * -[x] (完成日期: 2022/03/23) <a href="Easy/35/Search_Insert_Position.ipynb">35. Search Insert Position </a>
+  * -[x] (完成日期: 2022/06/02) <a href="Easy/69/Sqrt(x).ipynb">69. Sqrt(x) </a>
   * -[x] (完成日期: 2022/05/12) <a href="Easy/70/Climbing_Stairs.ipynb">70. Climbing Stairs </a>
   * -[x] (完成日期: 2022/03/19) <a href="Easy/83/Remove_Duplicates_from_Sorted_List.ipynb">83. Remove Duplicates from Sorted List </a> 
   * -[x] (完成日期: 2022/05/22) <a href="Easy/100/Same_Tree.ipynb">100. Same Tree </a>
