@@ -334,6 +334,7 @@
   * -[x] (完成日期: 2021/05/18) <a href="Medium/77/Combinations.ipynb">77. Combinations </a> (待改善解法)
   * -[x] (完成日期: 2021/05/18) <a href="Medium/78/Subsets.ipynb">78. Subsets </a> (待改善解法) 
   * -[x] (完成日期: 2022/03/14) <a href="Medium/82/Remove_Duplicates_from_Sorted_List_II.ipynb">82. Remove Duplicates from Sorted List II </a>
+  * -[x] (完成日期: 2022/06/02) <a href="Medium/86/Partition_List.ipynb">86. Partition List </a>
   * -[x] (完成日期: 2022/03/19) <a href="Medium/92/Reverse_Linked_List_II.ipynb">92. Reverse Linked List II </a>
   * -[x] (完成日期: 2022/05/23) <a href="Medium/102/Binary_Tree_Level_Order_Traversal.ipynb">102. Binary Tree Level Order Traversal </a>
   * -[x] (完成日期: 2022/05/23) <a href="Medium/103/Binary_Tree_Zigzag_Level_Order_Traversal.ipynb">103. Binary Tree Zigzag Level Order Traversal </a>
