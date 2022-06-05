@@ -488,6 +488,7 @@
   * -[x] (完成日期: 2022/05/31) <a href="Medium/2284/Sender_With_Largest_Word_Count.ipynb">2284. Sender With Largest Word Count </a>
   * -[x] (完成日期: 2022/05/31) <a href="Medium/2285/Maximum_Total_Importance_of_Roads.ipynb">2285. Maximum Total Importance of Roads </a>
   * -[x] (完成日期: 2022/05/31) <a href="Medium/2288/Apply_Discount_to_Prices.ipynb">2288. Apply Discount to Prices </a>
+  * -[x] (完成日期: 2022/06/05) <a href="Medium/2295/Replace_Elements_in_an_Array.ipynb">2295. Replace Elements in an Array </a>
 
 * Hard:
   * -[x] (完成日期: 2021/01/09) <a href="Hard/4/Median_of_Two_Sorted_Arrays.ipynb">4. Median of Two Sorted Arrays </a>
