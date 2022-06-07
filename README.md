@@ -394,6 +394,7 @@
   * -[x] (完成日期: 2021/05/19) <a href="Medium/848/Shifting_Letters.ipynb">848. Shifting Letters </a>
   * -[x] (完成日期: 2022/01/16) <a href="Medium/849/Maximize_Distance_to_Closest_Person.ipynb">849. Maximize Distance to Closest Person </a>
   * -[x] (完成日期: 2021/01/20) <a href="Medium/869/Reordered_Power_of_2.ipynb">869. Reordered Power of 2 </a>
+  * -[x] (完成日期: 2022/06/07) <a href="Medium/881/Boats_to_Save_People.ipynb">881. Boats to Save People </a>
   * -[x] (完成日期: 2021/01/20) <a href="Medium/890/Find_and_Replace_Pattern.ipynb">890. Find and Replace Pattern </a>
   * -[x] (完成日期: 2021/07/22) <a href="Medium/948/Bag_of_Tokens.ipynb">948. Bag of Tokens </a>
   * -[x] (完成日期: 2020/10/29) <a href="Medium/949/Largest_Time_for_Given_Digits.ipynb">949. Largest Time for Given Digits </a> 
