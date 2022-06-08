@@ -385,6 +385,7 @@
   * -[x] (完成日期: 2022/06/01) <a href="Medium/725/Split_Linked_List_in_Parts.ipynb">725. Split Linked List in Parts </a>
   * -[x] (完成日期: 2021/02/03) <a href="Medium/729/My_Calendar_I.ipynb">729. My Calendar I </a>
   * -[x] (完成日期: 2021/07/16) <a href="Medium/763/Partition_Labels.ipynb">763. Partition Labels </a>
+  * -[x] (完成日期: 2022/06/08) <a href="Medium/769/Max_Chunks_To_Make_Sorted.ipynb">769. Max Chunks To Make Sorted </a>
   * -[x] (完成日期: 2020/12/17) <a href="Medium/784/Letter_Case_Permutation.ipynb">784. Letter Case Permutation (Update: 20220330) </a>
   * -[x] (完成日期: 2021/05/19) <a href="Medium/791/Custom_Sort_String.ipynb">791. Custom Sort String </a>
   * -[x] (完成日期: 2020/12/20) <a href="Medium/807/Max_Increase_to_Keep_City_Skyline.ipynb">807. Max Increase to Keep City Skyline </a>
