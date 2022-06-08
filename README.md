@@ -414,6 +414,7 @@
   * -[x] (完成日期: 2021/06/30) <a href="Medium/1396/Design_Underground_System.ipynb">1396. Design Underground System </a>
   * -[x] (完成日期: 2020/12/09) <a href="Medium/1410/HTML_Entity_Parser.ipynb">1410. HTML Entity Parser </a>
   * -[x] (完成日期: 2021/06/20) <a href="Medium/1418/Display_Table_of_Food_Orders_in_a_Restaurant.ipynb">1418. Display Table of Food Orders in a Restaurant </a>
+  * -[x] (完成日期: 2022/06/08) <a href="Medium/1432/Max_Difference_You_Can_Get_From_Changing_an_Integer.ipynb">1432. Max Difference You Can Get From Changing an Integer </a>
   * -[x] (完成日期: 2021/01/09) <a href="Medium/1447/Simplified_Fractions.ipynb">1447. Simplified Fractions </a>
   * -[x] (完成日期: 2020/12/12) <a href="Medium/1451/Rearrange_Words_in_a_Sentence.ipynb">1451. Rearrange Words in a Sentence </a>
   * -[x] (完成日期: 2021/06/20) <a href="Medium/1456/Maximum_Number_of_Vowels_in_a_Substring_of_Given_Length.ipynb">1456. Maximum Number of Vowels in a Substring of Given Length </a>
