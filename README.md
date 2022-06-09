@@ -43,6 +43,7 @@
   * -[x] (完成日期: 2020/10/08) <a href="Easy/258/Add_Digits.ipynb">258. Add Digits </a> 
   * -[x] (完成日期: 2022/05/12) <a href="Easy/263/Ugly_Number.ipynb">263. Ugly Number </a> 
   * -[x] (完成日期: 2022/03/30) <a href="Easy/278/First_Bad_Version.ipynb">278. First Bad Version </a> 
+  * -[x] (完成日期: 2022/06/09) <a href="Easy/283/Move_Zeroes.ipynb">283. Move Zeroes </a> 
   * -[x] (完成日期: 2020/10/08) <a href="Easy/290/Word_Pattern.ipynb">290. Word Pattern </a> 
   * -[x] (完成日期: 2021/02/06) <a href="Easy/303/Range_Sum_Query-Immutable.ipynb">303. Range Sum Query - Immutable </a> 
   * -[x] (完成日期: 2020/10/01) <a href="Easy/326/Power_of_Three.ipynb">326. Power of Three / 342. Power of Four </a> 
