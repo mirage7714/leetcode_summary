@@ -406,6 +406,7 @@
   * -[x] (完成日期: 2021/01/16) <a href="Medium/973/K_Closest_Points_to_Origin.ipynb">973. K Closest Points to Origin </a>
   * -[x] (完成日期: 2022/05/26) <a href="Medium/984/String_Without_AAA_or_BBB.ipynb">984. String Without AAA or BBB </a>  
   * -[x] (完成日期: 2021/02/08) <a href="Medium/1138/Alphabet_Board_Path.ipynb">1138. Alphabet Board Path </a>
+  * -[x] (完成日期: 2022/06/09) <a href="Medium/1268/Search_Suggestions_System.ipynb">1268. Search Suggestions System </a>
   * -[x] (完成日期: 2021/01/21) <a href="Medium/1296/Divide_Array_in_Sets_of_K_Consecutive_Numbers.ipynb">1296. Divide Array in Sets of K Consecutive Numbers </a> (題目與No. 846相同)
   * -[x] (完成日期: 2021/01/23) <a href="Medium/1324/Print_Words_Vertically.ipynb">1324. Print Words Vertically </a>
   * -[x] (完成日期: 2021/01/23) <a href="Medium/1338/Reduce_Array_Size_to_The_Half.ipynb">1338. Reduce Array Size to The Half </a>
