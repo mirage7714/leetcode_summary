@@ -313,6 +313,7 @@
   * -[x] (完成日期: 2022/05/31) <a href="Easy/2283/Check_if_Number_Has_Equal_Digit_Count_and_Digit_Value.ipynb">2283. Check if Number Has Equal Digit Count and Digit Value </a> 
   * -[x] (完成日期: 2022/05/31) <a href="Easy/2287/Rearrange_Characters_to_Make_Target_String.ipynb">2287. Rearrange Characters to Make Target String </a> 
   * -[x] (完成日期: 2022/06/05) <a href="Easy/2293/Min_Max_Game.ipynb">2293. Min Max Game </a> 
+  * -[x] (完成日期: 2022/06/12) <a href="Easy/2299/Strong_Password_Checker_II.ipynb">2299. Strong Password Checker II </a> 
 
 * Medium:  
   * -[x] (完成日期: 2022/04/19) <a href="Medium/2/Add_Two_Numbers.ipynb">2. Add Two Numbers </a>
