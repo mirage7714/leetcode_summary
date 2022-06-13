@@ -23,6 +23,8 @@
   * -[x] (完成日期: 2022/04/22) <a href="Easy/119/Pascal's_Triangle_II.ipynb">119. Pascal's Triangle II </a>
   * -[x] (完成日期: 2020/11/21) <a href="Easy/125/Valid_Palindrome.ipynb">125. Valid Palindrome </a>
   * -[x] (完成日期: 2022/04/02) <a href="Easy/136/Single_Number.ipynb">136. Single Number </a>  
+  * -[x] (完成日期: 2022/06/13) <a href="Easy/144/Binary_Tree_Preorder_Traversal.ipynb">144. Binary Tree Preorder Traversal </a>
+  * -[x] (完成日期: 2022/06/13) <a href="Easy/145/Binary_Tree_Postorder_Traversal.ipynb">145. Binary Tree Postorder Traversal </a>
   * -[x] (完成日期: 2021/02/07) <a href="Easy/155/Min_Stack.ipynb">155. Min Stack </a> 
   * -[x] (完成日期: 2020/10/29) <a href="Easy/168/Excel_Sheet_Column_Title.ipynb">168. Excel Sheet Column Title </a> 
   * -[x] (完成日期: 2020/10/07) <a href="Easy/171/Excel_Sheet_Column_Number.ipynb">171. Excel Sheet Column Number </a> 
@@ -347,7 +349,6 @@
   * -[x] (完成日期: 2022/05/23) <a href="Medium/107/Binary_Tree_Level_Order_Traversal_II.ipynb">107. Binary Tree Level Order Traversal II </a>
   * -[x] (完成日期: 2022/06/13) <a href="Medium/129/Sum_Root_to_Leaf_Numbers.ipynb">129. Sum Root to Leaf Numbers </a>
   * -[x] (完成日期: 2020/12/06) <a href="Medium/137/Single_Number_II.ipynb">137. Single Number II </a>
-  * -[x] (完成日期: 2022/06/13) <a href="Medium/144/Binary_Tree_Preorder_Traversal.ipynb">144. Binary Tree Preorder Traversal </a>
   * -[x] (完成日期: 2022/04/23) <a href="Medium/148/Sort_List.ipynb">148. Sort List </a>
   * -[x] (完成日期: 2020/12/05) <a href="Medium/151/Reverse_Words_in_a_String.ipynb">151. Reverse Words in a String </a>
   * -[x] (完成日期: 2020/12/31) <a href="Medium/153/Find_Minimum_in_Rotated_Sorted_Array.ipynb">153. Find Minimum in Rotated Sorted Array </a>
