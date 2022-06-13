@@ -18,6 +18,7 @@
   * -[x] (完成日期: 2022/05/21) <a href="Easy/101/Symmetric_Tree.ipynb">101. Symmetric Tree </a>
   * -[x] (完成日期: 2022/05/21) <a href="Easy/104/Maximum_Depth_of_Binary_Tree.ipynb">104. Maximum Depth of Binary Tree </a>
   * -[x] (完成日期: 2022/05/21) <a href="Easy/111/Minimum_Depth_of_Binary_Tree.ipynb">111. Minimum Depth of Binary Tree </a>
+  * -[x] (完成日期: 2022/06/13) <a href="Easy/112/Path_Sum.ipynb">112. Path Sum </a>
   * -[x] (完成日期: 2022/04/22) <a href="Easy/118/Pascal's_Triangle.ipynb">118. Pascal's Triangle </a>
   * -[x] (完成日期: 2022/04/22) <a href="Easy/119/Pascal's_Triangle_II.ipynb">119. Pascal's Triangle II </a>
   * -[x] (完成日期: 2020/11/21) <a href="Easy/125/Valid_Palindrome.ipynb">125. Valid Palindrome </a>
