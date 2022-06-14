@@ -78,6 +78,7 @@
   * -[x] (完成日期: 2022/03/23) <a href="Easy/557Reverse_Words_in_a_String_III.ipynb">557. Reverse Words in a String III </a>
   * -[x] (完成日期: 2020/10/29) <a href="Easy/561/Array_Partition_I.ipynb">561. Array Partition I </a> 
   * -[x] (完成日期: 2020/12/05) <a href="Easy/575/Distribute_Candies.ipynb">575. Distribute Candies </a> 
+  * -[x] (完成日期: 2022/06/14) <a href="Easy/589/N-ary_Tree_Preorder_Traversal.ipynb">589. N-ary Tree Preorder Traversal </a> 
   * -[x] (完成日期: 2020/10/30) <a href="Easy/594/Longest_Harmonious_Subsequence.ipynb">594. Longest Harmonious Subsequence </a> 
   * -[x] (完成日期: 2020/10/30) <a href="Easy/598/Range_Addition_II.ipynb">598. Range Addition II </a>
   * -[x] (完成日期: 2020/12/15) <a href="Easy/599/Minimum_Index_Sum_of_Two_Lists.ipynb">599. Minimum Index Sum of Two Lists </a>
