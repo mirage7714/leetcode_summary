@@ -43,7 +43,7 @@
   * -[x] (完成日期: 2021/05/02) <a href="Easy/232/Implement_Queue_using_Stacks.ipynb">232. Implement Queue using Stacks </a>  
   * -[x] (完成日期: 2020/10/30) <a href="Easy/234/Palindrome_Linked_List.ipynb">234. Palindrome Linked List </a> 
   * -[x] (完成日期: 2020/10/10) <a href="Easy/242/Valid_Anagram.ipynb">242. Valid Anagram </a> 
-  * -[x] (完成日期: 2022/06/17) <a href="Easy/25/Binary_Tree_Paths.ipynb">257. Binary Tree Paths </a> 
+  * -[x] (完成日期: 2022/06/17) <a href="Easy/257/Binary_Tree_Paths.ipynb">257. Binary Tree Paths </a> 
   * -[x] (完成日期: 2020/10/08) <a href="Easy/258/Add_Digits.ipynb">258. Add Digits </a> 
   * -[x] (完成日期: 2022/05/12) <a href="Easy/263/Ugly_Number.ipynb">263. Ugly Number </a> 
   * -[x] (完成日期: 2022/03/30) <a href="Easy/278/First_Bad_Version.ipynb">278. First Bad Version </a> 
@@ -321,6 +321,7 @@
   * -[x] (完成日期: 2022/06/05) <a href="Easy/2293/Min_Max_Game.ipynb">2293. Min Max Game </a> 
   * -[x] (完成日期: 2022/06/12) <a href="Easy/2299/Strong_Password_Checker_II.ipynb">2299. Strong Password Checker II </a> 
   * -[x] (完成日期: 2022/06/13) <a href="Easy/2303/Calculate_Amount_Paid_in_Taxes.ipynb">2303. Calculate Amount Paid in Taxes </a> 
+  * -[x] (完成日期: 2022/06/19) <a href="Easy/2309/Greatest_English_Letter_in_Upper_and_Lower_Case.ipynb">2309. Greatest English Letter in Upper and Lower Case </a> 
 
 * Medium:  
   * -[x] (完成日期: 2022/04/19) <a href="Medium/2/Add_Two_Numbers.ipynb">2. Add Two Numbers </a>
