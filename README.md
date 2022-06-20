@@ -388,6 +388,7 @@
   * -[x] (完成日期: 2020/10/29) <a href="Medium/537/Complex_Number_Multiplication.ipynb">537. Complex Number Multiplication </a>
   * -[x] (完成日期: 2021/01/12) <a href="Medium/539/Minimum_Time_Difference.ipynb">539. Minimum Time Difference </a>
   * -[x] (完成日期: 2020/12/05) <a href="Medium/540/Single_Element_in_a_Sorted_Array.ipynb">540. Single Element in a Sorted Array </a>
+  * -[x] (完成日期: 2022/06/20) <a href="Medium/559/Maximum_Depth_of_N-ary_Tree.ipynb">559. Maximum Depth of N-ary Tree </a>
   * -[x] (完成日期: 2021/02/03) <a href="Medium/567/Permutation_in_String.ipynb">567. Permutation in String </a>
   * -[x] (完成日期: 2022/06/01) <a href="Medium/572/Subtree_of_Another_Tree.ipynb">572. Subtree of Another Tree </a>
   * -[x] (完成日期: 2020/11/02) <a href="Medium/581/Shortest_Unsorted_Continuous_Subarray.ipynb">581. Shortest Unsorted Continuous Subarray </a>
