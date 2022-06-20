@@ -73,6 +73,7 @@
   * -[x] (完成日期: 2020/10/19) <a href="Easy/492/Construct_the_Rectangle.ipynb">492. Construct the Rectangle </a>
   * -[x] (完成日期: 2021/08/10) <a href="Easy/495/Teemo_Attacking.ipynb">495. Teemo Attacking </a>
   * -[x] (完成日期: 2020/10/14) <a href="Easy/496/Next_Greater_Element_I.ipynb">496. Next Greater Element I </a>
+  * -[x] (完成日期: 2022/06/20) <a href="Easy/501/Find_Mode_in_Binary_Search_Tree.ipynb">501. Find Mode in Binary Search Tree </a>
   * -[x] (完成日期: 2020/10/29) <a href="Easy/504/Base_7.ipynb">504. Base 7 </a>
   * -[x] (完成日期: 2020/10/30) <a href="Easy/506/Relative_Ranks.ipynb">506. Relative Ranks </a>
   * -[x] (完成日期: 2020/10/19) <a href="Easy/520/Detect_Capital.ipynb">520. Detect Capital </a> 
