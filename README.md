@@ -438,6 +438,7 @@
   * -[x] (完成日期: 2021/06/20) <a href="Medium/1418/Display_Table_of_Food_Orders_in_a_Restaurant.ipynb">1418. Display Table of Food Orders in a Restaurant </a>
   * -[x] (完成日期: 2022/06/08) <a href="Medium/1432/Max_Difference_You_Can_Get_From_Changing_an_Integer.ipynb">1432. Max Difference You Can Get From Changing an Integer </a>
   * -[x] (完成日期: 2021/01/09) <a href="Medium/1447/Simplified_Fractions.ipynb">1447. Simplified Fractions </a>
+  * -[x] (完成日期: 2022/06/20) <a href="Medium/1447/Count_Good_Nodes_in_Binary_Tree.ipynb">1448. Count Good Nodes in Binary Tree </a>
   * -[x] (完成日期: 2020/12/12) <a href="Medium/1451/Rearrange_Words_in_a_Sentence.ipynb">1451. Rearrange Words in a Sentence </a>
   * -[x] (完成日期: 2021/06/20) <a href="Medium/1456/Maximum_Number_of_Vowels_in_a_Substring_of_Given_Length.ipynb">1456. Maximum Number of Vowels in a Substring of Given Length </a>
   * -[x] (完成日期: 2022/06/08) <a href="Medium/1481/Least_Number_of_Unique_Integers_after_K_Removals.ipynb">1481. Least Number of Unique Integers after K Removals </a>
