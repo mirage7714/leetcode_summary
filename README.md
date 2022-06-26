@@ -326,6 +326,7 @@
   * -[x] (完成日期: 2022/06/13) <a href="Easy/2303/Calculate_Amount_Paid_in_Taxes.ipynb">2303. Calculate Amount Paid in Taxes </a> 
   * -[x] (完成日期: 2022/06/19) <a href="Easy/2309/Greatest_English_Letter_in_Upper_and_Lower_Case.ipynb">2309. Greatest English Letter in Upper and Lower Case </a> 
   * -[x] (完成日期: 2022/06/26) <a href="Easy/2315/Count_Asterisks.ipynb">2315. Count Asterisks </a> 
+  * -[x] (完成日期: 2022/06/26) <a href="Easy/2319/Check_if_Matrix_Is_X-Matrix.ipynb">2319. Check if Matrix Is X-Matrix </a> 
 
 * Medium:  
   * -[x] (完成日期: 2022/04/19) <a href="Medium/2/Add_Two_Numbers.ipynb">2. Add Two Numbers </a>
