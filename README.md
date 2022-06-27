@@ -466,6 +466,7 @@
   * -[x] (完成日期: 2021/07/01) <a href="Medium/1670/Design_Front_Middle_Back_Queue.ipynb">1670. Design Front Middle Back Queue </a>
   * -[x] (完成日期: 2020/12/09) <a href="Medium/1679/Max_Number_of_K-Sum_Pairs.ipynb">1679. Max Number of K-Sum Pairs </a>
   * -[x] (完成日期: 2020/12/31) <a href="Medium/1685/Sum_of_Absolute_Differences_in_a_Sorted_Array.ipynb">1685. Sum of Absolute Differences in a Sorted Array </a>
+  * -[x] (完成日期: 2022/06/27) <a href="Medium/1689/Partitioning_Into_Minimum_Number_Of_Deci-Binary_Numbers.ipynb">1689. Partitioning Into Minimum Number Of Deci-Binary Numbers </a>
   * -[x] (完成日期: 2021/01/09) <a href="Medium/1701/Average_Waiting_Time.ipynb">1701. Average Waiting Time </a>
   * -[x] (完成日期: 2021/01/24) <a href="Medium/1732/Find_the_Highest_Altitude.ipynb">1732. Find the Highest Altitude </a>
   * -[x] (完成日期: 2021/01/24) <a href="Medium/1736/Latest_Time_by_Replacing_Hidden_Digits.ipynb">1736. Latest Time by Replacing Hidden Digits </a>
