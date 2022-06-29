@@ -360,6 +360,7 @@
   * -[x] (完成日期: 2022/05/23) <a href="Medium/103/Binary_Tree_Zigzag_Level_Order_Traversal.ipynb">103. Binary Tree Zigzag Level Order Traversal </a>
   * -[x] (完成日期: 2022/05/23) <a href="Medium/107/Binary_Tree_Level_Order_Traversal_II.ipynb">107. Binary Tree Level Order Traversal II </a>
   * -[x] (完成日期: 2022/06/17) <a href="Medium/113/Path_Sum_II.ipynb">113. Path Sum II </a>
+  * -[x] (完成日期: 2022/06/29) <a href="Medium/128/Longest_Consecutive_Sequence.ipynb">128. Longest Consecutive Sequence </a>
   * -[x] (完成日期: 2022/06/13) <a href="Medium/129/Sum_Root_to_Leaf_Numbers.ipynb">129. Sum Root to Leaf Numbers </a>
   * -[x] (完成日期: 2020/12/06) <a href="Medium/137/Single_Number_II.ipynb">137. Single Number II </a>
   * -[x] (完成日期: 2022/04/23) <a href="Medium/148/Sort_List.ipynb">148. Sort List </a>
