@@ -538,6 +538,7 @@
   * -[x] (完成日期: 2022/06/05) <a href="Medium/2295/Replace_Elements_in_an_Array.ipynb">2295. Replace Elements in an Array </a>
   * -[x] (完成日期: 2022/06/19) <a href="Medium/2310/Sum_of_Numbers_With_Units_Digit_K.ipynb">2310. Sum of Numbers With Units Digit K </a>
   * -[x] (完成日期: 2022/06/26) <a href="Medium/2311/Longest_Binary_Subsequence_Less_Than_or_Equal_to_K.ipynb">2311. Longest Binary Subsequence Less Than or Equal to K </a>
+  * -[x] (完成日期: 2022/07/03) <a href="Medium/2327/Number_of_People_Aware_of_a_Secret.ipynb">2327. Number of People Aware of a Secret </a>
 
 * Hard:
   * -[x] (完成日期: 2021/01/09) <a href="Hard/4/Median_of_Two_Sorted_Arrays.ipynb">4. Median of Two Sorted Arrays </a>
