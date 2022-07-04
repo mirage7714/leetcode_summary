@@ -443,6 +443,7 @@
   * -[x] (完成日期: 2021/01/23) <a href="Medium/1324/Print_Words_Vertically.ipynb">1324. Print Words Vertically </a>
   * -[x] (完成日期: 2021/01/23) <a href="Medium/1338/Reduce_Array_Size_to_The_Half.ipynb">1338. Reduce Array Size to The Half </a>
   * -[x] (完成日期: 2021/01/09) <a href="Medium/1347/Minimum_Number_of_Steps_to_Make_Two_Strings_Anagram.ipynb">1347. Minimum Number of Steps to Make Two Strings Anagram </a>
+  * -[x] (完成日期: 2022/07/04) <a href="Medium/1348/Tweet_Counts_Per_Frequency.ipynb">1348. Tweet Counts Per Frequency </a>
   * -[x] (完成日期: 2021/03/16) <a href="Medium/1357/Apply_Discount_Every_n_Orders.ipynb">1357. Apply Discount Every n Orders </a>
   * -[x] (完成日期: 2020/11/10) <a href="Medium/1366/Rank_Teams_by_Votes.ipynb">1366. Rank Teams by Votes </a>
   * -[x] (完成日期: 2021/02/08) <a href="Medium/1381/Design_a_Stack_With_Increment_Operation.ipynb">1381. Design a Stack With Increment Operation </a>
