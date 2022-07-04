@@ -252,6 +252,7 @@
   * -[x] (完成日期: 2021/06/20) <a href="Easy/1903/Largest_Odd_Number_in_String.ipynb">1903. Largest Odd Number in String </a>
   * -[x] (完成日期: 2021/06/27) <a href="Easy/1913/Maximum_Product_Difference_Between_Two_Pairs.ipynb">1913. Maximum Product Difference Between Two Pairs </a>
   * -[x] (完成日期: 2021/07/04) <a href="Easy/1920/Build_Array_from_Permutation.ipynb">1920. Build Array from Permutation </a>
+  * -[x] (完成日期: 2022/07/04) <a href="Easy/1925/Count_Square_Sum_Triples.ipynb">1925. Count Square Sum Triples </a>
   * -[x] (完成日期: 2021/07/11) <a href="Easy/1929/Concatenation_of_Array.ipynb">1929. Concatenation of Array </a>
   * -[x] (完成日期: 2021/07/18) <a href="Easy/1935/Maximum_Number_of_Words_You_Can_Type.ipynb">1935. Maximum Number of Words You Can Type </a>
   * -[x] (完成日期: 2021/07/25) <a href="Easy/1941/Check_if_All_Characters_Have_Equal_Number_of_Occurrences.ipynb">1941. Check if All Characters Have Equal Number of Occurrences </a>
