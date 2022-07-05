@@ -224,6 +224,7 @@
   * -[x] (完成日期: 2021/01/18) <a href="Easy/1725/Number_Of_Rectangles_That_Can_Form_The_Largest_Square.ipynb">1725. Number Of Rectangles That Can Form The Largest Square </a>
   * -[x] (完成日期: 2021/01/31) <a href="Easy/1742/Maximum_Number_of_Balls_in_a_Box.ipynb">1742. Maximum Number of Balls in a Box </a>
   * -[x] (完成日期: 2021/02/08) <a href="Easy/1748/Sum_of_Unique_Elements.ipynb">1748. Sum of Unique Elements </a>
+  * -[x] (完成日期: 2022/07/05) <a href="Easy/1758/Minimum_Changes_To_Make_Alternating_Binary_String.ipynb">1758. Minimum Changes To Make Alternating Binary String </a>
   * -[x] (完成日期: 2021/02/22) <a href="Easy/1768/Merge_Strings_Alternately.ipynb">1768. Merge Strings Alternately </a>
   * -[x] (完成日期: 2021/03/01) <a href="Easy/1773/Count_Items_Matching_a_Rule.ipynb">1773. Count Items Matching a Rule </a>
   * -[x] (完成日期: 2021/03/08) <a href="Easy/1779/Find_Nearest_Point_That_Has_the_Same_X_or_Y_Coordinate.ipynb">1779. Find Nearest Point That Has the Same X or Y Coordinate </a>
