@@ -229,6 +229,7 @@
   * -[x] (完成日期: 2021/03/08) <a href="Easy/1779/Find_Nearest_Point_That_Has_the_Same_X_or_Y_Coordinate.ipynb">1779. Find Nearest Point That Has the Same X or Y Coordinate </a>
   * -[x] (完成日期: 2021/03/08) <a href="Easy/1784/Check_if_Binary_String_Has_at_Most_One_Segment_of_Ones.ipynb">1784. Check if Binary String Has at Most One Segment of Ones </a>
   * -[x] (完成日期: 2021/03/14) <a href="Easy/1790/Check_if_One_String_Swap_Can_Make_Strings_Equal.ipynb">1790. Check if One String Swap Can Make Strings Equal </a>
+  * -[x] (完成日期: 2022/07/05) <a href="Easy/1791/Find_Center_of_Star_Graph.ipynb">1791. Find Center of Star Graph </a>
   * -[x] (完成日期: 2021/03/24) <a href="Easy/1796/Second_Largest_Digit_in_a_String.ipynb">1796. Second Largest Digit in a String </a>
   * -[x] (完成日期: 2021/03/24) <a href="Easy/1800/Maximum_Ascending_Subarray_Sum.ipynb">1800. Maximum Ascending Subarray Sum </a>
   * -[x] (完成日期: 2021/03/28) <a href="Easy/1805/Number_of_Different_Integers_in_a_String.ipynb">1805. Number of Different Integers in a String </a>
