@@ -528,6 +528,7 @@
   * -[x] (完成日期: 2022/02/27) <a href="Medium/2186/Minimum_Number_of_Steps_to_Make_Two_Strings_Anagram_II.ipynb">2186. Minimum Number of Steps to Make Two Strings Anagram II </a>
   * -[x] (完成日期: 2022/03/07) <a href="Medium/2191/Sort_the_Jumbled_Numbers.ipynb">2191. Sort the Jumbled Numbers </a>
   * -[x] (完成日期: 2022/03/26) <a href="Medium/2195/Append_K_Integers_With_Minimal_Sum.ipynb">2195. Append K Integers With Minimal Sum </a>
+  * -[x] (完成日期: 2022/07/06) <a href="Medium/2208/Minimum_Operations_to_Halve_Array_Sum.ipynb">2208. Minimum Operations to Halve Array Sum </a>
   * -[x] (完成日期: 2022/04/03) <a href="Medium/2221/Find_Triangular_Sum_of_an_Array.ipynb">2221. Find Triangular Sum of an Array </a>
   * -[x] (完成日期: 2022/04/03) <a href="Medium/2225/Find_Players_With_Zero_or_One_Losses.ipynb">2225. Find Players With Zero or One Losses </a>
   * -[x] (完成日期: 2022/04/18) <a href="Medium/2240/Number_of_Ways_to_Buy_Pens_and_Pencils.ipynb">2240. Number of Ways to Buy Pens and Pencils </a>
