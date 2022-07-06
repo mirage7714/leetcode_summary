@@ -514,6 +514,7 @@
   * -[x] (完成日期: 2022/03/16) <a href="Medium/2095/Delete_the_Middle_Node_of_a_Linked_List.ipynb">2095. Delete the Middle Node of a Linked List </a>
   * -[x] (完成日期: 2021/12/19) <a href="Medium/2109/Adding_Spaces_to_a_String.ipynb">2109. Adding Spaces to a String </a>
   * -[x] (完成日期: 2022/01/03) <a href="Medium/2110/Number_of_Smooth_Descent_Periods_of_a_Stock.ipynb">2110. Number of Smooth Descent Periods of a Stock </a>
+  * -[x] (完成日期: 2022/07/06) <a href="Medium/2125/Number_of_Laser_Beams_in_a_Bank.ipynb">2125. Number of Laser Beams in a Bank </a>
   * -[x] (完成日期: 2022/07/01) <a href="Medium/2126/Destroying_Asteroids.ipynb">2126. Destroying Asteroids </a>
   * -[x] (完成日期: 2022/01/03) <a href="Medium/2130/Maximum_Twin_Sum_of_a_Linked_List.ipynb">2130. Maximum Twin Sum of a Linked List </a>
   * -[x] (完成日期: 2022/01/16) <a href="Medium/2139/Minimum_Moves_to_Reach_Target_Score.ipynb">2139. Minimum Moves to Reach Target Score </a>
