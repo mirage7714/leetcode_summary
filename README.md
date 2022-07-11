@@ -332,6 +332,7 @@
   * -[x] (完成日期: 2022/06/26) <a href="Easy/2315/Count_Asterisks.ipynb">2315. Count Asterisks </a> 
   * -[x] (完成日期: 2022/06/26) <a href="Easy/2319/Check_if_Matrix_Is_X-Matrix.ipynb">2319. Check if Matrix Is X-Matrix </a> 
   * -[x] (完成日期: 2022/07/03) <a href="Easy/2325/Decode_the_Message.ipynb">2325. Decode the Message </a> 
+  * -[x] (完成日期: 2022/07/11) <a href="Easy/2331/Evaluate_Boolean_Binary_Tree.ipynb">2331. Evaluate Boolean Binary Tree </a> 
   * -[x] (完成日期: 2022/07/10) <a href="Easy/2335/Minimum_Amount_of_Time_to_Fill_Cups.ipynb">2335. Minimum Amount of Time to Fill Cups </a> 
 
 * Medium:  
