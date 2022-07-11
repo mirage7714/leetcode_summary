@@ -550,6 +550,7 @@
   * -[x] (完成日期: 2022/06/19) <a href="Medium/2310/Sum_of_Numbers_With_Units_Digit_K.ipynb">2310. Sum of Numbers With Units Digit K </a>
   * -[x] (完成日期: 2022/06/26) <a href="Medium/2311/Longest_Binary_Subsequence_Less_Than_or_Equal_to_K.ipynb">2311. Longest Binary Subsequence Less Than or Equal to K </a>
   * -[x] (完成日期: 2022/07/03) <a href="Medium/2327/Number_of_People_Aware_of_a_Secret.ipynb">2327. Number of People Aware of a Secret </a>
+  * -[x] (完成日期: 2022/07/11) <a href="Medium/2332/The_Latest_Time_to_Catch_a_Bus.ipynb">2332. The Latest Time to Catch a Bus </a>
   * -[x] (完成日期: 2022/07/10) <a href="Medium/2336/Smallest_Number_in_Infinite_Set.ipynb">2336. Smallest Number in Infinite Set </a>
 
 * Hard:
