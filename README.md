@@ -141,6 +141,7 @@
   * -[x] (完成日期: 2020/11/06) <a href="Easy/1013/Partition_Array_Into_Three_Parts_With_Equal_Sum.ipynb">1013. Partition Array Into Three Parts With Equal Sum </a>
   * -[x] (完成日期: 2020/10/28) <a href="Easy/1018/Binary_Prefix_Divisible_By_5.ipynb">1018. Binary Prefix Divisible By 5 </a> 
   * -[x] (完成日期: 2021/05/01) <a href="Easy/1021/Remove_Outermost_Parentheses.ipynb">1021. Remove Outermost Parentheses </a> 
+  * -[x] (完成日期: 2022/07/14) <a href="Easy/1022/Sum_of_Root_To_Leaf_Binary_Numbers.ipynb">1022. Sum of Root To Leaf Binary Numbers </a> 
   * -[x] (完成日期: 2020/12/14) <a href="Easy/1037/Valid_Boomerang.ipynb">1037. Valid Boomerang </a> 
   * -[x] (完成日期: 2020/10/08) <a href="Easy/1046/Last_Stone_Weight.ipynb">1046. Last Stone Weight </a> 
   * -[x] (完成日期: 2020/10/13) <a href="Easy/1047/Remove_All_Adjacent_Duplicates_In_String.ipynb">1047. Remove All Adjacent Duplicates In String </a> 
