@@ -253,6 +253,7 @@
   * -[x] (完成日期: 2021/06/13) <a href="Easy/1893/Check_if_All_the_Integers_in_a_Range_Are_Covered.ipynb">1893. Check if All the Integers in a Range Are Covered </a>
   * -[x] (完成日期: 2021/06/14) <a href="Easy/1897/Redistribute_Characters_to_Make_All_Strings_Equal.ipynb">1897. Redistribute Characters to Make All Strings Equal </a>
   * -[x] (完成日期: 2021/06/20) <a href="Easy/1903/Largest_Odd_Number_in_String.ipynb">1903. Largest Odd Number in String </a>
+  * -[x] (完成日期: 2022/07/14) <a href="Easy/1909/Remove_One_Element_to_Make_the_Array_Strictly_Increasing.ipynb">1909. Remove One Element to Make the Array Strictly Increasing </a>
   * -[x] (完成日期: 2021/06/27) <a href="Easy/1913/Maximum_Product_Difference_Between_Two_Pairs.ipynb">1913. Maximum Product Difference Between Two Pairs </a>
   * -[x] (完成日期: 2021/07/04) <a href="Easy/1920/Build_Array_from_Permutation.ipynb">1920. Build Array from Permutation </a>
   * -[x] (完成日期: 2022/07/04) <a href="Easy/1925/Count_Square_Sum_Triples.ipynb">1925. Count Square Sum Triples </a>
