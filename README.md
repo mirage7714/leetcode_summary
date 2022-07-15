@@ -21,6 +21,7 @@
   * -[x] (完成日期: 2022/06/13) <a href="Easy/112/Path_Sum.ipynb">112. Path Sum </a>
   * -[x] (完成日期: 2022/04/22) <a href="Easy/118/Pascal's_Triangle.ipynb">118. Pascal's Triangle </a>
   * -[x] (完成日期: 2022/04/22) <a href="Easy/119/Pascal's_Triangle_II.ipynb">119. Pascal's Triangle II </a>
+  * -[x] (完成日期: 2022/07/15) <a href="Easy/121/Best_Time_to_Buy_and_Sell_Stock.ipynb">121. Best Time to Buy and Sell Stock </a>
   * -[x] (完成日期: 2020/11/21) <a href="Easy/125/Valid_Palindrome.ipynb">125. Valid Palindrome </a>
   * -[x] (完成日期: 2022/04/02) <a href="Easy/136/Single_Number.ipynb">136. Single Number </a>  
   * -[x] (完成日期: 2022/07/11) <a href="Easy/141/Linked_List_Cycle.ipynb">141. Linked List Cycle </a>  
