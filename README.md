@@ -40,6 +40,7 @@
   * -[x] (完成日期: 2020/10/08) <a href="Easy/217/Contains_Duplicate.ipynb">217. Contains Duplicate </a> 
   * -[x] (完成日期: 2020/10/10) <a href="Easy/219/Contains_Duplicate_II.ipynb">219. Contains Duplicate II </a> 
   * -[x] (完成日期: 2021/02/06) <a href="Easy/225/Implement_Stack_using_Queues.ipynb">225. Implement Stack using Queues </a> 
+  * -[x] (完成日期: 2022/07/18) <a href="Easy/226/Invert_Binary_Tree.ipynb">226. Invert Binary Tree </a> 
   * -[x] (完成日期: 2020/10/30) <a href="Easy/228/Summary_Ranges.ipynb">228. Summary Ranges </a> 
   * -[x] (完成日期: 2020/10/09) <a href="Easy/231/Power_of_Two.ipynb">231. Power of Two (20220401更新解法) </a>
   * -[x] (完成日期: 2021/05/02) <a href="Easy/232/Implement_Queue_using_Stacks.ipynb">232. Implement Queue using Stacks </a>  
