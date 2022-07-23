@@ -385,6 +385,7 @@
   * -[x] (完成日期: 2022/07/11) <a href="Medium/142/Insertion_Sort_List.ipynb">142. Linked List Cycle II </a>
   * -[x] (完成日期: 2022/06/30) <a href="Medium/147/Insertion_Sort_List.ipynb">147. Insertion Sort List </a>
   * -[x] (完成日期: 2022/04/23) <a href="Medium/148/Sort_List.ipynb">148. Sort List </a>
+  * -[x] (完成日期: 2022/07/23) <a href="Medium/150/Evaluate_Reverse_Polish_Notation.ipynb">150. Evaluate Reverse Polish Notation </a>
   * -[x] (完成日期: 2020/12/05) <a href="Medium/151/Reverse_Words_in_a_String.ipynb">151. Reverse Words in a String </a>
   * -[x] (完成日期: 2020/12/31) <a href="Medium/153/Find_Minimum_in_Rotated_Sorted_Array.ipynb">153. Find Minimum in Rotated Sorted Array </a>
   * -[x] (完成日期: 2020/12/05) <a href="Medium/162/Find_Peak_Element.ipynb">162. Find Peak Element </a>
