@@ -569,6 +569,7 @@
   * -[x] (完成日期: 2022/07/11) <a href="Medium/2332/The_Latest_Time_to_Catch_a_Bus.ipynb">2332. The Latest Time to Catch a Bus </a>
   * -[x] (完成日期: 2022/07/10) <a href="Medium/2336/Smallest_Number_in_Infinite_Set.ipynb">2336. Smallest Number in Infinite Set </a>
   * -[x] (完成日期: 2022/07/17) <a href="Medium/2342/Max_Sum_of_a_Pair_With_Equal_Sum_of_Digits.ipynb">2342. Max Sum of a Pair With Equal Sum of Digits </a>
+  * -[x] (完成日期: 2022/07/24) <a href="Medium/2348/Number_of_Zero-Filled_Subarrays.ipynb">2348. Number of Zero-Filled Subarrays </a>
 
 * Hard:
   * -[x] (完成日期: 2021/01/09) <a href="Hard/4/Median_of_Two_Sorted_Arrays.ipynb">4. Median of Two Sorted Arrays </a>
