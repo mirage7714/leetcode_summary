@@ -551,6 +551,7 @@
   * -[x] (完成日期: 2022/07/06) <a href="Medium/2208/Minimum_Operations_to_Halve_Array_Sum.ipynb">2208. Minimum Operations to Halve Array Sum </a>
   * -[x] (完成日期: 2022/04/03) <a href="Medium/2221/Find_Triangular_Sum_of_an_Array.ipynb">2221. Find Triangular Sum of an Array </a>
   * -[x] (完成日期: 2022/04/03) <a href="Medium/2225/Find_Players_With_Zero_or_One_Losses.ipynb">2225. Find Players With Zero or One Losses </a>
+  * -[x] (完成日期: 2022/07/25) <a href="Medium/2233/Maximum_Product_After_K_Increments.ipynb">2233. Maximum Product After K Increments </a>
   * -[x] (完成日期: 2022/04/18) <a href="Medium/2240/Number_of_Ways_to_Buy_Pens_and_Pencils.ipynb">2240. Number of Ways to Buy Pens and Pencils </a>
   * -[x] (完成日期: 2022/04/18) <a href="Medium/2244/Minimum_Rounds_to_Complete_All_Tasks.ipynb">2244. Minimum Rounds to Complete All Tasks </a>
   * -[x] (完成日期: 2022/05/03) <a href="Medium/2256/Minimum_Average_Difference.ipynb">2256. Minimum Average Difference </a>
