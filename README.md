@@ -441,6 +441,7 @@
   * -[x] (完成日期: 2022/06/08) <a href="Medium/769/Max_Chunks_To_Make_Sorted.ipynb">769. Max Chunks To Make Sorted </a>
   * -[x] (完成日期: 2020/12/17) <a href="Medium/784/Letter_Case_Permutation.ipynb">784. Letter Case Permutation (Update: 20220330) </a>
   * -[x] (完成日期: 2021/05/19) <a href="Medium/791/Custom_Sort_String.ipynb">791. Custom Sort String </a>
+  * -[x] (完成日期: 2022/07/26) <a href="Medium/792/Number_of_Matching_Sub_sequences.ipynb">792. Number of Matching Subsequences </a>
   * -[x] (完成日期: 2020/12/20) <a href="Medium/807/Max_Increase_to_Keep_City_Skyline.ipynb">807. Max Increase to Keep City Skyline </a>
   * -[x] (完成日期: 2022/06/10) <a href="Medium/811/Subdomain_Visit_Count.ipynb">811. Subdomain Visit Count </a>
   * -[x] (完成日期: 2021/05/22) <a href="Medium/826/Most_Profit_Assigning_Work.ipynb">826. Most Profit Assigning Work </a>
