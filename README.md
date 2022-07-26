@@ -569,6 +569,7 @@
   * -[x] (完成日期: 2022/06/26) <a href="Medium/2311/Longest_Binary_Subsequence_Less_Than_or_Equal_to_K.ipynb">2311. Longest Binary Subsequence Less Than or Equal to K </a>
   * -[x] (完成日期: 2022/07/03) <a href="Medium/2327/Number_of_People_Aware_of_a_Secret.ipynb">2327. Number of People Aware of a Secret </a>
   * -[x] (完成日期: 2022/07/11) <a href="Medium/2332/The_Latest_Time_to_Catch_a_Bus.ipynb">2332. The Latest Time to Catch a Bus </a>
+  * -[x] (完成日期: 2022/07/26) <a href="Medium/2333/Minimum_Sum_of_Squared_Difference.ipynb">2333. Minimum Sum of Squared Difference </a>
   * -[x] (完成日期: 2022/07/10) <a href="Medium/2336/Smallest_Number_in_Infinite_Set.ipynb">2336. Smallest Number in Infinite Set </a>
   * -[x] (完成日期: 2022/07/17) <a href="Medium/2342/Max_Sum_of_a_Pair_With_Equal_Sum_of_Digits.ipynb">2342. Max Sum of a Pair With Equal Sum of Digits </a>
   * -[x] (完成日期: 2022/07/24) <a href="Medium/2348/Number_of_Zero-Filled_Subarrays.ipynb">2348. Number of Zero-Filled Subarrays </a>
