@@ -449,6 +449,7 @@
   * -[x] (完成日期: 2021/01/20) <a href="Medium/846/Hand_of_Straights.ipynb">846. Hand of Straights </a> (題目與No. 1296相同)
   * -[x] (完成日期: 2021/05/19) <a href="Medium/848/Shifting_Letters.ipynb">848. Shifting Letters </a>
   * -[x] (完成日期: 2022/01/16) <a href="Medium/849/Maximize_Distance_to_Closest_Person.ipynb">849. Maximize Distance to Closest Person </a>
+  * -[x] (完成日期: 2022/07/27) <a href="Medium/861/Score_After_Flipping_Matrix.ipynb">861. Score After Flipping Matrix </a>
   * -[x] (完成日期: 2021/01/20) <a href="Medium/869/Reordered_Power_of_2.ipynb">869. Reordered Power of 2 </a>
   * -[x] (完成日期: 2022/06/07) <a href="Medium/881/Boats_to_Save_People.ipynb">881. Boats to Save People </a>
   * -[x] (完成日期: 2021/01/20) <a href="Medium/890/Find_and_Replace_Pattern.ipynb">890. Find and Replace Pattern </a>
