@@ -349,6 +349,7 @@
   * -[x] (完成日期: 2022/04/19) <a href="Medium/2/Add_Two_Numbers.ipynb">2. Add Two Numbers </a>
   * -[x] (完成日期: 2022/04/01) <a href="Medium/3/Longest_Substring_Without_Repeating_Characters.ipynb">3. Longest Substring Without Repeating Characters </a>
   * -[x] (完成日期: 2021/08/19) <a href="Medium/6/ZigZag_Conversion.ipynb">6. ZigZag Conversion </a>
+  * -[x] (完成日期: 2022/07/28) <a href="Medium/8/String_to_Integer_(atoi).ipynb">8. String to Integer (atoi) </a>
   * -[x] (完成日期: 2022/06/02) <a href="Medium/11/Container_With_Most_Water.ipynb">11. Container With Most Water </a>
   * -[x] (完成日期: 2022/06/29) <a href="Medium/12/Integer_to_Roman.ipynb">12. Integer to Roman </a>
   * -[x] (完成日期: 2021/05/01) <a href="Medium/17/Letter_Combinations_of_a_Phone_Number.ipynb">17. Letter Combinations of a Phone Number </a>
