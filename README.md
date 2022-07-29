@@ -527,6 +527,7 @@
   * -[x] (完成日期: 2021/06/27) <a href="Medium/1904/The_Number_of_Full_Rounds_You_Have_Played.ipynb">1904. The Number of Full Rounds You Have Played </a>
   * -[x] (完成日期: 2021/06/27) <a href="Medium/1910/Remove_All_Occurrences_of_a_Substring.ipynb">1910. Remove All Occurrences of a Substring </a>
   * -[x] (完成日期: 2021/07/10) <a href="Medium/1921/Eliminate_Maximum_Number_of_Monsters.ipynb">1921. Eliminate Maximum Number of Monsters </a>
+  * -[x] (完成日期: 2022/07/29) <a href="Medium/1922/Count_Good_Numbers.ipynb">1922. Count Good Numbers </a>
   * -[x] (完成日期: 2022/06/07) <a href="Medium/1963/Minimum_Number_of_Swaps_to_Make_the_String_Balanced.ipynb">1963. Minimum Number of Swaps to Make the String Balanced </a>
   * -[x] (完成日期: 2022/01/30) <a href="Medium/2023/Number_of_Pairs_of_Strings_With_Concatenation_Equal_to_Target.ipynb">2023. Number of Pairs of Strings With Concatenation Equal to Target </a>
   * -[x] (完成日期: 2021/10/24) <a href="Medium/2043/Simple_Bank_System.ipynb">2043. Simple Bank System </a>
