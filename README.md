@@ -344,6 +344,7 @@
   * -[x] (完成日期: 2022/07/17) <a href="Easy/2341/Maximum_Number_of_Pairs_in_Array.ipynb">2341. Maximum Number of Pairs in Array </a> 
   * -[x] (完成日期: 2022/07/24) <a href="Easy/2347/Best_Poker_Hand.ipynb">2347. Best Poker Hand </a> 
   * -[x] (完成日期: 2022/07/24) <a href="Easy/2351/First_Letter_to_Appear_Twice.ipynb">2351. First Letter to Appear Twice </a> 
+  * -[x] (完成日期: 2022/08/01) <a href="Easy/2357/Make_Array_Zero_by_Subtracting_Equal_Amounts.ipynb">2357. Make Array Zero by Subtracting Equal Amounts </a> 
 
 * Medium:  
   * -[x] (完成日期: 2022/04/19) <a href="Medium/2/Add_Two_Numbers.ipynb">2. Add Two Numbers </a>
