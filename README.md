@@ -345,6 +345,7 @@
   * -[x] (完成日期: 2022/07/24) <a href="Easy/2347/Best_Poker_Hand.ipynb">2347. Best Poker Hand </a> 
   * -[x] (完成日期: 2022/07/24) <a href="Easy/2351/First_Letter_to_Appear_Twice.ipynb">2351. First Letter to Appear Twice </a> 
   * -[x] (完成日期: 2022/08/01) <a href="Easy/2357/Make_Array_Zero_by_Subtracting_Equal_Amounts.ipynb">2357. Make Array Zero by Subtracting Equal Amounts </a> 
+  * -[x] (完成日期: 2022/08/07) <a href="Easy/2363/Merge_Similar_Items.ipynb">2363. Merge Similar Items </a> 
 
 * Medium:  
   * -[x] (完成日期: 2022/04/19) <a href="Medium/2/Add_Two_Numbers.ipynb">2. Add Two Numbers </a>
