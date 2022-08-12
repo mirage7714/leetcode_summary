@@ -415,6 +415,7 @@
   * -[x] (完成日期: 2021/07/16) <a href="Medium/343/Integer_Break.ipynb">343. Integer Break </a>
   * -[x] (完成日期: 2021/01/16) <a href="Medium/347/Top_K_Frequent_Elements.ipynb">347. Top K Frequent Elements </a>
   * -[x] (完成日期: 2021/07/22) <a href="Medium/355/Design_Twitter.ipynb">355. Design Twitter </a>
+  * -[x] (完成日期: 2022/08/12) <a href="Medium/357/Count_Numbers_with_Unique_Digits.ipynb">357. Count Numbers with Unique Digits </a>
   * -[x] (完成日期: 2022/06/25) <a href="Medium/378/Kth_Smallest_Element_in_a_Sorted_Matrix.ipynb">378. Kth Smallest Element in a Sorted Matrix </a>
   * -[x] (完成日期: 2021/10/21) <a href="Medium/380/Insert_Delete_GetRandom_O(1).ipynb">380. Insert Delete GetRandom O(1) </a>
   * -[x] (完成日期: 2022/03/16) <a href="Medium/382/Linked_List_Random_Node.ipynb">382. Linked List Random Node </a>
