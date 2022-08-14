@@ -428,6 +428,7 @@
   * -[x] (完成日期: 2022/04/03) <a href="Medium/438/Find_All_Anagrams_in_a_String.ipynb">438. Find All Anagrams in a String </a>
   * -[x] (完成日期: 2020/12/07) <a href="Medium/442/Find_All_Duplicates_in_an_Array.ipynb">442. Find All Duplicates in an Array </a>
   * -[x] (完成日期: 2021/01/11) <a href="Medium/443/String_Compression.ipynb">443. String Compression </a>
+  * -[x] (完成日期: 2022/08/14) <a href="Medium/513/Find_Bottom_Left_Tree_Value.ipynb">513. Find Bottom Left Tree Value </a>
   * -[x] (完成日期: 2022/06/20) <a href="Medium/515/Find_Largest_Value_in_Each_Tree_Row.ipynb">515. Find Largest Value in Each Tree Row </a>
   * -[x] (完成日期: 2022/08/13) <a href="Medium/532/K-diff_Pairs_in_an_Array.ipynb">532. K-diff Pairs in an Array </a>
   * -[x] (完成日期: 2021/07/01) <a href="Medium/535/Encode_and_Decode_TinyURL.ipynb">535. Encode and Decode TinyURL </a>
