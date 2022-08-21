@@ -350,6 +350,7 @@
   * -[x] (完成日期: 2022/08/07) <a href="Easy/2367/Number_of_Arithmetic_Triplets.ipynb">2367. Number of Arithmetic Triplets </a> 
   * -[x] (完成日期: 2022/08/14) <a href="Easy/2373/Largest_Local_Values_in_a_Matrix.ipynb">2373. Largest Local Values in a Matrix </a> 
   * -[x] (完成日期: 2022/08/21) <a href="Easy/2379/Minimum_Recolors_to_Get_K_Consecutive_Black_Blocks.ipynb">2379. Minimum Recolors to Get K Consecutive Black Blocks </a> 
+  * -[x] (完成日期: 2022/08/21) <a href="Easy/2383/Minimum_Hours_of_Training_to_Win_a_Competition.ipynb">2383. Minimum Hours of Training to Win a Competition </a> 
 
 * Medium:  
   * -[x] (完成日期: 2022/04/19) <a href="Medium/2/Add_Two_Numbers.ipynb">2. Add Two Numbers </a>
