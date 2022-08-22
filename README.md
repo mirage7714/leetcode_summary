@@ -272,6 +272,7 @@
   * -[x] (完成日期: 2021/08/08) <a href="Easy/1957/Delete_Characters_to_Make_Fancy_String.ipynb">1957. Delete Characters to Make Fancy String </a>
   * -[x] (完成日期: 2021/08/08) <a href="Easy/1961/Check_If_String_Is_a_Prefix_of_Array.ipynb">1961. Check If String Is a Prefix of Array </a>
   * -[x] (完成日期: 2021/08/15) <a href="Easy/1967/Number_of_Strings_That_Appear_as_Substrings_in_Word.ipynb">1967. Number of Strings That Appear as Substrings in Word </a>
+  * -[x] (完成日期: 2022/08/22) <a href="Easy/1971/Find_if_Path_Exists_in_Graph.ipynb">1971. Find if Path Exists in Graph </a>
   * -[x] (完成日期: 2021/08/22) <a href="Easy/1974/Minimum_Time_to_Type_Word_Using_Special_Typewriter.ipynb">1974. Minimum Time to Type Word Using Special Typewriter </a>
   * -[x] (完成日期: 2021/08/23) <a href="Easy/1979/Find_Greatest_Common_Divisor_of_Array.ipynb">1979. Find Greatest Common Divisor of Array </a>
   * -[x] (完成日期: 2021/08/30) <a href="Easy/1984/Minimum_Difference_Between_Highest_and_Lowest_of_K_Scores.ipynb">1984. Minimum Difference Between Highest and Lowest of K Scores </a>
