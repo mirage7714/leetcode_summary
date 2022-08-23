@@ -609,6 +609,7 @@
 * Hard:
   * -[x] (完成日期: 2021/01/09) <a href="Hard/4/Median_of_Two_Sorted_Arrays.ipynb">4. Median of Two Sorted Arrays </a>
   * -[x] (完成日期: 2022/06/15) <a href="Hard/23/Merge_k_Sorted_Lists.ipynb">23. Merge k Sorted Lists </a>
+  * -[x] (完成日期: 2022/08/23) <a href="Hard/25/Reverse_Nodes_in_k-Group.ipynb">25. Reverse Nodes in k-Group </a>
   * -[x] (完成日期: 2020/11/06) <a href="Hard/41/First_Missing_Positive.ipynb">41. First Missing Positive </a>
   * -[x] (完成日期: 2020/12/31) <a href="Hard/154/Find_Minimum_in_Rotated_Sorted_Array_II.ipynb">154. Find Minimum in Rotated Sorted Array II </a>
 
