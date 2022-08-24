@@ -436,6 +436,7 @@
   * -[x] (完成日期: 2020/12/07) <a href="Medium/442/Find_All_Duplicates_in_an_Array.ipynb">442. Find All Duplicates in an Array </a>
   * -[x] (完成日期: 2021/01/11) <a href="Medium/443/String_Compression.ipynb">443. String Compression </a>
   * -[x] (完成日期: 2022/08/23) <a href="Medium/445/Add_Two_Numbers_II.ipynb">445. Add Two Numbers II </a>
+  * -[x] (完成日期: 2022/08/24) <a href="Medium/453/Minimum_Moves_to_Equal_Array_Elements.ipynb">453. Minimum Moves to Equal Array Elements </a>
   * -[x] (完成日期: 2022/08/24) <a href="Medium/468/Validate_IP_Address.ipynb">468. Validate IP Address </a>
   * -[x] (完成日期: 2022/08/16) <a href="Medium/498/Diagonal_Traverse.ipynb">498. Diagonal Traverse </a>
   * -[x] (完成日期: 2022/08/14) <a href="Medium/513/Find_Bottom_Left_Tree_Value.ipynb">513. Find Bottom Left Tree Value </a>
