@@ -614,6 +614,7 @@
   * -[x] (完成日期: 2022/07/25) <a href="Medium/2352/Equal_Row_and_Column_Pairs.ipynb">2352. Equal Row and Column Pairs </a>
   * -[x] (完成日期: 2022/08/22) <a href="Medium/2368/Reachable_Nodes_With_Restrictions.ipynb">2368. Reachable Nodes With Restrictions </a>  
   * -[x] (完成日期: 2022/08/28) <a href="Medium/2390/Removing_Stars_From_a_String.ipynb">2390. Removing Stars From a String </a>
+  * -[x] (完成日期: 2022/08/28) <a href="Medium/2390/Minimum_Amount_of_Time_to_Collect_Garbage.ipynb">2391. Minimum Amount of Time to Collect Garbage </a>
 
 * Hard:
   * -[x] (完成日期: 2021/01/09) <a href="Hard/4/Median_of_Two_Sorted_Arrays.ipynb">4. Median of Two Sorted Arrays </a>
