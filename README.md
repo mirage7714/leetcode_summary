@@ -414,7 +414,7 @@
   * -[x] (完成日期: 2022/03/22) <a href="Medium/167/Two_Sum_II_Input_Array_Is_Sorted.ipynb">167. Two Sum II - Input Array Is Sorted </a>
   * -[x] (完成日期: 2020/12/05) <a href="Medium/189/Rotate_Array.ipynb">189. Rotate Array </a>
   * -[x] (完成日期: 2022/05/25) <a href="Medium/199/Binary_Tree_Right_Side_View.ipynb">199. Binary Tree Right Side View </a>
-  * -[x] (完成日期: 2022/08/29) <a href="Medium/200/Number_of_Islands.ipynb">200. Number of Islands </a>
+  * -[x] (完成日期: 2022/08/29) <a href="Medium/200/Number_of_Islands.ipynb">200. Number of Islands </a> #DFS
   * -[x] (完成日期: 2021/01/16) <a href="Medium/215/Kth_Largest_Element_in_an_Array.ipynb">215. Kth Largest Element in an Array </a>
   * -[x] (完成日期: 2022/06/07) <a href="Medium/230/Kth_Smallest_Element_in_a_BST.ipynb">230. Kth Smallest Element in a BST </a>
   * -[x] (完成日期: 2022/07/02) <a href="Medium/238/Product_of_Array_Except_Self.ipynb">238. Product of Array Except Self </a>
@@ -463,7 +463,7 @@
   * -[x] (完成日期: 2021/02/06) <a href="Medium/670/Maximum_Swap.ipynb">670. Maximum Swap </a>
   * -[x] (完成日期: 2021/02/06) <a href="Medium/676/Implement_Magic_Dictionary.ipynb">676. Implement Magic Dictionary </a>  
   * -[x] (完成日期: 2021/01/16) <a href="Medium/692/Top_K_Frequent_Words.ipynb">692. Top K Frequent Words </a>
-  * -[x] (完成日期: 2022/08/29) <a href="Medium/695/Max_Area_of_Island.ipynb">695. Max Area of Island </a>
+  * -[x] (完成日期: 2022/08/29) <a href="Medium/695/Max_Area_of_Island.ipynb">695. Max Area of Island </a> #DFS
   * -[x] (完成日期: 2022/06/01) <a href="Medium/725/Split_Linked_List_in_Parts.ipynb">725. Split Linked List in Parts </a>
   * -[x] (完成日期: 2021/02/03) <a href="Medium/729/My_Calendar_I.ipynb">729. My Calendar I </a>
   * -[x] (完成日期: 2022/08/25) <a href="Medium/735/Asteroid_Collision.ipynb">735. Asteroid Collision </a>
@@ -562,6 +562,7 @@
   * -[x] (完成日期: 2022/07/29) <a href="Medium/1922/Count_Good_Numbers.ipynb">1922. Count Good Numbers </a>
   * -[x] (完成日期: 2022/08/08) <a href="Medium/1946/Largest_Number_After_Mutating_Substring.ipynb">1946. Largest Number After Mutating Substring </a>
   * -[x] (完成日期: 2022/06/07) <a href="Medium/1963/Minimum_Number_of_Swaps_to_Make_the_String_Balanced.ipynb">1963. Minimum Number of Swaps to Make the String Balanced </a>
+  * -[x] (完成日期: 2022/08/29) <a href="Medium/1992/Find_All_Group_of_Farmland.ipynb">1992. Find All Groups of Farmland </a> #DFS
   * -[x] (完成日期: 2022/01/30) <a href="Medium/2023/Number_of_Pairs_of_Strings_With_Concatenation_Equal_to_Target.ipynb">2023. Number of Pairs of Strings With Concatenation Equal to Target </a>
   * -[x] (完成日期: 2021/10/24) <a href="Medium/2043/Simple_Bank_System.ipynb">2043. Simple Bank System </a>
   * -[x] (完成日期: 2021/10/31) <a href="Medium/2058/Find_the_Minimum_and_Maximum_Number_of_Nodes_Between_Critical_Points.ipynb">2058. Find the Minimum and Maximum Number of Nodes Between Critical Points </a>
@@ -617,7 +618,7 @@
   * -[x] (完成日期: 2022/07/25) <a href="Medium/2352/Equal_Row_and_Column_Pairs.ipynb">2352. Equal Row and Column Pairs </a>
   * -[x] (完成日期: 2022/08/22) <a href="Medium/2368/Reachable_Nodes_With_Restrictions.ipynb">2368. Reachable Nodes With Restrictions </a>  
   * -[x] (完成日期: 2022/08/28) <a href="Medium/2380/Time_Needed_to_Rearrange_a_Binary_String.ipynb">2380. Time Needed to Rearrange a Binary String </a>
-  * -[x] (完成日期: 2022/08/28) <a href="Medium/2390/Removing_Stars_From_a_String.ipynb">2390. Removing Stars From a String </a>
+  * -[x] (完成日期: 2022/08/28) <a href="Medium/2390/Removing_Stars_From_a_String.ipynb">2390. Removing Stars From a String </a> #stack
   * -[x] (完成日期: 2022/08/28) <a href="Medium/2391/Minimum_Amount_of_Time_to_Collect_Garbage.ipynb">2391. Minimum Amount of Time to Collect Garbage </a>
 
 * Hard:
