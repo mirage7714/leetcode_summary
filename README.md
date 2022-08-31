@@ -414,6 +414,7 @@
   * -[x] (完成日期: 2020/12/05) <a href="Medium/162/Find_Peak_Element.ipynb">162. Find Peak Element </a>
   * -[x] (完成日期: 2021/01/16) <a href="Medium/165/Compare_Version_Numbers.ipynb">165. Compare Version Numbers </a>
   * -[x] (完成日期: 2022/03/22) <a href="Medium/167/Two_Sum_II_Input_Array_Is_Sorted.ipynb">167. Two Sum II - Input Array Is Sorted </a>
+  * -[x] (完成日期: 2022/08/31) <a href="Medium/187/Repeated_DNA_Sequences.ipynb">187. Repeated DNA Sequences </a> (#hashmap )
   * -[x] (完成日期: 2020/12/05) <a href="Medium/189/Rotate_Array.ipynb">189. Rotate Array </a>
   * -[x] (完成日期: 2022/05/25) <a href="Medium/199/Binary_Tree_Right_Side_View.ipynb">199. Binary Tree Right Side View </a>
   * -[x] (完成日期: 2022/08/29) <a href="Medium/200/Number_of_Islands.ipynb">200. Number of Islands </a> (#DFS )
