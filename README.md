@@ -418,7 +418,8 @@
   * -[x] (完成日期: 2020/12/05) <a href="Medium/189/Rotate_Array.ipynb">189. Rotate Array </a>
   * -[x] (完成日期: 2022/05/25) <a href="Medium/199/Binary_Tree_Right_Side_View.ipynb">199. Binary Tree Right Side View </a>
   * -[x] (完成日期: 2022/08/29) <a href="Medium/200/Number_of_Islands.ipynb">200. Number of Islands </a> (#DFS )
-  * -[x] (完成日期: 2022/09/02) <a href="Medium/209/Course_Schedule.ipynb">207. Course Schedule </a> (#DFS )
+  * -[x] (完成日期: 2022/09/02) <a href="Medium/207/Course_Schedule.ipynb">207. Course Schedule </a> (#DFS )
+  * -[x] (完成日期: 2022/09/02) <a href="Medium/208/Implement_Trie_(Prefix_Tree).ipynb">208. Implement Trie (Prefix Tree) </a> (#HashMap )
   * -[x] (完成日期: 2021/01/16) <a href="Medium/215/Kth_Largest_Element_in_an_Array.ipynb">215. Kth Largest Element in an Array </a>
   * -[x] (完成日期: 2022/08/30) <a href="Medium/222/Count_Complete_Tree_Nodes.ipynb">222. Count Complete Tree Nodes </a> (#DFS, #BinaryTree )
   * -[x] (完成日期: 2022/06/07) <a href="Medium/230/Kth_Smallest_Element_in_a_BST.ipynb">230. Kth Smallest Element in a BST </a>
