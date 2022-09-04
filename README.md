@@ -578,6 +578,7 @@
   * -[x] (完成日期: 2022/06/07) <a href="Medium/1963/Minimum_Number_of_Swaps_to_Make_the_String_Balanced.ipynb">1963. Minimum Number of Swaps to Make the String Balanced </a>
   * -[x] (完成日期: 2022/08/29) <a href="Medium/1992/Find_All_Group_of_Farmland.ipynb">1992. Find All Groups of Farmland </a> (#DFS )
   * -[x] (完成日期: 2022/01/30) <a href="Medium/2023/Number_of_Pairs_of_Strings_With_Concatenation_Equal_to_Target.ipynb">2023. Number of Pairs of Strings With Concatenation Equal to Target </a>
+  * -[x] (完成日期: 2022/09/04) <a href="Medium/2038/Remove_Colored_Pieces_if_Both_Neighbors_are_the_Same_Color.ipynb">2038. Remove Colored Pieces if Both Neighbors are the Same Color </a> (#Greedy, #Math, #String )
   * -[x] (完成日期: 2021/10/24) <a href="Medium/2043/Simple_Bank_System.ipynb">2043. Simple Bank System </a>
   * -[x] (完成日期: 2021/10/31) <a href="Medium/2058/Find_the_Minimum_and_Maximum_Number_of_Nodes_Between_Critical_Points.ipynb">2058. Find the Minimum and Maximum Number of Nodes Between Critical Points </a>
   * -[x] (完成日期: 2022/06/06) <a href="Medium/2074/Reverse_Nodes_in_Even_Length_Groups.ipynb">2074. Reverse Nodes in Even Length Groups </a>
