@@ -390,6 +390,7 @@
   * -[x] (完成日期: 2020/10/31) <a href="Medium/75/Sort_Colors.ipynb">75. Sort Colors </a>
   * -[x] (完成日期: 2021/05/18) <a href="Medium/77/Combinations.ipynb">77. Combinations </a> (待改善解法)
   * -[x] (完成日期: 2021/05/18) <a href="Medium/78/Subsets.ipynb">78. Subsets </a> (#Backtracking, #Array ) 
+    -[x] (完成日期: 2022/09/05) <a href="Medium/79/Word_Search.ipynb">79. Word Search </a> (#Backtracking, #2D-Array ) 
   * -[x] (完成日期: 2022/06/23) <a href="Medium/80/Remove_Duplicates_from_Sorted_Array_II.ipynb">80. Remove Duplicates from Sorted Array II </a>
   * -[x] (完成日期: 2022/03/14) <a href="Medium/82/Remove_Duplicates_from_Sorted_List_II.ipynb">82. Remove Duplicates from Sorted List II </a>
   * -[x] (完成日期: 2022/06/02) <a href="Medium/86/Partition_List.ipynb">86. Partition List </a>
