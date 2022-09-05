@@ -399,7 +399,7 @@
   * -[x] (完成日期: 2022/05/23) <a href="Medium/102/Binary_Tree_Level_Order_Traversal.ipynb">102. Binary Tree Level Order Traversal </a>
   * -[x] (完成日期: 2022/05/23) <a href="Medium/103/Binary_Tree_Zigzag_Level_Order_Traversal.ipynb">103. Binary Tree Zigzag Level Order Traversal </a>
   * -[x] (完成日期: 2022/05/23) <a href="Medium/107/Binary_Tree_Level_Order_Traversal_II.ipynb">107. Binary Tree Level Order Traversal II </a>
-  * -[x] (完成日期: 2022/06/17) <a href="Medium/113/Path_Sum_II.ipynb">113. Path Sum II </a>
+  * -[x] (完成日期: 2022/06/17) <a href="Medium/113/Path_Sum_II.ipynb">113. Path Sum II </a> (#BinaryTree, #DFS, #Backtracking )
   * -[x] (完成日期: 2022/08/01) <a href="Medium/114/Flatten_Binary_Tree_to_Linked_List.ipynb">114. Flatten Binary Tree to Linked List </a>
   * -[x] (完成日期: 2022/08/13) <a href="Medium/116/Populating_Next_Right_Pointers_in_Each_Node.ipynb">116. Populating Next Right Pointers in Each Node </a>
   * -[x] (完成日期: 2022/08/13) <a href="Medium/117/Populating_Next_Right_Pointers_in_Each_Node_II.ipynb">117. Populating Next Right Pointers in Each Node II </a>
@@ -511,6 +511,7 @@
   * -[x] (完成日期: 2022/07/27) <a href="Medium/1007/Minimum_Domino_Rotations_For_Equal_Row.ipynb">1007. Minimum Domino Rotations For Equal Row </a>  
   * -[x] (完成日期: 2022/06/29) <a href="Medium/1054/Distant_Barcodes.ipynb">1054. Distant Barcodes </a>  
   * -[x] (完成日期: 2021/02/08) <a href="Medium/1138/Alphabet_Board_Path.ipynb">1138. Alphabet Board Path </a>
+  * -[x] (完成日期: 2022/09/05) <a href="Medium/1253/Reconstruct_a_2-Row_Binary_Matrix.ipynb">1253. Reconstruct a 2-Row Binary Matrix </a> (#Array, #Greedy, #2D-list )
   * -[x] (完成日期: 2022/06/09) <a href="Medium/1268/Search_Suggestions_System.ipynb">1268. Search Suggestions System </a>
   * -[x] (完成日期: 2021/01/21) <a href="Medium/1296/Divide_Array_in_Sets_of_K_Consecutive_Numbers.ipynb">1296. Divide Array in Sets of K Consecutive Numbers </a> (題目與No. 846相同)
   * -[x] (完成日期: 2021/01/23) <a href="Medium/1324/Print_Words_Vertically.ipynb">1324. Print Words Vertically </a>
