@@ -596,6 +596,7 @@
   * -[x] (完成日期: 2022/07/06) <a href="Medium/2125/Number_of_Laser_Beams_in_a_Bank.ipynb">2125. Number of Laser Beams in a Bank </a>
   * -[x] (完成日期: 2022/07/01) <a href="Medium/2126/Destroying_Asteroids.ipynb">2126. Destroying Asteroids </a>
   * -[x] (完成日期: 2022/01/03) <a href="Medium/2130/Maximum_Twin_Sum_of_a_Linked_List.ipynb">2130. Maximum Twin Sum of a Linked List </a>
+  * -[x] (完成日期: 2022/09/06) <a href="Medium/2131/Longest_Palindrome_by_Concatenating_Two_Letter_Words.ipynb">2131. Longest Palindrome by Concatenating Two Letter Words </a> (#HashMap, #Greedy, #Array )
   * -[x] (完成日期: 2022/01/16) <a href="Medium/2139/Minimum_Moves_to_Reach_Target_Score.ipynb">2139. Minimum Moves to Reach Target Score </a>
   * -[x] (完成日期: 2022/01/24) <a href="Medium/2149/Rearrange_Array_Elements_by_Sign.ipynb">2149. Rearrange Array Elements by Sign </a>
   * -[x] (完成日期: 2022/01/24) <a href="Medium/2150/Find_All_Lonely_Numbers_in_the_Array.ipynb">2150. Find All Lonely Numbers in the Array </a>
