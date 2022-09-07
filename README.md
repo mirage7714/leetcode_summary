@@ -471,6 +471,7 @@
   * -[x] (完成日期: 2022/06/09) <a href="Medium/622/Design_Circular_Queue">622. Design Circular Queue </a>
   * -[x] (完成日期: 2022/06/09) <a href="Medium/641/Design_Circular_Deque">641. Design Circular Deque </a>
   * -[x] (完成日期: 2021/02/02) <a href="Medium/648/Replace_Words">648. Replace Words </a>
+  * -[x] (完成日期: 2022/09/07) <a href="Medium/649/Dota2_Senate">649. Dota2 Senate </a> (#Greedy, #String, #Queue )
   * -[x] (完成日期: 2021/02/03) <a href="Medium/658/Find_K_Closest_Elements.ipynb">658. Find K Closest Elements </a>
   * -[x] (完成日期: 2021/02/06) <a href="Medium/670/Maximum_Swap.ipynb">670. Maximum Swap </a>
   * -[x] (完成日期: 2021/02/06) <a href="Medium/676/Implement_Magic_Dictionary.ipynb">676. Implement Magic Dictionary </a> 
