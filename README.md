@@ -468,6 +468,7 @@
   * -[x] (完成日期: 2020/11/02) <a href="Medium/581/Shortest_Unsorted_Continuous_Subarray.ipynb">581. Shortest Unsorted Continuous Subarray </a>
   * -[x] (完成日期: 2020/12/08) <a href="Medium/593/Valid_Square.ipynb">593. Valid Square </a>
   * -[x] (完成日期: 2020/11/24) <a href="Medium/609/Find_Duplicate_File_in_System.ipynb">609. Find Duplicate File in System </a>
+  * -[x] (完成日期: 2022/09/08) <a href="Medium/621/Task_Scheduler">621. Task Scheduler </a> (#Queue, #Greedy, #Array )
   * -[x] (完成日期: 2022/06/09) <a href="Medium/622/Design_Circular_Queue">622. Design Circular Queue </a>
   * -[x] (完成日期: 2022/06/09) <a href="Medium/641/Design_Circular_Deque">641. Design Circular Deque </a>
   * -[x] (完成日期: 2021/02/02) <a href="Medium/648/Replace_Words">648. Replace Words </a>
