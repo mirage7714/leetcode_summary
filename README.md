@@ -446,6 +446,7 @@
   * -[x] (完成日期: 2021/07/20) <a href="Medium/384/Shuffle_an_Array.ipynb">384. Shuffle an Array </a>
   * -[x] (完成日期: 2022/03/16) <a href="Medium/397/Integer_Replacement.ipynb">397. Integer Replacement </a>
   * -[x] (完成日期: 2021/07/21) <a href="Medium/398/Random_Pick_Index.ipynb">398. Random Pick Index </a>
+  * -[x] (完成日期: 2022/09/10) <a href="Medium/402/Remove_K_Digits.ipynb">402. Remove K Digits </a> (#Greedy, #Stack, #Array )
   * -[x] (完成日期: 2022/06/21) <a href="Medium/429/N-ary_Tree_Level_Order_Traversal.ipynb">429. N-ary Tree Level Order Traversal </a>
   * -[x] (完成日期: 2022/04/03) <a href="Medium/438/Find_All_Anagrams_in_a_String.ipynb">438. Find All Anagrams in a String </a>
   * -[x] (完成日期: 2020/12/07) <a href="Medium/442/Find_All_Duplicates_in_an_Array.ipynb">442. Find All Duplicates in an Array </a>
