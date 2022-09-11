@@ -650,6 +650,7 @@
   * -[x] (完成日期: 2022/08/28) <a href="Medium/2380/Time_Needed_to_Rearrange_a_Binary_String.ipynb">2380. Time Needed to Rearrange a Binary String </a>
   * -[x] (完成日期: 2022/08/28) <a href="Medium/2390/Removing_Stars_From_a_String.ipynb">2390. Removing Stars From a String </a> (#stack )
   * -[x] (完成日期: 2022/08/28) <a href="Medium/2391/Minimum_Amount_of_Time_to_Collect_Garbage.ipynb">2391. Minimum Amount of Time to Collect Garbage </a>
+  * -[x] (完成日期: 2022/09/11) <a href="Medium/2405/Optimal_Partition_of_String.ipynb">2405. Optimal Partition of String </a> (#String )
 
 * Hard:
   * -[x] (完成日期: 2021/01/09) <a href="Hard/4/Median_of_Two_Sorted_Arrays.ipynb">4. Median of Two Sorted Arrays </a>
