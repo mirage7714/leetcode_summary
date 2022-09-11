@@ -356,6 +356,7 @@
   * -[x] (完成日期: 2022/08/28) <a href="Easy/2389/Longest_Subsequence_With_Limited_Sum.ipynb">2389. Longest Subsequence With Limited Sum </a> 
   * -[x] (完成日期: 2022/09/04) <a href="Easy/2395/Find_Subarrays_With_Equal_Sum.ipynb">2395. Find Subarrays With Equal Sum </a> (#HashMap )
   * -[x] (完成日期: 2022/09/04) <a href="Easy/2399/Check_Distances_Between_Same_Letters.ipynb">2399. Check Distances Between Same Letters </a> (#Array )
+  * -[x] (完成日期: 2022/09/11) <a href="Easy/2404/Most_Frequent_Even_Element.ipynb">2404. Most Frequent Even Element </a> (#HashMap )
 
 * Medium:  
   * -[x] (完成日期: 2022/04/19) <a href="Medium/2/Add_Two_Numbers.ipynb">2. Add Two Numbers </a>
