@@ -382,6 +382,7 @@
   * -[x] (完成日期: 2022/06/27) <a href="Medium/50/Pow(x,n).ipynb">50. Pow(x, n) </a>
   * -[x] (完成日期: 2022/07/11) <a href="Medium/53/Maximum_Subarray.ipynb">53. Maximum Subarray </a>
   * -[x] (完成日期: 2022/08/30) <a href="Medium/54/Spiral_Matrix.ipynb">54. Spiral Matrix </a> (#2D-list )
+  * -[x] (完成日期: 2022/09/12) <a href="Medium/55/Jump_Game.ipynb">55. Jump Game </a> (#Array, #Greedy, #DP )
   * -[x] (完成日期: 2021/05/27) <a href="Medium/56/Merge_Intervals.ipynb">56. Merge Intervals </a>
   * -[x] (完成日期: 2021/07/17) <a href="Medium/57/Insert_Interval.ipynb">57. Insert Interval </a>
   * -[x] (完成日期: 2022/08/30) <a href="Medium/59/Spiral_Matrix_II.ipynb">59. Spiral Matrix II </a> (#2D-list )
