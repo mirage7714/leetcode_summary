@@ -371,6 +371,7 @@
   * -[x] (完成日期: 2022/03/15) <a href="Medium/19/Remove_Nth_Node_From_End_of_List.ipynb">19. Remove Nth Node From End of List </a>
   * -[x] (完成日期: 2022/08/23) <a href="Medium/24/Swap_Nodes_in_Pairs.ipynb">24. Swap Nodes in Pairs </a>
   * -[x] (完成日期: 2022/07/06) <a href="Medium/29/Divide_Two_Integers.ipynb">29. Divide Two Integers </a>
+  * -[x] (完成日期: 2022/09/12) <a href="Medium/31/Next_Permutation.ipynb">31. Next Permutation </a> (#Array, #TwoPointers )
   * -[x] (完成日期: 2022/06/01) <a href="Medium/34/Find_First_and_Last_Position_of_Element_in_Sorted_Array.ipynb">34. Find First and Last Position of Element in Sorted Array </a>
   * -[x] (完成日期: 2022/08/03) <a href="Medium/36/Valid_Sudoku.ipynb">36. Valid Sudoku </a>
   * -[x] (完成日期: 2022/09/05) <a href="Medium/39/Combination_Sum.ipynb">39. Combination Sum </a> (#Backtracking, #Array )
