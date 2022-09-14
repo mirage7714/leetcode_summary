@@ -374,6 +374,7 @@
   * -[x] (完成日期: 2022/09/12) <a href="Medium/31/Next_Permutation.ipynb">31. Next Permutation </a> (#Array, #TwoPointers )
   * -[x] (完成日期: 2022/06/01) <a href="Medium/34/Find_First_and_Last_Position_of_Element_in_Sorted_Array.ipynb">34. Find First and Last Position of Element in Sorted Array </a>
   * -[x] (完成日期: 2022/08/03) <a href="Medium/36/Valid_Sudoku.ipynb">36. Valid Sudoku </a>
+  * -[x] (完成日期: 2022/09/14) <a href="Medium/38/Count_and_Say.ipynb">38. Count and Say </a> (#String )
   * -[x] (完成日期: 2022/09/05) <a href="Medium/39/Combination_Sum.ipynb">39. Combination Sum </a> (#Backtracking, #Array )
   * -[x] (完成日期: 2022/04/01) <a href="Medium/46/Permutations.ipynb">46. Permutations </a>
   * -[x] (完成日期: 2022/04/26) <a href="Medium/47/Permutations_II.ipynb">47. Permutations II </a>
