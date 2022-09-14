@@ -296,6 +296,7 @@
   * -[x] (完成日期: 2021/12/05) <a href="Easy/2078/Two_Furthest_Houses_With_Different_Colors.ipynb">2078. Two Furthest Houses With Different Colors </a>
   * -[x] (完成日期: 2021/11/28) <a href="Easy/2085/Count_Common_Words_With_One_Occurrence.ipynb">2085. Count Common Words With One Occurrence </a>
   * -[x] (完成日期: 2021/11/28) <a href="Easy/2089/Find_Target_Indices_After_Sorting_Array.ipynb">2089. Find Target Indices After Sorting Array </a>
+  * -[x] (完成日期: 2022/09/14) <a href="Easy/2090/K_Radius_Subarray_Averages.ipynb">2090. K Radius Subarray Averages </a> (#Array, #SlidingWindow )
   * -[x] (完成日期: 2021/12/13) <a href="Easy/2099/Find_Subsequence_of_Length_K_With_the_Largest_Sum.ipynb">2099. Find Subsequence of Length K With the Largest Sum </a>
   * -[x] (完成日期: 2021/12/13) <a href="Easy/2103/Rings_and_Rods.ipynb">2103. Rings and Rods </a>
   * -[x] (完成日期: 2021/12/19) <a href="Easy/2108/Find_First_Palindromic_String_in_the_Array.ipynb">2108. Find First Palindromic String in the Array </a>
