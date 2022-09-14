@@ -131,6 +131,7 @@
   * -[x] (完成日期: 2020/10/20) <a href="Easy/922/Sort_Array_By_Parity_II.ipynb">922. Sort Array By Parity II </a>
   * -[x] (完成日期: 2020/11/03) <a href="Easy/925/Long_Pressed_Name.ipynb">925. Long Pressed Name </a>
   * -[x] (完成日期: 2020/10/20) <a href="Easy/929/Unique_Email_Addresses.ipynb">929. Unique Email Addresses </a> 
+  * -[x] (完成日期: 2022/09/14) <a href="Easy/933/Number_of_Recent_Calls.ipynb">933. Number of Recent Calls </a> (#Queue, #DataStream, #Design )
   * -[x] (完成日期: 2022/05/23) <a href="Easy/938/Range_Sum_of_BST.ipynb">938. Range Sum of BST </a>
   * -[x] (完成日期: 2020/10/08) <a href="Easy/941/Valid_Mountain_Array.ipynb">941. Valid Mountain Array </a>
   * -[x] (完成日期: 2021/05/24) <a href="Easy/944/Delete_Columns_to_Make_Sorted.ipynb">944. Delete Columns to Make Sorted </a>  
