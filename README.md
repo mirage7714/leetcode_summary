@@ -543,6 +543,7 @@
   * -[x] (完成日期: 2022/06/20) <a href="Medium/1447/Count_Good_Nodes_in_Binary_Tree.ipynb">1448. Count Good Nodes in Binary Tree </a>
   * -[x] (完成日期: 2020/12/12) <a href="Medium/1451/Rearrange_Words_in_a_Sentence.ipynb">1451. Rearrange Words in a Sentence </a>
   * -[x] (完成日期: 2021/06/20) <a href="Medium/1456/Maximum_Number_of_Vowels_in_a_Substring_of_Given_Length.ipynb">1456. Maximum Number of Vowels in a Substring of Given Length </a>
+  * -[x] (完成日期: 2022/09/14) <a href="Medium/1457/Pseudo-Palindromic_Paths_in_a_Binary_Tree.ipynb">1457. Pseudo-Palindromic Paths in a Binary Tree </a> (#BinaryTree, #DFS, #BitManipulation)
   * -[x] (完成日期: 2022/06/08) <a href="Medium/1481/Least_Number_of_Unique_Integers_after_K_Removals.ipynb">1481. Least Number of Unique Integers after K Removals </a>
   * -[x] (完成日期: 2021/01/09) <a href="Medium/1492/The_kth_Factor_of_n.ipynb">1492. The kth Factor of n </a>
   * -[x] (完成日期: 2021/01/26) <a href="Medium/1493/Longest_Subarray_of_1's_After_Deleting_One_Element.ipynb">1493. Longest Subarray of 1's After Deleting One Element </a>
