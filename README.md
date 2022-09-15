@@ -146,6 +146,7 @@
   * -[x] (完成日期: 2020/10/28) <a href="Easy/989/Add_to_Array-Form_of_Integer.ipynb">989. Add to Array-Form of Integer </a> 
   * -[x] (完成日期: 2022/05/23) <a href="Easy/993/Cousins_in_Binary_Tree.ipynb">993. Cousins in Binary Tree </a>
   * -[x] (完成日期: 2020/10/28) <a href="Easy/997/Find_the_Town_Judge.ipynb">997. Find the Town Judge </a>
+  * -[x] (完成日期: 2022/09/15) <a href="Easy/999/Available_Captures_for_Rook.ipynb">999. Available Captures for Rook </a> (#Array, #Matrix) 
   * -[x] (完成日期: 2020/10/22) <a href="Easy/1002/Find_Common_Characters.ipynb">1002. Find Common Characters </a> 
   * -[x] (完成日期: 2020/10/28) <a href="Easy/1005/Maximize_Sum_Of_Array_After_K_Negations.ipynb">1005. Maximize Sum Of Array After K Negations </a> 
   * -[x] (完成日期: 2020/10/22) <a href="Easy/1009/Complement_of_Base_10_Integer.ipynb">1009. Complement of Base 10 Integer </a>
