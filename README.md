@@ -80,6 +80,7 @@
   * -[x] (完成日期: 2020/10/29) <a href="Easy/504/Base_7.ipynb">504. Base 7 </a>
   * -[x] (完成日期: 2020/10/30) <a href="Easy/506/Relative_Ranks.ipynb">506. Relative Ranks </a>
   * -[x] (完成日期: 2020/10/19) <a href="Easy/520/Detect_Capital.ipynb">520. Detect Capital </a> 
+  * -[x] (完成日期: 2022/09/15) <a href="Easy/530/Minimum_Absolute_Difference_in_BST.ipynb">530. Minimum Absolute Difference in BST </a> (#BinaryTree, #DFS)
   * -[x] (完成日期: 2022/07/19) <a href="Easy/543/Diameter_of_Binary_Tree.ipynb">543. Diameter of Binary Tree </a> 
   * -[x] (完成日期: 2022/03/23) <a href="Easy/557Reverse_Words_in_a_String_III.ipynb">557. Reverse Words in a String III </a>
   * -[x] (完成日期: 2020/10/29) <a href="Easy/561/Array_Partition_I.ipynb">561. Array Partition I </a> 
