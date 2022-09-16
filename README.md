@@ -668,6 +668,7 @@
   * -[x] (完成日期: 2022/07/24) <a href="Medium/2348/Number_of_Zero-Filled_Subarrays.ipynb">2348. Number of Zero-Filled Subarrays </a>
   * -[x] (完成日期: 2022/07/25) <a href="Medium/2352/Equal_Row_and_Column_Pairs.ipynb">2352. Equal Row and Column Pairs </a>
   * -[x] (完成日期: 2022/08/22) <a href="Medium/2368/Reachable_Nodes_With_Restrictions.ipynb">2368. Reachable Nodes With Restrictions </a>  
+  * -[x] (完成日期: 2022/09/16) <a href="Medium/2375/Construct_Smallest_Number_From_DI_String.ipynb">2375. Construct Smallest Number From DI String </a> (#String, #Greedy, #Stack, #Backtracking )
   * -[x] (完成日期: 2022/08/28) <a href="Medium/2380/Time_Needed_to_Rearrange_a_Binary_String.ipynb">2380. Time Needed to Rearrange a Binary String </a>
   * -[x] (完成日期: 2022/09/13) <a href="Medium/2384/Largest_Palindromic_Number.ipynb">2384. Largest Palindromic Number </a> (#Array, #Queue, #String )
   * -[x] (完成日期: 2022/08/28) <a href="Medium/2390/Removing_Stars_From_a_String.ipynb">2390. Removing Stars From a String </a> (#stack )
