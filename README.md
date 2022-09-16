@@ -138,6 +138,7 @@
   * -[x] (完成日期: 2022/09/14) <a href="Easy/933/Number_of_Recent_Calls.ipynb">933. Number of Recent Calls </a> (#Queue, #DataStream, #Design )
   * -[x] (完成日期: 2022/05/23) <a href="Easy/938/Range_Sum_of_BST.ipynb">938. Range Sum of BST </a>
   * -[x] (完成日期: 2020/10/08) <a href="Easy/941/Valid_Mountain_Array.ipynb">941. Valid Mountain Array </a>
+  * -[x] (完成日期: 2022/09/16) <a href="Easy/942/DI_String_Match.ipynb">942. DI String Match </a> (#Array, #Greedy, #String, #TwoPointers )
   * -[x] (完成日期: 2021/05/24) <a href="Easy/944/Delete_Columns_to_Make_Sorted.ipynb">944. Delete Columns to Make Sorted </a>  
   * -[x] (完成日期: 2022/03/19) <a href="Easy/953/Verifying_an_Alien_Dictionary.ipynb">953. Verifying an Alien Dictionary </a> 
   * -[x] (完成日期: 2022/05/23) <a href="Easy/965/Univalued_Binary_Tree.ipynb">965. Univalued Binary Tree </a> 
