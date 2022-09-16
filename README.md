@@ -537,6 +537,7 @@
   * -[x] (完成日期: 2022/05/26) <a href="Medium/984/String_Without_AAA_or_BBB.ipynb">984. String Without AAA or BBB </a>  
   * -[x] (完成日期: 2022/06/20) <a href="Medium/988/Smallest_String_Starting_From_Leaf.ipynb">988. Smallest String Starting From Leaf </a>  
   * -[x] (完成日期: 2022/07/27) <a href="Medium/1007/Minimum_Domino_Rotations_For_Equal_Row.ipynb">1007. Minimum Domino Rotations For Equal Row </a>  
+  * -[x] (完成日期: 2022/09/16) <a href="Medium/1019/Next_Greater_Node_In_Linked_List.ipynb">1019. Next Greater Node In Linked List </a>  (#Array, #Stack, #LinkedList, #MonotonicStack )
   * -[x] (完成日期: 2022/06/29) <a href="Medium/1054/Distant_Barcodes.ipynb">1054. Distant Barcodes </a>  
   * -[x] (完成日期: 2021/02/08) <a href="Medium/1138/Alphabet_Board_Path.ipynb">1138. Alphabet Board Path </a>
   * -[x] (完成日期: 2022/09/05) <a href="Medium/1253/Reconstruct_a_2-Row_Binary_Matrix.ipynb">1253. Reconstruct a 2-Row Binary Matrix </a> (#Array, #Greedy, #2D-list )
