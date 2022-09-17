@@ -369,6 +369,7 @@
   * -[x] (完成日期: 2022/09/04) <a href="Easy/2395/Find_Subarrays_With_Equal_Sum.ipynb">2395. Find Subarrays With Equal Sum </a> (#HashMap )
   * -[x] (完成日期: 2022/09/04) <a href="Easy/2399/Check_Distances_Between_Same_Letters.ipynb">2399. Check Distances Between Same Letters </a> (#Array )
   * -[x] (完成日期: 2022/09/11) <a href="Easy/2404/Most_Frequent_Even_Element.ipynb">2404. Most Frequent Even Element </a> (#HashMap )
+  * -[x] (完成日期: 2022/09/18) <a href="Easy/2409/Count_Days_Spent_Together.ipynb">2409. Count Days Spent Together </a> (#String, #Math )
 
 * Medium:  
   * -[x] (完成日期: 2022/04/19) <a href="Medium/2/Add_Two_Numbers.ipynb">2. Add Two Numbers </a>
