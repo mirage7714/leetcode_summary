@@ -680,6 +680,7 @@
   * -[x] (完成日期: 2022/08/28) <a href="Medium/2391/Minimum_Amount_of_Time_to_Collect_Garbage.ipynb">2391. Minimum Amount of Time to Collect Garbage </a>
   * -[x] (完成日期: 2022/09/13) <a href="Medium/2396/Strictly_Palindromic_Number.ipynb">2396. Strictly Palindromic Number </a> (#String, #Math )
   * -[x] (完成日期: 2022/09/11) <a href="Medium/2405/Optimal_Partition_of_String.ipynb">2405. Optimal Partition of String </a> (#String )
+  * -[x] (完成日期: 2022/09/18) <a href="Medium/2410/Maximum_Matching_of_Players_With_Trainers.ipynb">2410. Maximum Matching of Players With Trainers </a> (#Array, #Queue, #Greedy )
 
 * Hard:
   * -[x] (完成日期: 2021/01/09) <a href="Hard/4/Median_of_Two_Sorted_Arrays.ipynb">4. Median of Two Sorted Arrays </a>
