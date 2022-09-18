@@ -692,6 +692,7 @@
   * -[x] (完成日期: 2020/11/06) <a href="Hard/41/First_Missing_Positive.ipynb">41. First Missing Positive </a>
   * -[x] (完成日期: 2020/12/31) <a href="Hard/154/Find_Minimum_in_Rotated_Sorted_Array_II.ipynb">154. Find Minimum in Rotated Sorted Array II </a>
   * -[x] (完成日期: 2022/09/04) <a href="Hard/987/Vertical_Order_Traversal_of_a_Binary_Tree.ipynb">987. Vertical Order Traversal of a Binary Tree </a> (#HashMap, #DFS, #BinaryTree )
+  * -[x] (完成日期: 2022/09/18) <a href="Hard/2146/Sum_of_Prefix_Scores_of_Strings.ipynb">2416. Sum of Prefix Scores of Strings </a> (#Array, #HashMap, #String )
 
 
 
