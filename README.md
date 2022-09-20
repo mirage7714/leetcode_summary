@@ -625,6 +625,7 @@
   * -[x] (完成日期: 2022/06/06) <a href="Medium/2074/Reverse_Nodes_in_Even_Length_Groups.ipynb">2074. Reverse Nodes in Even Length Groups </a>
   * -[x] (完成日期: 2022/04/23) <a href="Medium/2075/Decode_the_Slanted_Ciphertext.ipynb">2075. Decode the Slanted Ciphertext </a>
   * -[x] (完成日期: 2021/12/04) <a href="Medium/2079/Watering_Plants.ipynb">2079. Watering Plants </a>
+  * -[x] (完成日期: 2022/09/20) <a href="Medium/2087/Minimum_Cost_Homecoming_of_a_Robot_in_a_Grid.ipynb">2087. Minimum Cost Homecoming of a Robot in a Grid </a> (#Array, #Matrix, #Greedy)
   * -[x] (完成日期: 2021/12/04) <a href="Medium/2091/Removing_Minimum_and_Maximum_From_Array.ipynb">2091. Removing Minimum and Maximum From Array </a>
   * -[x] (完成日期: 2022/03/16) <a href="Medium/2095/Delete_the_Middle_Node_of_a_Linked_List.ipynb">2095. Delete the Middle Node of a Linked List </a>
   * -[x] (完成日期: 2021/12/19) <a href="Medium/2109/Adding_Spaces_to_a_String.ipynb">2109. Adding Spaces to a String </a>
