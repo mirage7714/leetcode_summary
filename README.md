@@ -557,6 +557,7 @@
   * -[x] (完成日期: 2021/02/08) <a href="Medium/1381/Design_a_Stack_With_Increment_Operation.ipynb">1381. Design a Stack With Increment Operation </a>
   * -[x] (完成日期: 2020/12/10) <a href="Medium/1395/Count_Number_of_Teams.ipynb">1395. Count Number of Teams </a>
   * -[x] (完成日期: 2021/06/30) <a href="Medium/1396/Design_Underground_System.ipynb">1396. Design Underground System </a>
+  * -[x] (完成日期: 2022/09/20) <a href="Medium/1405/Longest_Happy_String.ipynb">1405. Longest Happy String </a> (#Array, #String, #Heap)
   * -[x] (完成日期: 2020/12/09) <a href="Medium/1410/HTML_Entity_Parser.ipynb">1410. HTML Entity Parser </a>
   * -[x] (完成日期: 2021/06/20) <a href="Medium/1418/Display_Table_of_Food_Orders_in_a_Restaurant.ipynb">1418. Display Table of Food Orders in a Restaurant </a>
   * -[x] (完成日期: 2022/06/08) <a href="Medium/1432/Max_Difference_You_Can_Get_From_Changing_an_Integer.ipynb">1432. Max Difference You Can Get From Changing an Integer </a>
