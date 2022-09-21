@@ -538,6 +538,7 @@
   * -[x] (完成日期: 2021/01/16) <a href="Medium/973/K_Closest_Points_to_Origin.ipynb">973. K Closest Points to Origin </a>
   * -[x] (完成日期: 2022/07/23) <a href="Medium/981/Time_Based_Key-Value_Store.ipynb">981. Time Based Key-Value Store </a>  
   * -[x] (完成日期: 2022/05/26) <a href="Medium/984/String_Without_AAA_or_BBB.ipynb">984. String Without AAA or BBB </a>  
+  * -[x] (完成日期: 2022/09/21) <a href="Medium/985/Sum_of_Even_Numbers_After_Queries.ipynb">985. Sum of Even Numbers After Queries </a> (#Array)
   * -[x] (完成日期: 2022/06/20) <a href="Medium/988/Smallest_String_Starting_From_Leaf.ipynb">988. Smallest String Starting From Leaf </a>  
   * -[x] (完成日期: 2022/09/19) <a href="Medium/994/Rotting_Oranges.ipynb">994. Rotting Oranges </a> (#Matrix, #Array, #BFS) 
   * -[x] (完成日期: 2022/07/27) <a href="Medium/1007/Minimum_Domino_Rotations_For_Equal_Row.ipynb">1007. Minimum Domino Rotations For Equal Row </a>  
