@@ -518,6 +518,7 @@
   * -[x] (完成日期: 2022/07/26) <a href="Medium/792/Number_of_Matching_Sub_sequences.ipynb">792. Number of Matching Subsequences </a>
   * -[x] (完成日期: 2020/12/20) <a href="Medium/807/Max_Increase_to_Keep_City_Skyline.ipynb">807. Max Increase to Keep City Skyline </a>
   * -[x] (完成日期: 2022/06/10) <a href="Medium/811/Subdomain_Visit_Count.ipynb">811. Subdomain Visit Count </a>
+  * -[x] (完成日期: 2022/09/22) <a href="Medium/814/Binary_Tree_Pruning.ipynb">814. Binary Tree Pruning </a> (#BinaryTree, #DFS)
   * -[x] (完成日期: 2022/09/07) <a href="Medium/817/Linked_List_Components.ipynb">817. Linked List Components </a> (#LinkedList )
   * -[x] (完成日期: 2021/05/22) <a href="Medium/826/Most_Profit_Assigning_Work.ipynb">826. Most Profit Assigning Work </a>
   * -[x] (完成日期: 2020/11/24) <a href="Medium/831/Masking_Personal_Information.ipynb">831. Masking Personal Information </a>
