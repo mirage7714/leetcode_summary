@@ -553,6 +553,7 @@
   * -[x] (完成日期: 2022/09/21) <a href="Medium/1302/Deepest_Leaves_Sum.ipynb">1302. Deepest Leaves Sum </a> (#BinaryTree, #BFS)
   * -[x] (完成日期: 2022/09/21) <a href="Medium/1305/All_Elements_in_Two_Binary_Search_Trees.ipynb">1305. All Elements in Two Binary Search Trees </a> (#BinaryTree, #BFS, #DFS)
   * -[x] (完成日期: 2021/01/23) <a href="Medium/1324/Print_Words_Vertically.ipynb">1324. Print Words Vertically </a>
+  * -[x] (完成日期: 2022/09/22) <a href="Medium/1325/Delete_Leaves_With_a_Given_Value.ipynb">1325. Delete Leaves With a Given Value </a> (#BinaryTree, #DFS) 
   * -[x] (完成日期: 2021/01/23) <a href="Medium/1338/Reduce_Array_Size_to_The_Half.ipynb">1338. Reduce Array Size to The Half </a>
   * -[x] (完成日期: 2021/01/09) <a href="Medium/1347/Minimum_Number_of_Steps_to_Make_Two_Strings_Anagram.ipynb">1347. Minimum Number of Steps to Make Two Strings Anagram </a>
   * -[x] (完成日期: 2022/07/04) <a href="Medium/1348/Tweet_Counts_Per_Frequency.ipynb">1348. Tweet Counts Per Frequency </a>
