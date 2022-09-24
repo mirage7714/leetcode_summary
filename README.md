@@ -550,6 +550,7 @@
   * -[x] (完成日期: 2021/02/08) <a href="Medium/1138/Alphabet_Board_Path.ipynb">1138. Alphabet Board Path </a>
   * -[x] (完成日期: 2022/09/22) <a href="Medium/1161/Maximum_Level_Sum_of_a_Binary_Tree.ipynb">1161. Maximum Level Sum of a Binary Tree </a>  (#BinaryTree, #BFS)
   * -[x] (完成日期: 2022/09/05) <a href="Medium/1253/Reconstruct_a_2-Row_Binary_Matrix.ipynb">1253. Reconstruct a 2-Row Binary Matrix </a> (#Array, #Greedy, #2D-list )
+  * -[x] (完成日期: 2022/09/24) <a href="Medium/1261/Find_Elements_in_a_Contaminated_Binary_Tree.ipynb">1261. Find Elements in a Contaminated Binary Tree </a> (#BFS, #BinaryTree )
   * -[x] (完成日期: 2022/09/05) <a href="Medium/1262/Greatest_Sum_Divisible_by_Three.ipynb">1262. Greatest Sum Divisible by Three </a> (#Array, #Greedy, #HashMap )
   * -[x] (完成日期: 2022/06/09) <a href="Medium/1268/Search_Suggestions_System.ipynb">1268. Search Suggestions System </a>
   * -[x] (完成日期: 2021/01/21) <a href="Medium/1296/Divide_Array_in_Sets_of_K_Consecutive_Numbers.ipynb">1296. Divide Array in Sets of K Consecutive Numbers </a> (題目與No. 846相同)
