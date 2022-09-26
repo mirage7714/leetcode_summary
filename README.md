@@ -458,6 +458,7 @@
   * -[x] (完成日期: 2020/12/06) <a href="Medium/260/Single_Number_III.ipynb">260. Single Number III </a>
   * -[x] (完成日期: 2020/11/06) <a href="Medium/287/Find_the_Duplicate_Number.ipynb">287. Find the Duplicate Number </a>
   * -[x] (完成日期: 2020/11/25) <a href="Medium/299/Bulls_and_Cows.ipynb">299. Bulls and Cows </a>
+  * -[x] (完成日期: 2022/09/26) <a href="Medium/307/Range_Sum_Query-Mutable.ipynb">307. Range Sum Query - Mutable </a> (#Array) 
   * -[x] (完成日期: 2022/03/16) <a href="Medium/328/Odd_Even_Linked_List.ipynb">328. Odd Even Linked List </a> (解法待改善)  
   * -[x] (完成日期: 2022/08/24) <a href="Medium/334/Increasing_Triplet_Subsequence.ipynb">334. Increasing Triplet Subsequence </a>
   * -[x] (完成日期: 2021/07/16) <a href="Medium/343/Integer_Break.ipynb">343. Integer Break </a>
