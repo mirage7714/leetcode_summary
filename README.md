@@ -80,6 +80,7 @@
   * -[x] (完成日期: 2022/06/20) <a href="Easy/501/Find_Mode_in_Binary_Search_Tree.ipynb">501. Find Mode in Binary Search Tree </a>
   * -[x] (完成日期: 2020/10/29) <a href="Easy/504/Base_7.ipynb">504. Base 7 </a>
   * -[x] (完成日期: 2020/10/30) <a href="Easy/506/Relative_Ranks.ipynb">506. Relative Ranks </a>
+  * -[x] (完成日期: 2022/09/27) <a href="Easy/507/Perfect_Number.ipynb">507. Perfect Number </a> (#Math)
   * -[x] (完成日期: 2020/10/19) <a href="Easy/520/Detect_Capital.ipynb">520. Detect Capital </a> 
   * -[x] (完成日期: 2022/09/15) <a href="Easy/530/Minimum_Absolute_Difference_in_BST.ipynb">530. Minimum Absolute Difference in BST </a> (#BinaryTree, #DFS)
   * -[x] (完成日期: 2022/09/22) <a href="Easy/541/Reverse_String_II.ipynb">541. Reverse String II </a> (#String) 
