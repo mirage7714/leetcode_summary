@@ -103,6 +103,7 @@
   * -[x] (完成日期: 2020/12/03) <a href="Easy/682/Baseball_Game.ipynb">682. Baseball Game </a>
   * -[x] (完成日期: 2020/11/14) <a href="Easy/690/Employee_Importance.ipynb">690. Employee Importance </a>
   * -[x] (完成日期: 2022/09/15) <a href="Easy/693/Binary_Number_with_Alternating_Bits.ipynb">693. Binary Number with Alternating Bits </a> (#BitManipulation )
+  * -[x] (完成日期: 2022/09/28) <a href="Easy/696/Count_Binary_Substrings.ipynb">696. Count Binary Substrings </a> (#String, #TwoPointers) 
   * -[x] (完成日期: 2022/03/19) <a href="Easy/697/Degree_of_an_Array.ipynb">697. Degree of an Array </a>
   * -[x] (完成日期: 2022/05/23) <a href="Easy/700/Search_in_a_Binary_Search_Tree.ipynb">700. Search in a Binary Search Tree </a>
   * -[x] (完成日期: 2021/02/18) <a href="Easy/703/Kth_Largest_Element_in_a_Stream.ipynb">703. Kth Largest Element in a Stream </a>
