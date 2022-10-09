@@ -376,7 +376,8 @@
   * -[x] (完成日期: 2022/09/18) <a href="Easy/2409/Count_Days_Spent_Together.ipynb">2409. Count Days Spent Together </a> (#String, #Math )
   * -[x] (完成日期: 2022/09/18) <a href="Easy/2413/Smallest_Even_Multiple.ipynb">2413. Smallest Even Multiple </a> (#Math )
   * -[x] (完成日期: 2022/09/25) <a href="Easy/2418/Sort_the_People.ipynb">2418. Sort the People </a> (#Array )
-  * -[x] (完成日期: 2022/10/02) <a href="Easy/2427/Number of Common Factors.ipynb">2427. Number of Common Factors </a> (#Math )
+  * -[x] (完成日期: 2022/10/02) <a href="Easy/2427/Number_of_Common_Factors.ipynb">2427. Number of Common Factors </a> (#Math )
+  * -[x] (完成日期: 2022/10/09) <a href="Easy/2432/The_Employee_That_Worked_on_the_Longest_Task.ipynb">2432. The Employee That Worked on the Longest Task </a> (#Array )
 
 * Medium:  
   * -[x] (完成日期: 2022/04/19) <a href="Medium/2/Add_Two_Numbers.ipynb">2. Add Two Numbers </a>
