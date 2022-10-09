@@ -714,6 +714,7 @@
   * -[x] (完成日期: 2022/10/03) <a href="Medium/2425/Bitwise_XOR_of_All_Pairings.ipynb">2425. Bitwise XOR of All Pairings </a> (#Array, #BitManipulation )
   * -[x] (完成日期: 2022/10/02) <a href="Medium/2428/Maximum_Sum_of_an_Hourglass.ipynb">2428. Maximum Sum of an Hourglass </a> (#Array, #Matrix )
   * -[x] (完成日期: 2022/10/03) <a href="Medium/2429/Minimize_XOR.ipynb">2429. Minimize XOR </a> (#BitManipulation )
+  * -[x] (完成日期: 2022/10/09) <a href="Medium/2433/Find The_Original_Array_of_Prefix_Xor.ipynb">2433. Find The Original Array of Prefix Xor </a> (#BitManipulation, #Array )
   
 * Hard:
   * -[x] (完成日期: 2021/01/09) <a href="Hard/4/Median_of_Two_Sorted_Arrays.ipynb">4. Median of Two Sorted Arrays </a>
