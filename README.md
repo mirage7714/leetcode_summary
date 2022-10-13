@@ -458,6 +458,7 @@
   * -[x] (完成日期: 2022/06/07) <a href="Medium/230/Kth_Smallest_Element_in_a_BST.ipynb">230. Kth Smallest Element in a BST </a>
   * -[x] (完成日期: 2022/09/15) <a href="Medium/235/Lowest_Common_Ancestor_of_a_Binary_Search_Tree.ipynb">235. Lowest Common Ancestor of a Binary Search Tree </a> (#BinaryTree, #DFS )
   * -[x] (完成日期: 2022/09/15) <a href="Medium/236/Lowest_Common_Ancestor_of_a_Binary_Tree.ipynb">236. Lowest Common Ancestor of a Binary Tree </a> (#BinaryTree, #DFS )
+  * -[x] (完成日期: 2022/10/13) <a href="Medium/237/Delete_Node_in_a_Linked_List.ipynb">237. Delete Node in a Linked List </a> (#LinkedList)
   * -[x] (完成日期: 2022/07/02) <a href="Medium/238/Product_of_Array_Except_Self.ipynb">238. Product of Array Except Self </a>
   * -[x] (完成日期: 2020/11/12) <a href="Medium/240/Search_a_2D_Matrix_II.ipynb">240. Search a 2D Matrix II </a>
   * -[x] (完成日期: 2020/12/06) <a href="Medium/260/Single_Number_III.ipynb">260. Single Number III </a>
