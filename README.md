@@ -720,7 +720,8 @@
   * -[x] (完成日期: 2022/10/03) <a href="Medium/2429/Minimize_XOR.ipynb">2429. Minimize XOR </a> (#BitManipulation )
   * -[x] (完成日期: 2022/10/09) <a href="Medium/2433/Find_The_Original_Array_of_Prefix_Xor.ipynb">2433. Find The Original Array of Prefix Xor </a> (#BitManipulation, #Array )
   * -[x] (完成日期: 2022/10/16) <a href="Medium/2438/Range_Product_Queries_of_Powers.ipynb">2438. Range Product Queries of Powers </a> (#Array )
-  
+  * -[x] (完成日期: 2022/10/16) <a href="Medium/2442/Count_Number_of_Distinct_Integers_After_Reverse_Operations.ipynb">2442. Count Number of Distinct Integers After Reverse Operations </a> (#Array )
+ 
 * Hard:
   * -[x] (完成日期: 2021/01/09) <a href="Hard/4/Median_of_Two_Sorted_Arrays.ipynb">4. Median of Two Sorted Arrays </a>
   * -[x] (完成日期: 2022/06/15) <a href="Hard/23/Merge_k_Sorted_Lists.ipynb">23. Merge k Sorted Lists </a>
