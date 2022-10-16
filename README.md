@@ -379,6 +379,7 @@
   * -[x] (完成日期: 2022/10/02) <a href="Easy/2427/Number_of_Common_Factors.ipynb">2427. Number of Common Factors </a> (#Math )
   * -[x] (完成日期: 2022/10/09) <a href="Easy/2432/The_Employee_That_Worked_on_the_Longest_Task.ipynb">2432. The Employee That Worked on the Longest Task </a> (#Array )
   * -[x] (完成日期: 2022/10/16) <a href="Easy/2437/Number_of_Valid_Clock_Times.ipynb">2437. Number of Valid Clock Times </a> (#String )
+  * -[x] (完成日期: 2022/10/16) <a href="Easy/2441/Largest_Positive_Integer_That_Exists_With_Its_Negative.ipynb">2441. Largest Positive Integer That Exists With Its Negative </a> (#Array )
 
 * Medium:  
   * -[x] (完成日期: 2022/04/19) <a href="Medium/2/Add_Two_Numbers.ipynb">2. Add Two Numbers </a>
