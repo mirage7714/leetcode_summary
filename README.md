@@ -382,6 +382,7 @@
   * -[x] (完成日期: 2022/10/16) <a href="Easy/2441/Largest_Positive_Integer_That_Exists_With_Its_Negative.ipynb">2441. Largest Positive Integer That Exists With Its Negative </a> (#Array )
   * -[x] (完成日期: 2022/10/23) <a href="Easy/2446/Determine_if_Two_Events_Have_Conflict.ipynb">2446. Determine if Two Events Have Conflict </a> (#String )
   * -[x] (完成日期: 2022/10/30) <a href="Easy/2451/Odd_String_Difference.ipynb">2451. Odd String Difference </a> (#Array )
+  * -[x] (完成日期: 2022/10/30) <a href="Easy/2455/Average_Value_of_Even_Numbers_That_Are_Divisible_by_Three.ipynb">2455. Average Value of Even Numbers That Are Divisible by Three </a> (#Array, #Math )
 
 * Medium:  
   * -[x] (完成日期: 2022/04/19) <a href="Medium/2/Add_Two_Numbers.ipynb">2. Add Two Numbers </a>
