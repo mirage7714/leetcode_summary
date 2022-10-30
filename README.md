@@ -723,6 +723,7 @@
   * -[x] (完成日期: 2022/10/09) <a href="Medium/2433/Find_The_Original_Array_of_Prefix_Xor.ipynb">2433. Find The Original Array of Prefix Xor </a> (#BitManipulation, #Array )
   * -[x] (完成日期: 2022/10/16) <a href="Medium/2438/Range_Product_Queries_of_Powers.ipynb">2438. Range Product Queries of Powers </a> (#Array )
   * -[x] (完成日期: 2022/10/16) <a href="Medium/2442/Count_Number_of_Distinct_Integers_After_Reverse_Operations.ipynb">2442. Count Number of Distinct Integers After Reverse Operations </a> (#Array )
+  * -[x] (完成日期: 2022/10/30) <a href="Medium/2452/Words_Within_Two_Edits_of_Dictionary.ipynb">2452. Words Within Two Edits of Dictionary </a> (#Array, #String )
  
 * Hard:
   * -[x] (完成日期: 2021/01/09) <a href="Hard/4/Median_of_Two_Sorted_Arrays.ipynb">4. Median of Two Sorted Arrays </a>
