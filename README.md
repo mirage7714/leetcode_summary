@@ -385,7 +385,8 @@
   * -[x] (完成日期: 2022/10/30) <a href="Easy/2455/Average_Value_of_Even_Numbers_That_Are_Divisible_by_Three.ipynb">2455. Average Value of Even Numbers That Are Divisible by Three </a> (#Array, #Math )
   * -[x] (完成日期: 2022/11/06) <a href="Easy/2460/Apply_Operations_to_an_Array.ipynb">2460. Apply Operations to an Array </a> (#Array )
   * -[x] (完成日期: 2022/11/13) <a href="Easy/2465/Number_of_Distinct_Averages.ipynb">2465. Number of Distinct Averages </a> (#Array, #Math )
-  
+  * -[x] (完成日期: 2022/11/13) <a href="Easy/2469/Convert_the_Temperature.ipynb">2469. Convert the Temperature </a> (#Math )
+ 
 * Medium:  
   * -[x] (完成日期: 2022/04/19) <a href="Medium/2/Add_Two_Numbers.ipynb">2. Add Two Numbers </a>
   * -[x] (完成日期: 2022/04/01) <a href="Medium/3/Longest_Substring_Without_Repeating_Characters.ipynb">3. Longest Substring Without Repeating Characters </a>
