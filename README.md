@@ -731,6 +731,7 @@
   * -[x] (完成日期: 2022/10/30) <a href="Medium/2452/Words_Within_Two_Edits_of_Dictionary.ipynb">2452. Words Within Two Edits of Dictionary </a> (#Array, #String )
   * -[x] (完成日期: 2022/10/30) <a href="Medium/2453/Destroy_Sequential_Targets.ipynb">2453. Destroy Sequential Targets </a> (#Array )
   * -[x] (完成日期: 2022/10/30) <a href="Medium/2456/Most_Popular_Video_Creator.ipynb">2456. Most Popular Video Creator </a> (#Array )
+  * -[x] (完成日期: 2022/11/30) <a href="Medium/2486/Append_Characters_to_String_to_Make_Subsequence.ipynb">2486. Append Characters to String to Make Subsequence </a> (#String )
 
 * Hard:
   * -[x] (完成日期: 2021/01/09) <a href="Hard/4/Median_of_Two_Sorted_Arrays.ipynb">4. Median of Two Sorted Arrays </a>
