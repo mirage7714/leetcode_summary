@@ -568,6 +568,7 @@
   * -[x] (完成日期: 2022/09/19) <a href="Medium/994/Rotting_Oranges.ipynb">994. Rotting Oranges </a> (#Matrix, #Array, #BFS) 
   * -[x] (完成日期: 2022/07/27) <a href="Medium/1007/Minimum_Domino_Rotations_For_Equal_Row.ipynb">1007. Minimum Domino Rotations For Equal Row </a>  
   * -[x] (完成日期: 2022/09/16) <a href="Medium/1019/Next_Greater_Node_In_Linked_List.ipynb">1019. Next Greater Node In Linked List </a>  (#Array, #Stack, #LinkedList, #MonotonicStack )
+  * -[x] (完成日期: 2022/12/09) <a href="Medium/1026/Maximum_Difference_Between_Node_and_Ancestor.ipynb">1026. Maximum Difference Between Node and Ancestor </a>  (#BinaryTree)
   * -[x] (完成日期: 2022/06/29) <a href="Medium/1054/Distant_Barcodes.ipynb">1054. Distant Barcodes </a>  
   * -[x] (完成日期: 2022/09/22) <a href="Medium/1110/Delete_Nodes_And_Return_Forest.ipynb">1110. Delete Nodes And Return Forest </a> (#BinaryTree, #DFS)
   * -[x] (完成日期: 2021/02/08) <a href="Medium/1138/Alphabet_Board_Path.ipynb">1138. Alphabet Board Path </a>
