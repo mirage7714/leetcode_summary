@@ -389,6 +389,7 @@
   * -[x] (完成日期: 2022/11/27) <a href="Easy/2481/Minimum_Cuts_to_Divide_a_Circle.ipynb">2481. Minimum Cuts to Divide a Circle </a> (#Math )
   * -[x] (完成日期: 2022/12/04) <a href="Easy/2490/Circular_Sentence.ipynb">2490. Circular Sentence </a> (#String )
   * -[x] (完成日期: 2022/12/11) <a href="Easy/2496/Maximum_Value_of_a_String_in_an_Array.ipynb">2496. Maximum Value of a String in an Array </a> (#Array )
+  * -[x] (完成日期: 2022/12/11) <a href="Easy/2500/Delete_Greatest_Value_in_Each_Row.ipynb">2500. Delete Greatest Value in Each Row </a> (#Array )
  
 * Medium:  
   * -[x] (完成日期: 2022/04/19) <a href="Medium/2/Add_Two_Numbers.ipynb">2. Add Two Numbers </a>
