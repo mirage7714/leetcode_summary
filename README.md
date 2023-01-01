@@ -392,6 +392,7 @@
   * -[x] (完成日期: 2022/12/11) <a href="Easy/2500/Delete_Greatest_Value_in_Each_Row.ipynb">2500. Delete Greatest Value in Each Row </a> (#Array )
   * -[x] (完成日期: 2022/12/18) <a href="Easy/2506/Count_Pairs_Of_Similar_Strings.ipynb">2506. Count Pairs Of Similar Strings </a> (#HashMap, #String )
   * -[x] (完成日期: 2022/12/25) <a href="Easy/2511/Maximum_Enemy_Forts_That_Can_Be_Captured.ipynb">2511. Maximum Enemy Forts That Can Be Captured </a> (#Array )
+  * -[x] (完成日期: 2023/01/01) <a href="Easy/2520/Count_the_Digits_That_Divide_a_Number.ipynb">2520. Count the Digits That Divide a Number </a> (#String )
  
 * Medium:  
   * -[x] (完成日期: 2022/04/19) <a href="Medium/2/Add_Two_Numbers.ipynb">2. Add Two Numbers </a>
