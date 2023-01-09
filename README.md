@@ -394,6 +394,7 @@
   * -[x] (完成日期: 2022/12/25) <a href="Easy/2511/Maximum_Enemy_Forts_That_Can_Be_Captured.ipynb">2511. Maximum Enemy Forts That Can Be Captured </a> (#Array )
   * -[x] (完成日期: 2023/01/02) <a href="Easy/2515/Shortest_Distance_to_Target_String_in_a_Circular_Array.ipynb">2515. Shortest Distance to Target String in a Circular Array </a> (#Array )
   * -[x] (完成日期: 2023/01/01) <a href="Easy/2520/Count_the_Digits_That_Divide_a_Number.ipynb">2520. Count the Digits That Divide a Number </a> (#String )
+  * -[x] (完成日期: 2023/01/09) <a href="Easy/2525/Categorize_Box_According_to_Criteria.ipynb">2525. Categorize Box According to Criteria </a> (#Math )
  
 * Medium:  
   * -[x] (完成日期: 2022/04/19) <a href="Medium/2/Add_Two_Numbers.ipynb">2. Add Two Numbers </a>
