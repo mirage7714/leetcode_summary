@@ -387,6 +387,7 @@
   * -[x] (完成日期: 2022/11/13) <a href="Easy/2465/Number_of_Distinct_Averages.ipynb">2465. Number of Distinct Averages </a> (#Array, #Math )
   * -[x] (完成日期: 2022/11/13) <a href="Easy/2469/Convert_the_Temperature.ipynb">2469. Convert the Temperature </a> (#Math )
   * -[x] (完成日期: 2022/11/27) <a href="Easy/2481/Minimum_Cuts_to_Divide_a_Circle.ipynb">2481. Minimum Cuts to Divide a Circle </a> (#Math )
+  * -[x] (完成日期: 2023/01/17) <a href="Easy/2485/Find_the_Pivot_Integer.ipynb">2485. Find the Pivot Integer </a> (#TwoPointer, #Math )
   * -[x] (完成日期: 2022/12/04) <a href="Easy/2490/Circular_Sentence.ipynb">2490. Circular Sentence </a> (#String )
   * -[x] (完成日期: 2022/12/11) <a href="Easy/2496/Maximum_Value_of_a_String_in_an_Array.ipynb">2496. Maximum Value of a String in an Array </a> (#Array )
   * -[x] (完成日期: 2022/12/11) <a href="Easy/2500/Delete_Greatest_Value_in_Each_Row.ipynb">2500. Delete Greatest Value in Each Row </a> (#Array )
