@@ -747,6 +747,7 @@
   * -[x] (完成日期: 2022/11/30) <a href="Medium/2486/Append_Characters_to_String_to_Make_Subsequence.ipynb">2486. Append Characters to String to Make Subsequence </a> (#String )
   * -[x] (完成日期: 2023/01/16) <a href="Medium/2487/Remove_Nodes_From_Linked_List.ipynb">2487. Remove Nodes From Linked List </a> (#LinkedList )
   * -[x] (完成日期: 2022/12/04) <a href="Medium/2491/Divide_Players_Into_Teams_of_Equal_Skill.ipynb">2491. Divide Players Into Teams of Equal Skill </a> (#Array )
+  * -[x] (完成日期: 2023/01/18) <a href="Medium/2530/Maximal_Score_After_Applying_K_Operations.ipynb">2530. Maximal Score After Applying K Operations </a> (#Array, #Heap )
 
 * Hard:
   * -[x] (完成日期: 2021/01/09) <a href="Hard/4/Median_of_Two_Sorted_Arrays.ipynb">4. Median of Two Sorted Arrays </a>
