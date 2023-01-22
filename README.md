@@ -399,6 +399,7 @@
   * -[x] (完成日期: 2023/01/09) <a href="Easy/2529/Maximum_Count_of_Positive_Integer_and_Negative_Integer.ipynb">2529. Maximum Count of Positive Integer and Negative Integer </a> (#Array )
   * -[x] (完成日期: 2023/01/15) <a href="Easy/2535/Difference_Between_Element_Sum_and_Digit_Sum_of_an_Array.ipynb">2535. Difference Between Element Sum and Digit Sum of an Array </a> (#Array )
   * -[x] (完成日期: 2023/01/22) <a href="Easy/2540/Minimum_Common_Value.ipynb">2540. Minimum Common Value </a> (#Array )
+  * -[x] (完成日期: 2023/01/22) <a href="Easy/2544/Alternating_Digit_Sum.ipynb">2544. Alternating Digit Sum </a> (#Array )
  
 * Medium:  
   * -[x] (完成日期: 2022/04/19) <a href="Medium/2/Add_Two_Numbers.ipynb">2. Add Two Numbers </a>
