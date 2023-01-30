@@ -400,6 +400,7 @@
   * -[x] (完成日期: 2023/01/15) <a href="Easy/2535/Difference_Between_Element_Sum_and_Digit_Sum_of_an_Array.ipynb">2535. Difference Between Element Sum and Digit Sum of an Array </a> (#Array )
   * -[x] (完成日期: 2023/01/22) <a href="Easy/2540/Minimum_Common_Value.ipynb">2540. Minimum Common Value </a> (#Array )
   * -[x] (完成日期: 2023/01/22) <a href="Easy/2544/Alternating_Digit_Sum.ipynb">2544. Alternating Digit Sum </a> (#Array )
+  * -[x] (完成日期: 2023/01/30) <a href="Easy/2549/Count_Distinct_Numbers_on_Board.ipynb">2549. Count Distinct Numbers on Board </a> (#Math )
  
 * Medium:  
   * -[x] (完成日期: 2022/04/19) <a href="Medium/2/Add_Two_Numbers.ipynb">2. Add Two Numbers </a>
