@@ -738,6 +738,7 @@
   * -[x] (完成日期: 2022/09/18) <a href="Medium/2414/Length_of_the_Longest_Alphabetical_Continuous_Substring.ipynb">2414. Length of the Longest Alphabetical Continuous Substring </a> (#String, #Stack )
   * -[x] (完成日期: 2022/09/18) <a href="Medium/2415/Reverse_Odd_Levels_of_Binary_Tree.ipynb">2415. Reverse Odd Levels of Binary Tree </a> (#BinaryTree, #BFS ) 
   * -[x] (完成日期: 2022/09/25) <a href="Medium/2419/Longest_Subarray_With_Maximum_Bitwise_AND.ipynb">2419. Longest Subarray With Maximum Bitwise AND </a> (#Array )
+  * -[x] (完成日期: 2023/02/02) <a href="Medium/2424/Longest_Uploaded_Prefix.ipynb">2424. Longest Uploaded Prefix </a> (#Array, #Heap )
   * -[x] (完成日期: 2022/10/03) <a href="Medium/2425/Bitwise_XOR_of_All_Pairings.ipynb">2425. Bitwise XOR of All Pairings </a> (#Array, #BitManipulation )
   * -[x] (完成日期: 2022/10/02) <a href="Medium/2428/Maximum_Sum_of_an_Hourglass.ipynb">2428. Maximum Sum of an Hourglass </a> (#Array, #Matrix )
   * -[x] (完成日期: 2022/10/03) <a href="Medium/2429/Minimize_XOR.ipynb">2429. Minimize XOR </a> (#BitManipulation )
