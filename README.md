@@ -401,6 +401,7 @@
   * -[x] (完成日期: 2023/01/22) <a href="Easy/2540/Minimum_Common_Value.ipynb">2540. Minimum Common Value </a> (#Array )
   * -[x] (完成日期: 2023/01/22) <a href="Easy/2544/Alternating_Digit_Sum.ipynb">2544. Alternating Digit Sum </a> (#Array )
   * -[x] (完成日期: 2023/01/30) <a href="Easy/2549/Count_Distinct_Numbers_on_Board.ipynb">2549. Count Distinct Numbers on Board </a> (#Math )
+  * -[x] (完成日期: 2023/02/05) <a href="Easy/2553/Separate_the_Digits_in_an_Array.ipynb">2553. Separate the Digits in an Array </a> (#Array )
  
 * Medium:  
   * -[x] (完成日期: 2022/04/19) <a href="Medium/2/Add_Two_Numbers.ipynb">2. Add Two Numbers </a>
