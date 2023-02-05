@@ -755,6 +755,7 @@
   * -[x] (完成日期: 2022/12/04) <a href="Medium/2491/Divide_Players_Into_Teams_of_Equal_Skill.ipynb">2491. Divide Players Into Teams of Equal Skill </a> (#Array )
   * -[x] (完成日期: 2023/01/18) <a href="Medium/2530/Maximal_Score_After_Applying_K_Operations.ipynb">2530. Maximal Score After Applying K Operations </a> (#Array, #Heap )
   * -[x] (完成日期: 2023/01/22) <a href="Medium/2545/Sort_the_Students_by_Their_Kth_Score.ipynb">2545. Sort the Students by Their Kth Score </a> (#Array, #Heap )
+  * -[x] (完成日期: 2023/02/05) <a href="Medium/2554/Maximum_Number_of_Integers_to_Choose_From_a_Range_I.ipynb">2554. Maximum Number of Integers to Choose From a Range I </a> (#Array, #Heap )
 
 * Hard:
   * -[x] (完成日期: 2021/01/09) <a href="Hard/4/Median_of_Two_Sorted_Arrays.ipynb">4. Median of Two Sorted Arrays </a>
