@@ -568,6 +568,7 @@
   * -[x] (完成日期: 2021/01/20) <a href="Medium/869/Reordered_Power_of_2.ipynb">869. Reordered Power of 2 </a>
   * -[x] (完成日期: 2022/06/07) <a href="Medium/881/Boats_to_Save_People.ipynb">881. Boats to Save People </a>
   * -[x] (完成日期: 2021/01/20) <a href="Medium/890/Find_and_Replace_Pattern.ipynb">890. Find and Replace Pattern </a>
+  * -[x] (完成日期: 2023/02/07) <a href="Medium/904/Fruit_Into_Baskets.ipynb">904. Fruit Into Baskets </a> (#Array, #SlidingWindow ) 
   * -[x] (完成日期: 2022/09/13) <a href="Medium/911/Online_Election.ipynb">911. Online Election </a> (#BinarySearch #HashMap, #Array )
   * -[x] (完成日期: 2022/08/30) <a href="Medium/912/Sort_an_Array.ipynb">912. Sort an Array </a> (#MergeSort #HeapSort )
   * -[x] (完成日期: 2022/08/09) <a href="Medium/916/Word_Subsets.ipynb">916. Word Subsets </a>
