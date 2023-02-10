@@ -753,6 +753,7 @@
   * -[x] (完成日期: 2022/10/30) <a href="Medium/2453/Destroy_Sequential_Targets.ipynb">2453. Destroy Sequential Targets </a> (#Array )
   * -[x] (完成日期: 2022/10/30) <a href="Medium/2456/Most_Popular_Video_Creator.ipynb">2456. Most Popular Video Creator </a> (#Array )
   * -[x] (完成日期: 2023/01/30) <a href="Medium/2457/Minimum_Addition_to_Make_Integer_Beautiful.ipynb">2457. Minimum Addition to Make Integer Beautiful </a> (#Math, #Greedy)
+  * -[x] (完成日期: 2023/02/10) <a href="Medium/2482/Difference_Between_Ones_and_Zeros_in_Row_and_Column.ipynb">2482. Difference Between Ones and Zeros in Row and Column </a> (#Array, #Matrix )
   * -[x] (完成日期: 2022/11/30) <a href="Medium/2486/Append_Characters_to_String_to_Make_Subsequence.ipynb">2486. Append Characters to String to Make Subsequence </a> (#String )
   * -[x] (完成日期: 2023/01/16) <a href="Medium/2487/Remove_Nodes_From_Linked_List.ipynb">2487. Remove Nodes From Linked List </a> (#LinkedList )
   * -[x] (完成日期: 2022/12/04) <a href="Medium/2491/Divide_Players_Into_Teams_of_Equal_Skill.ipynb">2491. Divide Players Into Teams of Equal Skill </a> (#Array )
