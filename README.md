@@ -605,6 +605,7 @@
   * -[x] (完成日期: 2021/01/09) <a href="Medium/1347/Minimum_Number_of_Steps_to_Make_Two_Strings_Anagram.ipynb">1347. Minimum Number of Steps to Make Two Strings Anagram </a>
   * -[x] (完成日期: 2022/07/04) <a href="Medium/1348/Tweet_Counts_Per_Frequency.ipynb">1348. Tweet Counts Per Frequency </a>
   * -[x] (完成日期: 2021/03/16) <a href="Medium/1357/Apply_Discount_Every_n_Orders.ipynb">1357. Apply Discount Every n Orders </a>
+  * -[x] (完成日期: 2023/02/15) <a href="Medium/1362/Closest_Divisors.ipynb">1362. Closest Divisors </a> (#Math)
   * -[x] (完成日期: 2020/11/10) <a href="Medium/1366/Rank_Teams_by_Votes.ipynb">1366. Rank Teams by Votes </a>
   * -[x] (完成日期: 2022/09/21) <a href="Medium/1367/Linked_List_in_Binary_Tree.ipynb">1367. Linked List in Binary Tree </a> (#BinaryTree, #LinkedList)
   * -[x] (完成日期: 2021/02/08) <a href="Medium/1381/Design_a_Stack_With_Increment_Operation.ipynb">1381. Design a Stack With Increment Operation </a>
