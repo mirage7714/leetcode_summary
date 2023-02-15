@@ -591,7 +591,9 @@
   * -[x] (完成日期: 2022/06/29) <a href="Medium/1054/Distant_Barcodes.ipynb">1054. Distant Barcodes </a>  
   * -[x] (完成日期: 2022/09/22) <a href="Medium/1110/Delete_Nodes_And_Return_Forest.ipynb">1110. Delete Nodes And Return Forest </a> (#BinaryTree, #DFS)
   * -[x] (完成日期: 2021/02/08) <a href="Medium/1138/Alphabet_Board_Path.ipynb">1138. Alphabet Board Path </a>
+  * -[x] (完成日期: 2023/02/15) <a href="Medium/1146/Snapshot_Array.ipynb">1146. Snapshot Array </a>  (#HashMap, #Array)
   * -[x] (完成日期: 2022/09/22) <a href="Medium/1161/Maximum_Level_Sum_of_a_Binary_Tree.ipynb">1161. Maximum Level Sum of a Binary Tree </a>  (#BinaryTree, #BFS)
+
   * -[x] (完成日期: 2022/09/05) <a href="Medium/1253/Reconstruct_a_2-Row_Binary_Matrix.ipynb">1253. Reconstruct a 2-Row Binary Matrix </a> (#Array, #Greedy, #2D-list )
   * -[x] (完成日期: 2022/09/24) <a href="Medium/1261/Find_Elements_in_a_Contaminated_Binary_Tree.ipynb">1261. Find Elements in a Contaminated Binary Tree </a> (#BFS, #BinaryTree )
   * -[x] (完成日期: 2022/09/05) <a href="Medium/1262/Greatest_Sum_Divisible_by_Three.ipynb">1262. Greatest Sum Divisible by Three </a> (#Array, #Greedy, #HashMap )
