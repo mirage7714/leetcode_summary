@@ -608,6 +608,7 @@
   * -[x] (完成日期: 2020/11/10) <a href="Medium/1366/Rank_Teams_by_Votes.ipynb">1366. Rank Teams by Votes </a>
   * -[x] (完成日期: 2022/09/21) <a href="Medium/1367/Linked_List_in_Binary_Tree.ipynb">1367. Linked List in Binary Tree </a> (#BinaryTree, #LinkedList)
   * -[x] (完成日期: 2021/02/08) <a href="Medium/1381/Design_a_Stack_With_Increment_Operation.ipynb">1381. Design a Stack With Increment Operation </a>
+  * -[x] (完成日期: 2023/02/15) <a href="Medium/1387/Sort_Integers_by_The_Power_Value.ipynb">1387. Sort Integers by The Power Value </a> (#Array, #Heap)
   * -[x] (完成日期: 2020/12/10) <a href="Medium/1395/Count_Number_of_Teams.ipynb">1395. Count Number of Teams </a>
   * -[x] (完成日期: 2021/06/30) <a href="Medium/1396/Design_Underground_System.ipynb">1396. Design Underground System </a>
   * -[x] (完成日期: 2022/09/20) <a href="Medium/1405/Longest_Happy_String.ipynb">1405. Longest Happy String </a> (#Array, #String, #Heap)
