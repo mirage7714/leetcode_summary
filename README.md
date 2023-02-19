@@ -406,6 +406,7 @@
   * -[x] (完成日期: 2023/02/05) <a href="Easy/2553/Separate_the_Digits_in_an_Array.ipynb">2553. Separate the Digits in an Array </a> (#Array )
   * -[x] (完成日期: 2023/02/05) <a href="Easy/2558/Take_Gifts_From_the_Richest_Pile.ipynb">2558. Take Gifts From the Richest Pile </a> (#Array, #Heap )
   * -[x] (完成日期: 2023/02/12) <a href="Easy/2558/Find_the_Array_Concatenation_Value.ipynb">2562. Find the Array Concatenation Value </a> (#Array )
+  * -[x] (完成日期: 2023/02/19) <a href="Easy/2566/Maximum_Difference_by_Remapping_a_Digit.ipynb">2566. Maximum Difference by Remapping a Digit </a> (#Math )
  
 * Medium:  
   * -[x] (完成日期: 2022/04/19) <a href="Medium/2/Add_Two_Numbers.ipynb">2. Add Two Numbers </a>
