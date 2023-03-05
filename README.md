@@ -776,6 +776,7 @@
   * -[x] (完成日期: 2023/01/22) <a href="Medium/2545/Sort_the_Students_by_Their_Kth_Score.ipynb">2545. Sort the Students by Their Kth Score </a> (#Array, #Heap )
   * -[x] (完成日期: 2023/02/05) <a href="Medium/2554/Maximum_Number_of_Integers_to_Choose_From_a_Range_I.ipynb">2554. Maximum Number of Integers to Choose From a Range I </a> (#Array, #Heap )
   * -[x] (完成日期: 2023/02/19) <a href="Medium/2567/Minimum_Score_by_Changing_Two_Elements.ipynb">2567. Minimum Score by Changing Two Elements </a> (#Array )
+  * -[x] (完成日期: 2023/03/05) <a href="Medium/2579/Count_Total_Number_of_Colored_Cells.ipynb">2579. Count Total Number of Colored Cells </a> (#Math )
 
 * Hard:
   * -[x] (完成日期: 2021/01/09) <a href="Hard/4/Median_of_Two_Sorted_Arrays.ipynb">4. Median of Two Sorted Arrays </a>
