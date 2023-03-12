@@ -411,6 +411,7 @@
   * -[x] (完成日期: 2023/02/26) <a href="Easy/2574/Left_and_Right_Sum_Differences.ipynb">2574. Left and Right Sum Differences </a> (#Array, #Math )
   * -[x] (完成日期: 2023/03/05) <a href="Easy/2578/Split_With_Minimum_Sum.ipynb">2578. Split With Minimum Sum </a> (#Math )
   * -[x] (完成日期: 2023/03/08) <a href="Easy/2582/Pass_the_Pillow.ipynb">2582. Pass the Pillow </a> (#Math )
+  * -[x] (完成日期: 2023/03/12) <a href="Easy/2586/Count_the_Number_of_Vowel_Strings_in_Range.ipynb">2586. Count the Number of Vowel Strings in Range </a> (#Array, #String )
  
 * Medium:  
   * -[x] (完成日期: 2022/04/19) <a href="Medium/2/Add_Two_Numbers.ipynb">2. Add Two Numbers </a>
