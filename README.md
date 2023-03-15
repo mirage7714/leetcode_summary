@@ -588,6 +588,7 @@
   * -[x] (完成日期: 2021/07/22) <a href="Medium/948/Bag_of_Tokens.ipynb">948. Bag of Tokens </a>  
   * -[x] (完成日期: 2020/10/29) <a href="Medium/949/Largest_Time_for_Given_Digits.ipynb">949. Largest Time for Given Digits </a> 
   * -[x] (完成日期: 2020/11/11) <a href="Medium/954/Array_of_Doubled_Pairs.ipynb">954. Array of Doubled Pairs </a>
+  * -[x] (完成日期: 2023/03/15) <a href="Medium/958/Check_Completeness_of_a_Binary_Tree.ipynb">958. Check Completeness of a Binary Tree </a> (#BinaryTree, #BFS )
   * -[x] (完成日期: 2022/09/03) <a href="Medium/967/Numbers_With_Same_Consecutive_Differences.ipynb">967. Numbers With Same Consecutive Differences </a> (#BFS )
   * -[x] (完成日期: 2021/01/16) <a href="Medium/973/K_Closest_Points_to_Origin.ipynb">973. K Closest Points to Origin </a>
   * -[x] (完成日期: 2022/07/23) <a href="Medium/981/Time_Based_Key-Value_Store.ipynb">981. Time Based Key-Value Store </a>  
