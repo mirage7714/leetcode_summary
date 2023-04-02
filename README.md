@@ -414,6 +414,7 @@
   * -[x] (完成日期: 2023/03/12) <a href="Easy/2586/Count_the_Number_of_Vowel_Strings_in_Range.ipynb">2586. Count the Number of Vowel Strings in Range </a> (#Array, #String )
   * -[x] (完成日期: 2023/03/19) <a href="Easy/2595/Number_of_Even_and_Odd_Bits.ipynb">2595. Number of Even and Odd Bits </a> (#String )
   * -[x] (完成日期: 2023/03/26) <a href="Easy/2600/K_Items_With_the_Maximum_Sum.ipynb">2600. K Items With the Maximum Sum </a> (#Math )
+  * -[x] (完成日期: 2023/04/02) <a href="Easy/2605/Form_Smallest_Number_From_Two_Digit_Arrays.ipynb">2605. Form Smallest Number From Two Digit Arrays </a> (#Array )
   
 * Medium:  
   * -[x] (完成日期: 2022/04/19) <a href="Medium/2/Add_Two_Numbers.ipynb">2. Add Two Numbers </a>
