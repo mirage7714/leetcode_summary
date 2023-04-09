@@ -416,6 +416,7 @@
   * -[x] (完成日期: 2023/03/26) <a href="Easy/2600/K_Items_With_the_Maximum_Sum.ipynb">2600. K Items With the Maximum Sum </a> (#Math )
   * -[x] (完成日期: 2023/04/02) <a href="Easy/2605/Form_Smallest_Number_From_Two_Digit_Arrays.ipynb">2605. Form Smallest Number From Two Digit Arrays </a> (#Array )
   * -[x] (完成日期: 2023/04/02) <a href="Easy/2609/Find_the_Longest_Balanced_Substring_of_a_Binary_String.ipynb">2609. Find the Longest Balanced Substring of a Binary String </a> (#String )
+  * -[x] (完成日期: 2023/04/09) <a href="Easy/2609/Prime_In_Diagonal.ipynb">2614. Prime In Diagonal </a> (#Array )
   
 * Medium:  
   * -[x] (完成日期: 2022/04/19) <a href="Medium/2/Add_Two_Numbers.ipynb">2. Add Two Numbers </a>
