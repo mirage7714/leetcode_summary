@@ -792,6 +792,7 @@
   * -[x] (完成日期: 2023/04/03) <a href="Medium/2593/Find_Score_of_an_Array_After_Marking_All_Elements.ipynb">2593. Find Score of an Array After Marking All Elements </a> (#Array, #Heap )
   * -[x] (完成日期: 2023/04/03) <a href="Medium/2610/Convert_an_Array_Into_a_2D_Array_With_Conditions.ipynb">2610. Convert an Array Into a 2D Array With Conditions </a> (#Array )
   * -[x] (完成日期: 2023/04/16) <a href="Medium/2640/Find_the_Score_of_All_Prefixes_of_an_Array.ipynb">2640. Find the Score of All Prefixes of an Array </a> (#Array )
+  * -[x] (完成日期: 2023/04/16) <a href="Medium/2640/Minimum_Additions_to_Make_Valid_String.ipynb">2645. Minimum Additions to Make Valid String </a> (#String )
 
 * Hard:
   * -[x] (完成日期: 2021/01/09) <a href="Hard/4/Median_of_Two_Sorted_Arrays.ipynb">4. Median of Two Sorted Arrays </a>
