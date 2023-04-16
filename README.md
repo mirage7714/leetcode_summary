@@ -417,6 +417,7 @@
   * -[x] (完成日期: 2023/04/02) <a href="Easy/2605/Form_Smallest_Number_From_Two_Digit_Arrays.ipynb">2605. Form Smallest Number From Two Digit Arrays </a> (#Array )
   * -[x] (完成日期: 2023/04/02) <a href="Easy/2609/Find_the_Longest_Balanced_Substring_of_a_Binary_String.ipynb">2609. Find the Longest Balanced Substring of a Binary String </a> (#String )
   * -[x] (完成日期: 2023/04/09) <a href="Easy/2609/Prime_In_Diagonal.ipynb">2614. Prime In Diagonal </a> (#Array )
+  * -[x] (完成日期: 2023/04/16) <a href="Easy/2639/Find the_Width_of_Columns_of_a_Grid.ipynb">2639. Find the Width of Columns of a Grid </a> (#Array )
   
 * Medium:  
   * -[x] (完成日期: 2022/04/19) <a href="Medium/2/Add_Two_Numbers.ipynb">2. Add Two Numbers </a>
