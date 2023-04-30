@@ -423,6 +423,7 @@
   * -[x] (完成日期: 2023/04/25) <a href="Easy/2651/Calculate_Delayed_Arrival_Time.ipynb">2651. Calculate Delayed Arrival Time </a> (#Math )
   * -[x] (完成日期: 2023/04/25) <a href="Easy/2652/Sum_Multiples.ipynb">2652. Sum Multiples </a> (#Math )
   * -[x] (完成日期: 2023/04/30) <a href="Easy/2656/Maximum_Sum_With_Exactly_K_Elements.ipynb">2656. Maximum Sum With Exactly K Elements </a> (#Array, #Math )
+  * -[x] (完成日期: 2023/04/30) <a href="Easy/2660/Determine_the_Winner_of_a_Bowling_Game.ipynb">2660. Determine the Winner of a Bowling Game </a> (#Array )
   
 * Medium:  
   * -[x] (完成日期: 2022/04/19) <a href="Medium/2/Add_Two_Numbers.ipynb">2. Add Two Numbers </a>
