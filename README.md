@@ -799,6 +799,7 @@
   * -[x] (完成日期: 2023/04/16) <a href="Medium/2640/Find_the_Score_of_All_Prefixes_of_an_Array.ipynb">2640. Find the Score of All Prefixes of an Array </a> (#Array )
   * -[x] (完成日期: 2023/04/16) <a href="Medium/2640/Minimum_Additions_to_Make_Valid_String.ipynb">2645. Minimum Additions to Make Valid String </a> (#String )
   * -[x] (完成日期: 2023/04/30) <a href="Medium/2658/Maximum_Number_of_Fish_in_a_Grid.ipynb">2658. Maximum Number of Fish in a Grid </a> (#Array, #DFS )
+  * -[x] (完成日期: 2023/05/01) <a href="Medium/2661/First_Completely_Painted_Row_or_Column.ipynb">2661. First Completely Painted Row or Column </a> (#Array, #HashMap )
 
 * Hard:
   * -[x] (完成日期: 2021/01/09) <a href="Hard/4/Median_of_Two_Sorted_Arrays.ipynb">4. Median of Two Sorted Arrays </a>
