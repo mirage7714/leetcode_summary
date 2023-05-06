@@ -723,6 +723,7 @@
   * -[x] (完成日期: 2022/01/24) <a href="Medium/2149/Rearrange_Array_Elements_by_Sign.ipynb">2149. Rearrange Array Elements by Sign </a>
   * -[x] (完成日期: 2022/01/24) <a href="Medium/2150/Find_All_Lonely_Numbers_in_the_Array.ipynb">2150. Find All Lonely Numbers in the Array </a>
   * -[x] (完成日期: 2022/02/06) <a href="Medium/2161/Partition_Array_According_to_Given_Pivot.ipynb">2161. Partition Array According to Given Pivot </a>
+  * -[x] (完成日期: 2023/05/06) <a href="Medium/2162/Minimum_Cost_to_Set_Cooking_Time.ipynb">2162. Minimum Cost to Set Cooking Time </a> (#Math)
   * -[x] (完成日期: 2022/02/07) <a href="Medium/2165/Smallest_Value_of_the_Rearranged_Number.ipynb">2165. Smallest Value of the Rearranged Number </a>
   * -[x] (完成日期: 2022/08/18) <a href="Medium/2166/Design_Bitset.ipynb">2166. Design Bitset </a>
   * -[x] (完成日期: 2022/02/21) <a href="Medium/2177/Find_Three_Consecutive_Integers_That_Sum_to_a_Given_Number.ipynb">2177. Find Three Consecutive Integers That Sum to a Given Number </a>
