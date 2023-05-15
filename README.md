@@ -426,6 +426,7 @@
   * -[x] (完成日期: 2023/04/30) <a href="Easy/2656/Maximum_Sum_With_Exactly_K_Elements.ipynb">2656. Maximum Sum With Exactly K Elements </a> (#Array, #Math )
   * -[x] (完成日期: 2023/04/30) <a href="Easy/2660/Determine_the_Winner_of_a_Bowling_Game.ipynb">2660. Determine the Winner of a Bowling Game </a> (#Array )
   * -[x] (完成日期: 2023/05/07) <a href="Easy/2670/Find_the_Distinct_Difference_Array.ipynb">2670. Find the Distinct Difference Array </a> (#Array )
+  * -[x] (完成日期: 2023/05/15) <a href="Easy/2678/Number_of_Senior_Citizens.ipynb">2678. Number of Senior Citizens </a> (#Array )
   
 * Medium:  
   * -[x] (完成日期: 2022/04/19) <a href="Medium/2/Add_Two_Numbers.ipynb">2. Add Two Numbers </a>
