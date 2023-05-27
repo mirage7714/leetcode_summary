@@ -427,8 +427,9 @@
   * -[x] (完成日期: 2023/04/30) <a href="Easy/2660/Determine_the_Winner_of_a_Bowling_Game.ipynb">2660. Determine the Winner of a Bowling Game </a> (#Array )
   * -[x] (完成日期: 2023/05/07) <a href="Easy/2670/Find_the_Distinct_Difference_Array.ipynb">2670. Find the Distinct Difference Array </a> (#Array )
   * -[x] (完成日期: 2023/05/15) <a href="Easy/2678/Number_of_Senior_Citizens.ipynb">2678. Number of Senior Citizens </a> (#Array )
-  * -[x] (完成日期: 2023/05/21) <a href="Easy/2678/Minimum_String_Length_After_Removing_Substrings.ipynb">2696. Minimum String Length After Removing Substrings </a> (#String )
-  
+  * -[x] (完成日期: 2023/05/21) <a href="Easy/2696/Minimum_String_Length_After_Removing_Substrings.ipynb">2696. Minimum String Length After Removing Substrings </a> (#String )  
+  * -[x] (完成日期: 2023/05/27) <a href="Easy/2697/Lexicographically_Smallest_Palindrome.ipynb">2697. Lexicographically Smallest Palindrome </a> (#String )
+
 * Medium:  
   * -[x] (完成日期: 2022/04/19) <a href="Medium/2/Add_Two_Numbers.ipynb">2. Add Two Numbers </a>
   * -[x] (完成日期: 2022/04/01) <a href="Medium/3/Longest_Substring_Without_Repeating_Characters.ipynb">3. Longest Substring Without Repeating Characters </a>
