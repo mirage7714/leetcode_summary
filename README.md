@@ -429,6 +429,7 @@
   * -[x] (完成日期: 2023/05/15) <a href="Easy/2678/Number_of_Senior_Citizens.ipynb">2678. Number of Senior Citizens </a> (#Array )
   * -[x] (完成日期: 2023/05/21) <a href="Easy/2696/Minimum_String_Length_After_Removing_Substrings.ipynb">2696. Minimum String Length After Removing Substrings </a> (#String )  
   * -[x] (完成日期: 2023/05/27) <a href="Easy/2697/Lexicographically_Smallest_Palindrome.ipynb">2697. Lexicographically Smallest Palindrome </a> (#String )
+  * -[x] (完成日期: 2023/05/28) <a href="Easy/2697/Buy_Two_Chocolates.ipynb">2706. Buy Two Chocolates </a> (#Array )
 
 * Medium:  
   * -[x] (完成日期: 2022/04/19) <a href="Medium/2/Add_Two_Numbers.ipynb">2. Add Two Numbers </a>
