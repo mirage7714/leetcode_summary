@@ -431,6 +431,7 @@
   * -[x] (完成日期: 2023/05/27) <a href="Easy/2697/Lexicographically_Smallest_Palindrome.ipynb">2697. Lexicographically Smallest Palindrome </a> (#String )
   * -[x] (完成日期: 2023/05/28) <a href="Easy/2697/Buy_Two_Chocolates.ipynb">2706. Buy Two Chocolates </a> (#Array )
   * -[x] (完成日期: 2023/05/28) <a href="Easy/2710/Remove_Trailing_Zeros_From_a_String.ipynb">2710. Remove Trailing Zeros From a String </a> (#String )
+  * -[x] (完成日期: 2023/06/04) <a href="Easy/2717/Semi-Ordered_Permutation.ipynb">2717. Semi-Ordered Permutation </a> (#Array )
 
 * Medium:  
   * -[x] (完成日期: 2022/04/19) <a href="Medium/2/Add_Two_Numbers.ipynb">2. Add Two Numbers </a>
