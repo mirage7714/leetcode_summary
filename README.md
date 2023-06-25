@@ -436,6 +436,7 @@
   * -[x] (完成日期: 2023/06/11) <a href="Easy/2729/Check_if_The_Number_is_Fascinating.ipynb">2729. Check if The Number is Fascinating </a> (#String )
   * -[x] (完成日期: 2023/06/11) <a href="Easy/2733/Neither_Minimum_nor_Maximum.ipynb">2733. Neither Minimum nor Maximum </a> (#Array )  
   * -[x] (完成日期: 2023/06/20) <a href="Easy/2739/Total_Distance_Traveled.ipynb">2739. Total Distance Traveled </a> (#Math )  
+  * -[x] (完成日期: 2023/06/25) <a href="Easy/2744/Find_Maximum_Number_of_String_Pairs.ipynb">2744. Find Maximum Number of String Pairs </a> (#Array )  
 
 * Medium:  
   * -[x] (完成日期: 2022/04/19) <a href="Medium/2/Add_Two_Numbers.ipynb">2. Add Two Numbers </a>
