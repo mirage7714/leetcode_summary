@@ -810,6 +810,7 @@
   * -[x] (完成日期: 2023/01/22) <a href="Medium/2545/Sort_the_Students_by_Their_Kth_Score.ipynb">2545. Sort the Students by Their Kth Score </a> (#Array, #Heap )
   * -[x] (完成日期: 2023/02/05) <a href="Medium/2554/Maximum_Number_of_Integers_to_Choose_From_a_Range_I.ipynb">2554. Maximum Number of Integers to Choose From a Range I </a> (#Array, #Heap )
   * -[x] (完成日期: 2023/02/19) <a href="Medium/2567/Minimum_Score_by_Changing_Two_Elements.ipynb">2567. Minimum Score by Changing Two Elements </a> (#Array )
+  * -[x] (完成日期: 2023/07/03) <a href="Medium/2575/Find_the_Divisibility_Array_of_a_String.ipynb">2575. Find the Divisibility Array of a String </a> (#String )
   * -[x] (完成日期: 2023/03/05) <a href="Medium/2579/Count_Total_Number_of_Colored_Cells.ipynb">2579. Count Total Number of Colored Cells </a> (#Math )
   * -[x] (完成日期: 2023/03/05) <a href="Medium/2583/Kth_Largest_Sum_in_a_Binary_Tree.ipynb">2583. Kth Largest Sum in a Binary Tree </a> (#Heap, #BinaryTree )
   * -[x] (完成日期: 2023/04/03) <a href="Medium/2593/Find_Score_of_an_Array_After_Marking_All_Elements.ipynb">2593. Find Score of an Array After Marking All Elements </a> (#Array, #Heap )
