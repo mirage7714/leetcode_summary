@@ -775,6 +775,7 @@
   * -[x] (完成日期: 2022/07/26) <a href="Medium/2333/Minimum_Sum_of_Squared_Difference.ipynb">2333. Minimum Sum of Squared Difference </a>
   * -[x] (完成日期: 2022/07/10) <a href="Medium/2336/Smallest_Number_in_Infinite_Set.ipynb">2336. Smallest Number in Infinite Set </a>
   * -[x] (完成日期: 2022/07/17) <a href="Medium/2342/Max_Sum_of_a_Pair_With_Equal_Sum_of_Digits.ipynb">2342. Max Sum of a Pair With Equal Sum of Digits </a>
+  * -[x] (完成日期: 2023/07/07) <a href="Medium/2343/Query_Kth_Smallest_Trimmed_Number.ipynb">2343. Query Kth Smallest Trimmed Number </a>
   * -[x] (完成日期: 2022/07/24) <a href="Medium/2348/Number_of_Zero-Filled_Subarrays.ipynb">2348. Number of Zero-Filled Subarrays </a>
   * -[x] (完成日期: 2022/07/25) <a href="Medium/2352/Equal_Row_and_Column_Pairs.ipynb">2352. Equal Row and Column Pairs </a>
   * -[x] (完成日期: 2022/08/22) <a href="Medium/2368/Reachable_Nodes_With_Restrictions.ipynb">2368. Reachable Nodes With Restrictions </a>  
