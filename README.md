@@ -825,6 +825,7 @@
   * -[x] (完成日期: 2023/04/30) <a href="Medium/2658/Maximum_Number_of_Fish_in_a_Grid.ipynb">2658. Maximum Number of Fish in a Grid </a> (#Array, #DFS )
   * -[x] (完成日期: 2023/05/01) <a href="Medium/2661/First_Completely_Painted_Row_or_Column.ipynb">2661. First Completely Painted Row or Column </a> (#Array, #HashMap )
   * -[x] (完成日期: 2023/05/15) <a href="Medium/2679/Sum_in_a_Matrix.ipynb">2679. Sum in a Matrix </a> (#Array, #HashMap )
+  * -[x] (完成日期: 2023/07/10) <a href="Medium/2708/Maximum_Strength_of_a_Group.ipynb">2708. Maximum Strength of a Group </a> (#Array )
   * -[x] (完成日期: 2023/06/21) <a href="Medium/2740/Find_the_Value_of_the_Partition.ipynb">2740. Find the Value of the Partition </a> (#Array )
 
 * Hard:
