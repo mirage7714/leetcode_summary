@@ -827,6 +827,7 @@
   * -[x] (完成日期: 2023/05/15) <a href="Medium/2679/Sum_in_a_Matrix.ipynb">2679. Sum in a Matrix </a> (#Array, #HashMap )
   * -[x] (完成日期: 2023/07/10) <a href="Medium/2708/Maximum_Strength_of_a_Group.ipynb">2708. Maximum Strength of a Group </a> (#Array )
   * -[x] (完成日期: 2023/06/21) <a href="Medium/2740/Find_the_Value_of_the_Partition.ipynb">2740. Find the Value of the Partition </a> (#Array )
+  * -[x] (完成日期: 2023/07/14) <a href="Medium/2740/Relocate_Marbles.ipynb">2766. Relocate Marbles </a> (#Array )
 
 * Hard:
   * -[x] (完成日期: 2021/01/09) <a href="Hard/4/Median_of_Two_Sorted_Arrays.ipynb">4. Median of Two Sorted Arrays </a>
