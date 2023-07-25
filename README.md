@@ -443,6 +443,7 @@
   * -[x] (完成日期: 2023/07/10) <a href="Easy/2765/Longest_Alternating_Subarray.ipynb">2765. Longest Alternating Subarray </a> (#Array )  
   * -[x] (完成日期: 2023/07/10) <a href="Easy/2769/Find_the_Maximum_Achievable_Number.ipynb">2769. Find the Maximum Achievable Number </a> (#Math )  
   * -[x] (完成日期: 2023/07/16) <a href="Easy/2778/Sum_of_Squares_of_Special_Elements.ipynb">2778. Sum of Squares of Special Elements </a> (#Array )  
+  * -[x] (完成日期: 2023/07/25) <a href="Easy/2788/Split_Strings_by_Separator.ipynb">2788. Split Strings by Separator </a> (#Array, #String )  
 
 * Medium:  
   * -[x] (完成日期: 2022/04/19) <a href="Medium/2/Add_Two_Numbers.ipynb">2. Add Two Numbers </a>
