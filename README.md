@@ -717,6 +717,7 @@
   * -[x] (完成日期: 2021/07/10) <a href="Medium/1921/Eliminate_Maximum_Number_of_Monsters.ipynb">1921. Eliminate Maximum Number of Monsters </a>
   * -[x] (完成日期: 2022/07/29) <a href="Medium/1922/Count_Good_Numbers.ipynb">1922. Count Good Numbers </a>
   * -[x] (完成日期: 2022/09/06) <a href="Medium/1936/Add_Minimum_Number_of_Rungs.ipynb">1936. Add Minimum Number of Rungs </a> (#Greedy, #Array )
+  * -[x] (完成日期: 2023/07/29) <a href="Medium/1942/The_Number_of_the_Smallest_Unoccupied_Chair.ipynb">1942. The Number of the Smallest Unoccupied Chair </a> (#Heap, #Array )
   * -[x] (完成日期: 2022/08/08) <a href="Medium/1946/Largest_Number_After_Mutating_Substring.ipynb">1946. Largest Number After Mutating Substring </a>
   * -[x] (完成日期: 2022/06/07) <a href="Medium/1963/Minimum_Number_of_Swaps_to_Make_the_String_Balanced.ipynb">1963. Minimum Number of Swaps to Make the String Balanced </a>
   * -[x] (完成日期: 2022/08/29) <a href="Medium/1992/Find_All_Group_of_Farmland.ipynb">1992. Find All Groups of Farmland </a> (#DFS )
