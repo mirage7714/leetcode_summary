@@ -445,6 +445,7 @@
   * -[x] (完成日期: 2023/07/16) <a href="Easy/2778/Sum_of_Squares_of_Special_Elements.ipynb">2778. Sum of Squares of Special Elements </a> (#Array )  
   * -[x] (完成日期: 2023/07/26) <a href="Easy/2784/Check_if_Array_is_Good.ipynb">2784. Check if Array is Good </a> (#Array )  
   * -[x] (完成日期: 2023/07/25) <a href="Easy/2788/Split_Strings_by_Separator.ipynb">2788. Split Strings by Separator </a> (#Array, #String )  
+  * -[x] (完成日期: 2023/07/30) <a href="Easy/2798/Number_of_Employees_Who_Met_the_Target.ipynb">2798. Number of Employees Who Met the Target </a> (#Array )  
 
 * Medium:  
   * -[x] (完成日期: 2022/04/19) <a href="Medium/2/Add_Two_Numbers.ipynb">2. Add Two Numbers </a>
