@@ -835,6 +835,7 @@
   * -[x] (完成日期: 2023/07/14) <a href="Medium/2740/Relocate_Marbles.ipynb">2766. Relocate Marbles </a> (#Array )
   * -[x] (完成日期: 2023/07/25) <a href="Medium/2785/Sort_Vowels_in_a_String.ipynb">2785. Sort Vowels in a String </a> (#String )
   * -[x] (完成日期: 2023/07/26) <a href="Medium/2789/Largest_Element_in_an_Array_after_Merge_Operations.ipynb">2789. Largest Element in an Array after Merge Operations </a> (#Array )
+  * -[x] (完成日期: 2023/07/30) <a href="Medium/2799/Count_Complete_Subarrays_in_an_Array.ipynb">2799. Count Complete Subarrays in an Array </a> (#Array )
 
 * Hard:
   * -[x] (完成日期: 2021/01/09) <a href="Hard/4/Median_of_Two_Sorted_Arrays.ipynb">4. Median of Two Sorted Arrays </a>
