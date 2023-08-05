@@ -13,3 +13,4 @@
 
 * Statistics:  
   * -[x] (完成日期: 2023/08/05) <a href="2082/The_Number_of_Rich_Customers.ipynb">2082. The Number of Rich Customers </a> 
+  * -[x] (完成日期: 2023/08/05) <a href="1173/Immediate_Food_Delivery_I.ipynb">1173. Immediate Food Delivery I </a> 
