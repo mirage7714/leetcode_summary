@@ -8,6 +8,7 @@
 
 * String methods:
   * -[x] (完成日期: 2023/08/05) <a href="1527/Patients_With_a_Condition.ipynb">1527. Patients With a Condition </a> 
+  * -[x] (完成日期: 2023/08/06) <a href="1517/Find_Users_With_Valid_E-Mails.ipynb">1517. Find Users With Valid E-Mails </a> 
 
 * Data integration:  
   * -[x] (完成日期: 2023/08/05) <a href="1378/Replace_Employee_ID_With_The_Unique_Identifier.ipynb">1378. Replace Employee ID With The Unique Identifier </a> 
