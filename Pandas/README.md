@@ -21,6 +21,7 @@
 * Data manipulation:  
   * -[x] (完成日期: 2023/08/05) <a href="176/Second_Highest_Salary.ipynb">176. Second Highest Salary </a> 
   * -[x] (完成日期: 2023/08/05) <a href="177/Nth_Highest_Salary.ipynb">177. Nth Highest Salary </a> 
+  * -[x] (完成日期: 2023/08/06) <a href="184/Department_Highest_Salary.ipynb">184. Department Highest Salary </a> 
 
 * Data aggregation:  
   * -[x] (完成日期: 2023/08/05) <a href="1741/Find_Total_Time_Spent_by_Each_Employee.ipynb">1741. Find Total Time Spent by Each Employee </a> 
