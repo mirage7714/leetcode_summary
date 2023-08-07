@@ -30,4 +30,5 @@
 
 
 * Data aggregation:  
+  * -[x] (完成日期: 2023/08/07) <a href="596/Classes_More_Than_5_Students.ipynb">596. Classes More Than 5 Students </a> 
   * -[x] (完成日期: 2023/08/05) <a href="1741/Find_Total_Time_Spent_by_Each_Employee.ipynb">1741. Find Total Time Spent by Each Employee </a> 
