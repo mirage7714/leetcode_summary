@@ -12,6 +12,7 @@
 
 * Data integration:  
   * -[x] (完成日期: 2023/08/05) <a href="1378/Replace_Employee_ID_With_The_Unique_Identifier.ipynb">1378. Replace Employee ID With The Unique Identifier </a> 
+  * -[x] (完成日期: 2023/08/07) <a href="570/Managers_with_at_Least_5_Direct_Reports.ipynb">570. Managers with at Least 5 Direct Reports </a> 
 
 * Statistics:  
   * -[x] (完成日期: 2023/08/05) <a href="2082/The_Number_of_Rich_Customers.ipynb">2082. The Number of Rich Customers </a> 
