@@ -34,3 +34,4 @@
   * -[x] (完成日期: 2023/08/07) <a href="596/Classes_More_Than_5_Students.ipynb">596. Classes More Than 5 Students </a> 
   * -[x] (完成日期: 2023/08/07) <a href="1484/Group_Sold_Products_By_The_Date.ipynb">1484. Group Sold Products By The Date </a> 
   * -[x] (完成日期: 2023/08/05) <a href="1741/Find_Total_Time_Spent_by_Each_Employee.ipynb">1741. Find Total Time Spent by Each Employee </a> 
+  * -[x] (完成日期: 2023/08/08) <a href="2356/Number_of_Unique_Subjects_Taught_by_Each_Teacher.ipynb">2356. Number of Unique Subjects Taught by Each Teacher </a> 
