@@ -34,5 +34,6 @@
   * -[x] (完成日期: 2023/08/08) <a href="586/Customer_Placing_the_Largest_Number_of_Orders.ipynb">586. Customer Placing the Largest Number of Orders </a> 
   * -[x] (完成日期: 2023/08/07) <a href="596/Classes_More_Than_5_Students.ipynb">596. Classes More Than 5 Students </a> 
   * -[x] (完成日期: 2023/08/07) <a href="1484/Group_Sold_Products_By_The_Date.ipynb">1484. Group Sold Products By The Date </a> 
+  * -[x] (完成日期: 2023/08/08) <a href="1693/Daily_Leads_and_Partners.ipynb">1693. Daily Leads and Partners </a> 
   * -[x] (完成日期: 2023/08/05) <a href="1741/Find_Total_Time_Spent_by_Each_Employee.ipynb">1741. Find Total Time Spent by Each Employee </a> 
   * -[x] (完成日期: 2023/08/08) <a href="2356/Number_of_Unique_Subjects_Taught_by_Each_Teacher.ipynb">2356. Number of Unique Subjects Taught by Each Teacher </a> 
