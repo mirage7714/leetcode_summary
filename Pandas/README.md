@@ -14,6 +14,7 @@
   * -[x] (完成日期: 2023/08/07) <a href="570/Managers_with_at_Least_5_Direct_Reports.ipynb">570. Managers with at Least 5 Direct Reports </a> 
   * -[x] (完成日期: 2023/08/07) <a href="607/Sales_Person.ipynb">607. Sales Person </a> 
   * -[x] (完成日期: 2023/08/07) <a href="607/Actors_and_Directors_Who_Cooperated_At_Least_Three_Times.ipynb">1050. Actors and Directors Who Cooperated At Least Three Times </a> 
+  * -[x] (完成日期: 2023/08/09) <a href="1280/Students_and_Examinations.ipynb">1280. Students and Examinations </a> 
   * -[x] (完成日期: 2023/08/05) <a href="1378/Replace_Employee_ID_With_The_Unique_Identifier.ipynb">1378. Replace Employee ID With The Unique Identifier </a> 
   
 * Statistics:  
