@@ -10,7 +10,9 @@
 * String methods: (5/5)  
   * -[x] (完成日期: 2023/08/06) <a href="1517/Find_Users_With_Valid_E-Mails.ipynb">1517. Find Users With Valid E-Mails </a> 
   * -[x] (完成日期: 2023/08/05) <a href="1527/Patients_With_a_Condition.ipynb">1527. Patients With a Condition </a> 
+  * -[x] (完成日期: 2023/08/06) <a href="1667/Fix Names_in_a_Table.ipynb">1667. Fix Names in a Table </a> 
   * -[x] (完成日期: 2023/08/06) <a href="1683/Invalid_Tweets.ipynb">1683. Invalid Tweets </a> 
+  * -[x] (完成日期: 2023/08/06) <a href="1873/Calculate_Special_Bonus.ipynb">1873. Calculate Special Bonus </a> 
 
 * Data integration:  (5/5)
   * -[x] (完成日期: 2023/08/07) <a href="570/Managers_with_at_Least_5_Direct_Reports.ipynb">570. Managers with at Least 5 Direct Reports </a> 
