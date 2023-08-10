@@ -27,6 +27,7 @@
   * -[x] (完成日期: 2023/08/05) <a href="177/Nth_Highest_Salary.ipynb">177. Nth Highest Salary </a> 
   * -[x] (完成日期: 2023/08/06) <a href="178/Rank_Scores.ipynb">178. Rank Scores </a> 
   * -[x] (完成日期: 2023/08/06) <a href="184/Department_Highest_Salary.ipynb">184. Department Highest Salary </a> 
+  * -[x] (完成日期: 2023/08/10) <a href="196/Delete_Duplicate_Emails.ipynb">196. Delete Duplicate Emails </a> 
   * -[x] (完成日期: 2023/08/06) <a href="1795/Rearrange_Products_Table.ipynb">1795. Rearrange Products Table </a> 
 
 
