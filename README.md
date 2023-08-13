@@ -841,6 +841,7 @@
   * -[x] (完成日期: 2023/07/26) <a href="Medium/2789/Largest_Element_in_an_Array_after_Merge_Operations.ipynb">2789. Largest Element in an Array after Merge Operations </a> (#Array )
   * -[x] (完成日期: 2023/07/30) <a href="Medium/2799/Count_Complete_Subarrays_in_an_Array.ipynb">2799. Count Complete Subarrays in an Array </a> (#Array )
   * -[x] (完成日期: 2023/08/06) <a href="Medium/2807/Insert_Greatest_Common_Divisors_in_Linked_List.ipynb">2807. Insert Greatest Common Divisors in Linked List </a> (#LinkedList )
+  * -[x] (完成日期: 2023/08/13) <a href="Medium/2816/Double_a_Number_Represented_as_a_Linked_List.ipynb">2816. Double a Number Represented as a Linked List </a> (#LinkedList )
 
 * Hard:
   * -[x] (完成日期: 2021/01/09) <a href="Hard/4/Median_of_Two_Sorted_Arrays.ipynb">4. Median of Two Sorted Arrays </a>
