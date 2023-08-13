@@ -448,6 +448,7 @@
   * -[x] (完成日期: 2023/07/30) <a href="Easy/2798/Number_of_Employees_Who_Met_the_Target.ipynb">2798. Number of Employees Who Met the Target </a> (#Array )  
   * -[x] (完成日期: 2023/08/06) <a href="Easy/2806/Account_Balance_After_Rounded_Purchase.ipynb">2806. Account Balance After Rounded Purchase </a> (#Math )  
   * -[x] (完成日期: 2023/08/06) <a href="Easy/2810/Faulty_Keyboard.ipynb">2810. Faulty Keyboard </a> (#String )  
+  * -[x] (完成日期: 2023/08/13) <a href="Easy/2815/Max_Pair_Sum_in_an_Array.ipynb">22815. Max Pair Sum in an Array </a> (#Array, #HashMap )  
 
 * Medium:  
   * -[x] (完成日期: 2022/04/19) <a href="Medium/2/Add_Two_Numbers.ipynb">2. Add Two Numbers </a>
