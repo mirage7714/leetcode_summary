@@ -306,6 +306,7 @@
   * -[x] (完成日期: 2022/03/28) <a href="Easy/2047/Number_of_Valid_Words_in_a_Sentence.ipynb">2047. Number of Valid Words in a Sentence </a>
   * -[x] (完成日期: 2021/10/31) <a href="Easy/2053/Kth_Distinct_String_in_an_Array.ipynb">2053. Kth Distinct String in an Array </a>
   * -[x] (完成日期: 2021/10/31) <a href="Easy/2057/Smallest_Index_With_Equal_Value.ipynb">2057. Smallest Index With Equal Value </a>
+  * -[x] (完成日期: 2023/08/15) <a href="Easy/2062/Count_Vowel_Substrings_of_a_String.ipynb">2062. Count Vowel Substrings of a String </a> (#String, #HashMap )
   * -[x] (完成日期: 2021/11/14) <a href="Easy/2068/Check_Whether_Two_Strings_are_Almost_Equivalent.ipynb">2068. Check Whether Two Strings are Almost Equivalent </a>
   * -[x] (完成日期: 2021/11/15) <a href="Easy/2073/Time_Needed_to_Buy_Tickets.ipynb">2073. Time Needed to Buy Tickets </a>
   * -[x] (完成日期: 2021/12/05) <a href="Easy/2078/Two_Furthest_Houses_With_Different_Colors.ipynb">2078. Two Furthest Houses With Different Colors </a>
@@ -811,7 +812,7 @@
   * -[x] (完成日期: 2022/10/30) <a href="Medium/2453/Destroy_Sequential_Targets.ipynb">2453. Destroy Sequential Targets </a> (#Array )
   * -[x] (完成日期: 2022/10/30) <a href="Medium/2456/Most_Popular_Video_Creator.ipynb">2456. Most Popular Video Creator </a> (#Array )
   * -[x] (完成日期: 2023/01/30) <a href="Medium/2457/Minimum_Addition_to_Make_Integer_Beautiful.ipynb">2457. Minimum Addition to Make Integer Beautiful </a> (#Math, #Greedy)
-  * -[x] (完成日期: 2023/08/14) <a href="Medium/2462/Total_Cost_to_Hire_K_Workers.ipynb">2462. Total Cost to Hire K Workers </a> (#Array, #Heap)
+  * -[x] (完成日期: 2023/08/14) <a href="Medium/2462/Total_Cost_to_Hire_K_Workers.ipynb">2462. Total Cost to Hire K Workers	 </a> (#Array, #Heap)
   * -[x] (完成日期: 2023/02/10) <a href="Medium/2482/Difference_Between_Ones_and_Zeros_in_Row_and_Column.ipynb">2482. Difference Between Ones and Zeros in Row and Column </a> (#Array, #Matrix )
   * -[x] (完成日期: 2022/11/30) <a href="Medium/2486/Append_Characters_to_String_to_Make_Subsequence.ipynb">2486. Append Characters to String to Make Subsequence </a> (#String )
   * -[x] (完成日期: 2023/01/16) <a href="Medium/2487/Remove_Nodes_From_Linked_List.ipynb">2487. Remove Nodes From Linked List </a> (#LinkedList )
