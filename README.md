@@ -554,6 +554,7 @@
   * -[x] (完成日期: 2021/07/21) <a href="Medium/398/Random_Pick_Index.ipynb">398. Random Pick Index </a>
   * -[x] (完成日期: 2022/09/10) <a href="Medium/402/Remove_K_Digits.ipynb">402. Remove K Digits </a> (#Greedy, #Stack, #Array )
   * -[x] (完成日期: 2022/09/27) <a href="Medium/413/Arithmetic_Slices.ipynb">413. Arithmetic Slices </a> (#Array, #Stack )
+  * -[x] (完成日期: 2023/08/17) <a href="Medium/419/Battleships_in_a_Board.ipynb">419. Battleships in a Board </a> (#Array, #2D-Array, #DFS )
   * -[x] (完成日期: 2023/08/16) <a href="Medium/423/Reconstruct_Original_Digits_from_English.ipynb">423. Reconstruct Original Digits from English </a> (#String, #HashMap )
   * -[x] (完成日期: 2022/06/21) <a href="Medium/429/N-ary_Tree_Level_Order_Traversal.ipynb">429. N-ary Tree Level Order Traversal </a>
   * -[x] (完成日期: 2022/04/03) <a href="Medium/438/Find_All_Anagrams_in_a_String.ipynb">438. Find All Anagrams in a String </a>
