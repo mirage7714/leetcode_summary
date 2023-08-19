@@ -534,7 +534,8 @@
   * -[x] (完成日期: 2022/07/02) <a href="Medium/238/Product_of_Array_Except_Self.ipynb">238. Product of Array Except Self </a>
   * -[x] (完成日期: 2020/11/12) <a href="Medium/240/Search_a_2D_Matrix_II.ipynb">240. Search a 2D Matrix II </a>
   * -[x] (完成日期: 2020/12/06) <a href="Medium/260/Single_Number_III.ipynb">260. Single Number III </a>
-  * -[x] (完成日期: 2020/11/06) <a href="Medium/287/Find_the_Duplicate_Number.ipynb">287. Find the Duplicate Number </a>
+  * -[x] (完成日期: 2023/08/19) <a href="Medium/284/Peeking_Iterator.ipynb">284. Peeking Iterator </a> (#Array, #Design, #Iterator)
+  * -[x] (完成日期: 2020/11/06) <a href="Medium/287/Find_the_Duplicate_Number.ipynb">287. Find the Duplicate Number </a>  
   * -[x] (完成日期: 2020/11/25) <a href="Medium/299/Bulls_and_Cows.ipynb">299. Bulls and Cows </a>
   * -[x] (完成日期: 2022/09/26) <a href="Medium/307/Range_Sum_Query-Mutable.ipynb">307. Range Sum Query - Mutable </a> (#Array) 
   * -[x] (完成日期: 2022/03/16) <a href="Medium/328/Odd_Even_Linked_List.ipynb">328. Odd Even Linked List </a> (解法待改善)  
