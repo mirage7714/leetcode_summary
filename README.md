@@ -451,6 +451,7 @@
   * -[x] (完成日期: 2023/08/06) <a href="Easy/2810/Faulty_Keyboard.ipynb">2810. Faulty Keyboard </a> (#String )  
   * -[x] (完成日期: 2023/08/13) <a href="Easy/2815/Max_Pair_Sum_in_an_Array.ipynb">2815. Max Pair Sum in an Array </a> (#Array, #HashMap )  
   * -[x] (完成日期: 2023/08/20) <a href="Easy/2824/Count_Pairs_Whose_Sum_is_Less_than_Target.ipynb">2824. Count Pairs Whose Sum is Less than Target </a> (#Array )  
+  * -[x] (完成日期: 2023/08/20) <a href="Easy/2828/Check_if_a_String_Is_an_Acronym_of_Words.ipynb">2828. Check if a String Is an Acronym of Words </a> (#Array, #String )  
 
 * Medium:  
   * -[x] (完成日期: 2022/04/19) <a href="Medium/2/Add_Two_Numbers.ipynb">2. Add Two Numbers </a>
