@@ -594,6 +594,7 @@
   * -[x] (完成日期: 2022/09/03) <a href="Medium/677/Map_Sum_Pairs.ipynb">677. Map Sum Pairs </a> (#HashMap )
   * -[x] (完成日期: 2021/01/16) <a href="Medium/692/Top_K_Frequent_Words.ipynb">692. Top K Frequent Words </a>
   * -[x] (完成日期: 2022/08/29) <a href="Medium/695/Max_Area_of_Island.ipynb">695. Max Area of Island </a> (#DFS )
+  * -[x] (完成日期: 2023/08/21) <a href="Medium/707/Design_Linked_List.ipynb">707. Design Linked List </a> (#Array )
   * -[x] (完成日期: 2022/06/01) <a href="Medium/725/Split_Linked_List_in_Parts.ipynb">725. Split Linked List in Parts </a>
   * -[x] (完成日期: 2021/02/03) <a href="Medium/729/My_Calendar_I.ipynb">729. My Calendar I </a>
   * -[x] (完成日期: 2022/08/25) <a href="Medium/735/Asteroid_Collision.ipynb">735. Asteroid Collision </a>
