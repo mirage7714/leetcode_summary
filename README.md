@@ -551,6 +551,7 @@
   * -[x] (完成日期: 2021/10/21) <a href="Medium/380/Insert_Delete_GetRandom_O(1).ipynb">380. Insert Delete GetRandom O(1) </a>
   * -[x] (完成日期: 2022/03/16) <a href="Medium/382/Linked_List_Random_Node.ipynb">382. Linked List Random Node </a>
   * -[x] (完成日期: 2021/07/20) <a href="Medium/384/Shuffle_an_Array.ipynb">384. Shuffle an Array </a>
+  * -[x] (完成日期: 2023/08/21) <a href="Medium/386/Lexicographical_Numbers.ipynb">386. Lexicographical Numbers </a> (#Array, #Heap) (待改善解法)
   * -[x] (完成日期: 2022/09/13) <a href="Medium/393/UTF-8_Validation.ipynb">393. UTF-8 Validation </a> (#Array, #BitManipulation )
   * -[x] (完成日期: 2023/08/17) <a href="Medium/394/UTF-8_Validation.ipynb">394. Decode String </a> (#String, #Stack )
   * -[x] (完成日期: 2022/03/16) <a href="Medium/397/Integer_Replacement.ipynb">397. Integer Replacement </a>
