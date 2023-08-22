@@ -42,3 +42,6 @@
   * -[x] (完成日期: 2023/08/08) <a href="1693/Daily_Leads_and_Partners.ipynb">1693. Daily Leads and Partners </a> 
   * -[x] (完成日期: 2023/08/05) <a href="1741/Find_Total_Time_Spent_by_Each_Employee.ipynb">1741. Find Total Time Spent by Each Employee </a> 
   * -[x] (完成日期: 2023/08/08) <a href="2356/Number_of_Unique_Subjects_Taught_by_Each_Teacher.ipynb">2356. Number of Unique Subjects Taught by Each Teacher </a> 
+
+* Others:  
+  * -[x] (完成日期: 2023/08/22) <a href="1068/Product_Sales_Analysis_I.ipynb">1068. Product Sales Analysis I </a> 
