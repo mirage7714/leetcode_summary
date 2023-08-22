@@ -586,6 +586,7 @@
   * -[x] (完成日期: 2022/09/08) <a href="Medium/621/Task_Scheduler">621. Task Scheduler </a> (#Queue, #Greedy, #Array )
   * -[x] (完成日期: 2022/06/09) <a href="Medium/622/Design_Circular_Queue">622. Design Circular Queue </a>
   * -[x] (完成日期: 2022/10/05) <a href="Medium/623/Design_Circular_Queue">623. Add One Row to Tree </a> (#BinaryTree, #BFS)
+  * -[x] (完成日期: 2023/08/22) <a href="Medium/640/Solve_the_Equation">640. Solve the Equation </a> (#String, #Math )
   * -[x] (完成日期: 2022/06/09) <a href="Medium/641/Design_Circular_Deque">641. Design Circular Deque </a>
   * -[x] (完成日期: 2021/02/02) <a href="Medium/648/Replace_Words">648. Replace Words </a>
   * -[x] (完成日期: 2022/09/07) <a href="Medium/649/Dota2_Senate">649. Dota2 Senate </a> (#Greedy, #String, #Queue )
