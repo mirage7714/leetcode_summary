@@ -859,6 +859,7 @@
   * -[x] (完成日期: 2023/08/15) <a href="Medium/2811/Check_if_it_is_Possible_to_Split_Array.ipynb">2811. Check if it is Possible to Split Array </a> (#Array, #Greedy )
   * -[x] (完成日期: 2023/08/13) <a href="Medium/2816/Double_a_Number_Represented_as_a_Linked_List.ipynb">2816. Double a Number Represented as a Linked List </a> (#LinkedList )
   * -[x] (完成日期: 2023/08/20) <a href="Medium/2829/Determine_the_Minimum_Sum_of_a_k-avoiding_Array.ipynb">2829. Determine the Minimum Sum of a k-avoiding Array </a> (#Array )
+  * -[x] (完成日期: 2023/08/27) <a href="Medium/2834/Find_the_Minimum_Possible_Sum_of_a_Beautiful_Arrayray.ipynb"2834. Find the Minimum Possible Sum of a Beautiful Array </a> (#Array )
 
 * Hard:
   * -[x] (完成日期: 2021/01/09) <a href="Hard/4/Median_of_Two_Sorted_Arrays.ipynb">4. Median of Two Sorted Arrays </a>
