@@ -116,6 +116,7 @@
   * -[x] (完成日期: 2020/10/29) <a href="Easy/744/Find_Smallest_Letter_Greater_Than_Target.ipynb">744. Find Smallest Letter Greater Than Target </a>
   * -[x] (完成日期: 2020/10/16) <a href="Easy/747/Largest_Number_At_Least_Twice_of_Others.ipynb">747. Largest Number At Least Twice of Others </a>
   * -[x] (完成日期: 2020/10/30) <a href="Easy/748/Shortest_Completing_Word.ipynb">748. Shortest Completing Word </a>
+  * -[x] (完成日期: 2023/09/01) <a href="Easy/762/Prime_Number_of_Set_Bits_in_Binary_Representation.ipynb">762. Prime Number of Set Bits in Binary Representation </a> (#Math, #BitManipulation)
   * -[x] (完成日期: 2020/11/23) <a href="Easy/766/Toeplitz_Matrix.ipynb">766. Toeplitz Matrix </a>
   * -[x] (完成日期: 2022/05/22) <a href="Easy/783/Minimum_Distance_Between_BST_Nodes.ipynb">783. Minimum Distance Between BST Nodes </a>
   * -[x] (完成日期: 2022/08/17) <a href="Easy/804/Unique_Morse_Code_Words.ipynb">804. Unique Morse Code Words </a>
@@ -540,7 +541,7 @@
   * -[x] (完成日期: 2023/08/29) <a href="Medium/274/H-Index.ipynb">274. H-Index </a> (#Array, #Sorting)
   * -[x] (完成日期: 2023/08/19) <a href="Medium/284/Peeking_Iterator.ipynb">284. Peeking Iterator </a> (#Array, #Design, #Iterator)
   * -[x] (完成日期: 2020/11/06) <a href="Medium/287/Find_the_Duplicate_Number.ipynb">287. Find the Duplicate Number </a>  
-  * -[x] (完成日期: 2023/08/30) <a href="Medium/289/Find_the_Duplicate_Number.ipynb">289. Game of Life </a>  (#Array, #Matrix )
+  * -[x] (完成日期: 2023/08/30) <a href="Medium/289/Find_the_Duplicate_Number.ipynb">289. Game of Lifeㄍ </a>  (#Array, #Matrix )
   * -[x] (完成日期: 2020/11/25) <a href="Medium/299/Bulls_and_Cows.ipynb">299. Bulls and Cows </a>
   * -[x] (完成日期: 2022/09/26) <a href="Medium/307/Range_Sum_Query-Mutable.ipynb">307. Range Sum Query - Mutable </a> (#Array)
   * -[x] (完成日期: 2022/03/16) <a href="Medium/328/Odd_Even_Linked_List.ipynb">328. Odd Even Linked List </a> (#LinkedList) (2023/08/30更新)  
