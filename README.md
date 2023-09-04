@@ -869,6 +869,7 @@
   * -[x] (完成日期: 2023/08/20) <a href="Medium/2829/Determine_the_Minimum_Sum_of_a_k-avoiding_Array.ipynb">2829. Determine the Minimum Sum of a k-avoiding Array </a> (#Array )
   * -[x] (完成日期: 2023/08/27) <a href="Medium/2834/Find_the_Minimum_Possible_Sum_of_a_Beautiful_Arrayray.ipynb">2834. Find the Minimum Possible Sum of a Beautiful Array </a> (#Array )
   * -[x] (完成日期: 2023/09/03) <a href="Medium/2840/Check_if_Strings_Can_be_Made_Equal_With_Operations_II.ipynb">2840. Check if Strings Can be Made Equal With Operations II </a> (#String )
+  * -[x] (完成日期: 2023/09/04) <a href="Medium/2841/Maximum_Sum_of_Almost_Unique_Subarray.ipynb">2841. Maximum Sum of Almost Unique Subarray </a> (#Array, #SlidingWindow )
 
 * Hard:
   * -[x] (完成日期: 2021/01/09) <a href="Hard/4/Median_of_Two_Sorted_Arrays.ipynb">4. Median of Two Sorted Arrays </a>
