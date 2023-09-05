@@ -513,9 +513,10 @@
   * -[x] (完成日期: 2022/06/13) <a href="Medium/129/Sum_Root_to_Leaf_Numbers.ipynb">129. Sum Root to Leaf Numbers </a>
   * -[x] (完成日期: 2022/07/13) <a href="Medium/134/Gas_Station.ipynb">134. Gas Station </a>
   * -[x] (完成日期: 2020/12/06) <a href="Medium/137/Linked_List_Cycle_II.ipynb">137. Single Number II </a>
+  * -[x] (完成日期: 2023/09/05) <a href="Medium/138/Copy_List_with_Random_Pointer.ipynb">138. Copy List with Random Pointer </a> (#HashTable, #LinkedList )
   * -[x] (完成日期: 2022/07/11) <a href="Medium/142/Insertion_Sort_List.ipynb">142. Linked List Cycle II </a>
-  * -[x] (完成日期: 2022/08/09) <a href="Medium/143/Insertion_Sort_List.ipynb">142. Linked List Cycle II </a>
-  * -[x] (完成日期: 2022/06/30) <a href="Medium/147/Reorder_List.ipynb">143. Reorder List </a>
+  * -[x] (完成日期: 2022/08/09) <a href="Medium/143/Reorder_List.ipynb">143. Reorder List </a>
+  * -[x] (完成日期: 2022/06/30) <a href="Medium/147/Insertion_Sort_List.ipynb">147. Insertion Sort List </a>
   * -[x] (完成日期: 2022/04/23) <a href="Medium/148/Sort_List.ipynb">148. Sort List </a>
   * -[x] (完成日期: 2022/07/23) <a href="Medium/150/Evaluate_Reverse_Polish_Notation.ipynb">150. Evaluate Reverse Polish Notation </a>
   * -[x] (完成日期: 2020/12/05) <a href="Medium/151/Reverse_Words_in_a_String.ipynb">151. Reverse Words in a String </a>
