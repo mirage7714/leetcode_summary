@@ -85,7 +85,7 @@
   * -[x] (完成日期: 2022/09/15) <a href="Easy/530/Minimum_Absolute_Difference_in_BST.ipynb">530. Minimum Absolute Difference in BST </a> (#BinaryTree, #DFS)
   * -[x] (完成日期: 2022/09/22) <a href="Easy/541/Reverse_String_II.ipynb">541. Reverse String II </a> (#String)
   * -[x] (完成日期: 2022/07/19) <a href="Easy/543/Diameter_of_Binary_Tree.ipynb">543. Diameter of Binary Tree </a>
-  * -[x] (完成日期: 2022/03/23) <a href="Easy/557Reverse_Words_in_a_String_III.ipynb">557. Reverse Words in a String III </a>
+  * -[x] (完成日期: 2022/03/23) <a href="Easy/557/Reverse_Words_in_a_String_III.ipynb">557. Reverse Words in a String III </a>
   * -[x] (完成日期: 2020/10/29) <a href="Easy/561/Array_Partition_I.ipynb">561. Array Partition I </a>
   * -[x] (完成日期: 2022/08/22) <a href="Easy/563/Binary_Tree_Tilt.ipynb">563. Binary Tree Tilt </a>
   * -[x] (完成日期: 2020/12/05) <a href="Easy/575/Distribute_Candies.ipynb">575. Distribute Candies </a>  
@@ -120,6 +120,7 @@
   * -[x] (完成日期: 2020/11/23) <a href="Easy/766/Toeplitz_Matrix.ipynb">766. Toeplitz Matrix </a>
   * -[x] (完成日期: 2022/05/22) <a href="Easy/783/Minimum_Distance_Between_BST_Nodes.ipynb">783. Minimum Distance Between BST Nodes </a>
   * -[x] (完成日期: 2022/08/17) <a href="Easy/804/Unique_Morse_Code_Words.ipynb">804. Unique Morse Code Words </a>
+  * -[x] (完成日期: 2023/09/06) <a href="Easy/806/Number_of_Lines_To_Write_String.ipynb">806. Number of Lines To Write String </a> (#Array, #String )
   * -[x] (完成日期: 2020/10/28) <a href="Easy/811/Subdomain_Visit_Count.ipynb">811. Subdomain Visit Count </a>
   * -[x] (完成日期: 2020/10/11) <a href="Easy/819/Most_Common_Word.ipynb">819. Most Common Word </a>
   * -[x] (完成日期: 2020/11/27) <a href="Easy/821/Shortest_Distance_to_a_Character.ipynb">821. Shortest Distance to a Character </a>
