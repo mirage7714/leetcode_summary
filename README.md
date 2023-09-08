@@ -656,7 +656,7 @@
   * -[x] (完成日期: 2022/09/19) <a href="Medium/994/Rotting_Oranges.ipynb">994. Rotting Oranges </a> (#Matrix, #Array, #BFS)
   * -[x] (完成日期: 2022/07/27) <a href="Medium/1007/Minimum_Domino_Rotations_For_Equal_Row.ipynb">1007. Minimum Domino Rotations For Equal Row </a>  
   * -[x] (完成日期: 2022/09/16) <a href="Medium/1019/Next_Greater_Node_In_Linked_List.ipynb">1019. Next Greater Node In Linked List </a>  (#Array, #Stack, #LinkedList, #MonotonicStack )
-  * -[x] (完成日期: 2023/09/07) <a href="Medium/1023/Camelcase_Matching.ipynb">1023. Camelcase Matching </a>  (#Array, #String )
+  * -[x] (完成日期: 2023/09/07) <a href="Medium/1023/Camelcase_Matching.ipynb">1023. Camelcase Matching </a>  (#Array, #String )04
   * -[x] (完成日期: 2022/12/09) <a href="Medium/1026/Maximum_Difference_Between_Node_and_Ancestor.ipynb">1026. Maximum Difference Between Node and Ancestor </a>  (#BinaryTree)
   * -[x] (完成日期: 2022/06/29) <a href="Medium/1054/Distant_Barcodes.ipynb">1054. Distant Barcodes </a>  
   * -[x] (完成日期: 2022/09/22) <a href="Medium/1110/Delete_Nodes_And_Return_Forest.ipynb">1110. Delete Nodes And Return Forest </a> (#BinaryTree, #DFS)
@@ -752,6 +752,7 @@
   * -[x] (完成日期: 2023/02/15) <a href="Medium/2028/Find_Missing_Observations.ipynb">2028. Find Missing Observations </a> (#Math, #Array )
   * -[x] (完成日期: 2022/09/04) <a href="Medium/2038/Remove_Colored_Pieces_if_Both_Neighbors_are_the_Same_Color.ipynb">2038. Remove Colored Pieces if Both Neighbors are the Same Color </a> (#Greedy, #Math, #String )
   * -[x] (完成日期: 2021/10/24) <a href="Medium/2043/Simple_Bank_System.ipynb">2043. Simple Bank System </a>
+  * -[x] (完成日期: 2023/09/08) <a href="Medium/2048/Next_Greater_Numerically_Balanced_Number.ipynb">2048. Next Greater Numerically Balanced Number </a> (#Math, #Enumeration )
   * -[x] (完成日期: 2021/10/31) <a href="Medium/2058/Find_the_Minimum_and_Maximum_Number_of_Nodes_Between_Critical_Points.ipynb">2058. Find the Minimum and Maximum Number of Nodes Between Critical Points </a>
   * -[x] (完成日期: 2022/06/06) <a href="Medium/2074/Reverse_Nodes_in_Even_Length_Groups.ipynb">2074. Reverse Nodes in Even Length Groups </a>
   * -[x] (完成日期: 2022/04/23) <a href="Medium/2075/Decode_the_Slanted_Ciphertext.ipynb">2075. Decode the Slanted Ciphertext </a>
