@@ -456,7 +456,8 @@
   * -[x] (完成日期: 2023/08/20) <a href="Easy/2828/Check_if_a_String_Is_an_Acronym_of_Words.ipynb">2828. Check if a String Is an Acronym of Words </a> (#Array, #String )  
   * -[x] (完成日期: 2023/08/27) <a href="Easy/2833/Furthest_Point_From_Origin.ipynb">2833. Furthest Point From Origin </a> (#String )  
   * -[x] (完成日期: 2023/09/03) <a href="Easy/2839/Check_if_Strings_Can_be_Made_Equal_With_Operations_I.ipynb">2839. Check if Strings Can be Made Equal With Operations I </a> (#String )  
-  * -[x] (完成日期: 2023/09/03) <a href="Easy/2843/Count Symmetric Integers.ipynb">2843. Count Symmetric Integers </a> (#Math )  
+  * -[x] (完成日期: 2023/09/03) <a href="Easy/2843/Count_Symmetric_Integers.ipynb">2843. Count Symmetric Integers </a> (#Math )  
+  * -[x] (完成日期: 2023/09/10) <a href="Easy/2848/Points_That_Intersect_With_Cars.ipynb">2848. Points That Intersect With Cars </a> (#Array )  
 
 * Medium:  
   * -[x] (完成日期: 2022/04/19) <a href="Medium/2/Add_Two_Numbers.ipynb">2. Add Two Numbers </a>
