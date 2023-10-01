@@ -462,6 +462,7 @@
   * -[x] (完成日期: 2023/09/17) <a href="Easy/2859/Sum_of_Values_at_Indices_With_K_Set_Bits.ipynb">2859. Sum of Values at Indices With K Set Bits </a> (#Array )  
   * -[x] (完成日期: 2023/09/24) <a href="Easy/2864/Maximum_Odd_Binary_Number.ipynb">2864. Maximum Odd Binary Number </a> (#BitManipulation, #String )  
   * -[x] (完成日期: 2023/10/01) <a href="Easy/2869/Minimum_Operations_to_Collect_Elements.ipynb">2869. Minimum Operations to Collect Elements </a> (#Array )  
+  * -[x] (完成日期: 2023/10/01) <a href="Easy/2873/Maximum_Value_of_an_Ordered_Triplet_I.ipynb">2873. Maximum Value of an Ordered Triplet I </a> (#Array )  
 
 * Medium:  
   * -[x] (完成日期: 2022/04/19) <a href="Medium/2/Add_Two_Numbers.ipynb">2. Add Two Numbers </a>
