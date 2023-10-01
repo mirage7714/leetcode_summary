@@ -888,6 +888,7 @@
   * -[x] (完成日期: 2023/09/12) <a href="Medium/2844/Minimum_Operations_to_Make_a_Special_Number.ipynb">2844. Minimum Operations to Make a Special Number </a> (#String, #Math, #Greedy )
   * -[x] (完成日期: 2023/09/10) <a href="Medium/2849/Determine_if_a_Cell_Is_Reachable_at_a_Given_Time.ipynb">2849. Determine if a Cell Is Reachable at a Given Time </a> (#Math )
   * -[x] (完成日期: 2023/09/17) <a href="Medium/2856/Minimum_Array_Length_After_Pair_Removals.ipynb">2856. Minimum Array Length After Pair Removals </a> (#Array )
+  * -[x] (完成日期: 2023/10/01) <a href="Medium/2870/Minimum_Number_of_Operations_to_Make_Array_Empty.ipynb">2870. Minimum Number of Operations to Make Array Empty </a> (#Array, #HashMap )
 
 * Hard:
   * -[x] (完成日期: 2021/01/09) <a href="Hard/4/Median_of_Two_Sorted_Arrays.ipynb">4. Median of Two Sorted Arrays </a>
