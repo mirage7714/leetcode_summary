@@ -49,3 +49,4 @@
   * -[x] (完成日期: 2023/10/04) <a href="2879/Display_the_First_Three_Rows.ipynb">2879. Display the First Three Rows </a>
   * -[x] (完成日期: 2023/10/04) <a href="2880/Select_Data.ipynb">2880. Select Data </a>
   * -[x] (完成日期: 2023/10/05) <a href="2881/Create_a_New_Column.ipynb">2881. Create a New Column </a> 
+  * -[x] (完成日期: 2023/10/05) <a href="2884/Modify_Columns.ipynb">2884. Modify Columns </a> 
