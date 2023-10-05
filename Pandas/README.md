@@ -46,4 +46,5 @@
 * Others:  
   * -[x] (完成日期: 2023/08/22) <a href="1068/Product_Sales_Analysis_I.ipynb">1068. Product Sales Analysis I </a>
   * -[x] (完成日期: 2023/10/04) <a href="2877/Create_a_DataFrame_from_List.ipynb">2877. Create a DataFrame from List </a>
-  * -[x] (完成日期: 2023/10/04) <a href="2879/Display_the_First_Three_Rows.ipynb">2879. Display the First Three Rows </a> 
+  * -[x] (完成日期: 2023/10/04) <a href="2879/Display_the_First_Three_Rows.ipynb">2879. Display the First Three Rows </a>
+  * -[x] (完成日期: 2023/10/04) <a href="2880/Select_Data.ipynb">2880. Select Data </a> 
