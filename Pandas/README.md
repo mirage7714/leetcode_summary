@@ -50,3 +50,4 @@
   * -[x] (完成日期: 2023/10/04) <a href="2880/Select_Data.ipynb">2880. Select Data </a>
   * -[x] (完成日期: 2023/10/05) <a href="2881/Create_a_New_Column.ipynb">2881. Create a New Column </a> 
   * -[x] (完成日期: 2023/10/05) <a href="2884/Modify_Columns.ipynb">2884. Modify Columns </a> 
+  * -[x] (完成日期: 2023/10/06) <a href="2885/Rename_Columns.ipynb">2885. Rename Columns </a> 
