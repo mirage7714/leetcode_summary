@@ -49,6 +49,7 @@
   * -[x] (完成日期: 2023/10/04) <a href="2879/Display_the_First_Three_Rows.ipynb">2879. Display the First Three Rows </a>
   * -[x] (完成日期: 2023/10/04) <a href="2880/Select_Data.ipynb">2880. Select Data </a>
   * -[x] (完成日期: 2023/10/05) <a href="2881/Create_a_New_Column.ipynb">2881. Create a New Column </a> 
+  * -[x] (完成日期: 2023/10/09) <a href="2883/Drop_Missing_Data.ipynb">2883. Drop Missing Data </a> 
   * -[x] (完成日期: 2023/10/05) <a href="2884/Modify_Columns.ipynb">2884. Modify Columns </a> 
   * -[x] (完成日期: 2023/10/06) <a href="2885/Rename_Columns.ipynb">2885. Rename Columns </a> 
   * -[x] (完成日期: 2023/10/09) <a href="2887/Fill_Missing_Data.ipynb">2887. Fill Missing Data </a> 
