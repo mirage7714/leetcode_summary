@@ -465,6 +465,7 @@
   * -[x] (完成日期: 2023/10/01) <a href="Easy/2873/Maximum_Value_of_an_Ordered_Triplet_I.ipynb">2873. Maximum Value of an Ordered Triplet I </a> (#Array )  
   * -[x] (完成日期: 2023/10/08) <a href="Easy/2894/Divisible_and_Non-divisible_Sums_Difference.ipynb">2894. Divisible and Non-divisible Sums Difference </a> (#Math )  
   * -[x] (完成日期: 2023/10/15) <a href="Easy/2899/Last_Visited_Integers.ipynb">2899. Last Visited Integers </a> (#Array )  
+  * -[x] (完成日期: 2023/10/15) <a href="Easy/2903/Find_Indices_With_Index_and_Value_Difference_I.ipynb">2903. Find Indices With Index and Value Difference I </a> (#Array )  
 
 * Medium:  
   * -[x] (完成日期: 2022/04/19) <a href="Medium/2/Add_Two_Numbers.ipynb">2. Add Two Numbers </a>
