@@ -893,6 +893,7 @@
   * -[x] (完成日期: 2023/09/17) <a href="Medium/2856/Minimum_Array_Length_After_Pair_Removals.ipynb">2856. Minimum Array Length After Pair Removals </a> (#Array )
   * -[x] (完成日期: 2023/10/01) <a href="Medium/2870/Minimum_Number_of_Operations_to_Make_Array_Empty.ipynb">2870. Minimum Number of Operations to Make Array Empty </a> (#Array, #HashMap )
   * -[x] (完成日期: 2023/10/08) <a href="Medium/2895/Minimum_Processing_Time.ipynb">2895. Minimum Processing Time </a> (#Array )
+  * -[x] (完成日期: 2023/10/16) <a href="Medium/2900/Longest_Unequal_Adjacent_Groups_Subsequence_I.ipynb">2900. Longest Unequal Adjacent Groups Subsequence I </a> (#Array )
 
 * Hard:
   * -[x] (完成日期: 2021/01/09) <a href="Hard/4/Median_of_Two_Sorted_Arrays.ipynb">4. Median of Two Sorted Arrays </a>
