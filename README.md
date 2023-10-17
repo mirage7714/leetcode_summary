@@ -909,3 +909,4 @@
   * -[x] (完成日期: 2023/02/10) <a href="Hard/2227/Encrypt_and_Decrypt_Strings.ipynb">2227. Encrypt and Decrypt Strings </a> (#Array, #HashMap )
   * -[x] (完成日期: 2023/07/28) <a href="Hard/2296/Design_a_Text_Editor.ipynb">2296. Design a Text Editor </a> (#String, #SystemDesign )
   * -[x] (完成日期: 2023/02/10) <a href="Hard/2306/Naming_a_Company.ipynb">2306. Naming a Company </a> (#Array, #HashMap )
+  * -[x] (完成日期: 2023/10/17) <a href="Hard/2906/Construct_Product_Matrix.ipynb">2906. Construct Product Matrix </a> (#Matrix, #Array )
