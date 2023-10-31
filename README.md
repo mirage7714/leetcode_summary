@@ -897,6 +897,7 @@
   * -[x] (完成日期: 2023/10/08) <a href="Medium/2895/Minimum_Processing_Time.ipynb">2895. Minimum Processing Time </a> (#Array )
   * -[x] (完成日期: 2023/10/16) <a href="Medium/2900/Longest_Unequal_Adjacent_Groups_Subsequence_I.ipynb">2900. Longest Unequal Adjacent Groups Subsequence I </a> (#Array )
   * -[x] (完成日期: 2023/10/17) <a href="Medium/2904/Shortest_and_Lexicographically_Smallest_Beautiful_String.ipynb">2904. Shortest and Lexicographically Smallest Beautiful String </a> (#String )
+  * -[x] (完成日期: 2023/10/31) <a href="Medium/2914/Minimum_Number_of_Changes_to_Make_Binary_String_Beautiful.ipynb">2914. Minimum Number of Changes to Make Binary String Beautiful </a> (#String, #Greedy )
   * -[x] (完成日期: 2023/10/30) <a href="Medium/2918/Minimum_Equal_Sum_of_Two_Arrays_After_Replacing_Zeros.ipynb">2918. Minimum Equal Sum of Two Arrays After Replacing Zeros </a> (#Array, #Math )
 
 * Hard:
