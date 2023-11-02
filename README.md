@@ -894,6 +894,7 @@
   * -[x] (完成日期: 2023/09/10) <a href="Medium/2849/Determine_if_a_Cell_Is_Reachable_at_a_Given_Time.ipynb">2849. Determine if a Cell Is Reachable at a Given Time </a> (#Math )
   * -[x] (完成日期: 2023/09/17) <a href="Medium/2856/Minimum_Array_Length_After_Pair_Removals.ipynb">2856. Minimum Array Length After Pair Removals </a> (#Array )
   * -[x] (完成日期: 2023/10/01) <a href="Medium/2870/Minimum_Number_of_Operations_to_Make_Array_Empty.ipynb">2870. Minimum Number of Operations to Make Array Empty </a> (#Array, #HashMap )
+  * -[x] (完成日期: 2023/11/02) <a href="Medium/2874/Maximum_Value_of_an_Ordered_Triplet_II.ipynb">2874. Maximum Value of an Ordered Triplet II </a> (#Array )
   * -[x] (完成日期: 2023/10/08) <a href="Medium/2895/Minimum_Processing_Time.ipynb">2895. Minimum Processing Time </a> (#Array )
   * -[x] (完成日期: 2023/10/16) <a href="Medium/2900/Longest_Unequal_Adjacent_Groups_Subsequence_I.ipynb">2900. Longest Unequal Adjacent Groups Subsequence I </a> (#Array )
   * -[x] (完成日期: 2023/10/17) <a href="Medium/2904/Shortest_and_Lexicographically_Smallest_Beautiful_String.ipynb">2904. Shortest and Lexicographically Smallest Beautiful String </a> (#String )
