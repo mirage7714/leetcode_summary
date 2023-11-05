@@ -711,6 +711,7 @@
   * -[x] (完成日期: 2021/01/09) <a href="Medium/1508/Range_Sum_of_Sorted_Subarray_Sums.ipynb">1508. Range Sum of Sorted Subarray Sums </a>
   * -[x] (完成日期: 2020/11/27) <a href="Medium/1509/Minimum_Difference_Between_Largest_and_Smallest_Value_in_Three_Moves.ipynb">1509. Minimum Difference Between Largest and Smallest Value in Three Moves </a>
   * -[x] (完成日期: 2021/01/12) <a href="Medium/1513/Number_of_Substrings_With_Only_1s.ipynb">1513. Number of Substrings With Only 1s </a>
+  * -[x] (完成日期: 2023/11/05) <a href="Medium/1535/Find_the_Winner_of_an_Array_Game.ipynb">1535. Find the Winner of an Array Game </a> (#Array)
   * -[x] (完成日期: 2020/11/07) <a href="Medium/1561/Maximum_Number_of_Coins_You_Can_Get.ipynb">1561. Maximum Number of Coins You Can Get </a>
   * -[x] (完成日期: 2021/01/13) <a href="Medium/1578/Minimum_Deletion_Cost_to_Avoid_Repeating_Letters.ipynb">1578. Minimum Deletion Cost to Avoid Repeating Letters </a>
   * -[x] (完成日期: 2021/01/25) <a href="Medium/1604/Alert_Using_Same_Key-Card_Three_or_More_Times_in_a_One_Hour_Period.ipynb">1604. Alert Using Same Key-Card Three or More Times in a One Hour Period </a>
