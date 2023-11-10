@@ -590,6 +590,7 @@
   * -[x] (完成日期: 2022/08/24) <a href="Medium/456/132_Pattern.ipynb">456. 132 Pattern </a>
   * -[x] (完成日期: 2022/08/24) <a href="Medium/468/Validate_IP_Address.ipynb">468. Validate IP Address </a>
   * -[x] (完成日期: 2022/08/16) <a href="Medium/498/Diagonal_Traverse.ipynb">498. Diagonal Traverse </a>
+  * -[x] (完成日期: 2023/11/10) <a href="Medium/503/Next_Greater_Element_II.ipynb">503. Next Greater Element II </a> (#Array, #MonotonicStack)
   * -[x] (完成日期: 2022/08/14) <a href="Medium/513/Find_Bottom_Left_Tree_Value.ipynb">513. Find Bottom Left Tree Value </a>
   * -[x] (完成日期: 2022/06/20) <a href="Medium/515/Find_Largest_Value_in_Each_Tree_Row.ipynb">515. Find Largest Value in Each Tree Row </a>
   * -[x] (完成日期: 2022/08/13) <a href="Medium/532/K-diff_Pairs_in_an_Array.ipynb">532. K-diff Pairs in an Array </a>
