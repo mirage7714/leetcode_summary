@@ -469,6 +469,8 @@
   * -[x] (完成日期: 2023/10/22) <a href="Easy/2908/Minimum_Sum_of_Mountain_Triplets_I.ipynb">2908. Minimum Sum of Mountain Triplets I </a> (#Array )  
   * -[x] (完成日期: 2023/10/29) <a href="Easy/2913/Subarrays_Distinct_Element_Sum_of_Squares_I.ipynb">2913. Subarrays Distinct Element Sum of Squares I </a> (#Array )  
   * -[x] (完成日期: 2023/11/05) <a href="Easy/2923/Find_Champion_I.ipynb">2923. Find Champion I </a> (#Array )  
+  * -[x] (完成日期: 2023/11/12) <a href="Easy/2932/Maximum_Strong_Pair_XOR_I.ipynb">2932. Maximum Strong Pair XOR I </a> (#Array )  
+
 * Medium:  
   * -[x] (完成日期: 2022/04/19) <a href="Medium/2/Add_Two_Numbers.ipynb">2. Add Two Numbers </a>
   * -[x] (完成日期: 2022/04/01) <a href="Medium/3/Longest_Substring_Without_Repeating_Characters.ipynb">3. Longest Substring Without Repeating Characters </a>
