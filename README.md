@@ -904,6 +904,7 @@
   * -[x] (完成日期: 2023/10/17) <a href="Medium/2904/Shortest_and_Lexicographically_Smallest_Beautiful_String.ipynb">2904. Shortest and Lexicographically Smallest Beautiful String </a> (#String )
   * -[x] (完成日期: 2023/10/31) <a href="Medium/2914/Minimum_Number_of_Changes_to_Make_Binary_String_Beautiful.ipynb">2914. Minimum Number of Changes to Make Binary String Beautiful </a> (#String, #Greedy )
   * -[x] (完成日期: 2023/10/30) <a href="Medium/2918/Minimum_Equal_Sum_of_Two_Arrays_After_Replacing_Zeros.ipynb">2918. Minimum Equal Sum of Two Arrays After Replacing Zeros </a> (#Array, #Math )
+  * -[x] (完成日期: 2023/11/12) <a href="Medium/2933/High-Access_Employees.ipynb">2933. High-Access Employees </a> (#Array )
 
 * Hard:
   * -[x] (完成日期: 2021/01/09) <a href="Hard/4/Median_of_Two_Sorted_Arrays.ipynb">4. Median of Two Sorted Arrays </a>
