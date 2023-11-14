@@ -759,6 +759,7 @@
   * -[x] (完成日期: 2021/06/27) <a href="Medium/1910/Remove_All_Occurrences_of_a_Substring.ipynb">1910. Remove All Occurrences of a Substring </a>
   * -[x] (完成日期: 2021/07/10) <a href="Medium/1921/Eliminate_Maximum_Number_of_Monsters.ipynb">1921. Eliminate Maximum Number of Monsters </a>
   * -[x] (完成日期: 2022/07/29) <a href="Medium/1922/Count_Good_Numbers.ipynb">1922. Count Good Numbers </a>
+  * -[x] (完成日期: 2023/11/14) <a href="Medium/1930/Unique_Length-3_Palindromic_Subsequences.ipynb">1930. Unique Length-3 Palindromic Subsequences </a> (#Array, #HashMap)
   * -[x] (完成日期: 2022/09/06) <a href="Medium/1936/Add_Minimum_Number_of_Rungs.ipynb">1936. Add Minimum Number of Rungs </a> (#Greedy, #Array )
   * -[x] (完成日期: 2023/07/29) <a href="Medium/1942/The_Number_of_the_Smallest_Unoccupied_Chair.ipynb">1942. The Number of the Smallest Unoccupied Chair </a> (#Heap, #Array )
   * -[x] (完成日期: 2022/08/08) <a href="Medium/1946/Largest_Number_After_Mutating_Substring.ipynb">1946. Largest Number After Mutating Substring </a>
