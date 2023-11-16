@@ -546,6 +546,7 @@
   * -[x] (完成日期: 2022/08/29) <a href="Medium/200/Number_of_Islands.ipynb">200. Number of Islands </a> (#DFS )
   * -[x] (完成日期: 2022/09/02) <a href="Medium/207/Course_Schedule.ipynb">207. Course Schedule </a> (#DFS )
   * -[x] (完成日期: 2022/09/02) <a href="Medium/208/Implement_Trie_(Prefix_Tree).ipynb">208. Implement Trie (Prefix Tree) </a> (#HashMap )
+  * -[x] (完成日期: 2023/11/15) <a href="Medium/209/Minimum_Size_Subarray_Sum.ipynb">209. Minimum Size Subarray Sum </a> (#Array, #SlidingWindow )
   * -[x] (完成日期: 2021/01/16) <a href="Medium/215/Kth_Largest_Element_in_an_Array.ipynb">215. Kth Largest Element in an Array </a>
   * -[x] (完成日期: 2022/08/30) <a href="Medium/222/Count_Complete_Tree_Nodes.ipynb">222. Count Complete Tree Nodes </a> (#DFS, #BinaryTree )
   * -[x] (完成日期: 2022/09/26) <a href="Medium/227/Basic_Calculator_II.ipynb">227. Basic Calculator II </a> (#String, #Math)
