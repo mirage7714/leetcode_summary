@@ -764,6 +764,7 @@
   * -[x] (完成日期: 2023/07/29) <a href="Medium/1942/The_Number_of_the_Smallest_Unoccupied_Chair.ipynb">1942. The Number of the Smallest Unoccupied Chair </a> (#Heap, #Array )
   * -[x] (完成日期: 2022/08/08) <a href="Medium/1946/Largest_Number_After_Mutating_Substring.ipynb">1946. Largest Number After Mutating Substring </a>
   * -[x] (完成日期: 2022/06/07) <a href="Medium/1963/Minimum_Number_of_Swaps_to_Make_the_String_Balanced.ipynb">1963. Minimum Number of Swaps to Make the String Balanced </a>
+  * -[x] (完成日期: 2023/11/16) <a href="Medium/1980/Find_Unique_Binary_String.ipynb">1980. Find Unique Binary String </a> (#Array, #Backtracking)
   * -[x] (完成日期: 2022/08/29) <a href="Medium/1992/Find_All_Group_of_Farmland.ipynb">1992. Find All Groups of Farmland </a> (#DFS )
   * -[x] (完成日期: 2022/09/17) <a href="Medium/1996/The_Number_of_Weak_Characters_in_the_Game.ipynb">1996. The Number of Weak Characters in the Game </a> (#Array, #Stack, #Sort, #Greedy, #MonotonicStack )
   * -[x] (完成日期: 2022/01/30) <a href="Medium/2023/Number_of_Pairs_of_Strings_With_Concatenation_Equal_to_Target.ipynb">2023. Number of Pairs of Strings With Concatenation Equal to Target </a>
