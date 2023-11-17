@@ -596,6 +596,7 @@
   * -[x] (完成日期: 2023/11/10) <a href="Medium/503/Next_Greater_Element_II.ipynb">503. Next Greater Element II </a> (#Array, #MonotonicStack)
   * -[x] (完成日期: 2022/08/14) <a href="Medium/513/Find_Bottom_Left_Tree_Value.ipynb">513. Find Bottom Left Tree Value </a>
   * -[x] (完成日期: 2022/06/20) <a href="Medium/515/Find_Largest_Value_in_Each_Tree_Row.ipynb">515. Find Largest Value in Each Tree Row </a>
+  * -[x] (完成日期: 2023/11/17) <a href="Medium/524/Longest_Word_in_Dictionary_through_Deleting.ipynb">524. Longest Word in Dictionary through Deleting </a> (#String, #Array, #TwoPointer)  
   * -[x] (完成日期: 2022/08/13) <a href="Medium/532/K-diff_Pairs_in_an_Array.ipynb">532. K-diff Pairs in an Array </a>
   * -[x] (完成日期: 2021/07/01) <a href="Medium/535/Encode_and_Decode_TinyURL.ipynb">535. Encode and Decode TinyURL </a>
   * -[x] (完成日期: 2020/10/29) <a href="Medium/537/Complex_Number_Multiplication.ipynb">537. Complex Number Multiplication </a>
