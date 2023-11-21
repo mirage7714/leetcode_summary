@@ -744,6 +744,7 @@
   * -[x] (完成日期: 2021/08/12) <a href="Medium/1797/Design_Authentication_Manager.ipynb">1797. Design Authentication Manager </a>
   * -[x] (完成日期: 2021/04/06) <a href="Medium/1806/Minimum_Number_of_Operations_to_Reinitialize_a_Permutation.ipynb">1806. Minimum Number of Operations to Reinitialize a Permutation </a>
   * -[x] (完成日期: 2021/03/30) <a href="Medium/1807/Evaluate_the_Bracket_Pairs_of_a_String.ipynb">1807. Evaluate the Bracket Pairs of a String </a>
+  * -[x] (完成日期: 2023/11/21) <a href="Medium/1814/Count_Nice_Pairs_in_an_Array.ipynb">1814. Count Nice Pairs in an Array </a> (#Array, #Math )
   * -[x] (完成日期: 2021/04/06) <a href="Medium/1817/Finding_the_Users_Active_Minutes.ipynb">1817. Finding the Users Active Minutes </a>
   * -[x] (完成日期: 2021/05/11) <a href="Medium/1833/Maximum_Ice_Cream_Bars.ipynb">1833. Maximum Ice Cream Bars </a>
   * -[x] (完成日期: 2021/05/09) <a href="Medium/1839/Longest_Substring_Of_All_Vowels_in_Order.ipynb">1839. Longest Substring Of All Vowels in Order </a>
