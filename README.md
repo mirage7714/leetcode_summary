@@ -472,6 +472,7 @@
   * -[x] (完成日期: 2023/11/12) <a href="Easy/2932/Maximum_Strong_Pair_XOR_I.ipynb">2932. Maximum Strong Pair XOR I </a> (#Array )  
   * -[x] (完成日期: 2023/11/19) <a href="Easy/2937/Make_Three_Strings_Equal.ipynb">2937. Make Three Strings Equal </a> (#String )  
   * -[x] (完成日期: 2023/11/26) <a href="Easy/2942/Find_Words_Containing_Character.ipynb">2942. Find Words Containing Character </a> (#Array, #String )  
+  * -[x] (完成日期: 2023/11/26) <a href="Easy/2946/Matrix_Similarity_After_Cyclic_Shifts.ipynb">2946. Matrix Similarity After Cyclic Shifts </a> (#Array )  
 
 * Medium:  
   * -[x] (完成日期: 2022/04/19) <a href="Medium/2/Add_Two_Numbers.ipynb">2. Add Two Numbers </a>
