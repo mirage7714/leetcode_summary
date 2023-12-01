@@ -914,6 +914,7 @@
   * -[x] (完成日期: 2023/10/30) <a href="Medium/2918/Minimum_Equal_Sum_of_Two_Arrays_After_Replacing_Zeros.ipynb">2918. Minimum Equal Sum of Two Arrays After Replacing Zeros </a> (#Array, #Math )
   * -[x] (完成日期: 2023/11/12) <a href="Medium/2933/High-Access_Employees.ipynb">2933. High-Access Employees </a> (#Array )
   * -[x] (完成日期: 2023/11/28) <a href="Medium/2938/Separate_Black_and_White_Balls.ipynb">2938. Separate Black and White Balls </a> (#Array )
+  * -[x] (完成日期: 2023/12/01) <a href="Medium/2947/Count_Beautiful_Substrings_I.ipynb">2947. Count Beautiful Substrings I </a> (#String )
 
 * Hard:
   * -[x] (完成日期: 2021/01/09) <a href="Hard/4/Median_of_Two_Sorted_Arrays.ipynb">4. Median of Two Sorted Arrays </a>
