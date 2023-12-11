@@ -475,6 +475,7 @@
   * -[x] (完成日期: 2023/11/26) <a href="Easy/2946/Matrix_Similarity_After_Cyclic_Shifts.ipynb">2946. Matrix Similarity After Cyclic Shifts </a> (#Array )  
   * -[x] (完成日期: 2023/12/04) <a href="Easy/2951/Find_the_Peaks.ipynb">2951. Find the Peaks </a> (#Array )  
   * -[x] (完成日期: 2023/12/11) <a href="Easy/2956/Find_Common_Elements_Between_Two_Arrays.ipynb">2956. Find Common Elements Between Two Arrays </a> (#Array )  
+  * -[x] (完成日期: 2023/12/11) <a href="Easy/2960/Count_Tested_Devices_After_Test_Operations.ipynb">2960. Count Tested Devices After Test Operations </a> (#Array )  
 
 * Medium:  
   * -[x] (完成日期: 2022/04/19) <a href="Medium/2/Add_Two_Numbers.ipynb">2. Add Two Numbers </a>
