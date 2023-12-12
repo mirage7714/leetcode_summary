@@ -918,6 +918,7 @@
   * -[x] (完成日期: 2023/11/12) <a href="Medium/2933/High-Access_Employees.ipynb">2933. High-Access Employees </a> (#Array )
   * -[x] (完成日期: 2023/11/28) <a href="Medium/2938/Separate_Black_and_White_Balls.ipynb">2938. Separate Black and White Balls </a> (#Array )
   * -[x] (完成日期: 2023/12/01) <a href="Medium/2947/Count_Beautiful_Substrings_I.ipynb">2947. Count Beautiful Substrings I </a> (#String )
+  * -[x] (完成日期: 2023/12/12) <a href="Medium/2961/Double_Modular_Exponentiation.ipynb">2961. Double Modular Exponentiation </a> (#Array )
 
 * Hard:
   * -[x] (完成日期: 2021/01/09) <a href="Hard/4/Median_of_Two_Sorted_Arrays.ipynb">4. Median of Two Sorted Arrays </a>
