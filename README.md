@@ -476,6 +476,7 @@
   * -[x] (完成日期: 2023/12/04) <a href="Easy/2951/Find_the_Peaks.ipynb">2951. Find the Peaks </a> (#Array )  
   * -[x] (完成日期: 2023/12/11) <a href="Easy/2956/Find_Common_Elements_Between_Two_Arrays.ipynb">2956. Find Common Elements Between Two Arrays </a> (#Array )  
   * -[x] (完成日期: 2023/12/11) <a href="Easy/2960/Count_Tested_Devices_After_Test_Operations.ipynb">2960. Count Tested Devices After Test Operations </a> (#Array )  
+  * -[x] (完成日期: 2023/12/17) <a href="Easy/2965/Find_Missing_and_Repeated_Values.ipynb">2965. Find Missing and Repeated Values </a> (#Array )  
 
 * Medium:  
   * -[x] (完成日期: 2022/04/19) <a href="Medium/2/Add_Two_Numbers.ipynb">2. Add Two Numbers </a>
