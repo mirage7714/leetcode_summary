@@ -922,6 +922,7 @@
   * -[x] (完成日期: 2023/12/15) <a href="Medium/2948/Make_Lexicographically_Smallest_Array_by_Swapping_Elements.ipynb">2948. Make Lexicographically Smallest Array by Swapping Elements </a> (#Array )
   * -[x] (完成日期: 2023/12/13) <a href="Medium/2957/Remove_Adjacent_Almost-Equal_Characters.ipynb">2957. Remove Adjacent Almost-Equal Characters </a> (#String )
   * -[x] (完成日期: 2023/12/12) <a href="Medium/2961/Double_Modular_Exponentiation.ipynb">2961. Double Modular Exponentiation </a> (#Array )
+  * -[x] (完成日期: 2023/12/18) <a href="Medium/2966/Divide_Array_Into_Arrays_With_Max_Difference.ipynb">2966. Divide Array Into Arrays With Max Difference </a> (#Array, #Heap )
 
 * Hard:
   * -[x] (完成日期: 2021/01/09) <a href="Hard/4/Median_of_Two_Sorted_Arrays.ipynb">4. Median of Two Sorted Arrays </a>
