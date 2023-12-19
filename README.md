@@ -98,6 +98,7 @@
   * -[x] (完成日期: 2022/06/20) <a href="Easy/637/Average_of_Levels_in_Binary_Tree.ipynb">637. Average of Levels in Binary Tree </a>
   * -[x] (完成日期: 2022/09/14) <a href="Easy/643/Maximum_Average_Subarray_I.ipynb">643. Maximum Average Subarray I </a> (#Array, #SlidingWindow )
   * -[x] (完成日期: 2022/06/20) <a href="Easy/653/Two_Sum_IV-Input_is_a_BST.ipynb">653. Two Sum IV - Input is a BST </a>
+  * -[x] (完成日期: 2023/12/19) <a href="Easy/661/Image_Smoother.ipynb">661. Image Smoother </a> (#Array, #Matrix)
   * -[x] (完成日期: 2022/05/22) <a href="Easy/671/Second_Minimum_Node_In_a_Binary_Tree.ipynb">671. Second Minimum Node In a Binary Tree </a>
   * -[x] (完成日期: 2020/11/12) <a href="Easy/674/Longest_Continuous_Increasing_Subsequence.ipynb">674. Longest Continuous Increasing Subsequence </a>
   * -[x] (完成日期: 2020/12/03) <a href="Easy/682/Baseball_Game.ipynb">682. Baseball Game </a>
