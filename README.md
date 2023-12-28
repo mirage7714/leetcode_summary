@@ -478,6 +478,7 @@
   * -[x] (完成日期: 2023/12/11) <a href="Easy/2956/Find_Common_Elements_Between_Two_Arrays.ipynb">2956. Find Common Elements Between Two Arrays </a> (#Array )  
   * -[x] (完成日期: 2023/12/11) <a href="Easy/2960/Count_Tested_Devices_After_Test_Operations.ipynb">2960. Count Tested Devices After Test Operations </a> (#Array )  
   * -[x] (完成日期: 2023/12/17) <a href="Easy/2965/Find_Missing_and_Repeated_Values.ipynb">2965. Find Missing and Repeated Values </a> (#Array )  
+  * -[x] (完成日期: 2023/12/28) <a href="Easy/2974/Count_the_Number_of_Incremovable_Subarrays_I.ipynb">2970. Count the Number of Incremovable Subarrays I </a> (#Array )  
   * -[x] (完成日期: 2023/12/24) <a href="Easy/2974/Minimum_Number_Game.ipynb">2974. Minimum Number Game </a> (#Array )  
 
 * Medium:  
