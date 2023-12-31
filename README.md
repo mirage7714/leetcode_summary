@@ -929,6 +929,7 @@
   * -[x] (完成日期: 2023/12/12) <a href="Medium/2961/Double_Modular_Exponentiation.ipynb">2961. Double Modular Exponentiation </a> (#Array )
   * -[x] (完成日期: 2023/12/18) <a href="Medium/2966/Divide_Array_Into_Arrays_With_Max_Difference.ipynb">2966. Divide Array Into Arrays With Max Difference </a> (#Array, #Heap )
   * -[x] (完成日期: 2023/12/25) <a href="Medium/2971/Find_Polygon_With_the_Largest_Perimeter.ipynb">2971. Find Polygon With the Largest Perimeter </a> (#Array )
+  * -[x] (完成日期: 2023/12/31) <a href="Medium/2981/Find_Longest_Special_Substring_That_Occurs_Thrice_I.ipynb">2981. Find Longest Special Substring That Occurs Thrice I </a> (#String )
 
 * Hard:
   * -[x] (完成日期: 2021/01/09) <a href="Hard/4/Median_of_Two_Sorted_Arrays.ipynb">4. Median of Two Sorted Arrays </a>
