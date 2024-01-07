@@ -930,6 +930,7 @@
   * -[x] (完成日期: 2023/12/18) <a href="Medium/2966/Divide_Array_Into_Arrays_With_Max_Difference.ipynb">2966. Divide Array Into Arrays With Max Difference </a> (#Array, #Heap )
   * -[x] (完成日期: 2023/12/25) <a href="Medium/2971/Find_Polygon_With_the_Largest_Perimeter.ipynb">2971. Find Polygon With the Largest Perimeter </a> (#Array )
   * -[x] (完成日期: 2023/12/31) <a href="Medium/2981/Find_Longest_Special_Substring_That_Occurs_Thrice_I.ipynb">2981. Find Longest Special Substring That Occurs Thrice I </a> (#String )
+  * -[x] (完成日期: 2024/01/07) <a href="Medium/10032/Minimum_Number_of_Operations_to_Make_Array_XOR_Equal_to_K.ipynb">10032. Minimum Number of Operations to Make Array XOR Equal to K </a> (#Array, #BitManipulation )
 
 * Hard:
   * -[x] (完成日期: 2021/01/09) <a href="Hard/4/Median_of_Two_Sorted_Arrays.ipynb">4. Median of Two Sorted Arrays </a>
