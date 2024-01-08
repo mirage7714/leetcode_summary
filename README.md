@@ -481,7 +481,8 @@
   * -[x] (完成日期: 2023/12/28) <a href="Easy/2974/Count_the_Number_of_Incremovable_Subarrays_I.ipynb">2970. Count the Number of Incremovable Subarrays I </a> (#Array )  
   * -[x] (完成日期: 2023/12/24) <a href="Easy/2974/Minimum_Number_Game.ipynb">2974. Minimum Number Game </a> (#Array )  
   * -[x] (完成日期: 2023/12/31) <a href="Easy/2980/Check_if_Bitwise_OR_Has_Trailing_Zeros.ipynb">2980. Check if Bitwise OR Has Trailing Zeros </a> (#Array )  
-  * -[x] (完成日期: 2024/01/07) <a href="Easy/2980/Maximum_Area_of_Longest_Diagonal_Rectangle.ipynb">10035. Maximum Area of Longest Diagonal Rectangle </a> (#Array )  
+  * -[x] (完成日期: 2024/01/08) <a href="Easy/10031/Smallest_Missing_Integer_Greater_Than_Sequential_Prefix_Sum.ipynb">10031. Smallest Missing Integer Greater Than Sequential Prefix Sum </a> (#Array )  
+  * -[x] (完成日期: 2024/01/07) <a href="Easy/10035/Maximum_Area_of_Longest_Diagonal_Rectangle.ipynb">10035. Maximum Area of Longest Diagonal Rectangle </a> (#Array )  
 
 * Medium:  
   * -[x] (完成日期: 2022/04/19) <a href="Medium/2/Add_Two_Numbers.ipynb">2. Add Two Numbers </a>
