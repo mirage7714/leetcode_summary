@@ -481,8 +481,9 @@
   * -[x] (完成日期: 2023/12/28) <a href="Easy/2974/Count_the_Number_of_Incremovable_Subarrays_I.ipynb">2970. Count the Number of Incremovable Subarrays I </a> (#Array )  
   * -[x] (完成日期: 2023/12/24) <a href="Easy/2974/Minimum_Number_Game.ipynb">2974. Minimum Number Game </a> (#Array )  
   * -[x] (完成日期: 2023/12/31) <a href="Easy/2980/Check_if_Bitwise_OR_Has_Trailing_Zeros.ipynb">2980. Check if Bitwise OR Has Trailing Zeros </a> (#Array )  
-  * -[x] (完成日期: 2024/01/08) <a href="Easy/10031/Smallest_Missing_Integer_Greater_Than_Sequential_Prefix_Sum.ipynb">10031. Smallest Missing Integer Greater Than Sequential Prefix Sum </a> (#Array )  
-  * -[x] (完成日期: 2024/01/07) <a href="Easy/10035/Maximum_Area_of_Longest_Diagonal_Rectangle.ipynb">10035. Maximum Area of Longest Diagonal Rectangle </a> (#Array )  
+  * -[x] (完成日期: 2024/01/08) <a href="Easy/2996/Smallest_Missing_Integer_Greater_Than_Sequential_Prefix_Sum.ipynb">2996. Smallest Missing Integer Greater Than Sequential Prefix Sum </a> (#Array )  
+  * -[x] (完成日期: 2024/01/07) <a href="Easy/3000/Maximum_Area_of_Longest_Diagonal_Rectangle.ipynb">3000. Maximum Area of Longest Diagonal Rectangle </a> (#Array )  
+  * -[x] (完成日期: 2024/01/14) <a href="Easy/3005/Count_Elements_With_Maximum_Frequency.ipynb">3005. Count Elements With Maximum Frequency </a> (#Array )  
 
 * Medium:  
   * -[x] (完成日期: 2022/04/19) <a href="Medium/2/Add_Two_Numbers.ipynb">2. Add Two Numbers </a>
@@ -932,7 +933,7 @@
   * -[x] (完成日期: 2023/12/18) <a href="Medium/2966/Divide_Array_Into_Arrays_With_Max_Difference.ipynb">2966. Divide Array Into Arrays With Max Difference </a> (#Array, #Heap )
   * -[x] (完成日期: 2023/12/25) <a href="Medium/2971/Find_Polygon_With_the_Largest_Perimeter.ipynb">2971. Find Polygon With the Largest Perimeter </a> (#Array )
   * -[x] (完成日期: 2023/12/31) <a href="Medium/2981/Find_Longest_Special_Substring_That_Occurs_Thrice_I.ipynb">2981. Find Longest Special Substring That Occurs Thrice I </a> (#String )
-  * -[x] (完成日期: 2024/01/07) <a href="Medium/10032/Minimum_Number_of_Operations_to_Make_Array_XOR_Equal_to_K.ipynb">10032. Minimum Number of Operations to Make Array XOR Equal to K </a> (#Array, #BitManipulation )
+  * -[x] (完成日期: 2024/01/07) <a href="Medium/2997/Minimum_Number_of_Operations_to_Make_Array_XOR_Equal_to_K.ipynb">2997. Minimum Number of Operations to Make Array XOR Equal to K </a> (#Array, #BitManipulation )
 
 * Hard:
   * -[x] (完成日期: 2021/01/09) <a href="Hard/4/Median_of_Two_Sorted_Arrays.ipynb">4. Median of Two Sorted Arrays </a>
