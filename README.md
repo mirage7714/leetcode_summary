@@ -934,6 +934,7 @@
   * -[x] (完成日期: 2023/12/25) <a href="Medium/2971/Find_Polygon_With_the_Largest_Perimeter.ipynb">2971. Find Polygon With the Largest Perimeter </a> (#Array )
   * -[x] (完成日期: 2023/12/31) <a href="Medium/2981/Find_Longest_Special_Substring_That_Occurs_Thrice_I.ipynb">2981. Find Longest Special Substring That Occurs Thrice I </a> (#String )
   * -[x] (完成日期: 2024/01/07) <a href="Medium/2997/Minimum_Number_of_Operations_to_Make_Array_XOR_Equal_to_K.ipynb">2997. Minimum Number of Operations to Make Array XOR Equal to K </a> (#Array, #BitManipulation )
+  * -[x] (完成日期: 2024/01/17) <a href="Medium/3001/Minimum_Moves_to_Capture_The_Queen.ipynb">3001. Minimum Moves to Capture The Queen </a> (#Matrix )
   * -[x] (完成日期: 2024/01/15) <a href="Medium/3006/Find_Beautiful_Indices_in_the_Given_Array_I.ipynb">3006. Find Beautiful Indices in the Given Array I </a> (#Array )
 
 * Hard:
