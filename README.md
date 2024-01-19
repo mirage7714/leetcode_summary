@@ -469,6 +469,7 @@
   * -[x] (完成日期: 2023/10/15) <a href="Easy/2903/Find_Indices_With_Index_and_Value_Difference_I.ipynb">2903. Find Indices With Index and Value Difference I </a> (#Array )  
   * -[x] (完成日期: 2023/10/22) <a href="Easy/2908/Minimum_Sum_of_Mountain_Triplets_I.ipynb">2908. Minimum Sum of Mountain Triplets I </a> (#Array )  
   * -[x] (完成日期: 2023/10/29) <a href="Easy/2913/Subarrays_Distinct_Element_Sum_of_Squares_I.ipynb">2913. Subarrays Distinct Element Sum of Squares I </a> (#Array )  
+  * -[x] (完成日期: 2024/01/19) <a href="Easy/2917/Find_the_K-or_of_an_Array.ipynb">2917. Find the K-or of an Array </a> (#Array, #BitManipulation )  
   * -[x] (完成日期: 2023/11/05) <a href="Easy/2923/Find_Champion_I.ipynb">2923. Find Champion I </a> (#Array )  
   * -[x] (完成日期: 2023/11/12) <a href="Easy/2932/Maximum_Strong_Pair_XOR_I.ipynb">2932. Maximum Strong Pair XOR I </a> (#Array )  
   * -[x] (完成日期: 2023/11/19) <a href="Easy/2937/Make_Three_Strings_Equal.ipynb">2937. Make Three Strings Equal </a> (#String )  
