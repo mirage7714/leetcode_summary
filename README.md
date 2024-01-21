@@ -486,6 +486,7 @@
   * -[x] (完成日期: 2024/01/07) <a href="Easy/3000/Maximum_Area_of_Longest_Diagonal_Rectangle.ipynb">3000. Maximum Area of Longest Diagonal Rectangle </a> (#Array )  
   * -[x] (完成日期: 2024/01/14) <a href="Easy/3005/Count_Elements_With_Maximum_Frequency.ipynb">3005. Count Elements With Maximum Frequency </a> (#Array )  
   * -[x] (完成日期: 2024/01/21) <a href="Easy/3010/Divide_an_Array_Into_Subarrays_With_Minimum_Cost_I.ipynb">3010. Divide an Array Into Subarrays With Minimum Cost I </a> (#Array )  
+  * -[x] (完成日期: 2024/01/21) <a href="Easy/3014/Minimum_Number_of_Pushes_to_Type_Word_I.ipynb">3014. Minimum Number of Pushes to Type Word I </a> (#String )  
 
 * Medium:  
   * -[x] (完成日期: 2022/04/19) <a href="Medium/2/Add_Two_Numbers.ipynb">2. Add Two Numbers </a>
