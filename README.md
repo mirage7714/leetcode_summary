@@ -939,6 +939,7 @@
   * -[x] (完成日期: 2024/01/07) <a href="Medium/2997/Minimum_Number_of_Operations_to_Make_Array_XOR_Equal_to_K.ipynb">2997. Minimum Number of Operations to Make Array XOR Equal to K </a> (#Array, #BitManipulation )
   * -[x] (完成日期: 2024/01/17) <a href="Medium/3001/Minimum_Moves_to_Capture_The_Queen.ipynb">3001. Minimum Moves to Capture The Queen </a> (#Matrix )
   * -[x] (完成日期: 2024/01/15) <a href="Medium/3006/Find_Beautiful_Indices_in_the_Given_Array_I.ipynb">3006. Find Beautiful Indices in the Given Array I </a> (#Array )
+  * -[x] (完成日期: 2024/01/21) <a href="Medium/3016/Minimum_Number_of_Pushes_to_Type_Word_II.ipynb">3016. Minimum Number of Pushes to Type Word II </a> (#String, #HashMap )
 
 * Hard:
   * -[x] (完成日期: 2021/01/09) <a href="Hard/4/Median_of_Two_Sorted_Arrays.ipynb">4. Median of Two Sorted Arrays </a>
