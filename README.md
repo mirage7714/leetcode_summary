@@ -703,6 +703,7 @@
   * -[x] (完成日期: 2022/09/05) <a href="Medium/1262/Greatest_Sum_Divisible_by_Three.ipynb">1262. Greatest Sum Divisible by Three </a> (#Array, #Greedy, #HashMap )
   * -[x] (完成日期: 2022/06/09) <a href="Medium/1268/Search_Suggestions_System.ipynb">1268. Search Suggestions System </a>
   * -[x] (完成日期: 2023/09/11) <a href="Medium/1282/Group_the_People_Given_the_Group_Size_They_Belong_To.ipynb">1282. Group the People Given the Group Size They Belong To </a> (#Array, #HashTable )
+  * -[x] (完成日期: 2024/02/02) <a href="Medium/1291/Sequential_Digits.ipynb">1291. Sequential Digits </a> (#Enumeration)
   * -[x] (完成日期: 2021/01/21) <a href="Medium/1296/Divide_Array_in_Sets_of_K_Consecutive_Numbers.ipynb">1296. Divide Array in Sets of K Consecutive Numbers </a> (題目與No. 846相同)
   * -[x] (完成日期: 2022/09/21) <a href="Medium/1302/Deepest_Leaves_Sum.ipynb">1302. Deepest Leaves Sum </a> (#BinaryTree, #BFS)
   * -[x] (完成日期: 2022/09/21) <a href="Medium/1305/All_Elements_in_Two_Binary_Search_Trees.ipynb">1305. All Elements in Two Binary Search Trees </a> (#BinaryTree, #BFS, #DFS)
