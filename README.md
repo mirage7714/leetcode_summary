@@ -489,6 +489,7 @@
   * -[x] (完成日期: 2024/01/21) <a href="Easy/3014/Minimum_Number_of_Pushes_to_Type_Word_I.ipynb">3014. Minimum Number of Pushes to Type Word I </a> (#String )  
   * -[x] (完成日期: 2024/01/28) <a href="Easy/3019/Number_of_Changing_Keys.ipynb">3019. Number of Changing Keys </a> (#String )  
   * -[x] (完成日期: 2024/02/04) <a href="Easy/3024/Type_of_Triangle_II.ipynb">3024. Type of Triangle II </a> (#Math )  
+  * -[x] (完成日期: 2024/02/04) <a href="Easy/3028/Ant_on_the_Boundary.ipynb">3028. Ant on the Boundary </a> (#Array )  
 
 * Medium:  
   * -[x] (完成日期: 2022/04/19) <a href="Medium/2/Add_Two_Numbers.ipynb">2. Add Two Numbers </a>
