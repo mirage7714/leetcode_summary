@@ -948,6 +948,7 @@
   * -[x] (完成日期: 2024/01/21) <a href="Medium/3016/Minimum_Number_of_Pushes_to_Type_Word_II.ipynb">3016. Minimum Number of Pushes to Type Word II </a> (#String, #HashMap )
   * -[x] (完成日期: 2024/01/29) <a href="Medium/3020/Find_the_Maximum_Number_of_Elements_in_Subset.ipynb">3020. Find the Maximum Number of Elements in Subset </a> (#Array, #BinarySearch, #HashMap )
   * -[x] (完成日期: 2024/01/30) <a href="Medium/3021/Alice_and_Bob_Playing_Flower_Game.ipynb">3021. Alice and Bob Playing Flower Game </a> (#Math )
+  * -[x] (完成日期: 2024/02/11) <a href="Medium/3034/Number_of_Subarrays_That_Match_a_Pattern_I.ipynb">3034. Number of Subarrays That Match a Pattern I </a> (#Array )
 
 * Hard:
   * -[x] (完成日期: 2021/01/09) <a href="Hard/4/Median_of_Two_Sorted_Arrays.ipynb">4. Median of Two Sorted Arrays </a>
