@@ -945,6 +945,7 @@
   * -[x] (完成日期: 2024/01/17) <a href="Medium/3001/Minimum_Moves_to_Capture_The_Queen.ipynb">3001. Minimum Moves to Capture The Queen </a> (#Matrix )
   * -[x] (完成日期: 2024/01/15) <a href="Medium/3006/Find_Beautiful_Indices_in_the_Given_Array_I.ipynb">3006. Find Beautiful Indices in the Given Array I </a> (#Array )
   * -[x] (完成日期: 2024/01/23) <a href="Medium/3011/Find_if_Array_Can_Be_Sorted.ipynb">3011. Find if Array Can Be Sorted </a> (#Array, #Sorting )
+  * -[x] (完成日期: 2024/02/15) <a href="Medium/3012/Minimize_Length_of_Array_Using_Operations.ipynb">3012. Minimize Length of Array Using Operations </a> (#Array )
   * -[x] (完成日期: 2024/01/21) <a href="Medium/3016/Minimum_Number_of_Pushes_to_Type_Word_II.ipynb">3016. Minimum Number of Pushes to Type Word II </a> (#String, #HashMap )
   * -[x] (完成日期: 2024/01/29) <a href="Medium/3020/Find_the_Maximum_Number_of_Elements_in_Subset.ipynb">3020. Find the Maximum Number of Elements in Subset </a> (#Array, #BinarySearch, #HashMap )
   * -[x] (完成日期: 2024/01/30) <a href="Medium/3021/Alice_and_Bob_Playing_Flower_Game.ipynb">3021. Alice and Bob Playing Flower Game </a> (#Math )
