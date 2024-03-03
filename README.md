@@ -495,6 +495,7 @@
   * -[x] (完成日期: 2024/02/18) <a href="Easy/3042/Count_Prefix_and_Suffix_Pairs_I.ipynb">3042. Count Prefix and Suffix Pairs I </a> (#Array, #String )  
   * -[x] (完成日期: 2024/02/25) <a href="Easy/3046/Split_the_Array.ipynb">3046. Split the Array </a> (#Array )  
   * -[x] (完成日期: 2024/03/03) <a href="Easy/3065/Minimum_Operations_to_Exceed_Threshold_Value_I.ipynb">3065. Minimum Operations to Exceed Threshold Value I </a> (#Array, #Heap )  
+  * -[x] (完成日期: 2024/03/03) <a href="Easy/3069/Distribute_Elements_Into_Two_Arrays_I.ipynb">3069. Distribute Elements Into Two Arrays I </a> (#Array )  
 
 * Medium:  
   * -[x] (完成日期: 2022/04/19) <a href="Medium/2/Add_Two_Numbers.ipynb">2. Add Two Numbers </a>
