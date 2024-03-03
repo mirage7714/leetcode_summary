@@ -494,6 +494,7 @@
   * -[x] (完成日期: 2024/02/18) <a href="Easy/3038/Maximum_Number_of_Operations_With_the_Same_Score_I.ipynb">3038. Maximum Number of Operations With the Same Score I </a> (#Array )  
   * -[x] (完成日期: 2024/02/18) <a href="Easy/3042/Count_Prefix_and_Suffix_Pairs_I.ipynb">3042. Count Prefix and Suffix Pairs I </a> (#Array, #String )  
   * -[x] (完成日期: 2024/02/25) <a href="Easy/3046/Split_the_Array.ipynb">3046. Split the Array </a> (#Array )  
+  * -[x] (完成日期: 2024/03/03) <a href="Easy/3065/Minimum_Operations_to_Exceed_Threshold_Value_I.ipynb">3065. Minimum Operations to Exceed Threshold Value I </a> (#Array, #Heap )  
 
 * Medium:  
   * -[x] (完成日期: 2022/04/19) <a href="Medium/2/Add_Two_Numbers.ipynb">2. Add Two Numbers </a>
