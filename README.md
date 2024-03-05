@@ -766,6 +766,7 @@
   * -[x] (完成日期: 2022/08/23) <a href="Medium/1721/Swapping_Nodes_in_a_Linked_List.ipynb">1721. Swapping Nodes in a Linked List </a>
   * -[x] (完成日期: 2021/01/24) <a href="Medium/1732/Find_the_Highest_Altitude.ipynb">1732. Find the Highest Altitude </a>
   * -[x] (完成日期: 2021/01/24) <a href="Medium/1736/Latest_Time_by_Replacing_Hidden_Digits.ipynb">1736. Latest Time by Replacing Hidden Digits </a>
+  * -[x] (完成日期: 2024/03/05) <a href="Medium/1750/Minimum_Length_of_String_After_Deleting_Similar_Ends.ipynb">1750. Minimum Length of String After Deleting Similar Ends </a> (#String, #TwoPointer )
   * -[x] (完成日期: 2021/02/24) <a href="Medium/1754/Largest_Merge_Of_Two_Strings.ipynb">1754. Largest Merge Of Two Strings </a>
   * -[x] (完成日期: 2021/05/19) <a href="Medium/1759/Count_Number_of_Homogenous_Substrings.ipynb">1759. Count Number of Homogenous Substrings </a>
   * -[x] (完成日期: 2022/09/06) <a href="Medium/1792/Maximum_Average_Pass_Ratio.ipynb">1792. Maximum Average Pass Ratio </a> (#Heap, #Math, #Array, #Greedy )
