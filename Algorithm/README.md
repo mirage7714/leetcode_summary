@@ -961,6 +961,7 @@
   * -[x] (完成日期: 2024/02/11) <a href="Medium/3034/Number_of_Subarrays_That_Match_a_Pattern_I.ipynb">3034. Number of Subarrays That Match a Pattern I </a> (#Array )
   * -[x] (完成日期: 2024/02/18) <a href="Medium/3039/Apply_Operations_to_Make_String_Empty.ipynb">3039. Apply Operations to Make String Empty </a> (#String )
   * -[x] (完成日期: 2024/03/03) <a href="Medium/3066/Minimum_Operations_to_Exceed_Threshold_Value_II.ipynb">3066. Minimum Operations to Exceed Threshold Value II </a> (#Array, #Heap )
+  * -[x] (完成日期: 2024/03/11) <a href="Medium/3075/Maximize_Happiness_of_Selected_Children.ipynb">3075. Maximize Happiness of Selected Children </a> (#Array )
 
 * Hard:
   * -[x] (完成日期: 2021/01/09) <a href="Hard/4/Median_of_Two_Sorted_Arrays.ipynb">4. Median of Two Sorted Arrays </a>
