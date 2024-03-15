@@ -4,6 +4,7 @@
   * -[x] (完成日期: 2024/03/05) <a href="577/Employee_Bonus.ipynb">577. Employee Bonus </a>
   * -[x] (完成日期: 2024/03/15) <a href="1075/Project_Employees_I.ipynb">1075. Project Employees I </a>
   * -[x] (完成日期: 2024/03/12) <a href="1211/Queries_Quality_and_Percentage.ipynb">1211. Queries Quality and Percentage </a>
+  * -[x] (完成日期: 2024/03/15) <a href="1327/List_the_Products_Ordered_in_a_Period.ipynb">1327. List the Products Ordered in a Period </a>
   * -[x] (完成日期: 2024/03/12) <a href="1633/Percentage_of_Users_Attended_a_Contest.ipynb">1633. Percentage of Users Attended a Contest </a>
   * -[x] (完成日期: 2024/03/12) <a href="1731/The_Number_of_Employees_Which_Report_to_Each_Employee.ipynb">1731. The Number of Employees Which Report to Each Employee </a>
   * -[x] (完成日期: 2024/03/05) <a href="1789/Primary_Department_for_Each_Employee.ipynb">1789. Primary Department for Each Employee </a>
