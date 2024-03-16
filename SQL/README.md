@@ -2,6 +2,7 @@
 因為很久沒練習用SQL了，這次安排了一周練習一提SQL，並把解題的一些想法與做法記錄下來  
 
   * -[x] (完成日期: 2024/03/05) <a href="577/Employee_Bonus.ipynb">577. Employee Bonus </a>
+  * -[x] (完成日期: 2024/03/16) <a href="602/Friend_Requests_II_Who_Has_the_Most_Friends.ipynb">602. Friend Requests II: Who Has the Most Friends </a>
   * -[x] (完成日期: 2024/03/15) <a href="1075/Project_Employees_I.ipynb">1075. Project Employees I </a>
   * -[x] (完成日期: 2024/03/12) <a href="1211/Queries_Quality_and_Percentage.ipynb">1211. Queries Quality and Percentage </a>
   * -[x] (完成日期: 2024/03/15) <a href="1327/List_the_Products_Ordered_in_a_Period.ipynb">1327. List the Products Ordered in a Period </a>
