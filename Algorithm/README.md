@@ -497,6 +497,7 @@
   * -[x] (完成日期: 2024/03/03) <a href="Easy/3065/Minimum_Operations_to_Exceed_Threshold_Value_I.ipynb">3065. Minimum Operations to Exceed Threshold Value I </a> (#Array, #Heap )  
   * -[x] (完成日期: 2024/03/03) <a href="Easy/3069/Distribute_Elements_Into_Two_Arrays_I.ipynb">3069. Distribute Elements Into Two Arrays I </a> (#Array )  
   * -[x] (完成日期: 2024/03/11) <a href="Easy/3074/Apple_Redistribution_into_Boxes.ipynb">3074. Apple Redistribution into Boxes </a> (#Array )  
+  * -[x] (完成日期: 2024/03/18) <a href="Easy/3079/Find_the_Sum_of_Encrypted_Integers.ipynb">3079. Find the Sum of Encrypted Integers </a> (#Array )  
 
 * Medium:  
   * -[x] (完成日期: 2022/04/19) <a href="Medium/2/Add_Two_Numbers.ipynb">2. Add Two Numbers </a>
