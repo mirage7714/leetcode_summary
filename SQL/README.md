@@ -6,6 +6,7 @@
   * -[x] (完成日期: 2024/03/16) <a href="1045/Customers_Who_Bought_All_Products.ipynb">1045. Customers Who Bought All Products </a>
   * -[x] (完成日期: 2024/03/15) <a href="1075/Project_Employees_I.ipynb">1075. Project Employees I </a>
   * -[x] (完成日期: 2024/03/19) <a href="1084/Sales_Analysis_III.ipynb">1084. Sales Analysis III </a>
+  * -[x] (完成日期: 2024/03/19) <a href="1141/User_Activity_for_the_Past_30_Days_I.ipynb">1141. User Activity for the Past 30 Days I </a>
   * -[x] (完成日期: 2024/03/12) <a href="1211/Queries_Quality_and_Percentage.ipynb">1211. Queries Quality and Percentage </a>
   * -[x] (完成日期: 2024/03/15) <a href="1327/List_the_Products_Ordered_in_a_Period.ipynb">1327. List the Products Ordered in a Period </a>
   * -[x] (完成日期: 2024/03/12) <a href="1633/Percentage_of_Users_Attended_a_Contest.ipynb">1633. Percentage of Users Attended a Contest </a>
