@@ -759,6 +759,7 @@
   * -[x] (完成日期: 2020/12/10) <a href="Medium/1647/Minimum_Deletions_to_Make_Character_Frequencies_Unique.ipynb">1647. Minimum Deletions to Make Character Frequencies Unique </a>
   * -[x] (完成日期: 2021/01/09) <a href="Medium/1657/Determine_if_Two_Strings_Are_Close.ipynb">1657. Determine if Two Strings Are Close </a>
   * -[x] (完成日期: 2021/07/10) <a href="Medium/1663/Smallest_String_With_A_Given_Numeric_Value.ipynb">1663. Smallest String With A Given Numeric Value </a>
+  * -[x] (完成日期: 2024/03/20) <a href="Medium/1669/Merge_In_Between_Linked_Lists.ipynb">1669. Merge In Between Linked Lists </a> (#LinkedList )
   * -[x] (完成日期: 2021/07/01) <a href="Medium/1670/Design_Front_Middle_Back_Queue.ipynb">1670. Design Front Middle Back Queue </a>
   * -[x] (完成日期: 2020/12/09) <a href="Medium/1679/Max_Number_of_K-Sum_Pairs.ipynb">1679. Max Number of K-Sum Pairs </a>
   * -[x] (完成日期: 2022/09/23) <a href="Medium/1680/Concatenation of Consecutive Binary Numbers.ipynb">1680. Concatenation_of_Consecutive_Binary_Numbers </a> (#Math, #BinaryString)
