@@ -955,6 +955,7 @@
   * -[x] (完成日期: 2024/03/28) <a href="Medium/2958/Length_of_Longest_Subarray_With_at_Most_K_Frequency.ipynb">2958. Length of Longest Subarray With at Most K Frequency </a> (#Array, #SlidingWindow )
 
   * -[x] (完成日期: 2023/12/12) <a href="Medium/2961/Double_Modular_Exponentiation.ipynb">2961. Double Modular Exponentiation </a> (#Array )
+  * -[x] (完成日期: 2024/03/29) <a href="Medium/2962/Count_Subarrays_Where_Max_Element_Appears_at_Least_K_Times.ipynb">2962. Count Subarrays Where Max Element Appears at Least K Times </a> (#Array, #SlidingWindow )
   * -[x] (完成日期: 2023/12/18) <a href="Medium/2966/Divide_Array_Into_Arrays_With_Max_Difference.ipynb">2966. Divide Array Into Arrays With Max Difference </a> (#Array, #Heap )
   * -[x] (完成日期: 2023/12/25) <a href="Medium/2971/Find_Polygon_With_the_Largest_Perimeter.ipynb">2971. Find Polygon With the Largest Perimeter </a> (#Array )
   * -[x] (完成日期: 2023/12/31) <a href="Medium/2981/Find_Longest_Special_Substring_That_Occurs_Thrice_I.ipynb">2981. Find Longest Special Substring That Occurs Thrice I </a> (#String )
