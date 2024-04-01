@@ -954,7 +954,6 @@
   * -[x] (完成日期: 2023/12/15) <a href="Medium/2948/Make_Lexicographically_Smallest_Array_by_Swapping_Elements.ipynb">2948. Make Lexicographically Smallest Array by Swapping Elements </a> (#Array )
   * -[x] (完成日期: 2023/12/13) <a href="Medium/2957/Remove_Adjacent_Almost-Equal_Characters.ipynb">2957. Remove Adjacent Almost-Equal Characters </a> (#String )
   * -[x] (完成日期: 2024/03/28) <a href="Medium/2958/Length_of_Longest_Subarray_With_at_Most_K_Frequency.ipynb">2958. Length of Longest Subarray With at Most K Frequency </a> (#Array, #SlidingWindow )
-
   * -[x] (完成日期: 2023/12/12) <a href="Medium/2961/Double_Modular_Exponentiation.ipynb">2961. Double Modular Exponentiation </a> (#Array )
   * -[x] (完成日期: 2024/03/29) <a href="Medium/2962/Count_Subarrays_Where_Max_Element_Appears_at_Least_K_Times.ipynb">2962. Count Subarrays Where Max Element Appears at Least K Times </a> (#Array, #SlidingWindow )
   * -[x] (完成日期: 2023/12/18) <a href="Medium/2966/Divide_Array_Into_Arrays_With_Max_Difference.ipynb">2966. Divide Array Into Arrays With Max Difference </a> (#Array, #Heap )
@@ -976,6 +975,7 @@
   * -[x] (完成日期: 2024/03/18) <a href="Medium/3084/Count_Substrings_Starting_and_Ending_with_Given_Character.ipynb">3084. Count Substrings Starting and Ending with Given Character </a> (#String )
   * -[x] (完成日期: 2024/03/25) <a href="Medium/3091/Apply_Operations_to_Make_Sum_of_Array_Greater_Than_or_Equal_to_k.ipynb">3091. Apply Operations to Make Sum of Array Greater Than or Equal to k </a> (#Math )
   * -[x] (完成日期: 2024/04/01) <a href="Medium/3100/Water_Bottles_II.ipynb">3100. Water Bottles II </a> (#Math )
+  * -[x] (完成日期: 2024/04/01) <a href="Medium/3101/Count_Alternating_Subarrays.ipynb">3101. Count Alternating Subarrays </a> (#Array, #SlidingWindow )
 
 * Hard:
   * -[x] (完成日期: 2021/01/09) <a href="Hard/4/Median_of_Two_Sorted_Arrays.ipynb">4. Median of Two Sorted Arrays </a>
