@@ -974,6 +974,7 @@
   * -[x] (完成日期: 2024/03/18) <a href="Medium/3080/Mark_Elements_on_Array_by_Performing_Queries.ipynb">3080. Mark Elements on Array by Performing Queries </a> (#Array, #Heap )
   * -[x] (完成日期: 2024/03/18) <a href="Medium/3084/Count_Substrings_Starting_and_Ending_with_Given_Character.ipynb">3084. Count Substrings Starting and Ending with Given Character </a> (#String )
   * -[x] (完成日期: 2024/03/25) <a href="Medium/3091/Apply_Operations_to_Make_Sum_of_Array_Greater_Than_or_Equal_to_k.ipynb">3091. Apply Operations to Make Sum of Array Greater Than or Equal to k </a> (#Math )
+  * -[x] (完成日期: 2024/04/01) <a href="Medium/3095/Shortest_Subarray_With_OR_at_Least_K_I.ipynb">3095. Shortest Subarray With OR at Least K I </a> (#Array, #SlidingWindow )
   * -[x] (完成日期: 2024/04/01) <a href="Medium/3100/Water_Bottles_II.ipynb">3100. Water Bottles II </a> (#Math )
   * -[x] (完成日期: 2024/04/01) <a href="Medium/3101/Count_Alternating_Subarrays.ipynb">3101. Count Alternating Subarrays </a> (#Array, #SlidingWindow )
 
