@@ -978,6 +978,7 @@
   * -[x] (完成日期: 2024/04/01) <a href="Medium/3095/Shortest_Subarray_With_OR_at_Least_K_I.ipynb">3095. Shortest Subarray With OR at Least K I </a> (#Array, #SlidingWindow )
   * -[x] (完成日期: 2024/04/01) <a href="Medium/3100/Water_Bottles_II.ipynb">3100. Water Bottles II </a> (#Math )
   * -[x] (完成日期: 2024/04/01) <a href="Medium/3101/Count_Alternating_Subarrays.ipynb">3101. Count Alternating Subarrays </a> (#Array, #SlidingWindow )
+  * -[x] (完成日期: 2024/04/07) <a href="Medium/3106/Lexicographically_Smallest_String_After_Operations_With_Constraint.ipynb">3106. Lexicographically Smallest String After Operations With Constraint </a> (#String )
 
 * Hard:
   * -[x] (完成日期: 2021/01/09) <a href="Hard/4/Median_of_Two_Sorted_Arrays.ipynb">4. Median of Two Sorted Arrays </a>
