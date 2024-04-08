@@ -501,6 +501,7 @@
   * -[x] (完成日期: 2024/03/18) <a href="Easy/3083/Existence_of_a_Substring_in_a_String_and_Its_Reverse.ipynb">3083. Existence of a Substring in a String and Its Reverse </a> (#String )  
   * -[x] (完成日期: 2024/03/25) <a href="Easy/3090/Maximum_Length_Substring_With_Two_Occurrences.ipynb">3090. Maximum Length Substring With Two Occurrences </a> (#String )  
   * -[x] (完成日期: 2024/04/01) <a href="Easy/3099/Harshad_Number.ipynb">3099. Harshad Number </a> (#Math )  
+  * -[x] (完成日期: 2024/04/08) <a href="Easy/3099/Longest_Strictly_Increasing_or_Strictly_Decreasing_Subarray.ipynb">3105. Longest Strictly Increasing or Strictly Decreasing Subarray </a> (#Array )  
 
 * Medium:  
   * -[x] (完成日期: 2022/04/19) <a href="Medium/2/Add_Two_Numbers.ipynb">2. Add Two Numbers </a>
