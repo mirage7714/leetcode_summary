@@ -14,6 +14,7 @@
   * -[x] (完成日期: 2024/03/15) <a href="1075/Project_Employees_I.ipynb">1075. Project Employees I </a>
   * -[x] (完成日期: 2024/03/19) <a href="1084/Sales_Analysis_III.ipynb">1084. Sales Analysis III </a>
   * -[x] (完成日期: 2024/03/19) <a href="1141/User_Activity_for_the_Past_30_Days_I.ipynb">1141. User Activity for the Past 30 Days I </a>
+  * -[x] (完成日期: 2024/04/09) <a href="1148/Article_Views_I.ipynb">1148. Article Views I </a> (#Where )
   * -[x] (完成日期: 2024/03/27) <a href="1174/Immediate_Food_Delivery_II.ipynb">1174. Immediate Food Delivery II </a> (#Partition, #Case )
   * -[x] (完成日期: 2024/03/12) <a href="1211/Queries_Quality_and_Percentage.ipynb">1211. Queries Quality and Percentage </a>
   * -[x] (完成日期: 2024/03/15) <a href="1327/List_the_Products_Ordered_in_a_Period.ipynb">1327. List the Products Ordered in a Period </a>
