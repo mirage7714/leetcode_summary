@@ -5,6 +5,7 @@
   * -[x] (完成日期: 2024/04/02) <a href="182/Duplicate_Emails.ipynb">182. Duplicate Emails </a> (#GroupBy )
   * -[x] (完成日期: 2024/04/02) <a href="183/Customers_Who_Never_Order.ipynb">183. Customers Who Never Order </a> (#TempTable )
   * -[x] (完成日期: 2024/04/02) <a href="262/Trips_and_Users.ipynb">262. Trips and Users </a> (#ifnull )
+  * -[x] (完成日期: 2024/04/09) <a href="511/Game_Play_Analysis_I.ipynb">511. Game Play Analysis I </a> (#Partition )
   * -[x] (完成日期: 2024/03/05) <a href="577/Employee_Bonus.ipynb">577. Employee Bonus </a>
   * -[x] (完成日期: 2024/03/16) <a href="602/Friend_Requests_II_Who_Has_the_Most_Friends.ipynb">602. Friend Requests II: Who Has the Most Friends </a>
   * -[x] (完成日期: 2024/03/27) <a href="610/Triangle_Judgement.ipynb">610. Triangle Judgement </a> (#Case )
