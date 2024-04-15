@@ -984,6 +984,7 @@
   * -[x] (完成日期: 2024/04/01) <a href="Medium/3100/Water_Bottles_II.ipynb">3100. Water Bottles II </a> (#Math )
   * -[x] (完成日期: 2024/04/01) <a href="Medium/3101/Count_Alternating_Subarrays.ipynb">3101. Count Alternating Subarrays </a> (#Array, #SlidingWindow )
   * -[x] (完成日期: 2024/04/07) <a href="Medium/3106/Lexicographically_Smallest_String_After_Operations_With_Constraint.ipynb">3106. Lexicographically Smallest String After Operations With Constraint </a> (#String )
+  * -[x] (完成日期: 2024/04/15) <a href="Medium/3111/Minimum_Rectangles_to_Cover_Points.ipynb">3111. Minimum Rectangles to Cover Points </a> (#Array, #Heap )
   * -[x] (完成日期: 2024/04/14) <a href="Medium/3115/Maximum_Prime_Difference.ipynb">3115. Maximum Prime Difference </a> (#Array )
 
 * Hard:
