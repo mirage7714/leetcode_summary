@@ -7,6 +7,7 @@
   * -[x] (完成日期: 2024/04/02) <a href="262/Trips_and_Users.ipynb">262. Trips and Users </a> (#ifnull )
   * -[x] (完成日期: 2024/04/16) <a href="570/Managers_with_at_Least_5_Direct_Reports.ipynb">570. Managers with at Least 5 Direct Reports </a> (#TempTable, #GroupBy )
   * -[x] (完成日期: 2024/03/05) <a href="577/Employee_Bonus.ipynb">577. Employee Bonus </a>
+  * -[x] (完成日期: 2024/04/16) <a href="584/Find_Customer_Referee.ipynb">584. Find Customer Referee </a> (#Where )
   * -[x] (完成日期: 2024/03/16) <a href="602/Friend_Requests_II_Who_Has_the_Most_Friends.ipynb">602. Friend Requests II: Who Has the Most Friends </a>
   * -[x] (完成日期: 2024/04/09) <a href="608/Tree_Node.ipynb">608. Tree Node </a> (#Case )
   * -[x] (完成日期: 2024/03/27) <a href="610/Triangle_Judgement.ipynb">610. Triangle Judgement </a> (#Case )
