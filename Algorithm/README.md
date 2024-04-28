@@ -505,6 +505,7 @@
   * -[x] (完成日期: 2024/04/14) <a href="Easy/3110/Score_of_a_String.ipynb">3110. Score of a String </a> (#String )  
   * -[x] (完成日期: 2024/04/14) <a href="Easy/3114/Latest_Time_You_Can_Obtain_After_Replacing_Characters.ipynb">3114. Latest Time You Can Obtain After Replacing Characters </a> (#String )  
   * -[x] (完成日期: 2024/04/21) <a href="Easy/3120/Count_the_Number_of_Special_Characters_I.ipynb">3120. Count the Number of Special Characters I </a> (#String )  
+  * -[x] (完成日期: 2024/04/28) <a href="Easy/3131/Find_the_Integer_Added_to_Array_I.ipynb">3131. Find the Integer Added to Array I </a> (#Array )  
 
 * Medium:  
   * -[x] (完成日期: 2022/04/19) <a href="Medium/2/Add_Two_Numbers.ipynb">2. Add Two Numbers </a>
