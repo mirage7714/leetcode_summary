@@ -509,6 +509,7 @@
   * -[x] (完成日期: 2024/04/28) <a href="Easy/3131/Find_the_Integer_Added_to_Array_I.ipynb">3131. Find the Integer Added to Array I </a> (#Array )  
   * -[x] (完成日期: 2024/05/05) <a href="Easy/3136/Valid_Word.ipynb">3136. Valid Word </a> (#String )  
   * -[x] (完成日期: 2024/05/12) <a href="Easy/3146/Permutation_Difference_between_Two_Strings.ipynb">3146. Permutation Difference between Two Strings </a> (#String )  
+  * -[x] (完成日期: 2024/05/19) <a href="Easy/3151/Special_Array_I.ipynb">3151. Special Array I </a> (#Array )  
 
 * Medium:  
   * -[x] (完成日期: 2022/04/19) <a href="Medium/2/Add_Two_Numbers.ipynb">2. Add Two Numbers </a>
