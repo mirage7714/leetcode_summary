@@ -994,6 +994,7 @@
   * -[x] (完成日期: 2024/04/15) <a href="Medium/3111/Minimum_Rectangles_to_Cover_Points.ipynb">3111. Minimum Rectangles to Cover Points </a> (#Array, #Heap )
   * -[x] (完成日期: 2024/04/14) <a href="Medium/3115/Maximum_Prime_Difference.ipynb">3115. Maximum Prime Difference </a> (#Array )
   * -[x] (完成日期: 2024/04/14) <a href="Medium/3121/Count_the_Number_of_Special_Characters_II.ipynb">3121. Count the Number of Special Characters II </a> (#String )
+  * -[x] (完成日期: 2024/05/25) <a href="Medium/3153/Sum_of_Digit_Differences_of_All_Pairs.ipynb">3153. Sum of Digit Differences of All Pairs </a> (#Array, #HashMap )
 
 * Hard:
   * -[x] (完成日期: 2021/01/09) <a href="Hard/4/Median_of_Two_Sorted_Arrays.ipynb">4. Median of Two Sorted Arrays </a>
