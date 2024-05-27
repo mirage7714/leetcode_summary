@@ -512,6 +512,7 @@
   * -[x] (完成日期: 2024/05/12) <a href="Easy/3146/Permutation_Difference_between_Two_Strings.ipynb">3146. Permutation Difference between Two Strings </a> (#String )  
   * -[x] (完成日期: 2024/05/19) <a href="Easy/3151/Special_Array_I.ipynb">3151. Special Array I </a> (#Array )  
   * -[x] (完成日期: 2024/05/26) <a href="Easy/3158/Find_the_XOR_of_Numbers_Which_Appear_Twice.ipynb">3158. Find the XOR of Numbers Which Appear Twice </a> (#Array )  
+  * -[x] (完成日期: 2024/05/27) <a href="Easy/3162/Find_the_Number_of_Good_Pairs_I.ipynb">3162. Find the Number of Good Pairs I </a> (#Array )  
 
 * Medium:  
   * -[x] (完成日期: 2022/04/19) <a href="Medium/2/Add_Two_Numbers.ipynb">2. Add Two Numbers </a>
