@@ -999,6 +999,7 @@
   * -[x] (完成日期: 2024/04/14) <a href="Medium/3121/Count_the_Number_of_Special_Characters_II.ipynb">3121. Count the Number of Special Characters II </a> (#String )
   * -[x] (完成日期: 2024/05/25) <a href="Medium/3153/Sum_of_Digit_Differences_of_All_Pairs.ipynb">3153. Sum of Digit Differences of All Pairs </a> (#Array, #HashMap )
   * -[x] (完成日期: 2024/05/26) <a href="Medium/3159/Find_Occurrences_of_an_Element_in_an_Array.ipynb">3159. Find Occurrences of an Element in an Array </a> (#Array )
+  * -[x] (完成日期: 2024/05/28) <a href="Medium/3160/Find_the_Number_of_Distinct_Colors_Among_the_Balls.ipynb">3160. Find the Number of Distinct Colors Among the Balls </a> (#HashMap , #Array)
   * -[x] (完成日期: 2024/05/27) <a href="Medium/3163/String_Compression_III.ipynb">3163. String Compression III </a> (#String )
 
 * Hard:
