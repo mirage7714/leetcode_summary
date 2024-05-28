@@ -720,13 +720,14 @@
   * -[x] (完成日期: 2022/09/19) <a href="Medium/994/Rotting_Oranges.ipynb">994. Rotting Oranges </a> (#Matrix, #Array, #BFS)
   * -[x] (完成日期: 2022/07/27) <a href="Medium/1007/Minimum_Domino_Rotations_For_Equal_Row.ipynb">1007. Minimum Domino Rotations For Equal Row </a>  
   * -[x] (完成日期: 2022/09/16) <a href="Medium/1019/Next_Greater_Node_In_Linked_List.ipynb">1019. Next Greater Node In Linked List </a>  (#Array, #Stack, #LinkedList, #MonotonicStack )
-  * -[x] (完成日期: 2023/09/07) <a href="Medium/1023/Camelcase_Matching.ipynb">1023. Camelcase Matching </a>  (#Array, #String )04
+  * -[x] (完成日期: 2023/09/07) <a href="Medium/1023/Camelcase_Matching.ipynb">1023. Camelcase Matching </a>  (#Array, #String )
   * -[x] (完成日期: 2022/12/09) <a href="Medium/1026/Maximum_Difference_Between_Node_and_Ancestor.ipynb">1026. Maximum Difference Between Node and Ancestor </a>  (#BinaryTree)
   * -[x] (完成日期: 2022/06/29) <a href="Medium/1054/Distant_Barcodes.ipynb">1054. Distant Barcodes </a>  
   * -[x] (完成日期: 2022/09/22) <a href="Medium/1110/Delete_Nodes_And_Return_Forest.ipynb">1110. Delete Nodes And Return Forest </a> (#BinaryTree, #DFS)
   * -[x] (完成日期: 2021/02/08) <a href="Medium/1138/Alphabet_Board_Path.ipynb">1138. Alphabet Board Path </a>
   * -[x] (完成日期: 2023/02/15) <a href="Medium/1146/Snapshot_Array.ipynb">1146. Snapshot Array </a>  (#HashMap, #Array)
   * -[x] (完成日期: 2022/09/22) <a href="Medium/1161/Maximum_Level_Sum_of_a_Binary_Tree.ipynb">1161. Maximum Level Sum of a Binary Tree </a>  (#BinaryTree, #BFS)
+  * -[x] (完成日期: 2024/05/28) <a href="Medium/1208/Get_Equal_Substrings_Within_Budget.ipynb">1208. Get Equal Substrings Within Budget </a>  (#Array, #SlidingWindow)
   * -[x] (完成日期: 2024/04/06) <a href="Medium/1249/Minimum_Remove_to_Make_Valid_Parentheses.ipynb">1249. Minimum Remove to Make Valid Parentheses </a>  (#Array, #Stack)
   * -[x] (完成日期: 2022/09/05) <a href="Medium/1253/Reconstruct_a_2-Row_Binary_Matrix.ipynb">1253. Reconstruct a 2-Row Binary Matrix </a> (#Array, #Greedy, #2D-list )
   * -[x] (完成日期: 2022/09/24) <a href="Medium/1261/Find_Elements_in_a_Contaminated_Binary_Tree.ipynb">1261. Find Elements in a Contaminated Binary Tree </a> (#BFS, #BinaryTree )
