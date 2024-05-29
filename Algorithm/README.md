@@ -751,6 +751,7 @@
   * -[x] (完成日期: 2023/02/15) <a href="Medium/1387/Sort_Integers_by_The_Power_Value.ipynb">1387. Sort Integers by The Power Value </a> (#Array, #Heap)
   * -[x] (完成日期: 2020/12/10) <a href="Medium/1395/Count_Number_of_Teams.ipynb">1395. Count Number of Teams </a>
   * -[x] (完成日期: 2021/06/30) <a href="Medium/1396/Design_Underground_System.ipynb">1396. Design Underground System </a>
+  * -[x] (完成日期: 2024/05/29) <a href="Medium/1404/Number_of_Steps_to_Reduce_a_Number_in_Binary_Representation_to_One.ipynb">1404. Number of Steps to Reduce a Number in Binary Representation to One </a> (#String, #BitManipulation)
   * -[x] (完成日期: 2022/09/20) <a href="Medium/1405/Longest_Happy_String.ipynb">1405. Longest Happy String </a> (#Array, #String, #Heap)
   * -[x] (完成日期: 2020/12/09) <a href="Medium/1410/HTML_Entity_Parser.ipynb">1410. HTML Entity Parser </a>
   * -[x] (完成日期: 2021/06/20) <a href="Medium/1418/Display_Table_of_Food_Orders_in_a_Restaurant.ipynb">1418. Display Table of Food Orders in a Restaurant </a>
