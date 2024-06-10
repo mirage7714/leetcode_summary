@@ -169,6 +169,7 @@
   * -[x] (完成日期: 2020/12/14) <a href="Easy/1037/Valid_Boomerang.ipynb">1037. Valid Boomerang </a>
   * -[x] (完成日期: 2020/10/08) <a href="Easy/1046/Last_Stone_Weight.ipynb">1046. Last Stone Weight </a>
   * -[x] (完成日期: 2020/10/13) <a href="Easy/1047/Remove_All_Adjacent_Duplicates_In_String.ipynb">1047. Remove All Adjacent Duplicates In String </a>
+  * -[x] (完成日期: 2024/06/10) <a href="Easy/1051/Height_Checker.ipynb">1051. Height Checker </a> (#Array, #Sorting )
   * -[x] (完成日期: 2020/10/23) <a href="Easy/1078/Occurrences_After_Bigram.ipynb">1078. Occurrences After Bigram </a>
   * -[x] (完成日期: 2020/10/19) <a href="Easy/1089/Duplicate_Zeros.ipynb">1089. Duplicate Zeros </a>
   * -[x] (完成日期: 2020/10/19) <a href="Easy/1103/Distribute_Candies_to_People.ipynb">1103. Distribute Candies to People </a>
