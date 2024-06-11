@@ -174,6 +174,7 @@
   * -[x] (完成日期: 2020/10/19) <a href="Easy/1089/Duplicate_Zeros.ipynb">1089. Duplicate Zeros </a>
   * -[x] (完成日期: 2020/10/19) <a href="Easy/1103/Distribute_Candies_to_People.ipynb">1103. Distribute Candies to People </a>
   * -[x] (完成日期: 2020/10/13) <a href="Easy/1108/Defanging_an_IP_Address.ipynb">1108. Defanging an IP Address </a>
+  * -[x] (完成日期: 2024/06/11) <a href="Easy/1122/Relative_Sort_Array.ipynb">1122. Relative Sort Array </a> (#Array, #Sorting )
   * -[x] (完成日期: 2021/01/05) <a href="Easy/1128/Number_of_Equivalent_Domino_Pairs.ipynb">1128. Number of Equivalent Domino Pairs </a>
   * -[x] (完成日期: 2020/10/21) <a href="Easy/1170/Compare_Strings_by_Frequency_of_the_Smallest_Character.ipynb">1170. Compare Strings by Frequency of the Smallest Character </a>
   * -[x] (完成日期: 2020/11/27) <a href="Easy/1184/Distance_Between_Bus_Stops.ipynb">1184. Distance Between Bus Stops </a>
