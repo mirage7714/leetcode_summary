@@ -518,7 +518,7 @@
   * -[x] (完成日期: 2024/06/02) <a href="Easy/3168/Minimum_Number_of_Chairs_in_a_Waiting_Room.ipynb">3168. Minimum Number of Chairs in a Waiting Room </a> (#String )
   * -[x] (完成日期: 2024/06/09) <a href="Easy/3174/Clear_Digits.ipynb">3174. Clear Digits </a> (#String )
   * -[x] (完成日期: 2024/06/09) <a href="Easy/3178/Find_the_Child_Who_Has_the_Ball_After_K_Seconds.ipynb">3178. Find the Child Who Has the Ball After K Seconds </a> (#Math )
-  
+
 * Medium:  
   * -[x] (完成日期: 2022/04/19) <a href="Medium/2/Add_Two_Numbers.ipynb">2. Add Two Numbers </a>
   * -[x] (完成日期: 2022/04/01) <a href="Medium/3/Longest_Substring_Without_Repeating_Characters.ipynb">3. Longest Substring Without Repeating Characters </a>
@@ -711,6 +711,7 @@
   * -[x] (完成日期: 2022/08/30) <a href="Medium/912/Sort_an_Array.ipynb">912. Sort an Array </a> (#MergeSort #HeapSort )
   * -[x] (完成日期: 2022/08/09) <a href="Medium/916/Word_Subsets.ipynb">916. Word Subsets </a>
   * -[x] (完成日期: 2022/06/07) <a href="Medium/921/Minimum_Add_to_Make_Parentheses_Valid.ipynb">921. Minimum Add to Make Parentheses Valid </a>
+  * -[x] (完成日期: 2024/06/14) <a href="Medium/945/Minimum_Increment_to_Make_Array_Unique.ipynb">945. Minimum Increment to Make Array Unique </a> (#Array, #Sorting)
   * -[x] (完成日期: 2021/07/22) <a href="Medium/948/Bag_of_Tokens.ipynb">948. Bag of Tokens </a>  
   * -[x] (完成日期: 2020/10/29) <a href="Medium/949/Largest_Time_for_Given_Digits.ipynb">949. Largest Time for Given Digits </a>
   * -[x] (完成日期: 2024/04/10) <a href="Medium/950/Reveal_Cards_In_Increasing_Order.ipynb">950. Reveal Cards In Increasing Order </a> (#Array, #Sorting )
