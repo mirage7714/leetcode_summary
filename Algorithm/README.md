@@ -518,6 +518,7 @@
   * -[x] (完成日期: 2024/06/02) <a href="Easy/3168/Minimum_Number_of_Chairs_in_a_Waiting_Room.ipynb">3168. Minimum Number of Chairs in a Waiting Room </a> (#String )
   * -[x] (完成日期: 2024/06/09) <a href="Easy/3174/Clear_Digits.ipynb">3174. Clear Digits </a> (#String )
   * -[x] (完成日期: 2024/06/09) <a href="Easy/3178/Find_the_Child_Who_Has_the_Ball_After_K_Seconds.ipynb">3178. Find the Child Who Has the Ball After K Seconds </a> (#Math )
+  * -[x] (完成日期: 2024/06/16) <a href="Easy/3184/Count_Pairs_That_Form_a_Complete_Day_I.ipynb">3184. Count Pairs That Form a Complete Day I </a> (#Array )
 
 * Medium:  
   * -[x] (完成日期: 2022/04/19) <a href="Medium/2/Add_Two_Numbers.ipynb">2. Add Two Numbers </a>
