@@ -520,6 +520,8 @@
   * -[x] (完成日期: 2024/06/09) <a href="Easy/3178/Find_the_Child_Who_Has_the_Ball_After_K_Seconds.ipynb">3178. Find the Child Who Has the Ball After K Seconds </a> (#Math )
   * -[x] (完成日期: 2024/06/16) <a href="Easy/3184/Count_Pairs_That_Form_a_Complete_Day_I.ipynb">3184. Count Pairs That Form a Complete Day I </a> (#Array )
   * -[x] (完成日期: 2024/06/23) <a href="Easy/3190/Find_Minimum_Operations_to_Make_All_Elements_Divisible_by_Three.ipynb">3190. Find Minimum Operations to Make All Elements Divisible by Three </a> (#Array )
+  * -[x] (完成日期: 2024/06/23) <a href="Easy/3194/Minimum_Average_of_Smallest_and_Largest_Elements.ipynb">3194. Minimum Average of Smallest and Largest Elements </a> (#Array )
+
 
 * Medium:  
   * -[x] (完成日期: 2022/04/19) <a href="Medium/2/Add_Two_Numbers.ipynb">2. Add Two Numbers </a>
