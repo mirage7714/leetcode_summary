@@ -1015,6 +1015,7 @@
   * -[x] (完成日期: 2024/06/11) <a href="Medium/3175/Find_The_First_Player_to_win_K_Games_in_a_Row.ipynb">3175. Find The First Player to win K Games in a Row </a> (#Array )
   * -[x] (完成日期: 2024/06/09) <a href="Medium/3179/Find_the_N-th_Value_After_K_Seconds.ipynb">3179. Find the N-th Value After K Seconds </a> (#Math )
   * -[x] (完成日期: 2024/06/17) <a href="Medium/3185/Count_Pairs_That_Form_a_Complete_Day_II.ipynb">3185. Count Pairs That Form a Complete Day II </a> (#Array, #HashMap )
+  * -[x] (完成日期: 2024/06/24) <a href="Medium/3192/Minimum_Operations_to_Make_Binary_Array_Elements_Equal_to_One_II.ipynb">3192. Minimum Operations to Make Binary Array Elements Equal to One II </a> (#Array, #SlidingWindow )
   * -[x] (完成日期: 2024/06/24) <a href="Medium/3195/Find_the_Minimum_Area_to_Cover_All_Ones_I.ipynb">3195. Find the Minimum Area to Cover All Ones I </a> (#Matrix )
 
 * Hard:
