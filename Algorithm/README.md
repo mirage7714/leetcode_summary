@@ -521,6 +521,7 @@
   * -[x] (完成日期: 2024/06/16) <a href="Easy/3184/Count_Pairs_That_Form_a_Complete_Day_I.ipynb">3184. Count Pairs That Form a Complete Day I </a> (#Array )
   * -[x] (完成日期: 2024/06/23) <a href="Easy/3190/Find_Minimum_Operations_to_Make_All_Elements_Divisible_by_Three.ipynb">3190. Find Minimum Operations to Make All Elements Divisible by Three </a> (#Array )
   * -[x] (完成日期: 2024/06/23) <a href="Easy/3194/Minimum_Average_of_Smallest_and_Largest_Elements.ipynb">3194. Minimum Average of Smallest and Largest Elements </a> (#Array )
+  * -[x] (完成日期: 2024/07/01) <a href="Easy/3200/Maximum_Height_of_a_Triangle.ipynb">3200. Maximum Height of a Triangle </a> (#Math )
 
 
 * Medium:  
