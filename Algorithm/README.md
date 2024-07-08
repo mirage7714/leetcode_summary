@@ -1021,6 +1021,7 @@
   * -[x] (完成日期: 2024/06/25) <a href="Medium/3191/Minimum_Operations_to_Make_Binary_Array_Elements_Equal_to_One_I.ipynb">3192. Minimum Operations to Make Binary Array Elements Equal to One I </a> (#Array, #SlidingWindow )
   * -[x] (完成日期: 2024/06/24) <a href="Medium/3192/Minimum_Operations_to_Make_Binary_Array_Elements_Equal_to_One_II.ipynb">3192. Minimum Operations to Make Binary Array Elements Equal to One II </a> (#Array, #SlidingWindow )
   * -[x] (完成日期: 2024/06/24) <a href="Medium/3195/Find_the_Minimum_Area_to_Cover_All_Ones_I.ipynb">3195. Find the Minimum Area to Cover All Ones I </a> (#Matrix )
+  * -[x] (完成日期: 2024/07/08) <a href="Medium/3207/Maximum_Points_After_Enemy_Battles.ipynb">3207. Maximum Points After Enemy Battles </a> (#Array, #Math )
 
 * Hard:
   * -[x] (完成日期: 2021/01/09) <a href="Hard/4/Median_of_Two_Sorted_Arrays.ipynb">4. Median of Two Sorted Arrays </a>
