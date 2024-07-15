@@ -524,6 +524,7 @@
   * -[x] (完成日期: 2024/07/01) <a href="Easy/3200/Maximum_Height_of_a_Triangle.ipynb">3200. Maximum Height of a Triangle </a> (#Math )
   * -[x] (完成日期: 2024/07/08) <a href="Easy/3206/Alternating_Groups_I.ipynb">3206. Alternating Groups I </a> (#Array )
   * -[x] (完成日期: 2024/07/07) <a href="Easy/3210/Find_the_Encrypted_String.ipynb">3210. Find the Encrypted String </a> (#String )
+  * -[x] (完成日期: 2024/07/15) <a href="Easy/3216/Lexicographically_Smallest_String_After_a_Swap.ipynb">3216. Lexicographically Smallest String After a Swap </a> (#String )
 
 
 * Medium:  
