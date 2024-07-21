@@ -525,7 +525,7 @@
   * -[x] (完成日期: 2024/07/08) <a href="Easy/3206/Alternating_Groups_I.ipynb">3206. Alternating Groups I </a> (#Array )
   * -[x] (完成日期: 2024/07/07) <a href="Easy/3210/Find_the_Encrypted_String.ipynb">3210. Find the Encrypted String </a> (#String )
   * -[x] (完成日期: 2024/07/15) <a href="Easy/3216/Lexicographically_Smallest_String_After_a_Swap.ipynb">3216. Lexicographically Smallest String After a Swap </a> (#String )
-
+  * -[x] (完成日期: 2024/07/21) <a href="Easy/3222/Find_the_Winning_Player_in_Coin_Game.ipynb">3222. Find the Winning Player in Coin Game </a> (#Math )
 
 * Medium:  
   * -[x] (完成日期: 2022/04/19) <a href="Medium/2/Add_Two_Numbers.ipynb">2. Add Two Numbers </a>
