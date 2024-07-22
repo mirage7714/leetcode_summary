@@ -1026,6 +1026,7 @@
   * -[x] (完成日期: 2024/07/08) <a href="Medium/3207/Maximum_Points_After_Enemy_Battles.ipynb">3207. Maximum Points After Enemy Battles </a> (#Array, #Math )
   * -[x] (完成日期: 2024/07/09) <a href="Medium/3211/Generate_Binary_Strings_Without_Adjacent_Zeros.ipynb">3211. Generate Binary Strings Without Adjacent Zeros </a> (#String, #Recursion )
   * -[x] (完成日期: 2024/07/18) <a href="Medium/3217/Delete_Nodes_From_Linked_List_Present_in_Array.ipynb">3217. Delete Nodes From Linked List Present in Array </a> (#LinkedList )
+  * -[x] (完成日期: 2024/07/22) <a href="Medium/3227/Vowels_Game_in_a_String.ipynb">3227. Vowels Game in a String </a> (#String, #Math )
 
 * Hard:
   * -[x] (完成日期: 2021/01/09) <a href="Hard/4/Median_of_Two_Sorted_Arrays.ipynb">4. Median of Two Sorted Arrays </a>
