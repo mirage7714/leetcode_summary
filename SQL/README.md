@@ -26,3 +26,4 @@
   * -[x] (完成日期: 2024/03/16) <a href="1890/The_Latest_Login_in_2020.ipynb">1890. The Latest Login in 2020 </a>
   * -[x] (完成日期: 2024/03/12) <a href="1934/Confirmation_Rate.ipynb">1934. Confirmation Rate </a>
   * -[x] (完成日期: 2024/03/05) <a href="1978/Employees_Whose_Manager_Left_the_Company.ipynb">1978. Employees Whose Manager Left the Company </a>
+  * -[x] (完成日期: 2024/07/30) <a href="3220/Odd_and_Even_Transactions.ipynb">3220. Odd and Even Transactions </a> (#Groupby )
