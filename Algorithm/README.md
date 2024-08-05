@@ -529,6 +529,7 @@
   * -[x] (完成日期: 2024/07/21) <a href="Easy/3226/Number_of_Bit_Changes_to_Make_Two_Integers_Equal.ipynb">3226. Number of Bit Changes to Make Two Integers Equal </a> (#BitManipulation )
   * -[x] (完成日期: 2024/07/28) <a href="Easy/3232/Find_if_Digit_Game_Can_Be_Won.ipynb">3232. Find if Digit Game Can Be Won </a> (#Array )
   * -[x] (完成日期: 2024/08/05) <a href="Easy/3238/Find_the_Number_of_Winning_Players.ipynb">3238. Find the Number of Winning Players </a> (#Array )
+  * -[x] (完成日期: 2024/08/05) <a href="Easy/3242/Design_Neighbor_Sum_Service.ipynb">3242. Design Neighbor Sum Service </a> (#Design, #Matrix )
 
 * Medium:  
   * -[x] (完成日期: 2022/04/19) <a href="Medium/2/Add_Two_Numbers.ipynb">2. Add Two Numbers </a>
