@@ -530,7 +530,7 @@
   * -[x] (完成日期: 2024/07/28) <a href="Easy/3232/Find_if_Digit_Game_Can_Be_Won.ipynb">3232. Find if Digit Game Can Be Won </a> (#Array )
   * -[x] (完成日期: 2024/08/05) <a href="Easy/3238/Find_the_Number_of_Winning_Players.ipynb">3238. Find the Number of Winning Players </a> (#Array )
   * -[x] (完成日期: 2024/08/05) <a href="Easy/3242/Design_Neighbor_Sum_Service.ipynb">3242. Design Neighbor Sum Service </a> (#Design, #Matrix )
-  * -[x] (完成日期: 2024/08/12) <a href="Easy/3248/Snake_in_Matrix.ipynb">3248. Snake in Matrix </a> (#Math )
+  * -[x] (完成日期: 2024/08/12) <a href="Easy/3248/Snake_in_Matri	x.ipynb">3248. Snake in Matrix </a> (#Math )
 
 * Medium:  
   * -[x] (完成日期: 2022/04/19) <a href="Medium/2/Add_Two_Numbers.ipynb">2. Add Two Numbers </a>
@@ -675,6 +675,7 @@
   * -[x] (完成日期: 2022/09/08) <a href="Medium/621/Task_Scheduler">621. Task Scheduler </a> (#Queue, #Greedy, #Array )
   * -[x] (完成日期: 2022/06/09) <a href="Medium/622/Design_Circular_Queue">622. Design Circular Queue </a>
   * -[x] (完成日期: 2022/10/05) <a href="Medium/623/Design_Circular_Queue">623. Add One Row to Tree </a> (#BinaryTree, #BFS)
+  * -[x] (完成日期: 2024/08/16) <a href="Medium/624/Maximum_Distance_in_Arrays">624. Maximum Distance in Arrays </a> (#Array, #Greedy)
   * -[x] (完成日期: 2023/09/15) <a href="Medium/633/Sum_of_Square_Numbers">633. Sum of Square Numbers </a> (#Math, #TwoPointer)
   * -[x] (完成日期: 2023/08/22) <a href="Medium/640/Solve_the_Equation">640. Solve the Equation </a> (#String, #Math )
   * -[x] (完成日期: 2022/06/09) <a href="Medium/641/Design_Circular_Deque">641. Design Circular Deque </a>
