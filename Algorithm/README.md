@@ -1037,6 +1037,7 @@
   * -[x] (完成日期: 2024/07/22) <a href="Medium/3227/Vowels_Game_in_a_String.ipynb">3227. Vowels Game in a String </a> (#String, #Math )
   * -[x] (完成日期: 2024/07/30) <a href="Medium/3233/Find_the_Count_of_Numbers_Which_Are_Not_Special.ipynb">3233. Find the Count of Numbers Which Are Not Special </a> (#Math )
   * -[x] (完成日期: 2024/08/19) <a href="Medium/3254/Find_the_Power_of_K-Size_Subarrays_I.ipynb">3254. Find the Power of K-Size Subarrays I </a> (#Array )
+  * -[x] (完成日期: 2024/08/21) <a href="Medium/3255/Find_the_Power_of_K-Size_Subarrays_II.ipynb">3255. Find the Power of K-Size Subarrays II </a> (#Array, #SlidingWindow )
 
 * Hard:
   * -[x] (完成日期: 2021/01/09) <a href="Hard/4/Median_of_Two_Sorted_Arrays.ipynb">4. Median of Two Sorted Arrays </a>
