@@ -535,6 +535,7 @@
   * -[x] (完成日期: 2024/08/26) <a href="Easy/3264/Final_Array_State_After_K_Multiplication_Operations_I.ipynb">3264. Final Array State After K Multiplication Operations I </a> (#Array, #Heap )
   * -[x] (完成日期: 2024/09/01) <a href="Easy/3270/Find_the_Key_of_the_Numbers.ipynb">3270. Find the Key of the Numbers </a> (#String )
   * -[x] (完成日期: 2024/09/02) <a href="Easy/3274/Check_if_Two_Chessboard_Squares_Have_the_Same_Color.ipynb">3274. Check if Two Chessboard Squares Have the Same Color </a> (#String )
+  * -[x] (完成日期: 2024/09/09) <a href="Easy/3280/Convert_Date_to_Binary.ipynb">3280. Convert Date to Binary </a> (#String )
 
 * Medium:  
   * -[x] (完成日期: 2022/04/19) <a href="Medium/2/Add_Two_Numbers.ipynb">2. Add Two Numbers </a>
