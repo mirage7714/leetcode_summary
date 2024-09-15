@@ -537,6 +537,7 @@
   * -[x] (完成日期: 2024/09/02) <a href="Easy/3274/Check_if_Two_Chessboard_Squares_Have_the_Same_Color.ipynb">3274. Check if Two Chessboard Squares Have the Same Color </a> (#String )
   * -[x] (完成日期: 2024/09/09) <a href="Easy/3280/Convert_Date_to_Binary.ipynb">3280. Convert Date to Binary </a> (#String )
   * -[x] (完成日期: 2024/09/15) <a href="Easy/3285/Find_Indices_of_Stable_Mountains.ipynb">3285. Find Indices of Stable Mountains </a> (#Array )
+  * -[x] (完成日期: 2024/09/15) <a href="Easy/3289/The_Two_Sneaky_Numbers_of_Digitville.ipynb">3289. The Two Sneaky Numbers of Digitville </a> (#Array )
 
 * Medium:  
   * -[x] (完成日期: 2022/04/19) <a href="Medium/2/Add_Two_Numbers.ipynb">2. Add Two Numbers </a>
