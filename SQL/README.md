@@ -21,6 +21,7 @@
   * -[x] (完成日期: 2024/03/15) <a href="1327/List_the_Products_Ordered_in_a_Period.ipynb">1327. List the Products Ordered in a Period </a>
   * -[x] (完成日期: 2024/03/26) <a href="1341/Movie_Rating.ipynb">1341. Movie Rating </a>
   * -[x] (完成日期: 2024/03/12) <a href="1633/Percentage_of_Users_Attended_a_Contest.ipynb">1633. Percentage of Users Attended a Contest </a>
+  * -[x] (完成日期: 2024/09/17) <a href="1661/Average_Time_of_Process_per_Machine.ipynb">1661. Average Time of Process per Machine </a> (#Rank, #GroupBy )
   * -[x] (完成日期: 2024/03/12) <a href="1731/The_Number_of_Employees_Which_Report_to_Each_Employee.ipynb">1731. The Number of Employees Which Report to Each Employee </a>
   * -[x] (完成日期: 2024/03/05) <a href="1789/Primary_Department_for_Each_Employee.ipynb">1789. Primary Department for Each Employee </a>
   * -[x] (完成日期: 2024/03/16) <a href="1890/The_Latest_Login_in_2020.ipynb">1890. The Latest Login in 2020 </a>
