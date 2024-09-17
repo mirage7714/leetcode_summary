@@ -18,6 +18,7 @@
   * -[x] (完成日期: 2024/03/19) <a href="1141/User_Activity_for_the_Past_30_Days_I.ipynb">1141. User Activity for the Past 30 Days I </a>
   * -[x] (完成日期: 2024/03/27) <a href="1174/Immediate_Food_Delivery_II.ipynb">1174. Immediate Food Delivery II </a> (#Partition, #Case )
   * -[x] (完成日期: 2024/03/12) <a href="1211/Queries_Quality_and_Percentage.ipynb">1211. Queries Quality and Percentage </a>
+  * -[x] (完成日期: 2024/09/17) <a href="1251/Average_Selling_Price.ipynb">1251. Average Selling Price </a> (#GroupBy )
   * -[x] (完成日期: 2024/03/15) <a href="1327/List_the_Products_Ordered_in_a_Period.ipynb">1327. List the Products Ordered in a Period </a>
   * -[x] (完成日期: 2024/03/26) <a href="1341/Movie_Rating.ipynb">1341. Movie Rating </a>
   * -[x] (完成日期: 2024/03/12) <a href="1633/Percentage_of_Users_Attended_a_Contest.ipynb">1633. Percentage of Users Attended a Contest </a>
