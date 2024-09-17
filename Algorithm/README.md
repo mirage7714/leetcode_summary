@@ -1042,6 +1042,7 @@
   * -[x] (完成日期: 2024/07/18) <a href="Medium/3217/Delete_Nodes_From_Linked_List_Present_in_Array.ipynb">3217. Delete Nodes From Linked List Present in Array </a> (#LinkedList )
   * -[x] (完成日期: 2024/07/22) <a href="Medium/3223/Minimum_Length_of_String_After_Operations.ipynb">3223. Minimum Length of String After Operations </a> (#String, #HashMap )
   * -[x] (完成日期: 2024/07/22) <a href="Medium/3227/Vowels_Game_in_a_String.ipynb">3227. Vowels Game in a String </a> (#String, #Math )
+  * -[x] (完成日期: 2024/09/17) <a href="Medium/3228/Maximum_Number_of_Operations_to_Move_Ones_to_the_End.ipynb">3228. Maximum Number of Operations to Move Ones to the End </a> (#String, #Counting )
   * -[x] (完成日期: 2024/07/30) <a href="Medium/3233/Find_the_Count_of_Numbers_Which_Are_Not_Special.ipynb">3233. Find the Count of Numbers Which Are Not Special </a> (#Math )
   * -[x] (完成日期: 2024/08/19) <a href="Medium/3254/Find_the_Power_of_K-Size_Subarrays_I.ipynb">3254. Find the Power of K-Size Subarrays I </a> (#Array )
   * -[x] (完成日期: 2024/08/21) <a href="Medium/3255/Find_the_Power_of_K-Size_Subarrays_II.ipynb">3255. Find the Power of K-Size Subarrays II </a> (#Array, #SlidingWindow )
