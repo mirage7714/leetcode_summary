@@ -1050,6 +1050,7 @@
   * -[x] (完成日期: 2024/08/21) <a href="Medium/3255/Find_the_Power_of_K-Size_Subarrays_II.ipynb">3255. Find the Power of K-Size Subarrays II </a> (#Array, #SlidingWindow )
   * -[x] (完成日期: 2024/08/26) <a href="Medium/3265/Count_Almost_Equal_Pairs_I.ipynb">3265. Count Almost Equal Pairs I </a> (#Array, #String )
   * -[x] (完成日期: 2024/09/01) <a href="Medium/3271/Hash_Divided_String.ipynb">3271. Hash Divided String </a> (#String )
+  * -[x] (完成日期: 2024/09/30) <a href="Medium/3301/Maximize_the_Total_Height_of_Unique_Towers.ipynb">3301. Maximize the Total Height of Unique Towers </a> (#Array, #Heap )
 
 * Hard:
   * -[x] (完成日期: 2021/01/09) <a href="Hard/4/Median_of_Two_Sorted_Arrays.ipynb">4. Median of Two Sorted Arrays </a>
