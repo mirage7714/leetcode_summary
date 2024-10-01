@@ -794,6 +794,7 @@
   * -[x] (完成日期: 2022/06/08) <a href="Medium/1481/Least_Number_of_Unique_Integers_after_K_Removals.ipynb">1481. Least Number of Unique Integers after K Removals </a>
   * -[x] (完成日期: 2021/01/09) <a href="Medium/1492/The_kth_Factor_of_n.ipynb">1492. The kth Factor of n </a>
   * -[x] (完成日期: 2021/01/26) <a href="Medium/1493/Longest_Subarray_of_1's_After_Deleting_One_Element.ipynb">1493. Longest Subarray of 1's After Deleting One Element </a>
+  * -[x] (完成日期: 2024/10/01) <a href="Medium/1497/Check_If_Array_Pairs_Are_Divisible_by_k.ipynb">1497. Check If Array Pairs Are Divisible by k </a> (#Array, #HeapMap)
   * -[x] (完成日期: 2021/01/09) <a href="Medium/1508/Range_Sum_of_Sorted_Subarray_Sums.ipynb">1508. Range Sum of Sorted Subarray Sums </a>
   * -[x] (完成日期: 2020/11/27) <a href="Medium/1509/Minimum_Difference_Between_Largest_and_Smallest_Value_in_Three_Moves.ipynb">1509. Minimum Difference Between Largest and Smallest Value in Three Moves </a>
   * -[x] (完成日期: 2021/01/12) <a href="Medium/1513/Number_of_Substrings_With_Only_1s.ipynb">1513. Number of Substrings With Only 1s </a>
