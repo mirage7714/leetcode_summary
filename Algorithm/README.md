@@ -1052,6 +1052,7 @@
   * -[x] (完成日期: 2024/08/26) <a href="Medium/3265/Count_Almost_Equal_Pairs_I.ipynb">3265. Count Almost Equal Pairs I </a> (#Array, #String )
   * -[x] (完成日期: 2024/09/01) <a href="Medium/3271/Hash_Divided_String.ipynb">3271. Hash Divided String </a> (#String )
   * -[x] (完成日期: 2024/10/08) <a href="Medium/3295/Report_Spam_Message.ipynb">3295. Report Spam Message </a> (#Array, #HashMap )
+  * -[x] (完成日期: 2024/10/09) <a href="Medium/3296/Minimum_Number_of_Seconds_to_Make_Mountain_Height_Zero.ipynb">3296. Minimum Number of Seconds to Make Mountain Height Zero </a> (#Array, #Heap )
   * -[x] (完成日期: 2024/09/30) <a href="Medium/3301/Maximize_the_Total_Height_of_Unique_Towers.ipynb">3301. Maximize the Total Height of Unique Towers </a> (#Array, #Heap )
   * -[x] (完成日期: 2024/10/08) <a href="Medium/3309/Maximum_Possible_Number_by_Binary_Concatenation.ipynb">3309. Maximum Possible Number by Binary Concatenation </a> (#Array, #BitManipulation )
 
