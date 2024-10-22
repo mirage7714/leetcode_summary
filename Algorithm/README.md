@@ -540,6 +540,7 @@
   * -[x] (完成日期: 2024/09/15) <a href="Easy/3289/The_Two_Sneaky_Numbers_of_Digitville.ipynb">3289. The Two Sneaky Numbers of Digitville </a> (#Array )
   * -[x] (完成日期: 2024/09/30) <a href="Easy/3300/Minimum_Element_After_Replacement_With_Digit_Sum.ipynb">3300. Minimum Element After Replacement With Digit Sum </a> (#Array )
   * -[x] (完成日期: 2024/09/30) <a href="Easy/3304/Find_the_K-th_Character_in_String_Game_I.ipynb">3304. Find the K-th Character in String Game I </a> (#String )
+  * -[x] (完成日期: 2024/10/21) <a href="Easy/3314/Construct_the_Minimum_Bitwise_Array_I.ipynb">3314. Construct the Minimum Bitwise Array I </a> (#Array, #BitManipulation )
   * -[x] (完成日期: 2024/10/16) <a href="Easy/3318/Find_X-Sum_of_All_K-Long_Subarrays_I.ipynb">3318. Find X-Sum of All K-Long Subarrays I </a> (#Array, #SlidingWindow )
 
 * Medium:  
