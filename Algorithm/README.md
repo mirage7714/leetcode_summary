@@ -542,6 +542,7 @@
   * -[x] (完成日期: 2024/09/30) <a href="Easy/3304/Find_the_K-th_Character_in_String_Game_I.ipynb">3304. Find the K-th Character in String Game I </a> (#String )
   * -[x] (完成日期: 2024/10/21) <a href="Easy/3314/Construct_the_Minimum_Bitwise_Array_I.ipynb">3314. Construct the Minimum Bitwise Array I </a> (#Array, #BitManipulation )
   * -[x] (完成日期: 2024/10/16) <a href="Easy/3318/Find_X-Sum_of_All_K-Long_Subarrays_I.ipynb">3318. Find X-Sum of All K-Long Subarrays I </a> (#Array, #SlidingWindow )
+  * -[x] (完成日期: 2024/10/28) <a href="Easy/3330/Find_the_Original_Typed_String_I.ipynb">3330. Find the Original Typed String I </a> (#String )
 
 * Medium:  
   * -[x] (完成日期: 2022/04/19) <a href="Medium/2/Add_Two_Numbers.ipynb">2. Add Two Numbers </a>
@@ -550,7 +551,7 @@
   * -[x] (完成日期: 2022/07/28) <a href="Medium/8/String_to_Integer_(atoi).ipynb">8. String to Integer (atoi) </a>
   * -[x] (完成日期: 2022/06/02) <a href="Medium/11/Container_With_Most_Water.ipynb">11. Container With Most Water </a>
   * -[x] (完成日期: 2022/06/29) <a href="Medium/12/Integer_to_Roman.ipynb">12. Integer to Roman </a>
-  * -[x] (完成日期: 2022/07/29) <a href="Medium/15/3Sum.ipynb">15. 3Sum </a>
+  * -[x] (完成日期: 2022/07/29) <a href="Medium/15/3Sum.ipynb">15. 3Sum </a>	
   * -[x] (完成日期: 2022/07/29) <a href="Medium/16/3Sum_Closest.ipynb">16. 3Sum Closest </a>
   * -[x] (完成日期: 2021/05/01) <a href="Medium/17/Letter_Combinations_of_a_Phone_Number.ipynb">17. Letter Combinations of a Phone Number </a>
   * -[x] (完成日期: 2022/03/15) <a href="Medium/19/Remove_Nth_Node_From_End_of_List.ipynb">19. Remove Nth Node From End of List </a>
