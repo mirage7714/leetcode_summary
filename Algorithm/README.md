@@ -543,6 +543,7 @@
   * -[x] (完成日期: 2024/10/21) <a href="Easy/3314/Construct_the_Minimum_Bitwise_Array_I.ipynb">3314. Construct the Minimum Bitwise Array I </a> (#Array, #BitManipulation )
   * -[x] (完成日期: 2024/10/16) <a href="Easy/3318/Find_X-Sum_of_All_K-Long_Subarrays_I.ipynb">3318. Find X-Sum of All K-Long Subarrays I </a> (#Array, #SlidingWindow )
   * -[x] (完成日期: 2024/10/28) <a href="Easy/3330/Find_the_Original_Typed_String_I.ipynb">3330. Find the Original Typed String I </a> (#String )
+  * -[x] (完成日期: 2024/11/04) <a href="Easy/3340/Check_Balanced_String.ipynb">3340. Check Balanced String </a> (#String )
 
 * Medium:  
   * -[x] (完成日期: 2022/04/19) <a href="Medium/2/Add_Two_Numbers.ipynb">2. Add Two Numbers </a>
