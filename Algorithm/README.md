@@ -545,6 +545,7 @@
   * -[x] (完成日期: 2024/10/28) <a href="Easy/3330/Find_the_Original_Typed_String_I.ipynb">3330. Find the Original Typed String I </a> (#String )
   * -[x] (完成日期: 2024/11/04) <a href="Easy/3340/Check_Balanced_String.ipynb">3340. Check Balanced String </a> (#String )
   * -[x] (完成日期: 2024/11/11) <a href="Easy/3345/Smallest_Divisible_Digit_Product_I.ipynb">3345. Smallest Divisible Digit Product I </a> (#Math )
+  * -[x] (完成日期: 2024/11/11) <a href="Easy/3349/Adjacent_Increasing_Subarrays_Detection_I.ipynb">3349. Adjacent Increasing Subarrays Detection I </a> (#Array, #SlidingWindow )
 
 * Medium:  
   * -[x] (完成日期: 2022/04/19) <a href="Medium/2/Add_Two_Numbers.ipynb">2. Add Two Numbers </a>
