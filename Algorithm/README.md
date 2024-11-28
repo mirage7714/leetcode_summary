@@ -1065,6 +1065,7 @@
   * -[x] (完成日期: 2024/09/30) <a href="Medium/3301/Maximize_the_Total_Height_of_Unique_Towers.ipynb">3301. Maximize the Total Height of Unique Towers </a> (#Array, #Heap )
   * -[x] (完成日期: 2024/10/08) <a href="Medium/3309/Maximum_Possible_Number_by_Binary_Concatenation.ipynb">3309. Maximum Possible Number by Binary Concatenation </a> (#Array, #BitManipulation )
   * -[x] (完成日期: 2024/10/21) <a href="Medium/3324/Find_the_Sequence_of_Strings_Appeared_on_the_Screen.ipynb">3324. Find the Sequence of Strings Appeared on the Screen </a> (#String )
+  * -[x] (完成日期: 2024/11/28) <a href="Medium/3365/Rearrange_K_Substrings_to_Form_Target_String.ipynb">3365. Rearrange K Substrings to Form Target String </a> (#String, #SlidingWindow )
 
 * Hard:
   * -[x] (完成日期: 2021/01/09) <a href="Hard/4/Median_of_Two_Sorted_Arrays.ipynb">4. Median of Two Sorted Arrays </a>
