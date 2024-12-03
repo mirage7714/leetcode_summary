@@ -548,6 +548,7 @@
   * -[x] (完成日期: 2024/11/11) <a href="Easy/3349/Adjacent_Increasing_Subarrays_Detection_I.ipynb">3349. Adjacent Increasing Subarrays Detection I </a> (#Array, #SlidingWindow )
   * -[x] (完成日期: 2024/11/25) <a href="Easy/3360/Stone_Removal_Game.ipynb">3360. Stone Removal Game </a> (#Math )
   * -[x] (完成日期: 2024/11/25) <a href="Easy/3364/Minimum_Positive_Sum_Subarray.ipynb">3364. Minimum Positive Sum Subarray </a> (#Array, #SlidingWindow )
+  * -[x] (完成日期: 2024/12/03) <a href="Easy/3370/Smallest_Number_With_All_Set_Bits.ipynb">3370. Smallest Number With All Set Bits </a> (#BitManipulation )
   
 * Medium:  
   * -[x] (完成日期: 2022/04/19) <a href="Medium/2/Add_Two_Numbers.ipynb">2. Add Two Numbers </a>
