@@ -395,7 +395,7 @@
   * -[x] (完成日期: 2022/11/13) <a href="Easy/2469/Convert_the_Temperature.ipynb">2469. Convert the Temperature </a> (#Math )
   * -[x] (完成日期: 2023/02/10) <a href="Easy/2475/Number_of_Unequal_Triplets_in_Array.ipynb">2475. Number of Unequal Triplets in Array </a> (#Array )
   * -[x] (完成日期: 2022/11/27) <a href="Easy/2481/Minimum_Cuts_to_Divide_a_Circle.ipynb">2481. Minimum Cuts to Divide a Circle </a> (#Math )
-  * -[x] (完成日期: 2023/01/17) <a href="Easy/2485/Find_the_Pivot_Integer.ipynb">2485. Find the Pivot Integer </a> (#TwoPointer, #Math )
+  * -[x] (完成日期: 2023/01/17) <a href="Easy/2485/Find_the_Pivot_Integer.ipynb">2485. Find the Pivot Integer </a> (#TwoPointers, #Math )
   * -[x] (完成日期: 2022/12/04) <a href="Easy/2490/Circular_Sentence.ipynb">2490. Circular Sentence </a> (#String )
   * -[x] (完成日期: 2022/12/11) <a href="Easy/2496/Maximum_Value_of_a_String_in_an_Array.ipynb">2496. Maximum Value of a String in an Array </a> (#Array )
   * -[x] (完成日期: 2022/12/11) <a href="Easy/2500/Delete_Greatest_Value_in_Each_Row.ipynb">2500. Delete Greatest Value in Each Row </a> (#Array )
@@ -677,7 +677,7 @@
   * -[x] (完成日期: 2023/11/10) <a href="Medium/503/Next_Greater_Element_II.ipynb">503. Next Greater Element II </a> (#Array, #MonotonicStack)
   * -[x] (完成日期: 2022/08/14) <a href="Medium/513/Find_Bottom_Left_Tree_Value.ipynb">513. Find Bottom Left Tree Value </a>
   * -[x] (完成日期: 2022/06/20) <a href="Medium/515/Find_Largest_Value_in_Each_Tree_Row.ipynb">515. Find Largest Value in Each Tree Row </a>
-  * -[x] (完成日期: 2023/11/17) <a href="Medium/524/Longest_Word_in_Dictionary_through_Deleting.ipynb">524. Longest Word in Dictionary through Deleting </a> (#String, #Array, #TwoPointer)  
+  * -[x] (完成日期: 2023/11/17) <a href="Medium/524/Longest_Word_in_Dictionary_through_Deleting.ipynb">524. Longest Word in Dictionary through Deleting </a> (#String, #Array, #TwoPointers)  
   * -[x] (完成日期: 2022/08/13) <a href="Medium/532/K-diff_Pairs_in_an_Array.ipynb">532. K-diff Pairs in an Array </a>
   * -[x] (完成日期: 2021/07/01) <a href="Medium/535/Encode_and_Decode_TinyURL.ipynb">535. Encode and Decode TinyURL </a>
   * -[x] (完成日期: 2020/10/29) <a href="Medium/537/Complex_Number_Multiplication.ipynb">537. Complex Number Multiplication </a>
@@ -695,7 +695,7 @@
   * -[x] (完成日期: 2022/06/09) <a href="Medium/622/Design_Circular_Queue">622. Design Circular Queue </a>
   * -[x] (完成日期: 2022/10/05) <a href="Medium/623/Design_Circular_Queue">623. Add One Row to Tree </a> (#BinaryTree, #BFS)
   * -[x] (完成日期: 2024/08/16) <a href="Medium/624/Maximum_Distance_in_Arrays">624. Maximum Distance in Arrays </a> (#Array, #Greedy)
-  * -[x] (完成日期: 2023/09/15) <a href="Medium/633/Sum_of_Square_Numbers">633. Sum of Square Numbers </a> (#Math, #TwoPointer)
+  * -[x] (完成日期: 2023/09/15) <a href="Medium/633/Sum_of_Square_Numbers">633. Sum of Square Numbers </a> (#Math, #TwoPointers)
   * -[x] (完成日期: 2023/08/22) <a href="Medium/640/Solve_the_Equation">640. Solve the Equation </a> (#String, #Math )
   * -[x] (完成日期: 2022/06/09) <a href="Medium/641/Design_Circular_Deque">641. Design Circular Deque </a>
   * -[x] (完成日期: 2021/02/02) <a href="Medium/648/Replace_Words">648. Replace Words </a>
@@ -737,7 +737,7 @@
   * -[x] (完成日期: 2022/09/29) <a href="Medium/856/Score_of_Parentheses.ipynb">856. Score of Parentheses </a> (#String, #Stack)
   * -[x] (完成日期: 2022/07/27) <a href="Medium/861/Score_After_Flipping_Matrix.ipynb">861. Score After Flipping Matrix </a>
   * -[x] (完成日期: 2021/01/20) <a href="Medium/869/Reordered_Power_of_2.ipynb">869. Reordered Power of 2 </a>
-  * -[x] (完成日期: 2022/06/07) <a href="Medium/881/Boats_to_Save_People.ipynb">881. Boats to Save People </a> 2023/4/3更新 (#Array, #TwoPointer)
+  * -[x] (完成日期: 2022/06/07) <a href="Medium/881/Boats_to_Save_People.ipynb">881. Boats to Save People </a> 2023/4/3更新 (#Array, #TwoPointers )
   * -[x] (完成日期: 2021/01/20) <a href="Medium/890/Find_and_Replace_Pattern.ipynb">890. Find and Replace Pattern </a>
   * -[x] (完成日期: 2023/02/07) <a href="Medium/904/Fruit_Into_Baskets.ipynb">904. Fruit Into Baskets </a> (#Array, #SlidingWindow )
   * -[x] (完成日期: 2022/09/13) <a href="Medium/911/Online_Election.ipynb">911. Online Election </a> (#BinarySearch #HashMap, #Array )
@@ -830,7 +830,7 @@
   * -[x] (完成日期: 2022/08/23) <a href="Medium/1721/Swapping_Nodes_in_a_Linked_List.ipynb">1721. Swapping Nodes in a Linked List </a>
   * -[x] (完成日期: 2021/01/24) <a href="Medium/1732/Find_the_Highest_Altitude.ipynb">1732. Find the Highest Altitude </a>
   * -[x] (完成日期: 2021/01/24) <a href="Medium/1736/Latest_Time_by_Replacing_Hidden_Digits.ipynb">1736. Latest Time by Replacing Hidden Digits </a>
-  * -[x] (完成日期: 2024/03/05) <a href="Medium/1750/Minimum_Length_of_String_After_Deleting_Similar_Ends.ipynb">1750. Minimum Length of String After Deleting Similar Ends </a> (#String, #TwoPointer )
+  * -[x] (完成日期: 2024/03/05) <a href="Medium/1750/Minimum_Length_of_String_After_Deleting_Similar_Ends.ipynb">1750. Minimum Length of String After Deleting Similar Ends </a> (#String, #TwoPointers )
   * -[x] (完成日期: 2021/02/24) <a href="Medium/1754/Largest_Merge_Of_Two_Strings.ipynb">1754. Largest Merge Of Two Strings </a>
   * -[x] (完成日期: 2021/05/19) <a href="Medium/1759/Count_Number_of_Homogenous_Substrings.ipynb">1759. Count Number of Homogenous Substrings </a>
   * -[x] (完成日期: 2022/09/06) <a href="Medium/1792/Maximum_Average_Pass_Ratio.ipynb">1792. Maximum Average Pass Ratio </a> (#Heap, #Math, #Array, #Greedy )
@@ -991,6 +991,7 @@
   * -[x] (完成日期: 2023/08/06) <a href="Medium/2807/Insert_Greatest_Common_Divisors_in_Linked_List.ipynb">2807. Insert Greatest Common Divisors in Linked List </a> (#LinkedList )
   * -[x] (完成日期: 2023/08/15) <a href="Medium/2811/Check_if_it_is_Possible_to_Split_Array.ipynb">2811. Check if it is Possible to Split Array </a> (#Array, #Greedy )
   * -[x] (完成日期: 2023/08/13) <a href="Medium/2816/Double_a_Number_Represented_as_a_Linked_List.ipynb">2816. Double a Number Represented as a Linked List </a> (#LinkedList )
+  * -[x] (完成日期: 2024/12/05) <a href="Medium/2825/Make_String_a_Subsequence_Using_Cyclic_Increments.ipynb">2825. Make String a Subsequence Using Cyclic Increments </a> (#String, #TwoPointers )
   * -[x] (完成日期: 2023/08/20) <a href="Medium/2829/Determine_the_Minimum_Sum_of_a_k-avoiding_Array.ipynb">2829. Determine the Minimum Sum of a k-avoiding Array </a> (#Array )
   * -[x] (完成日期: 2023/08/27) <a href="Medium/2834/Find_the_Minimum_Possible_Sum_of_a_Beautiful_Arrayray.ipynb">2834. Find the Minimum Possible Sum of a Beautiful Array </a> (#Array )
   * -[x] (完成日期: 2023/09/03) <a href="Medium/2840/Check_if_Strings_Can_be_Made_Equal_With_Operations_II.ipynb">2840. Check if Strings Can be Made Equal With Operations II </a> (#String )
