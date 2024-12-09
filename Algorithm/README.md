@@ -549,6 +549,7 @@
   * -[x] (完成日期: 2024/11/25) <a href="Easy/3360/Stone_Removal_Game.ipynb">3360. Stone Removal Game </a> (#Math )
   * -[x] (完成日期: 2024/11/25) <a href="Easy/3364/Minimum_Positive_Sum_Subarray.ipynb">3364. Minimum Positive Sum Subarray </a> (#Array, #SlidingWindow )
   * -[x] (完成日期: 2024/12/03) <a href="Easy/3370/Smallest_Number_With_All_Set_Bits.ipynb">3370. Smallest Number With All Set Bits </a> (#BitManipulation )
+  * -[x] (完成日期: 2024/12/09) <a href="Easy/3375/Minimum_Operations_to_Make_Array_Values_Equal_to_K.ipynb">3375. Minimum Operations to Make Array Values Equal to K </a> (#Array, #HashMap )
   * -[x] (完成日期: 2024/12/09) <a href="Easy/3379/Transformed_Array.ipynb">3379. Transformed Array </a> (#Array )
   
 * Medium:  
