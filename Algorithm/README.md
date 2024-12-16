@@ -551,6 +551,7 @@
   * -[x] (完成日期: 2024/12/03) <a href="Easy/3370/Smallest_Number_With_All_Set_Bits.ipynb">3370. Smallest Number With All Set Bits </a> (#BitManipulation )
   * -[x] (完成日期: 2024/12/09) <a href="Easy/3375/Minimum_Operations_to_Make_Array_Values_Equal_to_K.ipynb">3375. Minimum Operations to Make Array Values Equal to K </a> (#Array, #HashMap )
   * -[x] (完成日期: 2024/12/09) <a href="Easy/3379/Transformed_Array.ipynb">3379. Transformed Array </a> (#Array )
+  * -[x] (完成日期: 2024/12/16) <a href="Easy/3386/Button_with_Longest_Push_Time.ipynb">3386. Button with Longest Push Time </a> (#Array, #HashMap )
   
 * Medium:  
   * -[x] (完成日期: 2022/04/19) <a href="Medium/2/Add_Two_Numbers.ipynb">2. Add Two Numbers </a>
