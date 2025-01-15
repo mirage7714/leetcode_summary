@@ -556,6 +556,7 @@
   * -[x] (完成日期: 2024/12/23) <a href="Easy/3396/Minimum_Number_of_Operations_to_Make_Elements_in_Array_Distinct.ipynb">3396. Minimum Number of Operations to Make Elements in Array Distinct </a> (#Array )
   * -[x] (完成日期: 2024/12/30) <a href="Easy/3402/Minimum_Operations_to_Make_Columns_Strictly_Increasing.ipynb">3402. Minimum Operations to Make Columns Strictly Increasing </a> (#Matrix, #Array )
   * -[x] (完成日期: 2025/01/06) <a href="Easy/3407/Substring_Matching_Pattern.ipynb">3407. Substring Matching Pattern </a> (#String )
+  * -[x] (完成日期: 2025/01/15) <a href="Easy/3417/Zigzag_Grid_Traversal_With_Skip.ipynb">3417. Zigzag Grid Traversal With Skip </a> (#Array, #Matrix )
   
 * Medium:  
   * -[x] (完成日期: 2022/04/19) <a href="Medium/2/Add_Two_Numbers.ipynb">2. Add Two Numbers </a>
