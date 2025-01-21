@@ -558,6 +558,7 @@
   * -[x] (完成日期: 2025/01/06) <a href="Easy/3407/Substring_Matching_Pattern.ipynb">3407. Substring Matching Pattern </a> (#String )
   * -[x] (完成日期: 2025/01/15) <a href="Easy/3417/Zigzag_Grid_Traversal_With_Skip.ipynb">3417. Zigzag Grid Traversal With Skip </a> (#Array, #Matrix )
   * -[x] (完成日期: 2025/01/20) <a href="Easy/3423/Maximum_Difference_Between_Adjacent_Elements_in_a_Circular_Array.ipynb">3423. Maximum Difference Between Adjacent Elements in a Circular Array </a> (#Array )
+  * -[x] (完成日期: 2025/01/21) <a href="Easy/3427/Sum_of_Variable_Length_Subarrays.ipynb">3427. Sum of Variable Length Subarrays </a> (#Array )
   
 * Medium:  
   * -[x] (完成日期: 2022/04/19) <a href="Medium/2/Add_Two_Numbers.ipynb">2. Add Two Numbers </a>
