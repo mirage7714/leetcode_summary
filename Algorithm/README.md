@@ -559,7 +559,8 @@
   * -[x] (完成日期: 2025/01/15) <a href="Easy/3417/Zigzag_Grid_Traversal_With_Skip.ipynb">3417. Zigzag Grid Traversal With Skip </a> (#Array, #Matrix )
   * -[x] (完成日期: 2025/01/20) <a href="Easy/3423/Maximum_Difference_Between_Adjacent_Elements_in_a_Circular_Array.ipynb">3423. Maximum Difference Between Adjacent Elements in a Circular Array </a> (#Array )
   * -[x] (完成日期: 2025/01/21) <a href="Easy/3427/Sum_of_Variable_Length_Subarrays.ipynb">3427. Sum of Variable Length Subarrays </a> (#Array )
-  * -[x] (完成日期: 2025/02/02) <a href="Easy/3427/Count_Partitions_with_Even_Sum_Difference.ipynb">3432. Count Partitions with Even Sum Difference </a> (#Array )
+  * -[x] (完成日期: 2025/02/02) <a href="Easy/3432/Count_Partitions_with_Even_Sum_Difference.ipynb">3432. Count Partitions with Even Sum Difference </a> (#Array )
+  * -[x] (完成日期: 2025/02/03) <a href="Easy/3438/Find_Valid_Pair_of_Adjacent_Digits_in_String.ipynb">3438. Find Valid Pair of Adjacent Digits in String </a> (#String, #HashMap )
   
   
 * Medium:  
