@@ -562,6 +562,7 @@
   * -[x] (完成日期: 2025/02/02) <a href="Easy/3432/Count_Partitions_with_Even_Sum_Difference.ipynb">3432. Count Partitions with Even Sum Difference </a> (#Array )
   * -[x] (完成日期: 2025/02/03) <a href="Easy/3438/Find_Valid_Pair_of_Adjacent_Digits_in_String.ipynb">3438. Find Valid Pair of Adjacent Digits in String </a> (#String, #HashMap )
   * -[x] (完成日期: 2025/02/03) <a href="Easy/3442/Maximum_Difference_Between_Even_and_Odd_Frequency_I.ipynb">3442. Maximum Difference Between Even and Odd Frequency I </a> (#String, #HashMap )
+  * -[x] (完成日期: 2025/03/11) <a href="Easy/3461/Check_If_Digits_Are_Equal_in_String_After_Operations_I.ipynb">3461. Check If Digits Are Equal in String After Operations I </a> (#String )  
   * -[x] (完成日期: 2025/03/04) <a href="Easy/3467/Transform_Array_by_Parity.ipynb">3467. Transform Array by Parity </a> (#Array )  
   * -[x] (完成日期: 2025/03/11) <a href="Easy/3477/Fruits_Into_Baskets_II.ipynb">3477. Fruits Into Baskets II </a> (#Array )  
   
