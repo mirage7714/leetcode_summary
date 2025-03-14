@@ -564,6 +564,7 @@
   * -[x] (完成日期: 2025/02/03) <a href="Easy/3442/Maximum_Difference_Between_Even_and_Odd_Frequency_I.ipynb">3442. Maximum Difference Between Even and Odd Frequency I </a> (#String, #HashMap )
   * -[x] (完成日期: 2025/03/11) <a href="Easy/3461/Check_If_Digits_Are_Equal_in_String_After_Operations_I.ipynb">3461. Check If Digits Are Equal in String After Operations I </a> (#String )  
   * -[x] (完成日期: 2025/03/04) <a href="Easy/3467/Transform_Array_by_Parity.ipynb">3467. Transform Array by Parity </a> (#Array )  
+  * -[x] (完成日期: 2025/03/14) <a href="Easy/3471/Find_the_Largest_Almost_Missing_Integer.ipynb">3471. Find the Largest Almost Missing Integer </a> (#Array )  
   * -[x] (完成日期: 2025/03/11) <a href="Easy/3477/Fruits_Into_Baskets_II.ipynb">3477. Fruits Into Baskets II </a> (#Array )  
   
 * Medium:  
