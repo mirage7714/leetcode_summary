@@ -568,7 +568,8 @@
   * -[x] (完成日期: 2025/03/04) <a href="Easy/3467/Transform_Array_by_Parity.ipynb">3467. Transform Array by Parity </a> (#Array )  
   * -[x] (完成日期: 2025/03/14) <a href="Easy/3471/Find_the_Largest_Almost_Missing_Integer.ipynb">3471. Find the Largest Almost Missing Integer </a> (#Array )  
   * -[x] (完成日期: 2025/03/11) <a href="Easy/3477/Fruits_Into_Baskets_II.ipynb">3477. Fruits Into Baskets II </a> (#Array )  
-  * -[x] (完成日期: 2025/03/21) <a href="Easy/3477/Maximum_Unique_Subarray_Sum_After_Deletion.ipynb">3487. Maximum Unique Subarray Sum After Deletion </a> (#Array )  
+  * -[x] (完成日期: 2025/03/21) <a href="Easy/3487/Maximum_Unique_Subarray_Sum_After_Deletion.ipynb">3487. Maximum Unique Subarray Sum After Deletion </a> (#Array )  
+  * -[x] (完成日期: 2025/03/24) <a href="Easy/3492/Maximum_Containers_on_a_Ship.ipynb">3492. Maximum Containers on a Ship </a> (#Math )  
   
 * Medium:  
   * -[x] (完成日期: 2022/04/19) <a href="Medium/2/Add_Two_Numbers.ipynb">2. Add Two Numbers </a>
