@@ -571,6 +571,7 @@
   * -[x] (完成日期: 2025/03/21) <a href="Easy/3487/Maximum_Unique_Subarray_Sum_After_Deletion.ipynb">3487. Maximum Unique Subarray Sum After Deletion </a> (#Array )  
   * -[x] (完成日期: 2025/03/24) <a href="Easy/3492/Maximum_Containers_on_a_Ship.ipynb">3492. Maximum Containers on a Ship </a> (#Math )  
   * -[x] (完成日期: 2025/04/01) <a href="Easy/3498/Reverse_Degree_of_a_String.ipynb">3498. Reverse Degree of a String </a> (#String )  
+  * -[x] (完成日期: 2025/04/02) <a href="Easy/3502/Minimum_Cost_to_Reach_Every_Position.ipynb">3502. Minimum Cost to Reach Every Position </a> (#Array )  
   
 * Medium:  
   * -[x] (完成日期: 2022/04/19) <a href="Medium/2/Add_Two_Numbers.ipynb">2. Add Two Numbers </a>
