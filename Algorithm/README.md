@@ -1092,6 +1092,7 @@
   * -[x] (完成日期: 2024/10/21) <a href="Medium/3324/Find_the_Sequence_of_Strings_Appeared_on_the_Screen.ipynb">3324. Find the Sequence of Strings Appeared on the Screen </a> (#String )
   * -[x] (完成日期: 2024/11/28) <a href="Medium/3365/Rearrange_K_Substrings_to_Form_Target_String.ipynb">3365. Rearrange K Substrings to Form Target String </a> (#String, #SlidingWindow )
   * -[x] (完成日期: 2025/03/24) <a href="Medium/3484/Design_Spreadsheet.ipynb">3484. Design Spreadsheet </a> (#SystemDesign )
+  * -[x] (完成日期: 2025/04/02) <a href="Medium/3488/Closest_Equal_Element_Queries.ipynb">3488. Closest Equal Element Queries </a> (#Array, #HashMap )
 
 * Hard:
   * -[x] (完成日期: 2021/01/09) <a href="Hard/4/Median_of_Two_Sorted_Arrays.ipynb">4. Median of Two Sorted Arrays </a>
