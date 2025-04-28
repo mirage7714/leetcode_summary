@@ -1097,6 +1097,7 @@
   * -[x] (完成日期: 2025/04/02) <a href="Medium/3488/Closest_Equal_Element_Queries.ipynb">3488. Closest Equal Element Queries </a> (#Array, #HashMap )
   * -[x] (完成日期: 2025/04/12) <a href="Medium/3517/Smallest_Palindromic_Rearrangement_I.ipynb">3517. Smallest Palindromic Rearrangement I </a> (#String, #Sorting )
   * -[x] (完成日期: 2025/04/23) <a href="Medium/3522/Calculate_Score_After_Performing_Instructions.ipynb">3522. Calculate Score After Performing Instructions </a> (#String, #Simulation, #String )
+  * -[x] (完成日期: 2025/04/28) <a href="Medium/3527/Find_the_Most_Common_Response.ipynb">3527. Find the Most Common Response </a> (#String, #HashMap )
 
 * Hard:
   * -[x] (完成日期: 2021/01/09) <a href="Hard/4/Median_of_Two_Sorted_Arrays.ipynb">4. Median of Two Sorted Arrays </a>
