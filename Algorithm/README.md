@@ -1098,6 +1098,7 @@
   * -[x] (完成日期: 2024/10/08) <a href="Medium/3309/Maximum_Possible_Number_by_Binary_Concatenation.ipynb">3309. Maximum Possible Number by Binary Concatenation </a> (#Array, #BitManipulation )
   * -[x] (完成日期: 2024/10/21) <a href="Medium/3324/Find_the_Sequence_of_Strings_Appeared_on_the_Screen.ipynb">3324. Find the Sequence of Strings Appeared on the Screen </a> (#String )
   * -[x] (完成日期: 2024/11/28) <a href="Medium/3365/Rearrange_K_Substrings_to_Form_Target_String.ipynb">3365. Rearrange K Substrings to Form Target String </a> (#String, #SlidingWindow )
+  * -[x] (完成日期: 2025/06/06) <a href="Medium/3403/Find_the_Lexicographically_Largest_String_From_the_Box_I.ipynb">3403. Find the Lexicographically Largest String From the Box I </a> (#String, #TwoPointers )
   * -[x] (完成日期: 2025/03/24) <a href="Medium/3484/Design_Spreadsheet.ipynb">3484. Design Spreadsheet </a> (#SystemDesign )
   * -[x] (完成日期: 2025/04/02) <a href="Medium/3488/Closest_Equal_Element_Queries.ipynb">3488. Closest Equal Element Queries </a> (#Array, #HashMap )
   * -[x] (完成日期: 2025/04/12) <a href="Medium/3517/Smallest_Palindromic_Rearrangement_I.ipynb">3517. Smallest Palindromic Rearrangement I </a> (#String, #Sorting )
