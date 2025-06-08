@@ -1105,6 +1105,7 @@
   * -[x] (完成日期: 2025/04/23) <a href="Medium/3522/Calculate_Score_After_Performing_Instructions.ipynb">3522. Calculate Score After Performing Instructions </a> (#String, #Simulation, #String )
   * -[x] (完成日期: 2025/04/28) <a href="Medium/3527/Find_the_Most_Common_Response.ipynb">3527. Find the Most Common Response </a> (#String, #HashMap )
   * -[x] (完成日期: 2025/05/29) <a href="Medium/3561/Resulting_String_After_Adjacent_Removals.ipynb">3561. Resulting String After Adjacent Removals </a> (#String, #Stack )
+  * -[x] (完成日期: 2025/06/08) <a href="Medium/3572/Maximize_Y‑Sum_by_Picking_a_Triplet_of_Distinct_X‑Values.ipynb">3572. Maximize Y‑Sum by Picking a Triplet of Distinct X‑Values </a> (#Array )
 
 * Hard:
   * -[x] (完成日期: 2021/01/09) <a href="Hard/4/Median_of_Two_Sorted_Arrays.ipynb">4. Median of Two Sorted Arrays </a>
