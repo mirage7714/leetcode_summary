@@ -579,6 +579,7 @@
   * -[x] (完成日期: 2025/05/12) <a href="Easy/3545/Minimum_Deletions_for_At_Most_K_Distinct_Characters.ipynb">3545. Minimum Deletions for At Most K Distinct Characters </a> (#String )  
   * -[x] (完成日期: 2025/05/19) <a href="Easy/3550/Smallest_Index_With_Digit_Sum_Equal_to_Index.ipynb">3550. Smallest Index With Digit Sum Equal to Index </a> (#Array )  
   * -[x] (完成日期: 2025/05/29) <a href="Easy/3560/Find_Minimum_Log_Transportation_Cost.ipynb">3560. Find Minimum Log Transportation Cost </a> (#Math )  
+  * -[x] (完成日期: 2025/07/03) <a href="Easy/3582/Generate_Tag_for_Video_Caption.ipynb">3582. Generate Tag for Video Caption </a> (#String )  
   
 * Medium:  
   * -[x] (完成日期: 2022/04/19) <a href="Medium/2/Add_Two_Numbers.ipynb">2. Add Two Numbers </a>
