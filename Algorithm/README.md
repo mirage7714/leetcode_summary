@@ -581,6 +581,7 @@
   * -[x] (完成日期: 2025/05/29) <a href="Easy/3560/Find_Minimum_Log_Transportation_Cost.ipynb">3560. Find Minimum Log Transportation Cost </a> (#Math )  
   * -[x] (完成日期: 2025/07/03) <a href="Easy/3582/Generate_Tag_for_Video_Caption.ipynb">3582. Generate Tag for Video Caption </a> (#String )  
   * -[x] (完成日期: 2025/07/03) <a href="Easy/3591/Check_if_Any_Element_Has_Prime_Frequency.ipynb">3591. Check if Any Element Has Prime Frequency </a> (#HashMap )  
+  * -[x] (完成日期: 2025/07/11) <a href="Easy/3602/Hexadecimal_and_Hexatrigesimal_Conversion.ipynb">3602. Hexadecimal and Hexatrigesimal Conversion </a> (#String )  
   * -[x] (完成日期: 2025/07/07) <a href="Easy/3606/Coupon_Code_Validator.ipynb">3606. Coupon Code Validator </a> (#Array, #String )  
   
 * Medium:  
