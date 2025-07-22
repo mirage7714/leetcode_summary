@@ -1112,6 +1112,7 @@
   * -[x] (完成日期: 2025/06/08) <a href="Medium/3572/Maximize_Y‑Sum_by_Picking_a_Triplet_of_Distinct_X‑Values.ipynb">3572. Maximize Y‑Sum by Picking a Triplet of Distinct X‑Values </a> (#Array )
   * -[x] (完成日期: 2025/07/11) <a href="Medium/3597/Partition_String.ipynb">3597. Partition String  </a> (#String )
   * -[x] (完成日期: 2025/07/14) <a href="Medium/3612/Process_String_with_Special_Operations_I.ipynb">3612. Process String with Special Operations I  </a> (#String )
+  * -[x] (完成日期: 2025/07/22) <a href="Medium/3618/Split_Array_by_Prime_Indices.ipynb">3618. Split Array by Prime Indices </a> (#Array )
 
 * Hard:
   * -[x] (完成日期: 2021/01/09) <a href="Hard/4/Median_of_Two_Sorted_Arrays.ipynb">4. Median of Two Sorted Arrays </a>
