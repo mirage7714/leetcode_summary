@@ -1114,6 +1114,7 @@
   * -[x] (完成日期: 2025/07/11) <a href="Medium/3597/Partition_String.ipynb">3597. Partition String  </a> (#String )
   * -[x] (完成日期: 2025/07/14) <a href="Medium/3612/Process_String_with_Special_Operations_I.ipynb">3612. Process String with Special Operations I  </a> (#String )
   * -[x] (完成日期: 2025/07/22) <a href="Medium/3618/Split_Array_by_Prime_Indices.ipynb">3618. Split Array by Prime Indices </a> (#Array )
+  * -[x] (完成日期: 2025/07/29) <a href="Medium/3619/Count_Islands_With_Total_Value_Divisible_by_K.ipynb">3619. Count Islands With Total Value Divisible by K </a> (#Matrix )
   * -[x] (完成日期: 2025/07/28) <a href="Medium/3627/Maximum_Median_Sum_of_Subsequences_of_Size_3.ipynb">3627. Maximum Median Sum of Subsequences of Size 3 </a> (#Array )
 
 * Hard:
