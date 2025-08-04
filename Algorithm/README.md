@@ -584,6 +584,7 @@
   * -[x] (完成日期: 2025/07/11) <a href="Easy/3602/Hexadecimal_and_Hexatrigesimal_Conversion.ipynb">3602. Hexadecimal and Hexatrigesimal Conversion </a> (#String )  
   * -[x] (完成日期: 2025/07/07) <a href="Easy/3606/Coupon_Code_Validator.ipynb">3606. Coupon Code Validator </a> (#Array, #String )  
   * -[x] (完成日期: 2025/07/22) <a href="Easy/3622/Check_Divisibility_by_Digit_Sum_and_Product.ipynb">3622. Check Divisibility by Digit Sum and Product </a> (#Math )  
+  * -[x] (完成日期: 2025/08/04) <a href="Easy/3637/Trionic_Array_I.ipynb">3637. Trionic Array I </a> (#Array )  
   
 * Medium:  
   * -[x] (完成日期: 2022/04/19) <a href="Medium/2/Add_Two_Numbers.ipynb">2. Add Two Numbers </a>
