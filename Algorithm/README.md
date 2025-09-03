@@ -588,6 +588,7 @@
   * -[x] (完成日期: 2025/08/18) <a href="Easy/3643/Flip_Square_Submatrix_Vertically.ipynb">3643. Flip Square Submatrix Vertically </a> (#Matrix )  
   * -[x] (完成日期: 2025/08/25) <a href="Easy/3658/GCD_of_Odd_and_Even_Sums.ipynb">3658. GCD of Odd and Even Sums </a> (#Math )  
   * -[x] (完成日期: 2025/09/01) <a href="Easy/3663/Find_The_Least_Frequent_Digit.ipynb">3663. Find The Least Frequent Digit </a> (#HashMap )  
+  * -[x] (完成日期: 2025/09/03) <a href="Easy/3668/Restore_Finishing_Order.ipynb">3668. Restore Finishing Order </a> (#Array )  
   
 * Medium:  
   * -[x] (完成日期: 2022/04/19) <a href="Medium/2/Add_Two_Numbers.ipynb">2. Add Two Numbers </a>
