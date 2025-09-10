@@ -1122,6 +1122,7 @@
   * -[x] (完成日期: 2025/07/29) <a href="Medium/3619/Count_Islands_With_Total_Value_Divisible_by_K.ipynb">3619. Count Islands With Total Value Divisible by K </a> (#Matrix )
   * -[x] (完成日期: 2025/07/28) <a href="Medium/3627/Maximum_Median_Sum_of_Subsequences_of_Size_3.ipynb">3627. Maximum Median Sum of Subsequences of Size 3 </a> (#Array )
   * -[x] (完成日期: 2025/08/20) <a href="Medium/3653/XOR_After_Range_Multiplication_Queries_I.ipynb">3653. XOR After Range Multiplication Queries I </a> (#Array )
+  * -[x] (完成日期: 2025/09/10) <a href="Medium/3675/Minimum_Operations_to_Transform_String.ipynb">3675. Minimum Operations to Transform String </a> (#String )
 
 * Hard:
   * -[x] (完成日期: 2021/01/09) <a href="Hard/4/Median_of_Two_Sorted_Arrays.ipynb">4. Median of Two Sorted Arrays </a>
