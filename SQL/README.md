@@ -35,3 +35,4 @@
   * -[x] (完成日期: 2025/09/03) <a href="3570/Find_Books_with_No_Available_Copies.ipynb">3570. Find Books with No Available Copies  </a> (#GroupBy, #Join )
   * -[x] (完成日期: 2025/09/10) <a href="3611/Find_Overbooked_Employees.ipynb">3611. Find Overbooked Employees  </a> (#GroupBy, #Join, #Week )
   * -[x] (完成日期: 2025/09/03) <a href="3642/Find_Books_with_Polarized_Opinions.ipynb">3642. Find Books with Polarized Opinions  </a> (#GroupBy, #Join )
+  * -[x] (完成日期: 2025/09/15) <a href="3657/Find_Loyal_Customers.ipynb">3657. Find Loyal Customers  </a> (#GroupBy, #Join, #DateDiff )
