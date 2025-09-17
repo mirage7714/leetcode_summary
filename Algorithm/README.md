@@ -590,6 +590,7 @@
   * -[x] (完成日期: 2025/09/01) <a href="Easy/3663/Find_The_Least_Frequent_Digit.ipynb">3663. Find The Least Frequent Digit </a> (#HashMap )  
   * -[x] (完成日期: 2025/09/03) <a href="Easy/3668/Restore_Finishing_Order.ipynb">3668. Restore Finishing Order </a> (#Array )  
   * -[x] (完成日期: 2025/09/17) <a href="Easy/3678/Smallest_Absent_Positive_Greater_Than_Average.ipynb">3678. Smallest Absent Positive Greater Than Average </a> (#Array )  
+  * -[x] (完成日期: 2025/09/17) <a href="Easy/3683/Earliest_Time_to_Finish_One_Task.ipynb">3683. Earliest Time to Finish One Task </a> (#Array )  
   
 * Medium:  
   * -[x] (完成日期: 2022/04/19) <a href="Medium/2/Add_Two_Numbers.ipynb">2. Add Two Numbers </a>
