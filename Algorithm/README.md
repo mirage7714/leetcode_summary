@@ -1127,6 +1127,7 @@
   * -[x] (完成日期: 2025/09/17) <a href="Medium/3638/Maximum_Balanced_Shipments.ipynb">3638. Maximum Balanced Shipments </a> (#Array, #Stack, #Greedy )
   * -[x] (完成日期: 2025/08/20) <a href="Medium/3653/XOR_After_Range_Multiplication_Queries_I.ipynb">3653. XOR After Range Multiplication Queries I </a> (#Array )
   * -[x] (完成日期: 2025/09/10) <a href="Medium/3675/Minimum_Operations_to_Transform_String.ipynb">3675. Minimum Operations to Transform String </a> (#String )
+  * -[x] (完成日期: 2025/09/22) <a href="Medium/3689/Maximum_Total_Subarray_Value_I.ipynb">3689. Maximum Total Subarray Value I </a> (#Array )
 
 * Hard:
   * -[x] (完成日期: 2021/01/09) <a href="Hard/4/Median_of_Two_Sorted_Arrays.ipynb">4. Median of Two Sorted Arrays </a>
