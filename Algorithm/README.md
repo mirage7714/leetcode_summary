@@ -594,6 +594,7 @@
   * -[x] (完成日期: 2025/09/17) <a href="Easy/3684/Maximize_Sum_of_At_Most_K_Distinct_Elements.ipynb">3684. Maximize Sum of At Most K Distinct Elements </a> (#Array )  
   * -[x] (完成日期: 2025/09/22) <a href="Easy/3688/Bitwise_OR_of_Even_Numbers_in_an_Array.ipynb">3688. Bitwise OR of Even Numbers in an Array </a> (#Array )
   * -[x] (完成日期: 2025/10/03) <a href="Easy/3692/Majority_Frequency_Characters.ipynb">3692. Majority Frequency Characters </a> (#String )  
+  * -[x] (完成日期: 2025/10/09) <a href="Easy/3697/Compute_Decimal_Representation.ipynb">3697. Compute Decimal Representation </a> (#Math )  
   
 * Medium:  
   * -[x] (完成日期: 2022/04/19) <a href="Medium/2/Add_Two_Numbers.ipynb">2. Add Two Numbers </a>
