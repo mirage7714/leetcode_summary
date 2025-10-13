@@ -596,6 +596,7 @@
   * -[x] (完成日期: 2025/10/03) <a href="Easy/3692/Majority_Frequency_Characters.ipynb">3692. Majority Frequency Characters </a> (#String )  
   * -[x] (完成日期: 2025/10/09) <a href="Easy/3697/Compute_Decimal_Representation.ipynb">3697. Compute Decimal Representation </a> (#Math )  
   * -[x] (完成日期: 2025/10/09) <a href="Easy/3701/Compute_Alternating_Sum.ipynb">3701. Compute Alternating Sum </a> (#Array )  
+  * -[x] (完成日期: 2025/10/13) <a href="Easy/3707/Equal_Score_Substrings.ipynb">3707. Equal Score Substrings </a> (#String )  
   
 * Medium:  
   * -[x] (完成日期: 2022/04/19) <a href="Medium/2/Add_Two_Numbers.ipynb">2. Add Two Numbers </a>
