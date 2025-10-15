@@ -1134,6 +1134,7 @@
   * -[x] (完成日期: 2025/09/10) <a href="Medium/3675/Minimum_Operations_to_Transform_String.ipynb">3675. Minimum Operations to Transform String </a> (#String )
   * -[x] (完成日期: 2025/09/22) <a href="Medium/3689/Maximum_Total_Subarray_Value_I.ipynb">3689. Maximum Total Subarray Value I </a> (#Array )
   * -[x] (完成日期: 2025/10/15) <a href="Medium/3698/Split_Array_With_Minimum_Difference.ipynb">3698. Split Array With Minimum Difference </a> (#Array )
+  * -[x] (完成日期: 2025/10/15) <a href="Medium/3708/Longest_Fibonacci_Subarray.ipynb">3708. Longest Fibonacci Subarray </a> (#Array )
 
 * Hard:
   * -[x] (完成日期: 2021/01/09) <a href="Hard/4/Median_of_Two_Sorted_Arrays.ipynb">4. Median of Two Sorted Arrays </a>
