@@ -1020,6 +1020,7 @@
   * -[x] (完成日期: 2023/04/03) <a href="Medium/2593/Find_Score_of_an_Array_After_Marking_All_Elements.ipynb">2593. Find Score of an Array After Marking All Elements </a> (#Array, #Heap )
   * -[x] (完成日期: 2023/08/11) <a href="Medium/2594/Minimum_Time_to_Repair_Cars.ipynb">2594. Minimum Time to Repair Cars </a> (#Array )
   * -[x] (完成日期: 2023/04/25) <a href="Medium/2596/Check_Knight_Tour_Configuration.ipynb">2596. Check Knight Tour Configuration </a> (#Array )
+  * -[x] (完成日期: 2025/10/16) <a href="Medium/2598/Smallest_Missing_Non-negative_Integer_After_Operations.ipynb">2598. Smallest Missing Non-negative Integer After Operations </a> (#Array, #HashMap )
   * -[x] (完成日期: 2023/09/14) <a href="Medium/2601/Prime_Subtraction_Operation.ipynb">2601. Prime Subtraction Operation </a> (#Array )
   * -[x] (完成日期: 2023/09/15) <a href="Medium/2602/Minimum_Operations_to_Make_All_Array_Elements_Equal.ipynb">2602. Minimum Operations to Make All Array Elements Equal </a> (#Array, #BinarySearch )
   * -[x] (完成日期: 2023/04/03) <a href="Medium/2610/Convert_an_Array_Into_a_2D_Array_With_Conditions.ipynb">2610. Convert an Array Into a 2D Array With Conditions </a> (#Array )
