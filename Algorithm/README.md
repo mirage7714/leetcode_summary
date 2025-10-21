@@ -1136,6 +1136,7 @@
   * -[x] (完成日期: 2025/08/20) <a href="Medium/3653/XOR_After_Range_Multiplication_Queries_I.ipynb">3653. XOR After Range Multiplication Queries I </a> (#Array )
   * -[x] (完成日期: 2025/10/16) <a href="Medium/3659/Partition_Array_Into_K-Distinct_Groups.ipynb">3659. Partition Array Into K-Distinct Groups </a> (#Array, #HashMap )
   * -[x] (完成日期: 2025/09/10) <a href="Medium/3675/Minimum_Operations_to_Transform_String.ipynb">3675. Minimum Operations to Transform String </a> (#String )
+  * -[x] (完成日期: 2025/10/21) <a href="Medium/3679/Minimum_Discards_to_Balance_Inventory.ipynb">3679. Minimum Discards to Balance Inventory </a> (#Array, #HashMap )
   * -[x] (完成日期: 2025/09/22) <a href="Medium/3689/Maximum_Total_Subarray_Value_I.ipynb">3689. Maximum Total Subarray Value I </a> (#Array )
   * -[x] (完成日期: 2025/10/15) <a href="Medium/3698/Split_Array_With_Minimum_Difference.ipynb">3698. Split Array With Minimum Difference </a> (#Array )
   * -[x] (完成日期: 2025/10/15) <a href="Medium/3708/Longest_Fibonacci_Subarray.ipynb">3708. Longest Fibonacci Subarray </a> (#Array )
