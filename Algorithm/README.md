@@ -1143,6 +1143,7 @@
   * -[x] (完成日期: 2025/10/15) <a href="Medium/3698/Split_Array_With_Minimum_Difference.ipynb">3698. Split Array With Minimum Difference </a> (#Array )
   * -[x] (完成日期: 2025/10/15) <a href="Medium/3708/Longest_Fibonacci_Subarray.ipynb">3708. Longest Fibonacci Subarray </a> (#Array )
   * -[x] (完成日期: 2025/10/31) <a href="Medium/3723/Maximize_Sum_of_Squares_of_Digits.ipynb">3723. Maximize Sum of Squares of Digits </a> (#Math )
+  * -[x] (完成日期: 2025/11/03) <a href="Medium/3732/Maximum_Product_of_Three_Elements_After_One_Replacement.ipynb">3732. Maximum Product of Three Elements After One Replacement </a> (#Array, #Math )
 
 * Hard:
   * -[x] (完成日期: 2021/01/09) <a href="Hard/4/Median_of_Two_Sorted_Arrays.ipynb">4. Median of Two Sorted Arrays </a>
