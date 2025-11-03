@@ -600,6 +600,7 @@
   * -[x] (完成日期: 2025/10/15) <a href="Easy/3712/Sum_of_Elements_With_Frequency_Divisible_by_K.ipynb">3712. Sum of Elements With Frequency Divisible by K </a> (#Array, #HashMap )  
   * -[x] (完成日期: 2025/10/20) <a href="Easy/3718/Smallest_Missing_Multiple_of_K.ipynb">3718. Smallest Missing Multiple of K </a> (#Array )  
   * -[x] (完成日期: 2025/10/28) <a href="Easy/3726/Remove_Zeros_in_Decimal_Representation.ipynb">3726. Remove Zeros in Decimal Representation </a> (#Integer )  
+  * -[x] (完成日期: 2025/11/03) <a href="Easy/3731/Find_Missing_Elements.ipynb">3731. Find Missing Elements </a> (#Array )  
   
 * Medium:  
   * -[x] (完成日期: 2022/04/19) <a href="Medium/2/Add_Two_Numbers.ipynb">2. Add Two Numbers </a>
