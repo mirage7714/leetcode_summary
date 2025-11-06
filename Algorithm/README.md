@@ -584,6 +584,7 @@
   * -[x] (完成日期: 2025/07/11) <a href="Easy/3602/Hexadecimal_and_Hexatrigesimal_Conversion.ipynb">3602. Hexadecimal and Hexatrigesimal Conversion </a> (#String )  
   * -[x] (完成日期: 2025/07/07) <a href="Easy/3606/Coupon_Code_Validator.ipynb">3606. Coupon Code Validator </a> (#Array, #String )  
   * -[x] (完成日期: 2025/07/22) <a href="Easy/3622/Check_Divisibility_by_Digit_Sum_and_Product.ipynb">3622. Check Divisibility by Digit Sum and Product </a> (#Math )  
+  * -[x] (完成日期: 2025/11/06) <a href="Easy/3633/Earliest_Finish_Time_for_Land_and_Water_Rides_I.ipynb">3633. Earliest Finish Time for Land and Water Rides I </a> (#Array )  
   * -[x] (完成日期: 2025/08/04) <a href="Easy/3637/Trionic_Array_I.ipynb">3637. Trionic Array I </a> (#Array )  
   * -[x] (完成日期: 2025/08/18) <a href="Easy/3643/Flip_Square_Submatrix_Vertically.ipynb">3643. Flip Square Submatrix Vertically </a> (#Matrix )  
   * -[x] (完成日期: 2025/08/25) <a href="Easy/3658/GCD_of_Odd_and_Even_Sums.ipynb">3658. GCD of Odd and Even Sums </a> (#Math )  
