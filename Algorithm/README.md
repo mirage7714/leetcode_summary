@@ -603,6 +603,7 @@
   * -[x] (完成日期: 2025/10/28) <a href="Easy/3726/Remove_Zeros_in_Decimal_Representation.ipynb">3726. Remove Zeros in Decimal Representation </a> (#Integer )  
   * -[x] (完成日期: 2025/11/03) <a href="Easy/3731/Find_Missing_Elements.ipynb">3731. Find Missing Elements </a> (#Array )  
   * -[x] (完成日期: 2025/11/10) <a href="Easy/3736/Minimum_Moves_to_Equal_Array_Elements_III.ipynb">3736. Minimum Moves to Equal Array Elements III </a> (#Array, #HashMap )  
+  * -[x] (完成日期: 2025/11/10) <a href="Easy/3740/Minimum_Distance_Between_Three_Equal_Elements_I.ipynb">3740. Minimum Distance Between Three Equal Elements I </a> (#Array, #HashMap )  
   
 * Medium:  
   * -[x] (完成日期: 2022/04/19) <a href="Medium/2/Add_Two_Numbers.ipynb">2. Add Two Numbers </a>
