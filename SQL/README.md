@@ -4,6 +4,7 @@
   * -[x] (完成日期: 2024/04/02) <a href="181/Employees_Earning_More_Than_Their_Managers.ipynb">181. Employees Earning More Than Their Managers </a> (#TempTable )
   * -[x] (完成日期: 2024/04/02) <a href="182/Duplicate_Emails.ipynb">182. Duplicate Emails </a> (#GroupBy )
   * -[x] (完成日期: 2024/04/02) <a href="183/Customers_Who_Never_Order.ipynb">183. Customers Who Never Order </a> (#TempTable )
+  * -[x] (完成日期: 2025/11/12) <a href="197/Rising_Temperature.ipynb">197. Rising Temperature </a> (#Join, #AddDate )
   * -[x] (完成日期: 2024/04/02) <a href="262/Trips_and_Users.ipynb">262. Trips and Users </a> (#ifnull )
   * -[x] (完成日期: 2024/04/16) <a href="570/Managers_with_at_Least_5_Direct_Reports.ipynb">570. Managers with at Least 5 Direct Reports </a> (#TempTable, #GroupBy )
   * -[x] (完成日期: 2024/03/05) <a href="577/Employee_Bonus.ipynb">577. Employee Bonus </a>
