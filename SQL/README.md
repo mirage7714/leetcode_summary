@@ -40,4 +40,5 @@
   * -[x] (完成日期: 2025/11/07) <a href="3626/Find_Stores_with_Inventory_Imbalance.ipynb">3626. Find Stores with Inventory Imbalance </a> (#GroupBy, #Join, #Partition )
   * -[x] (完成日期: 2025/09/03) <a href="3642/Find_Books_with_Polarized_Opinions.ipynb">3642. Find Books with Polarized Opinions  </a> (#GroupBy, #Join )
   * -[x] (完成日期: 2025/09/15) <a href="3657/Find_Loyal_Customers.ipynb">3657. Find Loyal Customers  </a> (#GroupBy, #Join, #DateDiff )
-  * -[x] (完成日期: 2025/11/07) <a href="3705/Find_Golden_Hour_Customers.ipynb">3705. Find Golden Hour Customers  </a> (#GroupBy, #Join, #Time_format )
+  * -[x] (完成日期: 2025/11/07) <a href="3705/Find_Golden_Hour_Customers.ipynb">3705. Find Golden Hour Customers </a> (#GroupBy, #Join, #TimeFormat )
+  * -[x] (完成日期: 2025/11/12) <a href="3716/Find_Churn_Risk_Customers.ipynb">3716. Find Churn Risk Customers </a> (#GroupBy, #Join, #Partition, #DateDiff )
