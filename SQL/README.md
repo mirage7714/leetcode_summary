@@ -6,6 +6,7 @@
   * -[x] (完成日期: 2024/04/02) <a href="183/Customers_Who_Never_Order.ipynb">183. Customers Who Never Order </a> (#TempTable )
   * -[x] (完成日期: 2025/11/12) <a href="197/Rising_Temperature.ipynb">197. Rising Temperature </a> (#Join, #AddDate )
   * -[x] (完成日期: 2024/04/02) <a href="262/Trips_and_Users.ipynb">262. Trips and Users </a> (#ifnull )
+  * -[x] (完成日期: 2025/11/17) <a href="550/Game_Play_Analysis_IV.ipynb">550. Game Play Analysis IV </a> (#Join, #AddDate )
   * -[x] (完成日期: 2024/04/16) <a href="570/Managers_with_at_Least_5_Direct_Reports.ipynb">570. Managers with at Least 5 Direct Reports </a> (#TempTable, #GroupBy )
   * -[x] (完成日期: 2024/03/05) <a href="577/Employee_Bonus.ipynb">577. Employee Bonus </a>
   * -[x] (完成日期: 2024/04/16) <a href="584/Find_Customer_Referee.ipynb">584. Find Customer Referee </a> (#Where )
