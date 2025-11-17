@@ -604,6 +604,7 @@
   * -[x] (完成日期: 2025/11/03) <a href="Easy/3731/Find_Missing_Elements.ipynb">3731. Find Missing Elements </a> (#Array )  
   * -[x] (完成日期: 2025/11/10) <a href="Easy/3736/Minimum_Moves_to_Equal_Array_Elements_III.ipynb">3736. Minimum Moves to Equal Array Elements III </a> (#Array, #HashMap )  
   * -[x] (完成日期: 2025/11/10) <a href="Easy/3740/Minimum_Distance_Between_Three_Equal_Elements_I.ipynb">3740. Minimum Distance Between Three Equal Elements I </a> (#Array, #HashMap )  
+  * -[x] (完成日期: 2025/11/17) <a href="Easy/3745/Maximize_Expression_of_Three_Elements.ipynb">3745. Maximize Expression of Three Elements </a> (#Array )  
   
 * Medium:  
   * -[x] (完成日期: 2022/04/19) <a href="Medium/2/Add_Two_Numbers.ipynb">2. Add Two Numbers </a>
