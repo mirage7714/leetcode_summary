@@ -1150,6 +1150,7 @@
   * -[x] (完成日期: 2025/11/03) <a href="Medium/3727/Maximum_Alternating_Sum_of_Squares.ipynb">3727. Maximum Alternating Sum of Squares </a> (#Array, #Math )
   * -[x] (完成日期: 2025/11/03) <a href="Medium/3732/Maximum_Product_of_Three_Elements_After_One_Replacement.ipynb">3732. Maximum Product of Three Elements After One Replacement </a> (#Array, #Math )
   * -[x] (完成日期: 2025/11/10) <a href="Easy/3741/Minimum_Distance_Between_Three_Equal_Elements_II.ipynb">3741. Minimum Distance Between Three Equal Elements II </a> (#Array, #HashMap )(與No.3740相同)  
+  * -[x] (完成日期: 2025/11/17) <a href="Easy/3746/Minimum_String_Length_After_Balanced_Removals.ipynb">3746. Minimum String Length After Balanced Removals </a> (#Array )  
 
 * Hard:
   * -[x] (完成日期: 2021/01/09) <a href="Hard/4/Median_of_Two_Sorted_Arrays.ipynb">4. Median of Two Sorted Arrays </a>
