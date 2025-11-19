@@ -41,6 +41,7 @@
   * -[x] (完成日期: 2025/11/07) <a href="3564/Seasonal_Sales_Analysis.ipynb">3564. Seasonal Sales Analysis </a> (#GroupBy, #Join, #Case, #Partition )
   * -[x] (完成日期: 2025/09/03) <a href="3570/Find_Books_with_No_Available_Copies.ipynb">3570. Find Books with No Available Copies  </a> (#GroupBy, #Join )
   * -[x] (完成日期: 2025/11/17) <a href="3586/Find_COVID_Recovery_Patients.ipynb">3586. Find COVID Recovery Patients </a> (#DateDiff, #Join, #Partition )
+  * -[x] (完成日期: 2025/11/19) <a href="3601/Find_Drivers_with_Improved_Fuel_Efficiency.ipynb">3601. Find Drivers with Improved Fuel Efficiency </a> (#Month, #Join, #Case )
   * -[x] (完成日期: 2025/09/10) <a href="3611/Find_Overbooked_Employees.ipynb">3611. Find Overbooked Employees </a> (#GroupBy, #Join, #Week )
   * -[x] (完成日期: 2025/11/07) <a href="3626/Find_Stores_with_Inventory_Imbalance.ipynb">3626. Find Stores with Inventory Imbalance </a> (#GroupBy, #Join, #Partition )
   * -[x] (完成日期: 2025/09/03) <a href="3642/Find_Books_with_Polarized_Opinions.ipynb">3642. Find Books with Polarized Opinions  </a> (#GroupBy, #Join )
