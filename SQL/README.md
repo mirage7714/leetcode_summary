@@ -22,6 +22,7 @@
   * -[x] (完成日期: 2024/03/27) <a href="1174/Immediate_Food_Delivery_II.ipynb">1174. Immediate Food Delivery II </a> (#Partition, #Case )
   * -[x] (完成日期: 2025/11/20) <a href="1179/Reformat_Department_Table.ipynb">1179. Reformat Department Table </a> (#GroupBy, #Join, #Pivot )
   * -[x] (完成日期: 2024/10/03) <a href="1193/Monthly_Transactions_I.ipynb">1193. Monthly Transactions I </a> (#GroupBy, #Union )
+  * -[x] (完成日期: 2025/11/20) <a href="1204/Last_Person_to_Fit_in_the_Bus.ipynb">1204. Last Person to Fit in the Bus </a> (#Join, #Sum )
   * -[x] (完成日期: 2024/03/12) <a href="1211/Queries_Quality_and_Percentage.ipynb">1211. Queries Quality and Percentage </a>
   * -[x] (完成日期: 2024/09/17) <a href="1251/Average_Selling_Price.ipynb">1251. Average Selling Price </a> (#GroupBy )
   * -[x] (完成日期: 2024/03/15) <a href="1327/List_the_Products_Ordered_in_a_Period.ipynb">1327. List the Products Ordered in a Period </a>
