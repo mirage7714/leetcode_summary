@@ -606,6 +606,7 @@
   * -[x] (完成日期: 2025/11/10) <a href="Easy/3740/Minimum_Distance_Between_Three_Equal_Elements_I.ipynb">3740. Minimum Distance Between Three Equal Elements I </a> (#Array, #HashMap )  
   * -[x] (完成日期: 2025/11/17) <a href="Easy/3745/Maximize_Expression_of_Three_Elements.ipynb">3745. Maximize Expression of Three Elements </a> (#Array )  
   * -[x] (完成日期: 2025/11/24) <a href="Easy/3750/Minimum_Number_of_Flips_to_Reverse_Binary_String.ipynb">3750. Minimum Number of Flips to Reverse Binary String </a> (#String )  
+  * -[x] (完成日期: 2025/11/24) <a href="Easy/3754/Concatenate_Non-Zero_Digits_and_Multiply_by_Sum_I.ipynb">3754. Concatenate Non-Zero Digits and Multiply by Sum I </a> (#String )  
   
 * Medium:  
   * -[x] (完成日期: 2022/04/19) <a href="Medium/2/Add_Two_Numbers.ipynb">2. Add Two Numbers </a>
