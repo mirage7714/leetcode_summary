@@ -1155,6 +1155,7 @@
   * -[x] (完成日期: 2025/11/10) <a href="Medium/3741/Minimum_Distance_Between_Three_Equal_Elements_II.ipynb">3741. Minimum Distance Between Three Equal Elements II </a> (#Array, #HashMap )(與No.3740相同)  
   * -[x] (完成日期: 2025/11/17) <a href="Medium/3746/Minimum_String_Length_After_Balanced_Removals.ipynb">3746. Minimum String Length After Balanced Removals </a> (#Array )  
   * -[x] (完成日期: 2025/11/24) <a href="Medium/3751/Total_Waviness_of_Numbers_in_Range_I.ipynb">3751. Total Waviness of Numbers in Range I </a> (#Math )  
+  * -[x] (完成日期: 2025/12/01) <a href="Medium/3759/Count_Elements_With_at_Least_K_Greater_Values.ipynb">3759. Count Elements With at Least K Greater Values </a> (#Array, #HashMap )  
   * -[x] (完成日期: 2025/12/01) <a href="Medium/3760/Maximum_Substrings_With_Distinct_Start.ipynb">3760. Maximum Substrings With Distinct Start </a> (#String )  
 
 * Hard:
