@@ -1157,6 +1157,7 @@
   * -[x] (完成日期: 2025/11/24) <a href="Medium/3751/Total_Waviness_of_Numbers_in_Range_I.ipynb">3751. Total Waviness of Numbers in Range I </a> (#Math )  
   * -[x] (完成日期: 2025/12/01) <a href="Medium/3759/Count_Elements_With_at_Least_K_Greater_Values.ipynb">3759. Count Elements With at Least K Greater Values </a> (#Array, #HashMap )  
   * -[x] (完成日期: 2025/12/01) <a href="Medium/3760/Maximum_Substrings_With_Distinct_Start.ipynb">3760. Maximum Substrings With Distinct Start </a> (#String )  
+  * -[x] (完成日期: 2025/12/01) <a href="Medium/3761/Minimum_Absolute_Distance_Between_Mirror_Pairs.ipynb">3761. Minimum Absolute Distance Between Mirror Pairs </a> (#Array, #HashMap )  
 
 * Hard:
   * -[x] (完成日期: 2021/01/09) <a href="Hard/4/Median_of_Two_Sorted_Arrays.ipynb">4. Median of Two Sorted Arrays </a>
