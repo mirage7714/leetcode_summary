@@ -554,3 +554,4 @@
   * -[x] (完成日期: 2025/12/01) <a href="./3760/Maximum_Substrings_With_Distinct_Start.ipynb">3760. Maximum Substrings With Distinct Start </a> (#String )  
   * -[x] (完成日期: 2025/12/01) <a href="./3761/Minimum_Absolute_Distance_Between_Mirror_Pairs.ipynb">3761. Minimum Absolute Distance Between Mirror Pairs </a> (#Array, #HashMap )  
   * -[x] (完成日期: 2025/12/08) <a href="./3765/Complete_Prime_Number.ipynb">3765. Complete Prime Number </a> (#Math )  
+  * -[x] (完成日期: 2025/12/11) <a href="./3767/Maximize_Points_After_Choosing_K_Tasks.ipynb">3767. Maximize Points After Choosing K Tasks </a> (#Array, #Heap )  
