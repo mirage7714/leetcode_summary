@@ -172,7 +172,7 @@
   * -[x] (完成日期: 2020/12/17) <a href="./784/Letter_Case_Permutation.ipynb">784. Letter Case Permutation (Update: 20220330) </a>
   * -[x] (完成日期: 2023/08/23) <a href="./786/K-th_Smallest_Prime_Fraction.ipynb">786. K-th Smallest Prime Fraction </a> (#Array, #Heap, #Math )
   * -[x] (完成日期: 2021/05/19) <a href="./791/Custom_Sort_String.ipynb">791. Custom Sort String </a>
-  * -[x] (完成日期: 2022/07/26) <a href="./792/Number_of_Matching_Sub_sequences.ipynb">792. Number of Matching Subsequences </a>
+  * -[x] (完成日期: 2022/07/26) <a href="./792/Number_of_Matching_Subsequences.ipynb">792. Number of Matching Subsequences </a>
   * -[x] (完成日期: 2020/12/20) <a href="./807/Max_Increase_to_Keep_City_Skyline.ipynb">807. Max Increase to Keep City Skyline </a>
   * -[x] (完成日期: 2022/06/10) <a href="./811/Subdomain_Visit_Count.ipynb">811. Subdomain Visit Count </a>
   * -[x] (完成日期: 2022/09/22) <a href="./814/Binary_Tree_Pruning.ipynb">814. Binary Tree Pruning </a> (#BinaryTree, #DFS)
@@ -528,6 +528,7 @@
   * -[x] (完成日期: 2025/04/12) <a href="./3517/Smallest_Palindromic_Rearrangement_I.ipynb">3517. Smallest Palindromic Rearrangement I </a> (#String, #Sorting )
   * -[x] (完成日期: 2025/04/23) <a href="./3522/Calculate_Score_After_Performing_Instructions.ipynb">3522. Calculate Score After Performing Instructions </a> (#String, #Simulation, #String )
   * -[x] (完成日期: 2025/04/28) <a href="./3527/Find_the_Most_Common_Response.ipynb">3527. Find the Most Common Response </a> (#String, #HashMap )
+  * -[x] (完成日期: 2025/12/11) <a href="./3531/Count_Covered_Buildings.ipynb">3531. Count Covered Buildings </a> (#Matrix, #HashMap )
   * -[x] (完成日期: 2025/05/29) <a href="./3561/Resulting_String_After_Adjacent_Removals.ipynb">3561. Resulting String After Adjacent Removals </a> (#String, #Stack )
   * -[x] (完成日期: 2025/06/08) <a href="./3572/Maximize_Y‑Sum_by_Picking_a_Triplet_of_Distinct_X‑Values.ipynb">3572. Maximize Y‑Sum by Picking a Triplet of Distinct X‑Values </a> (#Array )
   * -[x] (完成日期: 2025/07/11) <a href="./3597/Partition_String.ipynb">3597. Partition String  </a> (#String )
