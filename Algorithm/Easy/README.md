@@ -608,3 +608,4 @@
   * -[x] (完成日期: 2025/11/24) <a href="./3750/Minimum_Number_of_Flips_to_Reverse_Binary_String.ipynb">3750. Minimum Number of Flips to Reverse Binary String </a> (#String )  
   * -[x] (完成日期: 2025/11/24) <a href="./3754/Concatenate_Non-Zero_Digits_and_Multiply_by_Sum_I.ipynb">3754. Concatenate Non-Zero Digits and Multiply by Sum I </a> (#String )  
   * -[x] (完成日期: 2025/12/08) <a href="./3769/Sort_Integers_by_Binary_Reflection.ipynb">3769. Sort Integers by Binary Reflection </a> (#Array, #Heap )  
+  * -[x] (完成日期: 2025/12/15) <a href="./3774/Absolute_Difference_Between_Maximum_and_Minimum_K_Elements.ipynb">3774. Absolute Difference Between Maximum and Minimum K Elements </a> (#Array )  
