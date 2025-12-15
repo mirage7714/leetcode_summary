@@ -556,3 +556,4 @@
   * -[x] (完成日期: 2025/12/01) <a href="./3761/Minimum_Absolute_Distance_Between_Mirror_Pairs.ipynb">3761. Minimum Absolute Distance Between Mirror Pairs </a> (#Array, #HashMap )  
   * -[x] (完成日期: 2025/12/08) <a href="./3765/Complete_Prime_Number.ipynb">3765. Complete Prime Number </a> (#Math )  
   * -[x] (完成日期: 2025/12/11) <a href="./3767/Maximize_Points_After_Choosing_K_Tasks.ipynb">3767. Maximize Points After Choosing K Tasks </a> (#Array, #Heap )  
+  * -[x] (完成日期: 2025/12/15) <a href="./3775/Reverse_Words_With_Same_Vowel_Count.ipynb">3775. Reverse Words With Same Vowel Count </a> (#Array, #String )  
