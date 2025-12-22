@@ -558,3 +558,4 @@
   * -[x] (完成日期: 2025/12/11) <a href="./3767/Maximize_Points_After_Choosing_K_Tasks.ipynb">3767. Maximize Points After Choosing K Tasks </a> (#Array, #Heap )  
   * -[x] (完成日期: 2025/12/15) <a href="./3775/Reverse_Words_With_Same_Vowel_Count.ipynb">3775. Reverse Words With Same Vowel Count </a> (#Array, #String )  
   * -[x] (完成日期: 2025/12/16) <a href="./3776/Minimum_Moves_to_Balance_Circular_Array.ipynb">3776. Minimum Moves to Balance Circular Array </a> (#Array, #TwoPointers )  
+  * -[x] (完成日期: 2025/12/22) <a href="./3784/Minimum_Deletion_Cost_to_Make_All_Characters_Equal.ipynb">3784. Minimum Deletion Cost to Make All Characters Equal </a> (#Array, #HashMap )  
