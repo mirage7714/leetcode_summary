@@ -201,6 +201,7 @@
   * -[x] (完成日期: 2020/10/29) <a href="./949/Largest_Time_for_Given_Digits.ipynb">949. Largest Time for Given Digits </a>
   * -[x] (完成日期: 2024/04/10) <a href="./950/Reveal_Cards_In_Increasing_Order.ipynb">950. Reveal Cards In Increasing Order </a> (#Array, #Sorting )
   * -[x] (完成日期: 2020/11/11) <a href="./954/Array_of_Doubled_Pairs.ipynb">954. Array of Doubled Pairs </a>
+  * -[x] (完成日期: 2025/12/22) <a href="./955/Delete_Columns_to_Make_Sorted_II.ipynb">955. Delete Columns to Make Sorted II </a> (#Array, #String, #HashMap )
   * -[x] (完成日期: 2023/03/15) <a href="./958/Check_Completeness_of_a_Binary_Tree.ipynb">958. Check Completeness of a Binary Tree </a> (#BinaryTree, #BFS )
   * -[x] (完成日期: 2022/09/03) <a href="./967/Numbers_With_Same_Consecutive_Differences.ipynb">967. Numbers With Same Consecutive Differences </a> (#BFS )
   * -[x] (完成日期: 2021/01/16) <a href="./973/K_Closest_Points_to_Origin.ipynb">973. K Closest Points to Origin </a>
