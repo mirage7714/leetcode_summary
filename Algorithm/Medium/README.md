@@ -181,6 +181,7 @@
   * -[x] (完成日期: 2020/11/24) <a href="./831/Masking_Personal_Information.ipynb">831. Masking Personal Information </a>
   * -[x] (完成日期: 2023/02/15) <a href="./833/Find_And_Replace_in_String.ipynb">833. Find And Replace in String </a> (#String )
   * -[x] (完成日期: 2022/09/27) <a href="./838/Push_Dominoes.ipynb">838. Push Dominoes </a> (#String, #Stack)
+  * -[x] (完成日期: 2025/12/30) <a href="./840/Magic_Squares_In_Grid.ipynb">840. Magic Squares In Grid </a> (#Matrix, #Array)
   * -[x] (完成日期: 2022/12/20) <a href="./841/Keys_and_Rooms.ipynb">841. Keys and Rooms </a> (#DFS, #Array)
   * -[x] (完成日期: 2023/02/16) <a href="./845/Longest_Mountain_in_Array.ipynb">845. Longest Mountain in Array </a> (#Array)
   * -[x] (完成日期: 2021/01/20) <a href="./846/Hand_of_Straights.ipynb">846. Hand of Straights </a> (題目與No. 1296相同)
