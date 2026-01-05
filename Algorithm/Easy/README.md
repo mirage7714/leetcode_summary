@@ -610,3 +610,4 @@
   * -[x] (完成日期: 2025/12/08) <a href="./3769/Sort_Integers_by_Binary_Reflection.ipynb">3769. Sort Integers by Binary Reflection </a> (#Array, #Heap )  
   * -[x] (完成日期: 2025/12/15) <a href="./3774/Absolute_Difference_Between_Maximum_and_Minimum_K_Elements.ipynb">3774. Absolute Difference Between Maximum and Minimum K Elements </a> (#Array )  
   * -[x] (完成日期: 2025/12/22) <a href="./3783/Mirror_Distance_of_an_Integer.ipynb">3783. Mirror Distance of an Integer </a> (#Math )  
+  * -[x] (完成日期: 2026/01/05) <a href="./3794/Reverse_String_Prefix.ipynb">3794. Reverse String Prefix </a> (#String )  
