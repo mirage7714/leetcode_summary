@@ -532,6 +532,7 @@
   * -[x] (完成日期: 2025/04/23) <a href="./3522/Calculate_Score_After_Performing_Instructions.ipynb">3522. Calculate Score After Performing Instructions </a> (#String, #Simulation, #String )
   * -[x] (完成日期: 2025/04/28) <a href="./3527/Find_the_Most_Common_Response.ipynb">3527. Find the Most Common Response </a> (#String, #HashMap )
   * -[x] (完成日期: 2025/12/11) <a href="./3531/Count_Covered_Buildings.ipynb">3531. Count Covered Buildings </a> (#Matrix, #HashMap )
+  * -[x] (完成日期: 2026/01/08) <a href="./3551/Minimum_Swaps_to_Sort_by_Digit_Sum.ipynb">3551. Minimum Swaps to Sort by Digit Sum </a> (#Array, #Sorting )
   * -[x] (完成日期: 2025/05/29) <a href="./3561/Resulting_String_After_Adjacent_Removals.ipynb">3561. Resulting String After Adjacent Removals </a> (#String, #Stack )
   * -[x] (完成日期: 2025/06/08) <a href="./3572/Maximize_Y‑Sum_by_Picking_a_Triplet_of_Distinct_X‑Values.ipynb">3572. Maximize Y‑Sum by Picking a Triplet of Distinct X‑Values </a> (#Array )
   * -[x] (完成日期: 2025/07/11) <a href="./3597/Partition_String.ipynb">3597. Partition String  </a> (#String )
