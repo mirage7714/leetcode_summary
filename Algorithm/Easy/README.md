@@ -612,3 +612,4 @@
   * -[x] (完成日期: 2025/12/22) <a href="./3783/Mirror_Distance_of_an_Integer.ipynb">3783. Mirror Distance of an Integer </a> (#Math )  
   * -[x] (完成日期: 2026/01/05) <a href="./3794/Reverse_String_Prefix.ipynb">3794. Reverse String Prefix </a> (#String )  
   * -[x] (完成日期: 2026/01/05) <a href="./3798/Largest_Even_Number.ipynb">3798. Largest Even Number </a> (#String )  
+  * -[x] (完成日期: 2026/01/12) <a href="./3803/Count_Residue_Prefixes.ipynb">3803. Count Residue Prefixes </a> (#String )  
