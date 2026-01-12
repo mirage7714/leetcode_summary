@@ -567,3 +567,4 @@
   * -[x] (完成日期: 2025/12/22) <a href="./3784/Minimum_Deletion_Cost_to_Make_All_Characters_Equal.ipynb">3784. Minimum Deletion Cost to Make All Characters Equal </a> (#Array, #HashMap )  
   * -[x] (完成日期: 2025/12/30) <a href="./3788/Maximum_Score_of_a_Split.ipynb">3788. Maximum Score of a Split </a> (#Array )  
   * -[x] (完成日期: 2025/12/29) <a href="./3789/Minimum_Cost_to_Acquire_Required_Items.ipynb">3789. Minimum Cost to Acquire Required Items </a> (#Math )  
+  * -[x] (完成日期: 2026/01/12) <a href="./3804/Number_of_Centered_Subarrays.ipynb">3804. Number of Centered Subarrays </a> (#Array, #SlidingWindow )  
