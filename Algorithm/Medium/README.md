@@ -568,3 +568,4 @@
   * -[x] (完成日期: 2025/12/30) <a href="./3788/Maximum_Score_of_a_Split.ipynb">3788. Maximum Score of a Split </a> (#Array )  
   * -[x] (完成日期: 2025/12/29) <a href="./3789/Minimum_Cost_to_Acquire_Required_Items.ipynb">3789. Minimum Cost to Acquire Required Items </a> (#Math )  
   * -[x] (完成日期: 2026/01/12) <a href="./3804/Number_of_Centered_Subarrays.ipynb">3804. Number of Centered Subarrays </a> (#Array, #SlidingWindow )  
+  * -[x] (完成日期: 2026/01/13) <a href="./3805/Count_Caesar_Cipher_Pairs.ipynb">3805. Count Caesar Cipher Pairs </a> (#Array, #String )  
