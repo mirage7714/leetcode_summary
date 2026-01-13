@@ -52,3 +52,4 @@
   * -[x] (完成日期: 2025/11/20) <a href="3673/Find_Zombie_Sessions.ipynb">3673. Find Zombie Sessions </a> (#GroupBy, #Join, #TimeDiff )
   * -[x] (完成日期: 2025/11/07) <a href="3705/Find_Golden_Hour_Customers.ipynb">3705. Find Golden Hour Customers </a> (#GroupBy, #Join, #TimeFormat )
   * -[x] (完成日期: 2025/11/12) <a href="3716/Find_Churn_Risk_Customers.ipynb">3716. Find Churn Risk Customers </a> (#GroupBy, #Join, #Partition, #DateDiff )
+  * -[x] (完成日期: 2026/01/13) <a href="3793/Find_Users_with_High_Token_Usage.ipynb">3793. Find Users with High Token Usage </a> (#GroupBy, #Avg )
