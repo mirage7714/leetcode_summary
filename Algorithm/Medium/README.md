@@ -570,3 +570,4 @@
   * -[x] (完成日期: 2026/01/12) <a href="./3804/Number_of_Centered_Subarrays.ipynb">3804. Number of Centered Subarrays </a> (#Array, #SlidingWindow )  
   * -[x] (完成日期: 2026/01/13) <a href="./3805/Count_Caesar_Cipher_Pairs.ipynb">3805. Count Caesar Cipher Pairs </a> (#Array, #String )  
   * -[x] (完成日期: 2026/01/28) <a href="./3818/Minimum_Prefix_Removal_to_Make_Array_Strictly_Increasing.ipynb">3818. Minimum Prefix Removal to Make Array Strictly Increasing </a> (#Array )  
+  * -[x] (完成日期: 2026/01/29) <a href="./3819/Rotate_Non_Negative_Elements.ipynb">3819. Rotate Non Negative Elements </a> (#Array )  
