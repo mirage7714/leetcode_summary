@@ -614,3 +614,4 @@
   * -[x] (完成日期: 2026/01/05) <a href="./3798/Largest_Even_Number.ipynb">3798. Largest Even Number </a> (#String )  
   * -[x] (完成日期: 2026/01/12) <a href="./3803/Count_Residue_Prefixes.ipynb">3803. Count Residue Prefixes </a> (#String )  
   * -[x] (完成日期: 2026/01/21) <a href="./3813/Vowel-Consonant_Score.ipynb">3813. Vowel-Consonant Score </a> (#String )  
+  * -[x] (完成日期: 2026/02/04) <a href="./3813/Reverse_Letters_Then_Special_Characters_in_a_String.ipynb">3823. Reverse Letters Then Special Characters in a String </a> (#String )  
