@@ -616,3 +616,4 @@
   * -[x] (完成日期: 2026/01/21) <a href="./3813/Vowel-Consonant_Score.ipynb">3813. Vowel-Consonant Score </a> (#String )  
   * -[x] (完成日期: 2026/02/04) <a href="./3823/Reverse_Letters_Then_Special_Characters_in_a_String.ipynb">3823. Reverse Letters Then Special Characters in a String </a> (#String )  
   * -[x] (完成日期: 2026/02/04) <a href="./3827/Count Monobit Integers.ipynb">3827. Count Monobit Integers </a> (#BitManipulation )  
+  * -[x] (完成日期: 2026/02/10) <a href="./3833/Count_Dominant_Indices.ipynb">3833. Count Dominant Indices </a> (#Array )  
