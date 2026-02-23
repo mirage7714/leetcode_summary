@@ -573,3 +573,4 @@
   * -[x] (完成日期: 2026/01/29) <a href="./3819/Rotate_Non_Negative_Elements.ipynb">3819. Rotate Non Negative Elements </a> (#Array )  
   * -[x] (完成日期: 2026/02/04) <a href="./3829/Design_Ride_Sharing_System.ipynb">3829. Design Ride Sharing System </a> (#SystemDesign )  
   * -[x] (完成日期: 2026/02/10) <a href="./3834/Merge_Adjacent_Equal_Elements.ipynb">3834. Merge Adjacent Equal Elements </a> (#Array, #Stack )  
+  * -[x] (完成日期: 2026/02/23) <a href="./3847/Find_the_Score_Difference_in_a_Game.ipynb">3847. Find the Score Difference in a Game </a> (#Array )  
