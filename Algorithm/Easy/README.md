@@ -619,3 +619,4 @@
   * -[x] (完成日期: 2026/02/10) <a href="./3833/Count_Dominant_Indices.ipynb">3833. Count Dominant Indices </a> (#Array )  
   * -[x] (完成日期: 2026/02/18) <a href="./3838/Weighted_Word_Mapping.ipynb">3838. Weighted Word Mapping </a> (#String )  
   * -[x] (完成日期: 2026/02/18) <a href="./3842/Toggle_Light_Bulbs.ipynb">3842. Toggle Light Bulbs </a> (#Array, #HashMap )  
+  * -[x] (完成日期: 2026/03/02) <a href="./3856/Trim_Trailing_Vowels.ipynb">3856. Trim Trailing Vowels </a> (#String )  
