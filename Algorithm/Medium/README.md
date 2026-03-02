@@ -577,3 +577,4 @@
   * -[x] (完成日期: 2026/02/26) <a href="./3848/Check_Digitorial_Permutation.ipynb">3848. Check Digitorial Permutation </a> (#Math, #Counting )  
   * -[x] (完成日期: 2026/02/23) <a href="./3849/Maximum_Bitwise_XOR_After_Rearrangement.ipynb">3849. Maximum Bitwise XOR After Rearrangement </a> (#String, #BitManipulation )  
   * -[x] (完成日期: 2026/03/02) <a href="./3853/Merge_Close_Characters.ipynb">3853. Merge Close Characters </a> (#String, #Stack )  
+  * -[x] (完成日期: 2026/03/02) <a href="./3857/Minimum_Cost_to_Split_into_Ones.ipynb">3857. Minimum Cost to Split into Ones </a> (#Math, #Stack )  
