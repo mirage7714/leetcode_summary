@@ -622,3 +622,4 @@
   * -[x] (完成日期: 2026/03/02) <a href="./3856/Trim_Trailing_Vowels.ipynb">3856. Trim Trailing Vowels </a> (#String )  
   * -[x] (完成日期: 2026/03/09) <a href="./3861/Minimum_Capacity_Box.ipynb">3861. Minimum Capacity Box </a> (#Array )  
   * -[x] (完成日期: 2026/03/17) <a href="./3866/First_Unique_Even_Element.ipynb">3866. First Unique Even Element </a> (#Array, #HashMap )  
+  * -[x] (完成日期: 2026/03/17) <a href="./3870/Count_Commas_in_Range.ipynb">3870. Count Commas in Range </a> (#Math )  
