@@ -573,6 +573,7 @@
   * -[x] (完成日期: 2026/01/29) <a href="./3819/Rotate_Non_Negative_Elements.ipynb">3819. Rotate Non Negative Elements </a> (#Array )  
   * -[x] (完成日期: 2026/02/04) <a href="./3829/Design_Ride_Sharing_System.ipynb">3829. Design Ride Sharing System </a> (#SystemDesign )  
   * -[x] (完成日期: 2026/02/10) <a href="./3834/Merge_Adjacent_Equal_Elements.ipynb">3834. Merge Adjacent Equal Elements </a> (#Array, #Stack )  
+  * -[x] (完成日期: 2026/03/24) <a href="./3843/First_Element_with_Unique_Frequency.ipynb">3843. First Element with Unique Frequency </a> (#Array, #HashMap )  
   * -[x] (完成日期: 2026/02/23) <a href="./3847/Find_the_Score_Difference_in_a_Game.ipynb">3847. Find the Score Difference in a Game </a> (#Array )  
   * -[x] (完成日期: 2026/02/26) <a href="./3848/Check_Digitorial_Permutation.ipynb">3848. Check Digitorial Permutation </a> (#Math, #Counting )  
   * -[x] (完成日期: 2026/02/23) <a href="./3849/Maximum_Bitwise_XOR_After_Rearrangement.ipynb">3849. Maximum Bitwise XOR After Rearrangement </a> (#String, #BitManipulation )  
