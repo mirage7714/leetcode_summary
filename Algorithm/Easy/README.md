@@ -626,3 +626,4 @@
   * -[x] (完成日期: 2026/03/17) <a href="./3870/Count_Commas_in_Range.ipynb">3870. Count Commas in Range </a> (#Math )  
   * -[x] (完成日期: 2026/03/23) <a href="./3875/Construct_Uniform_Parity_Array_I.ipynb">3875. Construct Uniform Parity Array I </a> (#Math )  
   * -[x] (完成日期: 2026/03/30) <a href="./3880/Minimum_Absolute_Difference_Between_Two_Values.ipynb">3880. Minimum Absolute Difference Between Two Values </a> (#Array )  
+  * -[x] (完成日期: 2026/03/30) <a href="./3884/First_Matching_Character_From_Both_Ends.ipynb">3884. First Matching Character From Both Ends </a> (#String )  
