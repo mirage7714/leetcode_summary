@@ -627,3 +627,4 @@
   * -[x] (完成日期: 2026/03/23) <a href="./3875/Construct_Uniform_Parity_Array_I.ipynb">3875. Construct Uniform Parity Array I </a> (#Math )  
   * -[x] (完成日期: 2026/03/30) <a href="./3880/Minimum_Absolute_Difference_Between_Two_Values.ipynb">3880. Minimum Absolute Difference Between Two Values </a> (#Array )  
   * -[x] (完成日期: 2026/03/30) <a href="./3884/First_Matching_Character_From_Both_Ends.ipynb">3884. First Matching Character From Both Ends </a> (#String )  
+  * -[x] (完成日期: 2026/04/13) <a href="./3894/Traffic_Signal_Color.ipynb">3894. Traffic Signal Color </a> (#String )  
