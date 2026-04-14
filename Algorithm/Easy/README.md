@@ -628,3 +628,4 @@
   * -[x] (完成日期: 2026/03/30) <a href="./3880/Minimum_Absolute_Difference_Between_Two_Values.ipynb">3880. Minimum Absolute Difference Between Two Values </a> (#Array )  
   * -[x] (完成日期: 2026/03/30) <a href="./3884/First_Matching_Character_From_Both_Ends.ipynb">3884. First Matching Character From Both Ends </a> (#String )  
   * -[x] (完成日期: 2026/04/13) <a href="./3894/Traffic_Signal_Color.ipynb">3894. Traffic Signal Color </a> (#String )  
+  * -[x] (完成日期: 2026/04/13) <a href="./3898/Find_the_Degree_of_Each_Vertex.ipynb">3898. Find the Degree of Each Vertex </a> (#Array )  
