@@ -581,4 +581,5 @@
   * -[x] (完成日期: 2026/03/02) <a href="./3857/Minimum_Cost_to_Split_into_Ones.ipynb">3857. Minimum Cost to Split into Ones </a> (#Math, #Stack )  
   * -[x] (完成日期: 2026/03/10) <a href="./3862/Find_the_Smallest_Balanced_Index.ipynb">3862. Find the Smallest Balanced Index </a> (#Array )  
   * -[x] (完成日期: 2026/04/08) <a href="./3889/Mirror_Frequency_Distance.ipynb">3889. Mirror Frequency Distance </a> (#Array, #HashMap )  
+  * -[x] (完成日期: 2026/04/14) <a href="./3895/Count_Digit_Appearances.ipynb">3895. Count Digit Appearances </a> (#Array )  
   * -[x] (完成日期: 2026/04/14) <a href="./3899/Angles_of_a_Triangle.ipynb">3899. Angles of a Triangle </a> (#Math )  
