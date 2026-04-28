@@ -631,3 +631,4 @@
   * -[x] (完成日期: 2026/04/13) <a href="./3898/Find_the_Degree_of_Each_Vertex.ipynb">3898. Find the Degree of Each Vertex </a> (#Array )  
   * -[x] (完成日期: 2026/04/20) <a href="./3903/Smallest_Stable_Index_I.ipynb">3903. Smallest Stable Index I </a> (#Array )  
   * -[x] (完成日期: 2026/04/27) <a href="./3908/Valid_Digit_Number.ipynb">3908. Valid Digit Number </a> (#String )  
+  * -[x] (完成日期: 2026/04/28) <a href="./3912/Valid_Elements_in_an_Array.ipynb">3912. Valid Elements in an Array </a> (#Array )  
