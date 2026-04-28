@@ -583,3 +583,4 @@
   * -[x] (完成日期: 2026/04/08) <a href="./3889/Mirror_Frequency_Distance.ipynb">3889. Mirror Frequency Distance </a> (#Array, #HashMap )  
   * -[x] (完成日期: 2026/04/14) <a href="./3895/Count_Digit_Appearances.ipynb">3895. Count Digit Appearances </a> (#Array )  
   * -[x] (完成日期: 2026/04/14) <a href="./3899/Angles_of_a_Triangle.ipynb">3899. Angles of a Triangle </a> (#Math )  
+  * -[x] (完成日期: 2026/04/28) <a href="./3909/Compare_Sums_of_Bitonic_Parts.ipynb">3909. Compare Sums of Bitonic Parts </a> (#Array )  
