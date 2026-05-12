@@ -585,3 +585,4 @@
   * -[x] (完成日期: 2026/04/14) <a href="./3899/Angles_of_a_Triangle.ipynb">3899. Angles of a Triangle </a> (#Math )  
   * -[x] (完成日期: 2026/04/28) <a href="./3909/Compare_Sums_of_Bitonic_Parts.ipynb">3909. Compare Sums of Bitonic Parts </a> (#Array )  
   * -[x] (完成日期: 2026/05/12) <a href="./3918/Sum_of_Primes_Between_Number_and_Its_Reverse.ipynb">3918. Sum of Primes Between Number and Its Reverse </a> (#Math )  
+  * -[x] (完成日期: 2026/05/12) <a href="./3926/Count_Valid_Word_Occurrences.ipynb">3926. Count Valid Word Occurrences </a> (#Array, #String )  
