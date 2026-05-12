@@ -633,4 +633,5 @@
   * -[x] (完成日期: 2026/04/27) <a href="./3908/Valid_Digit_Number.ipynb">3908. Valid Digit Number </a> (#String )  
   * -[x] (完成日期: 2026/04/28) <a href="./3912/Valid_Elements_in_an_Array.ipynb">3912. Valid Elements in an Array </a> (#Array )  
   * -[x] (完成日期: 2026/05/11) <a href="./3917/Count_Indices_With_Opposite_Parity.ipynb">3917. Count Indices With Opposite Parity </a> (#Array )  
-  * -[x] (完成日期: 2026/05/11) <a href="./3921/Score Validator.ipynb">3921. Score Validator </a> (#Array )  
+  * -[x] (完成日期: 2026/05/11) <a href="./3921/Score_Validator.ipynb">3921. Score Validator </a> (#Array )  
+  * -[x] (完成日期: 2026/05/12) <a href="./3925/Concatenate_Array_With_Reverse.ipynb">3925. Concatenate Array With Reverse </a> (#Array )  
