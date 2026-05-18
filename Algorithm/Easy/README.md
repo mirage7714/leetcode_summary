@@ -635,3 +635,4 @@
   * -[x] (完成日期: 2026/05/11) <a href="./3917/Count_Indices_With_Opposite_Parity.ipynb">3917. Count Indices With Opposite Parity </a> (#Array )  
   * -[x] (完成日期: 2026/05/11) <a href="./3921/Score_Validator.ipynb">3921. Score Validator </a> (#Array )  
   * -[x] (完成日期: 2026/05/12) <a href="./3925/Concatenate_Array_With_Reverse.ipynb">3925. Concatenate Array With Reverse </a> (#Array )  
+  * -[x] (完成日期: 2026/05/18) <a href="./3931/Check_Adjacent_Digit_Differences.ipynb">3931. Check Adjacent Digit Differences </a> (#String )  
