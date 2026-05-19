@@ -586,4 +586,5 @@
   * -[x] (完成日期: 2026/04/28) <a href="./3909/Compare_Sums_of_Bitonic_Parts.ipynb">3909. Compare Sums of Bitonic Parts </a> (#Array )  
   * -[x] (完成日期: 2026/05/12) <a href="./3918/Sum_of_Primes_Between_Number_and_Its_Reverse.ipynb">3918. Sum of Primes Between Number and Its Reverse </a> (#Math )  
   * -[x] (完成日期: 2026/05/12) <a href="./3926/Count_Valid_Word_Occurrences.ipynb">3926. Count Valid Word Occurrences </a> (#Array, #String )  
+  * -[x] (完成日期: 2026/05/19) <a href="./3927/Minimize_Array_Sum_Using_Divisible_Replacements.ipynb">3927. Minimize Array Sum Using Divisible Replacements </a> (#Array, #HeapMap )  
   * -[x] (完成日期: 2026/05/19) <a href="./3932/Count_K-th_Roots_in_a_Range.ipynb">3932. Count K-th Roots in a Range </a> (#Math )  
