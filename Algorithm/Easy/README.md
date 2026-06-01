@@ -638,3 +638,4 @@
   * -[x] (完成日期: 2026/05/18) <a href="./3931/Check_Adjacent_Digit_Differences.ipynb">3931. Check Adjacent Digit Differences </a> (#String )  
   * -[x] (完成日期: 2026/05/25) <a href="./3936/Minimum_Swaps_to_Move_Zeros_to_End.ipynb">3936. Minimum Swaps to Move Zeros to End </a> (#Array )  
   * -[x] (完成日期: 2026/05/25) <a href="./3940/Limit_Occurrences_in_Sorted_Array.ipynb">3940. Limit Occurrences in Sorted Array </a> (#Array )  
+  * -[x] (完成日期: 2026/06/01) <a href="./3945/Digit_Frequency_Score.ipynb">3945. Digit Frequency Score </a> (#HashMap )  
