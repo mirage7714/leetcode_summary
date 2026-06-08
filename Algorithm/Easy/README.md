@@ -639,3 +639,4 @@
   * -[x] (完成日期: 2026/05/25) <a href="./3936/Minimum_Swaps_to_Move_Zeros_to_End.ipynb">3936. Minimum Swaps to Move Zeros to End </a> (#Array )  
   * -[x] (完成日期: 2026/05/25) <a href="./3940/Limit_Occurrences_in_Sorted_Array.ipynb">3940. Limit Occurrences in Sorted Array </a> (#Array )  
   * -[x] (完成日期: 2026/06/01) <a href="./3945/Digit_Frequency_Score.ipynb">3945. Digit Frequency Score </a> (#HashMap )  
+  * -[x] (完成日期: 2026/06/08) <a href="./3950/Exactly_One_Consecutive_Set_Bits_Pair.ipynb">3950. Exactly One Consecutive Set Bits Pair </a> (#BitManipulation )  
