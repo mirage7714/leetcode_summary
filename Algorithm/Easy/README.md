@@ -640,3 +640,4 @@
   * -[x] (完成日期: 2026/05/25) <a href="./3940/Limit_Occurrences_in_Sorted_Array.ipynb">3940. Limit Occurrences in Sorted Array </a> (#Array )  
   * -[x] (完成日期: 2026/06/01) <a href="./3945/Digit_Frequency_Score.ipynb">3945. Digit Frequency Score </a> (#HashMap )  
   * -[x] (完成日期: 2026/06/08) <a href="./3950/Exactly_One_Consecutive_Set_Bits_Pair.ipynb">3950. Exactly One Consecutive Set Bits Pair </a> (#BitManipulation )  
+  * -[x] (完成日期: 2026/06/12) <a href="./3954/Sum_of_Compatible_Numbers_in_Range_I.ipynb">3954. Sum of Compatible Numbers in Range I </a> (#Math )  
