@@ -9,7 +9,7 @@
   * -[x] (完成日期: 2022/07/28) <a href="./8/String_to_Integer_(atoi).ipynb">8. String to Integer (atoi) </a>
   * -[x] (完成日期: 2022/06/02) <a href="./11/Container_With_Most_Water.ipynb">11. Container With Most Water </a>
   * -[x] (完成日期: 2022/06/29) <a href="./12/Integer_to_Roman.ipynb">12. Integer to Roman </a>
-  * -[x] (完成日期: 2022/07/29) <a href="./15/3Sum.ipynb">15. 3Sum </a>	
+  * -[x] (完成日期: 2022/07/29) <a href="./15/3Sum.ipynb">15. 3Sum </a>
   * -[x] (完成日期: 2022/07/29) <a href="./16/3Sum_Closest.ipynb">16. 3Sum Closest </a>
   * -[x] (完成日期: 2021/05/01) <a href="./17/Letter_Combinations_of_a_Phone_Number.ipynb">17. Letter Combinations of a Phone Number </a>
   * -[x] (完成日期: 2022/03/15) <a href="./19/Remove_Nth_Node_From_End_of_List.ipynb">19. Remove Nth Node From End of List </a>
@@ -212,7 +212,7 @@
   * -[x] (完成日期: 2022/06/20) <a href="./988/Smallest_String_Starting_From_Leaf.ipynb">988. Smallest String Starting From Leaf </a>  
   * -[x] (完成日期: 2022/09/19) <a href="./994/Rotting_Oranges.ipynb">994. Rotting Oranges </a> (#Matrix, #Array, #BFS)
   * -[x] (完成日期: 2022/07/27) <a href="./1007/Minimum_Domino_Rotations_For_Equal_Row.ipynb">1007. Minimum Domino Rotations For Equal Row </a>  
-  * -[x] (完成日期: 2025/11/25) <a href="./1015/Smallest_Integer_Divisible_by_K.ipynb">1015. Smallest Integer Divisible by K </a> (#Math ) 
+  * -[x] (完成日期: 2025/11/25) <a href="./1015/Smallest_Integer_Divisible_by_K.ipynb">1015. Smallest Integer Divisible by K </a> (#Math )
   * -[x] (完成日期: 2022/09/16) <a href="./1019/Next_Greater_Node_In_Linked_List.ipynb">1019. Next Greater Node In Linked List </a>  (#Array, #Stack, #LinkedList, #MonotonicStack )
   * -[x] (完成日期: 2023/09/07) <a href="./1023/Camelcase_Matching.ipynb">1023. Camelcase Matching </a>  (#Array, #String )
   * -[x] (完成日期: 2022/12/09) <a href="./1026/Maximum_Difference_Between_Node_and_Ancestor.ipynb">1026. Maximum Difference Between Node and Ancestor </a>  (#BinaryTree)
@@ -589,3 +589,4 @@
   * -[x] (完成日期: 2026/05/19) <a href="./3927/Minimize_Array_Sum_Using_Divisible_Replacements.ipynb">3927. Minimize Array Sum Using Divisible Replacements </a> (#Array, #HeapMap )  
   * -[x] (完成日期: 2026/05/19) <a href="./3932/Count_K-th_Roots_in_a_Range.ipynb">3932. Count K-th Roots in a Range </a> (#Math )  
   * -[x] (完成日期: 2026/05/25) <a href="./3941/Password_Strength.ipynb">3941. Password Strength </a> (#String )  
+  * -[x] (完成日期: 2026/06/23) <a href="./3968/Maximum_Manhattan_Distance_After_All_Moves.ipynb">3968. Maximum Manhattan Distance After All Moves </a> (#Math )  
