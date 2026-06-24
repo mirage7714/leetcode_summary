@@ -642,3 +642,4 @@
   * -[x] (完成日期: 2026/06/08) <a href="./3950/Exactly_One_Consecutive_Set_Bits_Pair.ipynb">3950. Exactly One Consecutive Set Bits Pair </a> (#BitManipulation )  
   * -[x] (完成日期: 2026/06/12) <a href="./3954/Sum_of_Compatible_Numbers_in_Range_I.ipynb">3954. Sum of Compatible Numbers in Range I </a> (#Math )  
   * -[x] (完成日期: 2026/06/15) <a href="./3959/Check_Good_Integer.ipynb">3959. Check Good Integer </a> (#Math )  
+  * -[x] (完成日期: 2026/06/24) <a href="./3963/Create_Grid_With_Exactly_One_Path.ipynb">3963. Create Grid With Exactly One Path </a> (#Array )  
