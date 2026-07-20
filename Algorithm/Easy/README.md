@@ -646,3 +646,4 @@
   * -[x] (完成日期: 2026/07/06) <a href="./3978/Unique_Middle_Element.ipynb">3978. Unique Middle Element </a> (#Array )  
   * -[x] (完成日期: 2026/07/07) <a href="./3982/Sum_of_Integers_with_Maximum_Digit_Range.ipynb">3982. Sum of Integers with Maximum Digit Range </a> (#Array )  
   * -[x] (完成日期: 2026/07/14) <a href="./3986/Number_of_Elapsed_Seconds_Between_Two_Times.ipynb">3986. Number of Elapsed Seconds Between Two Times </a> (#Math )  
+  * -[x] (完成日期: 2026/07/20) <a href="./3992/Rearrange_String_to_Avoid_Character_Pair.ipynb">3992. Rearrange String to Avoid Character Pair </a> (#String )  
