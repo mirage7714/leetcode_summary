@@ -1,6 +1,7 @@
 # SQL practice
 因為很久沒練習用SQL了，這次安排了一周練習一提SQL，並把解題的一些想法與做法記錄下來  
 
+  * -[x] (完成日期: 2026/07/29) <a href="180/Consecutive_Numbers.ipynb">180. Consecutive Numbers </a> (#Join )
   * -[x] (完成日期: 2024/04/02) <a href="181/Employees_Earning_More_Than_Their_Managers.ipynb">181. Employees Earning More Than Their Managers </a> (#TempTable )
   * -[x] (完成日期: 2024/04/02) <a href="182/Duplicate_Emails.ipynb">182. Duplicate Emails </a> (#GroupBy )
   * -[x] (完成日期: 2024/04/02) <a href="183/Customers_Who_Never_Order.ipynb">183. Customers Who Never Order </a> (#TempTable )
