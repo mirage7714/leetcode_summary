@@ -43,6 +43,7 @@
   * -[x] (完成日期: 2025/11/07) <a href="3497/Analyze_Subscription_Conversion.ipynb">3497. Analyze Subscription Conversion </a> (#GroupBy, #Join )
   * -[x] (完成日期: 2025/11/07) <a href="3564/Seasonal_Sales_Analysis.ipynb">3564. Seasonal Sales Analysis </a> (#GroupBy, #Join, #Case, #Partition )
   * -[x] (完成日期: 2025/09/03) <a href="3570/Find_Books_with_No_Available_Copies.ipynb">3570. Find Books with No Available Copies  </a> (#GroupBy, #Join )
+  * -[x] (完成日期: 2026/07/29) <a href="3580/Find_Consistently_Improving_Employees.ipynb">3580. Find Consistently Improving Employees  </a> (#Partition, #GroupBy, #CTE )
   * -[x] (完成日期: 2025/11/17) <a href="3586/Find_COVID_Recovery_Patients.ipynb">3586. Find COVID Recovery Patients </a> (#DateDiff, #Join, #Partition )
   * -[x] (完成日期: 2025/11/19) <a href="3601/Find_Drivers_with_Improved_Fuel_Efficiency.ipynb">3601. Find Drivers with Improved Fuel Efficiency </a> (#Month, #Join, #Case )
   * -[x] (完成日期: 2025/09/10) <a href="3611/Find_Overbooked_Employees.ipynb">3611. Find Overbooked Employees </a> (#GroupBy, #Join, #Week )
