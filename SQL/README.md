@@ -16,6 +16,7 @@
   * -[x] (完成日期: 2024/04/09) <a href="608/Tree_Node.ipynb">608. Tree Node </a> (#Case )
   * -[x] (完成日期: 2024/03/27) <a href="610/Triangle_Judgement.ipynb">610. Triangle Judgement </a> (#Case )
   * -[x] (完成日期: 2024/03/26) <a href="619/Biggest_Single_Number.ipynb">619. Biggest Single Number </a>
+  * -[x] (完成日期: 2026/08/03) <a href="626/Exchange_Seats.ipynb">626. Exchange Seats </a> (#Case )
   * -[x] (完成日期: 2024/03/16) <a href="1045/Customers_Who_Bought_All_Products.ipynb">1045. Customers Who Bought All Products </a>
   * -[x] (完成日期: 2025/11/14) <a href="1070/Product_Sales_Analysis_III.ipynb">1070. Product Sales Analysis III </a> (#Join, #Partition )
   * -[x] (完成日期: 2024/03/15) <a href="1075/Project_Employees_I.ipynb">1075. Project Employees I </a>
