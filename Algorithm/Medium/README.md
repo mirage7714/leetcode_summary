@@ -591,3 +591,4 @@
   * -[x] (完成日期: 2026/05/19) <a href="./3932/Count_K-th_Roots_in_a_Range.ipynb">3932. Count K-th Roots in a Range </a> (#Math )  
   * -[x] (完成日期: 2026/05/25) <a href="./3941/Password_Strength.ipynb">3941. Password Strength </a> (#String )  
   * -[x] (完成日期: 2026/06/23) <a href="./3968/Maximum_Manhattan_Distance_After_All_Moves.ipynb">3968. Maximum Manhattan Distance After All Moves </a> (#Math )  
+  * -[x] (完成日期: 2026/08/10) <a href="./3968/Minimum_Total_Price_After_Applying_Discounts.ipynb">4014. Minimum Total Price After Applying Discounts </a> (#Array )  
