@@ -651,3 +651,4 @@
   * -[x] (完成日期: 2026/07/29) <a href="./4000/Largest_Integer_With_Given_Digit_Sum.ipynb">4000. Largest Integer With Given Digit Sum </a> (#Math )  
   * -[x] (完成日期: 2026/08/03) <a href="./4006/Count_Valid_Prefixes.ipynb">4006. Count Valid Prefixes </a> (#String )  
   * -[x] (完成日期: 2026/08/17) <a href="./4020/Elevator_Requests_I.ipynb">4020. Elevator Requests I </a> (#Array )  
+  * -[x] (完成日期: 2026/08/17) <a href="./4024/Nearest_Available_Drone.ipynb">4024. Nearest Available Drone </a> (#Array )  
