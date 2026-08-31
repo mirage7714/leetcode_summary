@@ -653,3 +653,4 @@
   * -[x] (完成日期: 2026/08/17) <a href="./4020/Elevator_Requests_I.ipynb">4020. Elevator Requests I </a> (#Array )  
   * -[x] (完成日期: 2026/08/17) <a href="./4024/Nearest_Available_Drone.ipynb">4024. Nearest Available Drone </a> (#Array )  
   * -[x] (完成日期: 2026/08/24) <a href="./4030/Check_ASCII_Palindromic.ipynb">4030. Check ASCII Palindromic </a> (#String )  
+  * -[x] (完成日期: 2026/08/31) <a href="./4038/Count_Integers_Appearing_in_a_Single_Block.ipynb">4038. Count Integers Appearing in a Single Block </a> (#Array )  
