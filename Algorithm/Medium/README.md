@@ -592,3 +592,4 @@
   * -[x] (完成日期: 2026/05/25) <a href="./3941/Password_Strength.ipynb">3941. Password Strength </a> (#String )  
   * -[x] (完成日期: 2026/06/23) <a href="./3968/Maximum_Manhattan_Distance_After_All_Moves.ipynb">3968. Maximum Manhattan Distance After All Moves </a> (#Math )  
   * -[x] (完成日期: 2026/08/10) <a href="./3968/Minimum_Total_Price_After_Applying_Discounts.ipynb">4014. Minimum Total Price After Applying Discounts </a> (#Array )  
+  * -[x] (完成日期: 2026/09/01) <a href="./4034/Minimum_Bishop_Moves_to_Reach_Target.ipynb">4034. Minimum Bishop Moves to Reach Target </a> (#Math )  
