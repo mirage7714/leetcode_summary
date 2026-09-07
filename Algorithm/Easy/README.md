@@ -654,3 +654,4 @@
   * -[x] (完成日期: 2026/08/17) <a href="./4024/Nearest_Available_Drone.ipynb">4024. Nearest Available Drone </a> (#Array )  
   * -[x] (完成日期: 2026/08/24) <a href="./4030/Check_ASCII_Palindromic.ipynb">4030. Check ASCII Palindromic </a> (#String )  
   * -[x] (完成日期: 2026/08/31) <a href="./4038/Count_Integers_Appearing_in_a_Single_Block.ipynb">4038. Count Integers Appearing in a Single Block </a> (#Array )  
+  * -[x] (完成日期: 2026/09/07) <a href="./4043/Count_Rotations_With_Exactly_K_Equal_Adjacent_Pairs.ipynb">4043. Count Rotations With Exactly K Equal Adjacent Pairs </a> (#String )  
