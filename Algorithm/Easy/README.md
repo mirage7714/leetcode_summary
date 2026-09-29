@@ -657,6 +657,7 @@
   * -[x] (完成日期: 2026/09/07) <a href="./4043/Count_Rotations_With_Exactly_K_Equal_Adjacent_Pairs.ipynb">4043. Count Rotations With Exactly K Equal Adjacent Pairs </a> (#String )  
   * -[x] (完成日期: 2026/09/14) <a href="./4048/Count_Values_With_Equally_Spaced_Occurrences_I.ipynb">4048. Count Values With Equally Spaced Occurrences I </a> (#Array )  
   * -[x] (完成日期: 2026/09/17) <a href="./4052/Cyclically_Shift_Rows_and_Columns.ipynb">4052. Cyclically Shift Rows and Columns </a> (#Matrix )
-  * -[x] (完成日期: 2026/09/29) <a href="./4056/Minimum_Queen_Moves_to_Reach_Target.ipynb">4056. Number of Intersecting Interval Pairs I </a> (#Math )  
+  * -[x] (完成日期: 2026/09/29) <a href="./4056/Number_of_Intersecting_Interval_Pairs_I.ipynb">4056. Number of Intersecting Interval Pairs I </a> (#Array )  
   * -[x] (完成日期: 2026/09/29) <a href="./4061/Minimum_Queen_Moves_to_Reach_Target.ipynb">4061. Minimum Queen Moves to Reach Target </a> (#Math )  
+  * -[x] (完成日期: 2026/09/29) <a href="./4065/Rearrange_Array_by_Removing_Distinct_Values.ipynb">4065. Rearrange Array by Removing Distinct Values </a> (#Array )  
   
