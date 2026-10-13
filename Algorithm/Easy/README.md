@@ -660,4 +660,5 @@
   * -[x] (完成日期: 2026/09/29) <a href="./4056/Number_of_Intersecting_Interval_Pairs_I.ipynb">4056. Number of Intersecting Interval Pairs I </a> (#Array )  
   * -[x] (完成日期: 2026/09/29) <a href="./4061/Minimum_Queen_Moves_to_Reach_Target.ipynb">4061. Minimum Queen Moves to Reach Target </a> (#Math )  
   * -[x] (完成日期: 2026/09/29) <a href="./4065/Rearrange_Array_by_Removing_Distinct_Values.ipynb">4065. Rearrange Array by Removing Distinct Values </a> (#Array )  
+  * -[x] (完成日期: 2026/10/13) <a href="./4078/Three_Fibonacci_Sum">4078. Three Fibonacci Sum </a> (#Math )  
   
