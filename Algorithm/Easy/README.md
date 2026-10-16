@@ -661,5 +661,6 @@
   * -[x] (完成日期: 2026/09/29) <a href="./4061/Minimum_Queen_Moves_to_Reach_Target.ipynb">4061. Minimum Queen Moves to Reach Target </a> (#Math )  
   * -[x] (完成日期: 2026/09/29) <a href="./4065/Rearrange_Array_by_Removing_Distinct_Values.ipynb">4065. Rearrange Array by Removing Distinct Values </a> (#Array )  
   * -[x] (完成日期: 2026/10/14) <a href="./4070/Minimum_Rotations_to_Dial_a_Number_I.ipynb">4070. Minimum Rotations to Dial a Number I </a> (#Math )  
+  * -[x] (完成日期: 2026/10/16) <a href="./4074/Maximum_Product_Pair_With_Target_Sum.ipynb">4074. Maximum Product Pair With Target Sum </a> (#Array )  
   * -[x] (完成日期: 2026/10/13) <a href="./4078/Three_Fibonacci_Sum.ipynb">4078. Three Fibonacci Sum </a> (#Math )  
   
