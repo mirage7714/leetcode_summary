@@ -663,4 +663,5 @@
   * -[x] (完成日期: 2026/10/14) <a href="./4070/Minimum_Rotations_to_Dial_a_Number_I.ipynb">4070. Minimum Rotations to Dial a Number I </a> (#Math )  
   * -[x] (完成日期: 2026/10/16) <a href="./4074/Maximum_Product_Pair_With_Target_Sum.ipynb">4074. Maximum Product Pair With Target Sum </a> (#Array )  
   * -[x] (完成日期: 2026/10/13) <a href="./4078/Three_Fibonacci_Sum.ipynb">4078. Three Fibonacci Sum </a> (#Math )  
+  * -[x] (完成日期: 2026/10/19) <a href="./4083/Minimum_Deletions_to_Make_Array_Sharp.ipynb">4083. Minimum Deletions to Make Array Sharp </a> (#Array )  
   
