@@ -595,3 +595,4 @@
   * -[x] (完成日期: 2026/09/01) <a href="./4034/Minimum_Bishop_Moves_to_Reach_Target.ipynb">4034. Minimum Bishop Moves to Reach Target </a> (#Math )  
   * -[x] (完成日期: 2026/09/14) <a href="./4049/Count_Values_With_Equally_Spaced_Occurrences_II.ipynb">4049. Count Values With Equally Spaced Occurrences II </a> (#Array )  
   * -[x] (完成日期: 2026/09/29) <a href="./4062/Transform_Array_Using_Pair_Operations.ipynb">4062. Transform Array Using Pair Operations </a> (#Array )  
+  * -[x] (完成日期: 2026/11/03) <a href="./4089/Count_Subarrays_With_Loose_Bounds.ipynb">4089. Count Subarrays With Loose Bounds </a> (#Array )  
