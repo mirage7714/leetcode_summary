@@ -596,3 +596,4 @@
   * -[x] (完成日期: 2026/09/14) <a href="./4049/Count_Values_With_Equally_Spaced_Occurrences_II.ipynb">4049. Count Values With Equally Spaced Occurrences II </a> (#Array )  
   * -[x] (完成日期: 2026/09/29) <a href="./4062/Transform_Array_Using_Pair_Operations.ipynb">4062. Transform Array Using Pair Operations </a> (#Array )  
   * -[x] (完成日期: 2026/11/03) <a href="./4089/Count_Subarrays_With_Loose_Bounds.ipynb">4089. Count Subarrays With Loose Bounds </a> (#Array )  
+  * -[x] (完成日期: 2026/11/09) <a href="./4106/Find_Mismatched_Segments_Between_Two_Strings.ipynb">4106. Find Mismatched Segments Between Two Strings </a> (#String )  
