@@ -667,3 +667,4 @@
   * -[x] (完成日期: 2026/10/30) <a href="./4088/Difference_Between_Peaks_and_Valleys.ipynb">4088. Difference Between Peaks and Valleys </a> (#Array )  
   * -[x] (完成日期: 2026/10/30) <a href="./4092/Binary_Digit_Score.ipynb">4092. Binary Digit Score </a> (#BitManipulation )  
   * -[x] (完成日期: 2026/11/02) <a href="./4097/Minimum_Value_of_Merged_Integers.ipynb">4097. Minimum Value of Merged Integers </a> (#Math )  
+  * -[x] (完成日期: 2026/11/16) <a href="./4111/Count_Consistent_Subarrays_I.ipynb">4111. Count Consistent Subarrays I </a> (#Array )  
