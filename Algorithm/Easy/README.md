@@ -568,6 +568,7 @@
   * -[x] (完成日期: 2025/03/04) <a href="./3467/Transform_Array_by_Parity.ipynb">3467. Transform Array by Parity </a> (#Array )  
   * -[x] (完成日期: 2025/03/14) <a href="./3471/Find_the_Largest_Almost_Missing_Integer.ipynb">3471. Find the Largest Almost Missing Integer </a> (#Array )  
   * -[x] (完成日期: 2025/03/11) <a href="./3477/Fruits_Into_Baskets_II.ipynb">3477. Fruits Into Baskets II </a> (#Array )  
+  * -[x] (完成日期: 2026/11/17) <a href="./3483/Unique_3-Digit_Even_Numbers.ipynb">3483. Unique 3-Digit Even Numbers </a> (#Array )  
   * -[x] (完成日期: 2025/03/21) <a href="./3487/Maximum_Unique_Subarray_Sum_After_Deletion.ipynb">3487. Maximum Unique Subarray Sum After Deletion </a> (#Array )  
   * -[x] (完成日期: 2025/03/24) <a href="./3492/Maximum_Containers_on_a_Ship.ipynb">3492. Maximum Containers on a Ship </a> (#Math )  
   * -[x] (完成日期: 2025/04/01) <a href="./3498/Reverse_Degree_of_a_String.ipynb">3498. Reverse Degree of a String </a> (#String )  
