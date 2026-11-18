@@ -235,6 +235,7 @@
   * -[x] (完成日期: 2021/01/23) <a href="./1324/Print_Words_Vertically.ipynb">1324. Print Words Vertically </a>
   * -[x] (完成日期: 2022/09/22) <a href="./1325/Delete_Leaves_With_a_Given_Value.ipynb">1325. Delete Leaves With a Given Value </a> (#BinaryTree, #DFS)
   * -[x] (完成日期: 2021/01/23) <a href="./1338/Reduce_Array_Size_to_The_Half.ipynb">1338. Reduce Array Size to The Half </a>
+  * -[x] (完成日期: 2026/11/18) <a href="./1343/Number_of_Sub-arrays_of_Size_K_and_Average_Greater_than_or_Equal_to_Threshold.ipynb">1343. Number of Sub-arrays of Size K and Average Greater than or Equal to Threshold </a> (#Array, #SlidingWindow )
   * -[x] (完成日期: 2021/01/09) <a href="./1347/Minimum_Number_of_Steps_to_Make_Two_Strings_Anagram.ipynb">1347. Minimum Number of Steps to Make Two Strings Anagram </a>
   * -[x] (完成日期: 2022/07/04) <a href="./1348/Tweet_Counts_Per_Frequency.ipynb">1348. Tweet Counts Per Frequency </a>
   * -[x] (完成日期: 2021/03/16) <a href="./1357/Apply_Discount_Every_n_Orders.ipynb">1357. Apply Discount Every n Orders </a>
