@@ -250,6 +250,7 @@
   * -[x] (完成日期: 2022/09/20) <a href="./1405/Longest_Happy_String.ipynb">1405. Longest Happy String </a> (#Array, #String, #Heap)
   * -[x] (完成日期: 2020/12/09) <a href="./1410/HTML_Entity_Parser.ipynb">1410. HTML Entity Parser </a>
   * -[x] (完成日期: 2021/06/20) <a href="./1418/Display_Table_of_Food_Orders_in_a_Restaurant.ipynb">1418. Display Table of Food Orders in a Restaurant </a>
+  * -[x] (完成日期: 2026/11/20) <a href="./1423/Maximum_Points_You_Can_Obtain_from_Cards.ipynb">1423. Maximum Points You Can Obtain from Cards </a> (#Array, #SlidingWindow )
   * -[x] (完成日期: 2022/06/08) <a href="./1432/Max_Difference_You_Can_Get_From_Changing_an_Integer.ipynb">1432. Max Difference You Can Get From Changing an Integer </a>
   * -[x] (完成日期: 2021/01/09) <a href="./1447/Simplified_Fractions.ipynb">1447. Simplified Fractions </a>
   * -[x] (完成日期: 2022/06/20) <a href="./1447/Count_Good_Nodes_in_Binary_Tree.ipynb">1448. Count Good Nodes in Binary Tree </a>
