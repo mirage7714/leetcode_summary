@@ -669,3 +669,4 @@
   * -[x] (完成日期: 2026/10/30) <a href="./4092/Binary_Digit_Score.ipynb">4092. Binary Digit Score </a> (#BitManipulation )  
   * -[x] (完成日期: 2026/11/02) <a href="./4097/Minimum_Value_of_Merged_Integers.ipynb">4097. Minimum Value of Merged Integers </a> (#Math )  
   * -[x] (完成日期: 2026/11/16) <a href="./4111/Count_Consistent_Subarrays_I.ipynb">4111. Count Consistent Subarrays I </a> (#Array )  
+  * -[x] (完成日期: 2026/11/23) <a href="./4116/Assign_Umbrella_on_Rainy_Days.ipynb">4116. Assign Umbrella on Rainy Days </a> (#Array, #Simulation )  
